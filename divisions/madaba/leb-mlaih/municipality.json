@@ -1,0 +1,47 @@
+{
+  "id": "JOMAD_leb-mlaih",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "لب ومليح",
+    "en": "Leb & Mlaih",
+    "slug": "leb-mlaih"
+  },
+  "code": {
+    "id": "JOMAD_leb-mlaih",
+    "iso": null
+  },
+  "parent": {
+    "id": "JOMAD",
+    "level": 1,
+    "name": {
+      "local": "مادبا",
+      "en": "Madaba",
+      "slug": "madaba"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "JOMAD",
+      "level": 1,
+      "name": {
+        "local": "مادبا",
+        "en": "Madaba",
+        "slug": "madaba"
+      }
+    }
+  ],
+  "children_count": {
+    "locality": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.624",
+    "lon": "35.671"
+  },
+  "metadata": {},
+  "source": {}
+}

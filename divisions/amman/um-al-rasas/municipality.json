@@ -1,0 +1,47 @@
+{
+  "id": "JOAMM_um-al-rasas",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "أم الرصاص",
+    "en": "Um Al-Rasas",
+    "slug": "um-al-rasas"
+  },
+  "code": {
+    "id": "JOAMM_um-al-rasas",
+    "iso": null
+  },
+  "parent": {
+    "id": "JOAMM",
+    "level": 1,
+    "name": {
+      "local": "عمّان",
+      "en": "Amman",
+      "slug": "amman"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "JOAMM",
+      "level": 1,
+      "name": {
+        "local": "عمّان",
+        "en": "Amman",
+        "slug": "amman"
+      }
+    }
+  ],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.671",
+    "lon": "36.447"
+  },
+  "metadata": {},
+  "source": {}
+}

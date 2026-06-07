@@ -1,0 +1,47 @@
+{
+  "id": "JOKAR_muata-almazar",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "مؤتة  والمزار",
+    "en": "Mu'ata & Almazar",
+    "slug": "muata-almazar"
+  },
+  "code": {
+    "id": "JOKAR_muata-almazar",
+    "iso": null
+  },
+  "parent": {
+    "id": "JOKAR",
+    "level": 1,
+    "name": {
+      "local": "الكرك",
+      "en": "Karak",
+      "slug": "karak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "JOKAR",
+      "level": 1,
+      "name": {
+        "local": "الكرك",
+        "en": "Karak",
+        "slug": "karak"
+      }
+    }
+  ],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.119",
+    "lon": "35.795"
+  },
+  "metadata": {},
+  "source": {}
+}

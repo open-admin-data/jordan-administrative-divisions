@@ -1,0 +1,272 @@
+[
+  {
+    "id": "JOIRB_alseru_azriet",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "عزريت",
+      "en": "Azriet",
+      "slug": "azriet"
+    },
+    "code": {
+      "id": "JOIRB_alseru_azriet",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_alseru",
+      "level": 2,
+      "name": {
+        "local": "السرو",
+        "en": "Alseru",
+        "slug": "alseru"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_alseru",
+        "level": 2,
+        "name": {
+          "local": "السرو",
+          "en": "Alseru",
+          "slug": "alseru"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_alseru_ebder",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ابدر",
+      "en": "Ebder",
+      "slug": "ebder"
+    },
+    "code": {
+      "id": "JOIRB_alseru_ebder",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_alseru",
+      "level": 2,
+      "name": {
+        "local": "السرو",
+        "en": "Alseru",
+        "slug": "alseru"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_alseru",
+        "level": 2,
+        "name": {
+          "local": "السرو",
+          "en": "Alseru",
+          "slug": "alseru"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_alseru_hatem",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "حاتم",
+      "en": "Hatem",
+      "slug": "hatem"
+    },
+    "code": {
+      "id": "JOIRB_alseru_hatem",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_alseru",
+      "level": 2,
+      "name": {
+        "local": "السرو",
+        "en": "Alseru",
+        "slug": "alseru"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_alseru",
+        "level": 2,
+        "name": {
+          "local": "السرو",
+          "en": "Alseru",
+          "slug": "alseru"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_alseru_mzaireeb",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المزيريب",
+      "en": "Mzaireeb",
+      "slug": "mzaireeb"
+    },
+    "code": {
+      "id": "JOIRB_alseru_mzaireeb",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_alseru",
+      "level": 2,
+      "name": {
+        "local": "السرو",
+        "en": "Alseru",
+        "slug": "alseru"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_alseru",
+        "level": 2,
+        "name": {
+          "local": "السرو",
+          "en": "Alseru",
+          "slug": "alseru"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_alseru_sama-el-roosan",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "سما الروسان",
+      "en": "Sama El-Roosan",
+      "slug": "sama-el-roosan"
+    },
+    "code": {
+      "id": "JOIRB_alseru_sama-el-roosan",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_alseru",
+      "level": 2,
+      "name": {
+        "local": "السرو",
+        "en": "Alseru",
+        "slug": "alseru"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_alseru",
+        "level": 2,
+        "name": {
+          "local": "السرو",
+          "en": "Alseru",
+          "slug": "alseru"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

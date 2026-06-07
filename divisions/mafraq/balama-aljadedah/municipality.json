@@ -1,0 +1,47 @@
+{
+  "id": "JOMAF_balama-aljadedah",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "بلعما الجديدة",
+    "en": "Bal'ama Aljadedah",
+    "slug": "balama-aljadedah"
+  },
+  "code": {
+    "id": "JOMAF_balama-aljadedah",
+    "iso": null
+  },
+  "parent": {
+    "id": "JOMAF",
+    "level": 1,
+    "name": {
+      "local": "المفرق",
+      "en": "Mafraq",
+      "slug": "mafraq"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "JOMAF",
+      "level": 1,
+      "name": {
+        "local": "المفرق",
+        "en": "Mafraq",
+        "slug": "mafraq"
+      }
+    }
+  ],
+  "children_count": {
+    "locality": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.54",
+    "lon": "37.616"
+  },
+  "metadata": {},
+  "source": {}
+}

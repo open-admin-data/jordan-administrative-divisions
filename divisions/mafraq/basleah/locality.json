@@ -1,0 +1,218 @@
+[
+  {
+    "id": "JOMAF_basleah_braiqa",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "بريقا",
+      "en": "Braiqa",
+      "slug": "braiqa"
+    },
+    "code": {
+      "id": "JOMAF_basleah_braiqa",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_basleah",
+      "level": 2,
+      "name": {
+        "local": "الباسلية",
+        "en": "Basleah",
+        "slug": "basleah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_basleah",
+        "level": 2,
+        "name": {
+          "local": "الباسلية",
+          "en": "Basleah",
+          "slug": "basleah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_basleah_fa",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "فاع",
+      "en": "Fa'",
+      "slug": "fa"
+    },
+    "code": {
+      "id": "JOMAF_basleah_fa",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_basleah",
+      "level": 2,
+      "name": {
+        "local": "الباسلية",
+        "en": "Basleah",
+        "slug": "basleah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_basleah",
+        "level": 2,
+        "name": {
+          "local": "الباسلية",
+          "en": "Basleah",
+          "slug": "basleah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_basleah_harsh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الحرش",
+      "en": "Harsh",
+      "slug": "harsh"
+    },
+    "code": {
+      "id": "JOMAF_basleah_harsh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_basleah",
+      "level": 2,
+      "name": {
+        "local": "الباسلية",
+        "en": "Basleah",
+        "slug": "basleah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_basleah",
+        "level": 2,
+        "name": {
+          "local": "الباسلية",
+          "en": "Basleah",
+          "slug": "basleah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_basleah_khanasri",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الخناصري",
+      "en": "Khanasri",
+      "slug": "khanasri"
+    },
+    "code": {
+      "id": "JOMAF_basleah_khanasri",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_basleah",
+      "level": 2,
+      "name": {
+        "local": "الباسلية",
+        "en": "Basleah",
+        "slug": "basleah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_basleah",
+        "level": 2,
+        "name": {
+          "local": "الباسلية",
+          "en": "Basleah",
+          "slug": "basleah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

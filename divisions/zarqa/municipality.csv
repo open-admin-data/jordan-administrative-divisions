@@ -1,0 +1,9 @@
+id,name.local,name.en,name.slug,code.id,children_count.locality,geo.lat,geo.lon
+JOZAR_azraq,الازرق,Azraq,azraq,JOZAR_azraq,7,31.858,36.842
+JOZAR_bierain,بيرين,Bierain,bierain,JOZAR_bierain,25,31.858,36.842
+JOZAR_dhlail,الضليل,Dhlail,dhlail,JOZAR_dhlail,1,31.858,36.842
+JOZAR_el-hallabat,الحلابات,El-Hallabat,el-hallabat,JOZAR_el-hallabat,7,31.858,36.842
+JOZAR_hashemiyah,الهاشمية,Hashemiyah,hashemiyah,JOZAR_hashemiyah,11,31.858,36.842
+JOZAR_hetten-mrayjeeb-al-fhoud-al-mkhayzen-al-gharbeih-camp,"مخيم حطين, مريجيب الفهود, المخيزن الغربية*","Hetten, Mrayjeeb Al-fhoud, AL-mkhayzen Al-gharbeih Camp*",hetten-mrayjeeb-al-fhoud-al-mkhayzen-al-gharbeih-camp,JOZAR_hetten-mrayjeeb-al-fhoud-al-mkhayzen-al-gharbeih-camp,0,31.858,36.842
+JOZAR_russeifa,الرصيفة,Russeifa,russeifa,JOZAR_russeifa,6,31.858,36.842
+JOZAR_zarqa,الزرقاء,Zarqa,zarqa,JOZAR_zarqa,3,31.858,36.842

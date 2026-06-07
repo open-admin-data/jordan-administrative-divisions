@@ -1,0 +1,56 @@
+[
+  {
+    "id": "JOBAL_swaimeh_swaimeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "سويمة",
+      "en": "Swaimeh",
+      "slug": "swaimeh"
+    },
+    "code": {
+      "id": "JOBAL_swaimeh_swaimeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_swaimeh",
+      "level": 2,
+      "name": {
+        "local": "سويمة",
+        "en": "Swaimeh",
+        "slug": "swaimeh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_swaimeh",
+        "level": 2,
+        "name": {
+          "local": "سويمة",
+          "en": "Swaimeh",
+          "slug": "swaimeh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

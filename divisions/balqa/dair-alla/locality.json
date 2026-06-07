@@ -1,0 +1,434 @@
+[
+  {
+    "id": "JOBAL_dair-alla_balaooneh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "البلاونة",
+      "en": "Balaooneh",
+      "slug": "balaooneh"
+    },
+    "code": {
+      "id": "JOBAL_dair-alla_balaooneh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_dair-alla",
+      "level": 2,
+      "name": {
+        "local": "دير علا",
+        "en": "Dair Alla",
+        "slug": "dair-alla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_dair-alla",
+        "level": 2,
+        "name": {
+          "local": "دير علا",
+          "en": "Dair Alla",
+          "slug": "dair-alla"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_dair-alla_dair-alla",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "دير علا",
+      "en": "Dair Alla",
+      "slug": "dair-alla"
+    },
+    "code": {
+      "id": "JOBAL_dair-alla_dair-alla",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_dair-alla",
+      "level": 2,
+      "name": {
+        "local": "دير علا",
+        "en": "Dair Alla",
+        "slug": "dair-alla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_dair-alla",
+        "level": 2,
+        "name": {
+          "local": "دير علا",
+          "en": "Dair Alla",
+          "slug": "dair-alla"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_dair-alla_debab",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الدباب",
+      "en": "Debab",
+      "slug": "debab"
+    },
+    "code": {
+      "id": "JOBAL_dair-alla_debab",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_dair-alla",
+      "level": 2,
+      "name": {
+        "local": "دير علا",
+        "en": "Dair Alla",
+        "slug": "dair-alla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_dair-alla",
+        "level": 2,
+        "name": {
+          "local": "دير علا",
+          "en": "Dair Alla",
+          "slug": "dair-alla"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_dair-alla_dherar",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ضرار",
+      "en": "Dherar",
+      "slug": "dherar"
+    },
+    "code": {
+      "id": "JOBAL_dair-alla_dherar",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_dair-alla",
+      "level": 2,
+      "name": {
+        "local": "دير علا",
+        "en": "Dair Alla",
+        "slug": "dair-alla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_dair-alla",
+        "level": 2,
+        "name": {
+          "local": "دير علا",
+          "en": "Dair Alla",
+          "slug": "dair-alla"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_dair-alla_khazma",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "خزمة",
+      "en": "Khazma",
+      "slug": "khazma"
+    },
+    "code": {
+      "id": "JOBAL_dair-alla_khazma",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_dair-alla",
+      "level": 2,
+      "name": {
+        "local": "دير علا",
+        "en": "Dair Alla",
+        "slug": "dair-alla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_dair-alla",
+        "level": 2,
+        "name": {
+          "local": "دير علا",
+          "en": "Dair Alla",
+          "slug": "dair-alla"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_dair-alla_rwaihah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الرويحة",
+      "en": "Rwaihah",
+      "slug": "rwaihah"
+    },
+    "code": {
+      "id": "JOBAL_dair-alla_rwaihah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_dair-alla",
+      "level": 2,
+      "name": {
+        "local": "دير علا",
+        "en": "Dair Alla",
+        "slug": "dair-alla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_dair-alla",
+        "level": 2,
+        "name": {
+          "local": "دير علا",
+          "en": "Dair Alla",
+          "slug": "dair-alla"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_dair-alla_twal-janoobi",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الطوال الجنوبي",
+      "en": "Twal Janoobi",
+      "slug": "twal-janoobi"
+    },
+    "code": {
+      "id": "JOBAL_dair-alla_twal-janoobi",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_dair-alla",
+      "level": 2,
+      "name": {
+        "local": "دير علا",
+        "en": "Dair Alla",
+        "slug": "dair-alla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_dair-alla",
+        "level": 2,
+        "name": {
+          "local": "دير علا",
+          "en": "Dair Alla",
+          "slug": "dair-alla"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_dair-alla_twal-shamali",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الطوال الشمالي",
+      "en": "Twal Shamali",
+      "slug": "twal-shamali"
+    },
+    "code": {
+      "id": "JOBAL_dair-alla_twal-shamali",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_dair-alla",
+      "level": 2,
+      "name": {
+        "local": "دير علا",
+        "en": "Dair Alla",
+        "slug": "dair-alla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_dair-alla",
+        "level": 2,
+        "name": {
+          "local": "دير علا",
+          "en": "Dair Alla",
+          "slug": "dair-alla"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

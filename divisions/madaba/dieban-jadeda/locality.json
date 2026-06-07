@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "JOMAD_dieban-jadeda_alyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "العالية",
+      "en": "Alyeh",
+      "slug": "alyeh"
+    },
+    "code": {
+      "id": "JOMAD_dieban-jadeda_alyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_dieban-jadeda",
+      "level": 2,
+      "name": {
+        "local": "ذيبان الجديدة",
+        "en": "Dieban Jadeda",
+        "slug": "dieban-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_dieban-jadeda",
+        "level": 2,
+        "name": {
+          "local": "ذيبان الجديدة",
+          "en": "Dieban Jadeda",
+          "slug": "dieban-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_dieban-jadeda_annahda-um-zabarah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "النهضه (ام زباره)",
+      "en": "Annahda (Um Zabarah)",
+      "slug": "annahda-um-zabarah"
+    },
+    "code": {
+      "id": "JOMAD_dieban-jadeda_annahda-um-zabarah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_dieban-jadeda",
+      "level": 2,
+      "name": {
+        "local": "ذيبان الجديدة",
+        "en": "Dieban Jadeda",
+        "slug": "dieban-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_dieban-jadeda",
+        "level": 2,
+        "name": {
+          "local": "ذيبان الجديدة",
+          "en": "Dieban Jadeda",
+          "slug": "dieban-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_dieban-jadeda_araer",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "عراعر",
+      "en": "Ara'er",
+      "slug": "araer"
+    },
+    "code": {
+      "id": "JOMAD_dieban-jadeda_araer",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_dieban-jadeda",
+      "level": 2,
+      "name": {
+        "local": "ذيبان الجديدة",
+        "en": "Dieban Jadeda",
+        "slug": "dieban-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_dieban-jadeda",
+        "level": 2,
+        "name": {
+          "local": "ذيبان الجديدة",
+          "en": "Dieban Jadeda",
+          "slug": "dieban-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_dieban-jadeda_barzah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "برزه",
+      "en": "Barzah",
+      "slug": "barzah"
+    },
+    "code": {
+      "id": "JOMAD_dieban-jadeda_barzah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_dieban-jadeda",
+      "level": 2,
+      "name": {
+        "local": "ذيبان الجديدة",
+        "en": "Dieban Jadeda",
+        "slug": "dieban-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_dieban-jadeda",
+        "level": 2,
+        "name": {
+          "local": "ذيبان الجديدة",
+          "en": "Dieban Jadeda",
+          "slug": "dieban-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_dieban-jadeda_dhaibeh-gharbiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الذهيبه الغربية",
+      "en": "Dhaibeh Gharbiyyeh",
+      "slug": "dhaibeh-gharbiyyeh"
+    },
+    "code": {
+      "id": "JOMAD_dieban-jadeda_dhaibeh-gharbiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_dieban-jadeda",
+      "level": 2,
+      "name": {
+        "local": "ذيبان الجديدة",
+        "en": "Dieban Jadeda",
+        "slug": "dieban-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_dieban-jadeda",
+        "level": 2,
+        "name": {
+          "local": "ذيبان الجديدة",
+          "en": "Dieban Jadeda",
+          "slug": "dieban-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_dieban-jadeda_dhaibeh-sharqiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ذهيبة الشرقية",
+      "en": "Dhaibeh Sharqiyyeh",
+      "slug": "dhaibeh-sharqiyyeh"
+    },
+    "code": {
+      "id": "JOMAD_dieban-jadeda_dhaibeh-sharqiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_dieban-jadeda",
+      "level": 2,
+      "name": {
+        "local": "ذيبان الجديدة",
+        "en": "Dieban Jadeda",
+        "slug": "dieban-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_dieban-jadeda",
+        "level": 2,
+        "name": {
+          "local": "ذيبان الجديدة",
+          "en": "Dieban Jadeda",
+          "slug": "dieban-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_dieban-jadeda_dieban",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ذيبان",
+      "en": "Dieban",
+      "slug": "dieban"
+    },
+    "code": {
+      "id": "JOMAD_dieban-jadeda_dieban",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_dieban-jadeda",
+      "level": 2,
+      "name": {
+        "local": "ذيبان الجديدة",
+        "en": "Dieban Jadeda",
+        "slug": "dieban-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_dieban-jadeda",
+        "level": 2,
+        "name": {
+          "local": "ذيبان الجديدة",
+          "en": "Dieban Jadeda",
+          "slug": "dieban-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_dieban-jadeda_falha",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "فلحه",
+      "en": "Falha",
+      "slug": "falha"
+    },
+    "code": {
+      "id": "JOMAD_dieban-jadeda_falha",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_dieban-jadeda",
+      "level": 2,
+      "name": {
+        "local": "ذيبان الجديدة",
+        "en": "Dieban Jadeda",
+        "slug": "dieban-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_dieban-jadeda",
+        "level": 2,
+        "name": {
+          "local": "ذيبان الجديدة",
+          "en": "Dieban Jadeda",
+          "slug": "dieban-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_dieban-jadeda_heno-sakraneh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الحنو والسكرانة",
+      "en": "Heno & Sakraneh",
+      "slug": "heno-sakraneh"
+    },
+    "code": {
+      "id": "JOMAD_dieban-jadeda_heno-sakraneh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_dieban-jadeda",
+      "level": 2,
+      "name": {
+        "local": "ذيبان الجديدة",
+        "en": "Dieban Jadeda",
+        "slug": "dieban-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_dieban-jadeda",
+        "level": 2,
+        "name": {
+          "local": "ذيبان الجديدة",
+          "en": "Dieban Jadeda",
+          "slug": "dieban-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_dieban-jadeda_manshiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المنشية",
+      "en": "Manshiyyeh",
+      "slug": "manshiyyeh"
+    },
+    "code": {
+      "id": "JOMAD_dieban-jadeda_manshiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_dieban-jadeda",
+      "level": 2,
+      "name": {
+        "local": "ذيبان الجديدة",
+        "en": "Dieban Jadeda",
+        "slug": "dieban-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_dieban-jadeda",
+        "level": 2,
+        "name": {
+          "local": "ذيبان الجديدة",
+          "en": "Dieban Jadeda",
+          "slug": "dieban-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_dieban-jadeda_mathlootheh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المثلوثه",
+      "en": "Mathlootheh",
+      "slug": "mathlootheh"
+    },
+    "code": {
+      "id": "JOMAD_dieban-jadeda_mathlootheh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_dieban-jadeda",
+      "level": 2,
+      "name": {
+        "local": "ذيبان الجديدة",
+        "en": "Dieban Jadeda",
+        "slug": "dieban-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_dieban-jadeda",
+        "level": 2,
+        "name": {
+          "local": "ذيبان الجديدة",
+          "en": "Dieban Jadeda",
+          "slug": "dieban-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_dieban-jadeda_meqad-ben-nasrallah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "مقعد بن نصرالله",
+      "en": "Meq'ad Ben Nasrallah",
+      "slug": "meqad-ben-nasrallah"
+    },
+    "code": {
+      "id": "JOMAD_dieban-jadeda_meqad-ben-nasrallah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_dieban-jadeda",
+      "level": 2,
+      "name": {
+        "local": "ذيبان الجديدة",
+        "en": "Dieban Jadeda",
+        "slug": "dieban-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_dieban-jadeda",
+        "level": 2,
+        "name": {
+          "local": "ذيبان الجديدة",
+          "en": "Dieban Jadeda",
+          "slug": "dieban-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_dieban-jadeda_mesherfeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المشرفة",
+      "en": "Mesherfeh",
+      "slug": "mesherfeh"
+    },
+    "code": {
+      "id": "JOMAD_dieban-jadeda_mesherfeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_dieban-jadeda",
+      "level": 2,
+      "name": {
+        "local": "ذيبان الجديدة",
+        "en": "Dieban Jadeda",
+        "slug": "dieban-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_dieban-jadeda",
+        "level": 2,
+        "name": {
+          "local": "ذيبان الجديدة",
+          "en": "Dieban Jadeda",
+          "slug": "dieban-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_dieban-jadeda_qasmeia",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "القاسمية",
+      "en": "Qasmeia",
+      "slug": "qasmeia"
+    },
+    "code": {
+      "id": "JOMAD_dieban-jadeda_qasmeia",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_dieban-jadeda",
+      "level": 2,
+      "name": {
+        "local": "ذيبان الجديدة",
+        "en": "Dieban Jadeda",
+        "slug": "dieban-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_dieban-jadeda",
+        "level": 2,
+        "name": {
+          "local": "ذيبان الجديدة",
+          "en": "Dieban Jadeda",
+          "slug": "dieban-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_dieban-jadeda_qbaibeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "القبيبه",
+      "en": "Qbaibeh",
+      "slug": "qbaibeh"
+    },
+    "code": {
+      "id": "JOMAD_dieban-jadeda_qbaibeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_dieban-jadeda",
+      "level": 2,
+      "name": {
+        "local": "ذيبان الجديدة",
+        "en": "Dieban Jadeda",
+        "slug": "dieban-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_dieban-jadeda",
+        "level": 2,
+        "name": {
+          "local": "ذيبان الجديدة",
+          "en": "Dieban Jadeda",
+          "slug": "dieban-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_dieban-jadeda_rehaneih-um-shajarah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الريحانه (ام شجره)",
+      "en": "Rehaneih (Um Shajarah)",
+      "slug": "rehaneih-um-shajarah"
+    },
+    "code": {
+      "id": "JOMAD_dieban-jadeda_rehaneih-um-shajarah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_dieban-jadeda",
+      "level": 2,
+      "name": {
+        "local": "ذيبان الجديدة",
+        "en": "Dieban Jadeda",
+        "slug": "dieban-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_dieban-jadeda",
+        "level": 2,
+        "name": {
+          "local": "ذيبان الجديدة",
+          "en": "Dieban Jadeda",
+          "slug": "dieban-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_dieban-jadeda_shqaiq",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الشقيق",
+      "en": "Shqaiq",
+      "slug": "shqaiq"
+    },
+    "code": {
+      "id": "JOMAD_dieban-jadeda_shqaiq",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_dieban-jadeda",
+      "level": 2,
+      "name": {
+        "local": "ذيبان الجديدة",
+        "en": "Dieban Jadeda",
+        "slug": "dieban-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_dieban-jadeda",
+        "level": 2,
+        "name": {
+          "local": "ذيبان الجديدة",
+          "en": "Dieban Jadeda",
+          "slug": "dieban-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_dieban-jadeda_um-shjaireh-gharbiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام شجيرة الغربية",
+      "en": "Um Shjaireh Gharbiyyeh",
+      "slug": "um-shjaireh-gharbiyyeh"
+    },
+    "code": {
+      "id": "JOMAD_dieban-jadeda_um-shjaireh-gharbiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_dieban-jadeda",
+      "level": 2,
+      "name": {
+        "local": "ذيبان الجديدة",
+        "en": "Dieban Jadeda",
+        "slug": "dieban-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_dieban-jadeda",
+        "level": 2,
+        "name": {
+          "local": "ذيبان الجديدة",
+          "en": "Dieban Jadeda",
+          "slug": "dieban-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_dieban-jadeda_um-shjaireh-sharqiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام شجيره الشرقية",
+      "en": "Um Shjaireh Sharqiyyeh",
+      "slug": "um-shjaireh-sharqiyyeh"
+    },
+    "code": {
+      "id": "JOMAD_dieban-jadeda_um-shjaireh-sharqiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_dieban-jadeda",
+      "level": 2,
+      "name": {
+        "local": "ذيبان الجديدة",
+        "en": "Dieban Jadeda",
+        "slug": "dieban-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_dieban-jadeda",
+        "level": 2,
+        "name": {
+          "local": "ذيبان الجديدة",
+          "en": "Dieban Jadeda",
+          "slug": "dieban-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_dieban-jadeda_wadi-el-mujeb",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "وادي الموجب",
+      "en": "Wadi El-Mujeb",
+      "slug": "wadi-el-mujeb"
+    },
+    "code": {
+      "id": "JOMAD_dieban-jadeda_wadi-el-mujeb",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_dieban-jadeda",
+      "level": 2,
+      "name": {
+        "local": "ذيبان الجديدة",
+        "en": "Dieban Jadeda",
+        "slug": "dieban-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_dieban-jadeda",
+        "level": 2,
+        "name": {
+          "local": "ذيبان الجديدة",
+          "en": "Dieban Jadeda",
+          "slug": "dieban-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,284 @@
+[
+  {
+    "id": "JOAQA_hud-aldisah",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "حوض الديسة",
+      "en": "Hud Aldisah",
+      "slug": "hud-aldisah"
+    },
+    "code": {
+      "id": "JOAQA_hud-aldisah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAQA",
+      "level": 1,
+      "name": {
+        "local": "العقبة",
+        "en": "Aqaba",
+        "slug": "aqaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAQA",
+        "level": 1,
+        "name": {
+          "local": "العقبة",
+          "en": "Aqaba",
+          "slug": "aqaba"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.976",
+      "lon": "35.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAQA_iqlem-alaqaba",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "إقليم العقبة",
+      "en": "Iqlem Alaqaba",
+      "slug": "iqlem-alaqaba"
+    },
+    "code": {
+      "id": "JOAQA_iqlem-alaqaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAQA",
+      "level": 1,
+      "name": {
+        "local": "العقبة",
+        "en": "Aqaba",
+        "slug": "aqaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAQA",
+        "level": 1,
+        "name": {
+          "local": "العقبة",
+          "en": "Aqaba",
+          "slug": "aqaba"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.976",
+      "lon": "35.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAQA_krekrah-finan",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "فريقره وفينان",
+      "en": "Krekrah & Finan",
+      "slug": "krekrah-finan"
+    },
+    "code": {
+      "id": "JOAQA_krekrah-finan",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAQA",
+      "level": 1,
+      "name": {
+        "local": "العقبة",
+        "en": "Aqaba",
+        "slug": "aqaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAQA",
+        "level": 1,
+        "name": {
+          "local": "العقبة",
+          "en": "Aqaba",
+          "slug": "aqaba"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.976",
+      "lon": "35.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAQA_qatar-rahmah",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "قطر و رحمة",
+      "en": "Qatar & Rahmah",
+      "slug": "qatar-rahmah"
+    },
+    "code": {
+      "id": "JOAQA_qatar-rahmah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAQA",
+      "level": 1,
+      "name": {
+        "local": "العقبة",
+        "en": "Aqaba",
+        "slug": "aqaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAQA",
+        "level": 1,
+        "name": {
+          "local": "العقبة",
+          "en": "Aqaba",
+          "slug": "aqaba"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.976",
+      "lon": "35.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAQA_quairahaljadedah",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "القويرة الجديدة",
+      "en": "QuairahAljadedah",
+      "slug": "quairahaljadedah"
+    },
+    "code": {
+      "id": "JOAQA_quairahaljadedah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAQA",
+      "level": 1,
+      "name": {
+        "local": "العقبة",
+        "en": "Aqaba",
+        "slug": "aqaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAQA",
+        "level": 1,
+        "name": {
+          "local": "العقبة",
+          "en": "Aqaba",
+          "slug": "aqaba"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.976",
+      "lon": "35.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAQA_wadi-araba",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "وادي عربه",
+      "en": "Wadi Araba",
+      "slug": "wadi-araba"
+    },
+    "code": {
+      "id": "JOAQA_wadi-araba",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAQA",
+      "level": 1,
+      "name": {
+        "local": "العقبة",
+        "en": "Aqaba",
+        "slug": "aqaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAQA",
+        "level": 1,
+        "name": {
+          "local": "العقبة",
+          "en": "Aqaba",
+          "slug": "aqaba"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.976",
+      "lon": "35.347"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

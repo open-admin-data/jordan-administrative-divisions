@@ -1,0 +1,434 @@
+[
+  {
+    "id": "JOMAF_alamer-alhusain-ben-abdollah_baej",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الباعج",
+      "en": "Ba'ej",
+      "slug": "baej"
+    },
+    "code": {
+      "id": "JOMAF_alamer-alhusain-ben-abdollah_baej",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_alamer-alhusain-ben-abdollah",
+      "level": 2,
+      "name": {
+        "local": "الامير الحسين بن عبدالله",
+        "en": "Alamer Alhusain Ben Abdollah",
+        "slug": "alamer-alhusain-ben-abdollah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_alamer-alhusain-ben-abdollah",
+        "level": 2,
+        "name": {
+          "local": "الامير الحسين بن عبدالله",
+          "en": "Alamer Alhusain Ben Abdollah",
+          "slug": "alamer-alhusain-ben-abdollah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_alamer-alhusain-ben-abdollah_fohayhileh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الفحيلية",
+      "en": "Fohayhileh",
+      "slug": "fohayhileh"
+    },
+    "code": {
+      "id": "JOMAF_alamer-alhusain-ben-abdollah_fohayhileh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_alamer-alhusain-ben-abdollah",
+      "level": 2,
+      "name": {
+        "local": "الامير الحسين بن عبدالله",
+        "en": "Alamer Alhusain Ben Abdollah",
+        "slug": "alamer-alhusain-ben-abdollah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_alamer-alhusain-ben-abdollah",
+        "level": 2,
+        "name": {
+          "local": "الامير الحسين بن عبدالله",
+          "en": "Alamer Alhusain Ben Abdollah",
+          "slug": "alamer-alhusain-ben-abdollah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_alamer-alhusain-ben-abdollah_hwaijeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "حويجة",
+      "en": "Hwaijeh",
+      "slug": "hwaijeh"
+    },
+    "code": {
+      "id": "JOMAF_alamer-alhusain-ben-abdollah_hwaijeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_alamer-alhusain-ben-abdollah",
+      "level": 2,
+      "name": {
+        "local": "الامير الحسين بن عبدالله",
+        "en": "Alamer Alhusain Ben Abdollah",
+        "slug": "alamer-alhusain-ben-abdollah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_alamer-alhusain-ben-abdollah",
+        "level": 2,
+        "name": {
+          "local": "الامير الحسين بن عبدالله",
+          "en": "Alamer Alhusain Ben Abdollah",
+          "slug": "alamer-alhusain-ben-abdollah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_alamer-alhusain-ben-abdollah_meshref",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المشرف",
+      "en": "Meshref",
+      "slug": "meshref"
+    },
+    "code": {
+      "id": "JOMAF_alamer-alhusain-ben-abdollah_meshref",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_alamer-alhusain-ben-abdollah",
+      "level": 2,
+      "name": {
+        "local": "الامير الحسين بن عبدالله",
+        "en": "Alamer Alhusain Ben Abdollah",
+        "slug": "alamer-alhusain-ben-abdollah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_alamer-alhusain-ben-abdollah",
+        "level": 2,
+        "name": {
+          "local": "الامير الحسين بن عبدالله",
+          "en": "Alamer Alhusain Ben Abdollah",
+          "slug": "alamer-alhusain-ben-abdollah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_alamer-alhusain-ben-abdollah_nahdhah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "النهضة",
+      "en": "Nahdhah",
+      "slug": "nahdhah"
+    },
+    "code": {
+      "id": "JOMAF_alamer-alhusain-ben-abdollah_nahdhah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_alamer-alhusain-ben-abdollah",
+      "level": 2,
+      "name": {
+        "local": "الامير الحسين بن عبدالله",
+        "en": "Alamer Alhusain Ben Abdollah",
+        "slug": "alamer-alhusain-ben-abdollah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_alamer-alhusain-ben-abdollah",
+        "level": 2,
+        "name": {
+          "local": "الامير الحسين بن عبدالله",
+          "en": "Alamer Alhusain Ben Abdollah",
+          "slug": "alamer-alhusain-ben-abdollah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_alamer-alhusain-ben-abdollah_rodhet-errwaii",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "روضة الرويعي",
+      "en": "Rodhet Errwai'i",
+      "slug": "rodhet-errwaii"
+    },
+    "code": {
+      "id": "JOMAF_alamer-alhusain-ben-abdollah_rodhet-errwaii",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_alamer-alhusain-ben-abdollah",
+      "level": 2,
+      "name": {
+        "local": "الامير الحسين بن عبدالله",
+        "en": "Alamer Alhusain Ben Abdollah",
+        "slug": "alamer-alhusain-ben-abdollah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_alamer-alhusain-ben-abdollah",
+        "level": 2,
+        "name": {
+          "local": "الامير الحسين بن عبدالله",
+          "en": "Alamer Alhusain Ben Abdollah",
+          "slug": "alamer-alhusain-ben-abdollah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_alamer-alhusain-ben-abdollah_um-essrab",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام السرب",
+      "en": "Um Essrab",
+      "slug": "um-essrab"
+    },
+    "code": {
+      "id": "JOMAF_alamer-alhusain-ben-abdollah_um-essrab",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_alamer-alhusain-ben-abdollah",
+      "level": 2,
+      "name": {
+        "local": "الامير الحسين بن عبدالله",
+        "en": "Alamer Alhusain Ben Abdollah",
+        "slug": "alamer-alhusain-ben-abdollah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_alamer-alhusain-ben-abdollah",
+        "level": 2,
+        "name": {
+          "local": "الامير الحسين بن عبدالله",
+          "en": "Alamer Alhusain Ben Abdollah",
+          "slug": "alamer-alhusain-ben-abdollah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_alamer-alhusain-ben-abdollah_zubaidyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الزبيدية",
+      "en": "Zubaidyyeh",
+      "slug": "zubaidyyeh"
+    },
+    "code": {
+      "id": "JOMAF_alamer-alhusain-ben-abdollah_zubaidyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_alamer-alhusain-ben-abdollah",
+      "level": 2,
+      "name": {
+        "local": "الامير الحسين بن عبدالله",
+        "en": "Alamer Alhusain Ben Abdollah",
+        "slug": "alamer-alhusain-ben-abdollah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_alamer-alhusain-ben-abdollah",
+        "level": 2,
+        "name": {
+          "local": "الامير الحسين بن عبدالله",
+          "en": "Alamer Alhusain Ben Abdollah",
+          "slug": "alamer-alhusain-ben-abdollah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "JOMAF_sama-serhan",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "سما السرحان",
+    "en": "Sama Serhan",
+    "slug": "sama-serhan"
+  },
+  "code": {
+    "id": "JOMAF_sama-serhan",
+    "iso": null
+  },
+  "parent": {
+    "id": "JOMAF",
+    "level": 1,
+    "name": {
+      "local": "المفرق",
+      "en": "Mafraq",
+      "slug": "mafraq"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "JOMAF",
+      "level": 1,
+      "name": {
+        "local": "المفرق",
+        "en": "Mafraq",
+        "slug": "mafraq"
+      }
+    }
+  ],
+  "children_count": {
+    "locality": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.54",
+    "lon": "37.616"
+  },
+  "metadata": {},
+  "source": {}
+}

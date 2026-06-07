@@ -1,0 +1,378 @@
+[
+  {
+    "id": "JOMAA_alashari",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "الأشعري",
+      "en": "Alashari",
+      "slug": "alashari"
+    },
+    "code": {
+      "id": "JOMAA_alashari",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAA",
+      "level": 1,
+      "name": {
+        "local": "معان",
+        "en": "Ma\"an",
+        "slug": "maan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAA",
+        "level": 1,
+        "name": {
+          "local": "معان",
+          "en": "Ma\"an",
+          "slug": "maan"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.229",
+      "lon": "36.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAA_alsharah",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "الشراه",
+      "en": "Alsharah",
+      "slug": "alsharah"
+    },
+    "code": {
+      "id": "JOMAA_alsharah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAA",
+      "level": 1,
+      "name": {
+        "local": "معان",
+        "en": "Ma\"an",
+        "slug": "maan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAA",
+        "level": 1,
+        "name": {
+          "local": "معان",
+          "en": "Ma\"an",
+          "slug": "maan"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.229",
+      "lon": "36.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAA_husanieh-aljadedah",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "الحسينيه الجديدة",
+      "en": "Husanieh Aljadedah",
+      "slug": "husanieh-aljadedah"
+    },
+    "code": {
+      "id": "JOMAA_husanieh-aljadedah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAA",
+      "level": 1,
+      "name": {
+        "local": "معان",
+        "en": "Ma\"an",
+        "slug": "maan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAA",
+        "level": 1,
+        "name": {
+          "local": "معان",
+          "en": "Ma\"an",
+          "slug": "maan"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.229",
+      "lon": "36.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAA_iel-jadeda",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "إيل الجديدة",
+      "en": "Iel Jadeda",
+      "slug": "iel-jadeda"
+    },
+    "code": {
+      "id": "JOMAA_iel-jadeda",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAA",
+      "level": 1,
+      "name": {
+        "local": "معان",
+        "en": "Ma\"an",
+        "slug": "maan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAA",
+        "level": 1,
+        "name": {
+          "local": "معان",
+          "en": "Ma\"an",
+          "slug": "maan"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.229",
+      "lon": "36.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAA_iqlem-albatra",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "إقليم البتراء",
+      "en": "Iqlem Albatra",
+      "slug": "iqlem-albatra"
+    },
+    "code": {
+      "id": "JOMAA_iqlem-albatra",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAA",
+      "level": 1,
+      "name": {
+        "local": "معان",
+        "en": "Ma\"an",
+        "slug": "maan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAA",
+        "level": 1,
+        "name": {
+          "local": "معان",
+          "en": "Ma\"an",
+          "slug": "maan"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.229",
+      "lon": "36.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAA_jafr",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "الجفر",
+      "en": "Jafr",
+      "slug": "jafr"
+    },
+    "code": {
+      "id": "JOMAA_jafr",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAA",
+      "level": 1,
+      "name": {
+        "local": "معان",
+        "en": "Ma\"an",
+        "slug": "maan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAA",
+        "level": 1,
+        "name": {
+          "local": "معان",
+          "en": "Ma\"an",
+          "slug": "maan"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.229",
+      "lon": "36.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAA_maan",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "معان",
+      "en": "Ma'an",
+      "slug": "maan"
+    },
+    "code": {
+      "id": "JOMAA_maan",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAA",
+      "level": 1,
+      "name": {
+        "local": "معان",
+        "en": "Ma\"an",
+        "slug": "maan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAA",
+        "level": 1,
+        "name": {
+          "local": "معان",
+          "en": "Ma\"an",
+          "slug": "maan"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.229",
+      "lon": "36.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAA_shobak-aljadedah",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "الشوبك الجديدة",
+      "en": "Shobak Aljadedah",
+      "slug": "shobak-aljadedah"
+    },
+    "code": {
+      "id": "JOMAA_shobak-aljadedah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAA",
+      "level": 1,
+      "name": {
+        "local": "معان",
+        "en": "Ma\"an",
+        "slug": "maan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAA",
+        "level": 1,
+        "name": {
+          "local": "معان",
+          "en": "Ma\"an",
+          "slug": "maan"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.229",
+      "lon": "36.653"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

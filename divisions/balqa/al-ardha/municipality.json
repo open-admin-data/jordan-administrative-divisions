@@ -1,0 +1,47 @@
+{
+  "id": "JOBAL_al-ardha",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "العارضة",
+    "en": "Al-Ardha",
+    "slug": "al-ardha"
+  },
+  "code": {
+    "id": "JOBAL_al-ardha",
+    "iso": null
+  },
+  "parent": {
+    "id": "JOBAL",
+    "level": 1,
+    "name": {
+      "local": "البلقاء",
+      "en": "Balqa",
+      "slug": "balqa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "JOBAL",
+      "level": 1,
+      "name": {
+        "local": "البلقاء",
+        "en": "Balqa",
+        "slug": "balqa"
+      }
+    }
+  ],
+  "children_count": {
+    "locality": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.954",
+    "lon": "35.704"
+  },
+  "metadata": {},
+  "source": {}
+}

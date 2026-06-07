@@ -1,0 +1,326 @@
+[
+  {
+    "id": "JOIRB_tabaqat-fahl_abu-ziad",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ابو زياد",
+      "en": "Abu Ziad",
+      "slug": "abu-ziad"
+    },
+    "code": {
+      "id": "JOIRB_tabaqat-fahl_abu-ziad",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_tabaqat-fahl",
+      "level": 2,
+      "name": {
+        "local": "طبقة فحل",
+        "en": "Tabaqat Fahl",
+        "slug": "tabaqat-fahl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_tabaqat-fahl",
+        "level": 2,
+        "name": {
+          "local": "طبقة فحل",
+          "en": "Tabaqat Fahl",
+          "slug": "tabaqat-fahl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_tabaqat-fahl_marzeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المرزة",
+      "en": "Marzeh",
+      "slug": "marzeh"
+    },
+    "code": {
+      "id": "JOIRB_tabaqat-fahl_marzeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_tabaqat-fahl",
+      "level": 2,
+      "name": {
+        "local": "طبقة فحل",
+        "en": "Tabaqat Fahl",
+        "slug": "tabaqat-fahl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_tabaqat-fahl",
+        "level": 2,
+        "name": {
+          "local": "طبقة فحل",
+          "en": "Tabaqat Fahl",
+          "slug": "tabaqat-fahl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_tabaqat-fahl_masharie",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المشارع",
+      "en": "Mashari'e",
+      "slug": "masharie"
+    },
+    "code": {
+      "id": "JOIRB_tabaqat-fahl_masharie",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_tabaqat-fahl",
+      "level": 2,
+      "name": {
+        "local": "طبقة فحل",
+        "en": "Tabaqat Fahl",
+        "slug": "tabaqat-fahl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_tabaqat-fahl",
+        "level": 2,
+        "name": {
+          "local": "طبقة فحل",
+          "en": "Tabaqat Fahl",
+          "slug": "tabaqat-fahl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_tabaqat-fahl_shaikh-hussein",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الشيخ حسين",
+      "en": "Shaikh Hussein",
+      "slug": "shaikh-hussein"
+    },
+    "code": {
+      "id": "JOIRB_tabaqat-fahl_shaikh-hussein",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_tabaqat-fahl",
+      "level": 2,
+      "name": {
+        "local": "طبقة فحل",
+        "en": "Tabaqat Fahl",
+        "slug": "tabaqat-fahl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_tabaqat-fahl",
+        "level": 2,
+        "name": {
+          "local": "طبقة فحل",
+          "en": "Tabaqat Fahl",
+          "slug": "tabaqat-fahl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_tabaqat-fahl_tabaqat-fahl",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "طبقة فحل",
+      "en": "Tabaqat Fahl",
+      "slug": "tabaqat-fahl"
+    },
+    "code": {
+      "id": "JOIRB_tabaqat-fahl_tabaqat-fahl",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_tabaqat-fahl",
+      "level": 2,
+      "name": {
+        "local": "طبقة فحل",
+        "en": "Tabaqat Fahl",
+        "slug": "tabaqat-fahl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_tabaqat-fahl",
+        "level": 2,
+        "name": {
+          "local": "طبقة فحل",
+          "en": "Tabaqat Fahl",
+          "slug": "tabaqat-fahl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_tabaqat-fahl_zmaliyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الزمالية",
+      "en": "Zmaliyyeh",
+      "slug": "zmaliyyeh"
+    },
+    "code": {
+      "id": "JOIRB_tabaqat-fahl_zmaliyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_tabaqat-fahl",
+      "level": 2,
+      "name": {
+        "local": "طبقة فحل",
+        "en": "Tabaqat Fahl",
+        "slug": "tabaqat-fahl"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_tabaqat-fahl",
+        "level": 2,
+        "name": {
+          "local": "طبقة فحل",
+          "en": "Tabaqat Fahl",
+          "slug": "tabaqat-fahl"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

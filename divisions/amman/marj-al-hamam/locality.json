@@ -1,0 +1,758 @@
+[
+  {
+    "id": "JOAMM_marj-al-hamam_abu-essoos",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ابو السوس",
+      "en": "Abu Essoos",
+      "slug": "abu-essoos"
+    },
+    "code": {
+      "id": "JOAMM_marj-al-hamam_abu-essoos",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_marj-al-hamam",
+      "level": 2,
+      "name": {
+        "local": "مرج الحمام",
+        "en": "Marj Al-hamam",
+        "slug": "marj-al-hamam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_marj-al-hamam",
+        "level": 2,
+        "name": {
+          "local": "مرج الحمام",
+          "en": "Marj Al-hamam",
+          "slug": "marj-al-hamam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_marj-al-hamam_almaniyyehqhasabat",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الالمانية والقصبات",
+      "en": "Almaniyyeh,Qhasabat",
+      "slug": "almaniyyehqhasabat"
+    },
+    "code": {
+      "id": "JOAMM_marj-al-hamam_almaniyyehqhasabat",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_marj-al-hamam",
+      "level": 2,
+      "name": {
+        "local": "مرج الحمام",
+        "en": "Marj Al-hamam",
+        "slug": "marj-al-hamam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_marj-al-hamam",
+        "level": 2,
+        "name": {
+          "local": "مرج الحمام",
+          "en": "Marj Al-hamam",
+          "slug": "marj-al-hamam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_marj-al-hamam_bahath",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "البحاث",
+      "en": "Bahath",
+      "slug": "bahath"
+    },
+    "code": {
+      "id": "JOAMM_marj-al-hamam_bahath",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_marj-al-hamam",
+      "level": 2,
+      "name": {
+        "local": "مرج الحمام",
+        "en": "Marj Al-hamam",
+        "slug": "marj-al-hamam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_marj-al-hamam",
+        "level": 2,
+        "name": {
+          "local": "مرج الحمام",
+          "en": "Marj Al-hamam",
+          "slug": "marj-al-hamam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_marj-al-hamam_bassa",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "البصة",
+      "en": "Bassa",
+      "slug": "bassa"
+    },
+    "code": {
+      "id": "JOAMM_marj-al-hamam_bassa",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_marj-al-hamam",
+      "level": 2,
+      "name": {
+        "local": "مرج الحمام",
+        "en": "Marj Al-hamam",
+        "slug": "marj-al-hamam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_marj-al-hamam",
+        "level": 2,
+        "name": {
+          "local": "مرج الحمام",
+          "en": "Marj Al-hamam",
+          "slug": "marj-al-hamam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_marj-al-hamam_dabbeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الدبة",
+      "en": "Dabbeh",
+      "slug": "dabbeh"
+    },
+    "code": {
+      "id": "JOAMM_marj-al-hamam_dabbeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_marj-al-hamam",
+      "level": 2,
+      "name": {
+        "local": "مرج الحمام",
+        "en": "Marj Al-hamam",
+        "slug": "marj-al-hamam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_marj-al-hamam",
+        "level": 2,
+        "name": {
+          "local": "مرج الحمام",
+          "en": "Marj Al-hamam",
+          "slug": "marj-al-hamam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_marj-al-hamam_eraq-elamir",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "عراق الامير",
+      "en": "Eraq Elamir",
+      "slug": "eraq-elamir"
+    },
+    "code": {
+      "id": "JOAMM_marj-al-hamam_eraq-elamir",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_marj-al-hamam",
+      "level": 2,
+      "name": {
+        "local": "مرج الحمام",
+        "en": "Marj Al-hamam",
+        "slug": "marj-al-hamam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_marj-al-hamam",
+        "level": 2,
+        "name": {
+          "local": "مرج الحمام",
+          "en": "Marj Al-hamam",
+          "slug": "marj-al-hamam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_marj-al-hamam_hamdeih",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الحامدية",
+      "en": "Hamdeih",
+      "slug": "hamdeih"
+    },
+    "code": {
+      "id": "JOAMM_marj-al-hamam_hamdeih",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_marj-al-hamam",
+      "level": 2,
+      "name": {
+        "local": "مرج الحمام",
+        "en": "Marj Al-hamam",
+        "slug": "marj-al-hamam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_marj-al-hamam",
+        "level": 2,
+        "name": {
+          "local": "مرج الحمام",
+          "en": "Marj Al-hamam",
+          "slug": "marj-al-hamam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_marj-al-hamam_marj-elhamam",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "مرج الحمام",
+      "en": "Marj Elhamam",
+      "slug": "marj-elhamam"
+    },
+    "code": {
+      "id": "JOAMM_marj-al-hamam_marj-elhamam",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_marj-al-hamam",
+      "level": 2,
+      "name": {
+        "local": "مرج الحمام",
+        "en": "Marj Al-hamam",
+        "slug": "marj-al-hamam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_marj-al-hamam",
+        "level": 2,
+        "name": {
+          "local": "مرج الحمام",
+          "en": "Marj Al-hamam",
+          "slug": "marj-al-hamam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_marj-al-hamam_rajaha",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الرجاحة",
+      "en": "Rajaha",
+      "slug": "rajaha"
+    },
+    "code": {
+      "id": "JOAMM_marj-al-hamam_rajaha",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_marj-al-hamam",
+      "level": 2,
+      "name": {
+        "local": "مرج الحمام",
+        "en": "Marj Al-hamam",
+        "slug": "marj-al-hamam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_marj-al-hamam",
+        "level": 2,
+        "name": {
+          "local": "مرج الحمام",
+          "en": "Marj Al-hamam",
+          "slug": "marj-al-hamam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_marj-al-hamam_tabaqa",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الطبقة",
+      "en": "Tabaqa",
+      "slug": "tabaqa"
+    },
+    "code": {
+      "id": "JOAMM_marj-al-hamam_tabaqa",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_marj-al-hamam",
+      "level": 2,
+      "name": {
+        "local": "مرج الحمام",
+        "en": "Marj Al-hamam",
+        "slug": "marj-al-hamam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_marj-al-hamam",
+        "level": 2,
+        "name": {
+          "local": "مرج الحمام",
+          "en": "Marj Al-hamam",
+          "slug": "marj-al-hamam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_marj-al-hamam_thograh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الثغرة",
+      "en": "Thograh",
+      "slug": "thograh"
+    },
+    "code": {
+      "id": "JOAMM_marj-al-hamam_thograh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_marj-al-hamam",
+      "level": 2,
+      "name": {
+        "local": "مرج الحمام",
+        "en": "Marj Al-hamam",
+        "slug": "marj-al-hamam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_marj-al-hamam",
+        "level": 2,
+        "name": {
+          "local": "مرج الحمام",
+          "en": "Marj Al-hamam",
+          "slug": "marj-al-hamam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_marj-al-hamam_um-el-sumaq",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام السماق",
+      "en": "Um El-Sumaq",
+      "slug": "um-el-sumaq"
+    },
+    "code": {
+      "id": "JOAMM_marj-al-hamam_um-el-sumaq",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_marj-al-hamam",
+      "level": 2,
+      "name": {
+        "local": "مرج الحمام",
+        "en": "Marj Al-hamam",
+        "slug": "marj-al-hamam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_marj-al-hamam",
+        "level": 2,
+        "name": {
+          "local": "مرج الحمام",
+          "en": "Marj Al-hamam",
+          "slug": "marj-al-hamam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_marj-al-hamam_um-njasa",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام نجاصة",
+      "en": "Um Njasa",
+      "slug": "um-njasa"
+    },
+    "code": {
+      "id": "JOAMM_marj-al-hamam_um-njasa",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_marj-al-hamam",
+      "level": 2,
+      "name": {
+        "local": "مرج الحمام",
+        "en": "Marj Al-hamam",
+        "slug": "marj-al-hamam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_marj-al-hamam",
+        "level": 2,
+        "name": {
+          "local": "مرج الحمام",
+          "en": "Marj Al-hamam",
+          "slug": "marj-al-hamam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_marj-al-hamam_wadi-eshta",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "وادي الشتاء",
+      "en": "Wadi Eshta",
+      "slug": "wadi-eshta"
+    },
+    "code": {
+      "id": "JOAMM_marj-al-hamam_wadi-eshta",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_marj-al-hamam",
+      "level": 2,
+      "name": {
+        "local": "مرج الحمام",
+        "en": "Marj Al-hamam",
+        "slug": "marj-al-hamam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_marj-al-hamam",
+        "level": 2,
+        "name": {
+          "local": "مرج الحمام",
+          "en": "Marj Al-hamam",
+          "slug": "marj-al-hamam"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

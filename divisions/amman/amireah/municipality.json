@@ -1,0 +1,47 @@
+{
+  "id": "JOAMM_amireah",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "العامرية",
+    "en": "Amireah",
+    "slug": "amireah"
+  },
+  "code": {
+    "id": "JOAMM_amireah",
+    "iso": null
+  },
+  "parent": {
+    "id": "JOAMM",
+    "level": 1,
+    "name": {
+      "local": "عمّان",
+      "en": "Amman",
+      "slug": "amman"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "JOAMM",
+      "level": 1,
+      "name": {
+        "local": "عمّان",
+        "en": "Amman",
+        "slug": "amman"
+      }
+    }
+  ],
+  "children_count": {
+    "locality": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.671",
+    "lon": "36.447"
+  },
+  "metadata": {},
+  "source": {}
+}

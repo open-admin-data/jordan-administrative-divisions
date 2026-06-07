@@ -1,0 +1,218 @@
+[
+  {
+    "id": "JOMAF_khaldiyah_khaldiyah-jadedah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الخالدية الجديدة",
+      "en": "Khaldiyah Jadedah",
+      "slug": "khaldiyah-jadedah"
+    },
+    "code": {
+      "id": "JOMAF_khaldiyah_khaldiyah-jadedah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_khaldiyah",
+      "level": 2,
+      "name": {
+        "local": "الخالدية",
+        "en": "Khaldiyah",
+        "slug": "khaldiyah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_khaldiyah",
+        "level": 2,
+        "name": {
+          "local": "الخالدية",
+          "en": "Khaldiyah",
+          "slug": "khaldiyah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_khaldiyah_khaldiyah-qademeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الخالدية القديمة",
+      "en": "Khaldiyah Qademeh",
+      "slug": "khaldiyah-qademeh"
+    },
+    "code": {
+      "id": "JOMAF_khaldiyah_khaldiyah-qademeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_khaldiyah",
+      "level": 2,
+      "name": {
+        "local": "الخالدية",
+        "en": "Khaldiyah",
+        "slug": "khaldiyah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_khaldiyah",
+        "level": 2,
+        "name": {
+          "local": "الخالدية",
+          "en": "Khaldiyah",
+          "slug": "khaldiyah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_khaldiyah_mabrookah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المبروكة",
+      "en": "Mabrookah",
+      "slug": "mabrookah"
+    },
+    "code": {
+      "id": "JOMAF_khaldiyah_mabrookah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_khaldiyah",
+      "level": 2,
+      "name": {
+        "local": "الخالدية",
+        "en": "Khaldiyah",
+        "slug": "khaldiyah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_khaldiyah",
+        "level": 2,
+        "name": {
+          "local": "الخالدية",
+          "en": "Khaldiyah",
+          "slug": "khaldiyah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_khaldiyah_mshrfeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المشرفة",
+      "en": "Mshrfeh",
+      "slug": "mshrfeh"
+    },
+    "code": {
+      "id": "JOMAF_khaldiyah_mshrfeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_khaldiyah",
+      "level": 2,
+      "name": {
+        "local": "الخالدية",
+        "en": "Khaldiyah",
+        "slug": "khaldiyah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_khaldiyah",
+        "level": 2,
+        "name": {
+          "local": "الخالدية",
+          "en": "Khaldiyah",
+          "slug": "khaldiyah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

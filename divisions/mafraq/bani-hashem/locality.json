@@ -1,0 +1,272 @@
+[
+  {
+    "id": "JOMAF_bani-hashem_aliet-el-shwaar",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "عالية الشويعر",
+      "en": "Aliet El-Shwa'ar",
+      "slug": "aliet-el-shwaar"
+    },
+    "code": {
+      "id": "JOMAF_bani-hashem_aliet-el-shwaar",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_bani-hashem",
+      "level": 2,
+      "name": {
+        "local": "بني هاشم",
+        "en": "Bani Hashem",
+        "slug": "bani-hashem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_bani-hashem",
+        "level": 2,
+        "name": {
+          "local": "بني هاشم",
+          "en": "Bani Hashem",
+          "slug": "bani-hashem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_bani-hashem_bani-hashem-hamra-esahim",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "بني هاشم(حمراء السحيم)",
+      "en": "Bani Hashem (Hamra Esahim)",
+      "slug": "bani-hashem-hamra-esahim"
+    },
+    "code": {
+      "id": "JOMAF_bani-hashem_bani-hashem-hamra-esahim",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_bani-hashem",
+      "level": 2,
+      "name": {
+        "local": "بني هاشم",
+        "en": "Bani Hashem",
+        "slug": "bani-hashem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_bani-hashem",
+        "level": 2,
+        "name": {
+          "local": "بني هاشم",
+          "en": "Bani Hashem",
+          "slug": "bani-hashem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_bani-hashem_beshriyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "البشرية",
+      "en": "Beshriyyeh",
+      "slug": "beshriyyeh"
+    },
+    "code": {
+      "id": "JOMAF_bani-hashem_beshriyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_bani-hashem",
+      "level": 2,
+      "name": {
+        "local": "بني هاشم",
+        "en": "Bani Hashem",
+        "slug": "bani-hashem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_bani-hashem",
+        "level": 2,
+        "name": {
+          "local": "بني هاشم",
+          "en": "Bani Hashem",
+          "slug": "bani-hashem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_bani-hashem_hashimiyyeh-sharqiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الهاشمية الشرقية",
+      "en": "Hashimiyyeh Sharqiyyeh",
+      "slug": "hashimiyyeh-sharqiyyeh"
+    },
+    "code": {
+      "id": "JOMAF_bani-hashem_hashimiyyeh-sharqiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_bani-hashem",
+      "level": 2,
+      "name": {
+        "local": "بني هاشم",
+        "en": "Bani Hashem",
+        "slug": "bani-hashem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_bani-hashem",
+        "level": 2,
+        "name": {
+          "local": "بني هاشم",
+          "en": "Bani Hashem",
+          "slug": "bani-hashem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_bani-hashem_raudit-al-amir-hamzeh-hliut-masarha",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "روضة الامير حمزة(حليوة المسارحة)",
+      "en": "Raudit Al-Amir Hamzeh (Hliut Masarha)",
+      "slug": "raudit-al-amir-hamzeh-hliut-masarha"
+    },
+    "code": {
+      "id": "JOMAF_bani-hashem_raudit-al-amir-hamzeh-hliut-masarha",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_bani-hashem",
+      "level": 2,
+      "name": {
+        "local": "بني هاشم",
+        "en": "Bani Hashem",
+        "slug": "bani-hashem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_bani-hashem",
+        "level": 2,
+        "name": {
+          "local": "بني هاشم",
+          "en": "Bani Hashem",
+          "slug": "bani-hashem"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

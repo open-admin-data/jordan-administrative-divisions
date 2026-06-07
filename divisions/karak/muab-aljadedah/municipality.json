@@ -1,0 +1,47 @@
+{
+  "id": "JOKAR_muab-aljadedah",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "مؤاب الجديدة",
+    "en": "Mu'ab Aljadedah",
+    "slug": "muab-aljadedah"
+  },
+  "code": {
+    "id": "JOKAR_muab-aljadedah",
+    "iso": null
+  },
+  "parent": {
+    "id": "JOKAR",
+    "level": 1,
+    "name": {
+      "local": "الكرك",
+      "en": "Karak",
+      "slug": "karak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "JOKAR",
+      "level": 1,
+      "name": {
+        "local": "الكرك",
+        "en": "Karak",
+        "slug": "karak"
+      }
+    }
+  ],
+  "children_count": {
+    "locality": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.119",
+    "lon": "35.795"
+  },
+  "metadata": {},
+  "source": {}
+}

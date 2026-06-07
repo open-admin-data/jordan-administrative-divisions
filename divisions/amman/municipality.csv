@@ -1,0 +1,12 @@
+id,name.local,name.en,name.slug,code.id,children_count.locality,geo.lat,geo.lon
+JOAMM_amanet-amman-alkubrah,أمانة عمان الكبرى,Amanet Amman Alkubrah,amanet-amman-alkubrah,JOAMM_amanet-amman-alkubrah,33,31.671,36.447
+JOAMM_amireah,العامرية,Amireah,amireah,JOAMM_amireah,8,31.671,36.447
+JOAMM_hosban,حسبان,Hosba'n,hosban,JOAMM_hosban,5,31.671,36.447
+JOAMM_jizah,الجيزة,Jizah,jizah,JOAMM_jizah,33,31.671,36.447
+JOAMM_marj-al-hamam,مرج الحمام,Marj Al-hamam,marj-al-hamam,JOAMM_marj-al-hamam,14,31.671,36.447
+JOAMM_muaqqar,الموقر,Muaqqar,muaqqar,JOAMM_muaqqar,23,31.671,36.447
+JOAMM_naoor,ناعور,Na'oor,naoor,JOAMM_naoor,15,31.671,36.447
+JOAMM_sahab,سحاب,Sahab,sahab,JOAMM_sahab,1,31.671,36.447
+JOAMM_talbiyyeh-camp,مخيم الطالبية*,Talbiyyeh Camp*,talbiyyeh-camp,JOAMM_talbiyyeh-camp,0,31.671,36.447
+JOAMM_um-al-rasas,أم الرصاص,Um Al-Rasas,um-al-rasas,JOAMM_um-al-rasas,0,31.671,36.447
+JOAMM_um-elbasatien,أم البساتين,Um Elbasatien,um-elbasatien,JOAMM_um-elbasatien,6,31.671,36.447

@@ -1,0 +1,34 @@
+{
+  "id": "JOMAA",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "معان",
+    "en": "Ma\"an",
+    "slug": "maan"
+  },
+  "code": {
+    "id": "JOMAA",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 8,
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.229",
+    "lon": "36.653"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/jo/governorates/maan/",
+    "api": "https://openadmindata.org/api/jo/"
+  }
+}

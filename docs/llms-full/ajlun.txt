@@ -1,0 +1,34 @@
+# Ajlun — Jordan Administrative Divisions
+
+> 5 municipalitys, 0 localitys
+> Code: JOAJL
+> Coordinates: 32.294, 35.744
+> Last updated: 2026-06-07. License: CC-BY-4.0.
+
+## Municipalitys
+
+### عجلون الكبرى (Ajlun Alkubrah)
+
+Code: JOAJL_ajlun-alkubrah, Coordinates: 32.294, 35.744
+Localitys: 0
+
+### العيون (Alauion)
+
+Code: JOAJL_alauion, Coordinates: 32.294, 35.744
+Localitys: 0
+
+### الجنيد (Janed)
+
+Code: JOAJL_janed, Coordinates: 32.294, 35.744
+Localitys: 0
+
+### كفرنجه الجديدة (Kufrangeh Aljadedah)
+
+Code: JOAJL_kufrangeh-aljadedah, Coordinates: 32.294, 35.744
+Localitys: 0
+
+### الشفا (Shafa)
+
+Code: JOAJL_shafa, Coordinates: 32.294, 35.744
+Localitys: 0
+

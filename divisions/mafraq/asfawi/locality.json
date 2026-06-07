@@ -1,0 +1,110 @@
+[
+  {
+    "id": "JOMAF_asfawi_manshiyyet-kalefeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "منشية خليفة",
+      "en": "Manshiyyet Kalefeh",
+      "slug": "manshiyyet-kalefeh"
+    },
+    "code": {
+      "id": "JOMAF_asfawi_manshiyyet-kalefeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_asfawi",
+      "level": 2,
+      "name": {
+        "local": "الصفاوي",
+        "en": "Asfawi",
+        "slug": "asfawi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_asfawi",
+        "level": 2,
+        "name": {
+          "local": "الصفاوي",
+          "en": "Asfawi",
+          "slug": "asfawi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_asfawi_safawi",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الصفاوي",
+      "en": "Safawi",
+      "slug": "safawi"
+    },
+    "code": {
+      "id": "JOMAF_asfawi_safawi",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_asfawi",
+      "level": 2,
+      "name": {
+        "local": "الصفاوي",
+        "en": "Asfawi",
+        "slug": "asfawi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_asfawi",
+        "level": 2,
+        "name": {
+          "local": "الصفاوي",
+          "en": "Asfawi",
+          "slug": "asfawi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

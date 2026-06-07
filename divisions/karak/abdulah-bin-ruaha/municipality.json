@@ -1,0 +1,47 @@
+{
+  "id": "JOKAR_abdulah-bin-ruaha",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "عبد الله بن رواحه",
+    "en": "Abdulah Bin Ruaha",
+    "slug": "abdulah-bin-ruaha"
+  },
+  "code": {
+    "id": "JOKAR_abdulah-bin-ruaha",
+    "iso": null
+  },
+  "parent": {
+    "id": "JOKAR",
+    "level": 1,
+    "name": {
+      "local": "الكرك",
+      "en": "Karak",
+      "slug": "karak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "JOKAR",
+      "level": 1,
+      "name": {
+        "local": "الكرك",
+        "en": "Karak",
+        "slug": "karak"
+      }
+    }
+  ],
+  "children_count": {
+    "locality": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.119",
+    "lon": "35.795"
+  },
+  "metadata": {},
+  "source": {}
+}

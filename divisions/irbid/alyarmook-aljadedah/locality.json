@@ -1,0 +1,434 @@
+[
+  {
+    "id": "JOIRB_alyarmook-aljadedah_abu-el-loqas",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ابو اللوقس",
+      "en": "Abu El-Loqas",
+      "slug": "abu-el-loqas"
+    },
+    "code": {
+      "id": "JOIRB_alyarmook-aljadedah_abu-el-loqas",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_alyarmook-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "اليرموك الجديدة",
+        "en": "Alyarmook Aljadedah",
+        "slug": "alyarmook-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_alyarmook-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "اليرموك الجديدة",
+          "en": "Alyarmook Aljadedah",
+          "slug": "alyarmook-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_alyarmook-aljadedah_hariema",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "حريما",
+      "en": "Hariema",
+      "slug": "hariema"
+    },
+    "code": {
+      "id": "JOIRB_alyarmook-aljadedah_hariema",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_alyarmook-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "اليرموك الجديدة",
+        "en": "Alyarmook Aljadedah",
+        "slug": "alyarmook-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_alyarmook-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "اليرموك الجديدة",
+          "en": "Alyarmook Aljadedah",
+          "slug": "alyarmook-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_alyarmook-aljadedah_kharja",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "خرجا",
+      "en": "Kharja",
+      "slug": "kharja"
+    },
+    "code": {
+      "id": "JOIRB_alyarmook-aljadedah_kharja",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_alyarmook-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "اليرموك الجديدة",
+        "en": "Alyarmook Aljadedah",
+        "slug": "alyarmook-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_alyarmook-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "اليرموك الجديدة",
+          "en": "Alyarmook Aljadedah",
+          "slug": "alyarmook-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_alyarmook-aljadedah_khrayybeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الخريبة",
+      "en": "Khrayybeh",
+      "slug": "khrayybeh"
+    },
+    "code": {
+      "id": "JOIRB_alyarmook-aljadedah_khrayybeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_alyarmook-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "اليرموك الجديدة",
+        "en": "Alyarmook Aljadedah",
+        "slug": "alyarmook-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_alyarmook-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "اليرموك الجديدة",
+          "en": "Alyarmook Aljadedah",
+          "slug": "alyarmook-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_alyarmook-aljadedah_qasfah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "القصفة",
+      "en": "Qasfah",
+      "slug": "qasfah"
+    },
+    "code": {
+      "id": "JOIRB_alyarmook-aljadedah_qasfah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_alyarmook-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "اليرموك الجديدة",
+        "en": "Alyarmook Aljadedah",
+        "slug": "alyarmook-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_alyarmook-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "اليرموك الجديدة",
+          "en": "Alyarmook Aljadedah",
+          "slug": "alyarmook-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_alyarmook-aljadedah_saileh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "السيلة",
+      "en": "Saileh",
+      "slug": "saileh"
+    },
+    "code": {
+      "id": "JOIRB_alyarmook-aljadedah_saileh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_alyarmook-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "اليرموك الجديدة",
+        "en": "Alyarmook Aljadedah",
+        "slug": "alyarmook-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_alyarmook-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "اليرموك الجديدة",
+          "en": "Alyarmook Aljadedah",
+          "slug": "alyarmook-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_alyarmook-aljadedah_yarmook",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "اليرموك",
+      "en": "yarmook",
+      "slug": "yarmook"
+    },
+    "code": {
+      "id": "JOIRB_alyarmook-aljadedah_yarmook",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_alyarmook-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "اليرموك الجديدة",
+        "en": "Alyarmook Aljadedah",
+        "slug": "alyarmook-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_alyarmook-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "اليرموك الجديدة",
+          "en": "Alyarmook Aljadedah",
+          "slug": "alyarmook-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_alyarmook-aljadedah_zaweh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الزوية",
+      "en": "Zaweh",
+      "slug": "zaweh"
+    },
+    "code": {
+      "id": "JOIRB_alyarmook-aljadedah_zaweh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_alyarmook-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "اليرموك الجديدة",
+        "en": "Alyarmook Aljadedah",
+        "slug": "alyarmook-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_alyarmook-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "اليرموك الجديدة",
+          "en": "Alyarmook Aljadedah",
+          "slug": "alyarmook-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "JOJER_almarad",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "المعراض",
+    "en": "Alm'arad",
+    "slug": "almarad"
+  },
+  "code": {
+    "id": "JOJER_almarad",
+    "iso": null
+  },
+  "parent": {
+    "id": "JOJER",
+    "level": 1,
+    "name": {
+      "local": "جرش",
+      "en": "Jarash",
+      "slug": "jarash"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "JOJER",
+      "level": 1,
+      "name": {
+        "local": "جرش",
+        "en": "Jarash",
+        "slug": "jarash"
+      }
+    }
+  ],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.242",
+    "lon": "35.834"
+  },
+  "metadata": {},
+  "source": {}
+}

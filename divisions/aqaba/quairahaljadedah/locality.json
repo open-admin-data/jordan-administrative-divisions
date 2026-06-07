@@ -1,0 +1,596 @@
+[
+  {
+    "id": "JOAQA_quairahaljadedah_asaleah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "العسليه",
+      "en": "Asaleah",
+      "slug": "asaleah"
+    },
+    "code": {
+      "id": "JOAQA_quairahaljadedah_asaleah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAQA_quairahaljadedah",
+      "level": 2,
+      "name": {
+        "local": "القويرة الجديدة",
+        "en": "QuairahAljadedah",
+        "slug": "quairahaljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAQA",
+        "level": 1,
+        "name": {
+          "local": "العقبة",
+          "en": "Aqaba",
+          "slug": "aqaba"
+        }
+      },
+      {
+        "id": "JOAQA_quairahaljadedah",
+        "level": 2,
+        "name": {
+          "local": "القويرة الجديدة",
+          "en": "QuairahAljadedah",
+          "slug": "quairahaljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.976",
+      "lon": "35.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAQA_quairahaljadedah_dabbet-hanoot",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "دبة حانوت",
+      "en": "Dabbet Hanoot",
+      "slug": "dabbet-hanoot"
+    },
+    "code": {
+      "id": "JOAQA_quairahaljadedah_dabbet-hanoot",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAQA_quairahaljadedah",
+      "level": 2,
+      "name": {
+        "local": "القويرة الجديدة",
+        "en": "QuairahAljadedah",
+        "slug": "quairahaljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAQA",
+        "level": 1,
+        "name": {
+          "local": "العقبة",
+          "en": "Aqaba",
+          "slug": "aqaba"
+        }
+      },
+      {
+        "id": "JOAQA_quairahaljadedah",
+        "level": 2,
+        "name": {
+          "local": "القويرة الجديدة",
+          "en": "QuairahAljadedah",
+          "slug": "quairahaljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.976",
+      "lon": "35.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAQA_quairahaljadedah_ean-hawara",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "عين الهوارة",
+      "en": "Ean Hawara",
+      "slug": "ean-hawara"
+    },
+    "code": {
+      "id": "JOAQA_quairahaljadedah_ean-hawara",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAQA_quairahaljadedah",
+      "level": 2,
+      "name": {
+        "local": "القويرة الجديدة",
+        "en": "QuairahAljadedah",
+        "slug": "quairahaljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAQA",
+        "level": 1,
+        "name": {
+          "local": "العقبة",
+          "en": "Aqaba",
+          "slug": "aqaba"
+        }
+      },
+      {
+        "id": "JOAQA_quairahaljadedah",
+        "level": 2,
+        "name": {
+          "local": "القويرة الجديدة",
+          "en": "QuairahAljadedah",
+          "slug": "quairahaljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.976",
+      "lon": "35.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAQA_quairahaljadedah_hmaimieh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الحميمه",
+      "en": "Hmaimieh",
+      "slug": "hmaimieh"
+    },
+    "code": {
+      "id": "JOAQA_quairahaljadedah_hmaimieh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAQA_quairahaljadedah",
+      "level": 2,
+      "name": {
+        "local": "القويرة الجديدة",
+        "en": "QuairahAljadedah",
+        "slug": "quairahaljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAQA",
+        "level": 1,
+        "name": {
+          "local": "العقبة",
+          "en": "Aqaba",
+          "slug": "aqaba"
+        }
+      },
+      {
+        "id": "JOAQA_quairahaljadedah",
+        "level": 2,
+        "name": {
+          "local": "القويرة الجديدة",
+          "en": "QuairahAljadedah",
+          "slug": "quairahaljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.976",
+      "lon": "35.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAQA_quairahaljadedah_hmaimieh-jadiedeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الحميمة الجديدة",
+      "en": "Hmaimieh Jadiedeh",
+      "slug": "hmaimieh-jadiedeh"
+    },
+    "code": {
+      "id": "JOAQA_quairahaljadedah_hmaimieh-jadiedeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAQA_quairahaljadedah",
+      "level": 2,
+      "name": {
+        "local": "القويرة الجديدة",
+        "en": "QuairahAljadedah",
+        "slug": "quairahaljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAQA",
+        "level": 1,
+        "name": {
+          "local": "العقبة",
+          "en": "Aqaba",
+          "slug": "aqaba"
+        }
+      },
+      {
+        "id": "JOAQA_quairahaljadedah",
+        "level": 2,
+        "name": {
+          "local": "القويرة الجديدة",
+          "en": "QuairahAljadedah",
+          "slug": "quairahaljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.976",
+      "lon": "35.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAQA_quairahaljadedah_quairah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "القويره",
+      "en": "Quairah",
+      "slug": "quairah"
+    },
+    "code": {
+      "id": "JOAQA_quairahaljadedah_quairah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAQA_quairahaljadedah",
+      "level": 2,
+      "name": {
+        "local": "القويرة الجديدة",
+        "en": "QuairahAljadedah",
+        "slug": "quairahaljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAQA",
+        "level": 1,
+        "name": {
+          "local": "العقبة",
+          "en": "Aqaba",
+          "slug": "aqaba"
+        }
+      },
+      {
+        "id": "JOAQA_quairahaljadedah",
+        "level": 2,
+        "name": {
+          "local": "القويرة الجديدة",
+          "en": "QuairahAljadedah",
+          "slug": "quairahaljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.976",
+      "lon": "35.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAQA_quairahaljadedah_rashdyah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الراشديه",
+      "en": "Rashdyah",
+      "slug": "rashdyah"
+    },
+    "code": {
+      "id": "JOAQA_quairahaljadedah_rashdyah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAQA_quairahaljadedah",
+      "level": 2,
+      "name": {
+        "local": "القويرة الجديدة",
+        "en": "QuairahAljadedah",
+        "slug": "quairahaljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAQA",
+        "level": 1,
+        "name": {
+          "local": "العقبة",
+          "en": "Aqaba",
+          "slug": "aqaba"
+        }
+      },
+      {
+        "id": "JOAQA_quairahaljadedah",
+        "level": 2,
+        "name": {
+          "local": "القويرة الجديدة",
+          "en": "QuairahAljadedah",
+          "slug": "quairahaljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.976",
+      "lon": "35.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAQA_quairahaljadedah_rum",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "رم",
+      "en": "Rum",
+      "slug": "rum"
+    },
+    "code": {
+      "id": "JOAQA_quairahaljadedah_rum",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAQA_quairahaljadedah",
+      "level": 2,
+      "name": {
+        "local": "القويرة الجديدة",
+        "en": "QuairahAljadedah",
+        "slug": "quairahaljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAQA",
+        "level": 1,
+        "name": {
+          "local": "العقبة",
+          "en": "Aqaba",
+          "slug": "aqaba"
+        }
+      },
+      {
+        "id": "JOAQA_quairahaljadedah",
+        "level": 2,
+        "name": {
+          "local": "القويرة الجديدة",
+          "en": "QuairahAljadedah",
+          "slug": "quairahaljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.976",
+      "lon": "35.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAQA_quairahaljadedah_sallheiah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الصالحيه",
+      "en": "Sallheiah",
+      "slug": "sallheiah"
+    },
+    "code": {
+      "id": "JOAQA_quairahaljadedah_sallheiah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAQA_quairahaljadedah",
+      "level": 2,
+      "name": {
+        "local": "القويرة الجديدة",
+        "en": "QuairahAljadedah",
+        "slug": "quairahaljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAQA",
+        "level": 1,
+        "name": {
+          "local": "العقبة",
+          "en": "Aqaba",
+          "slug": "aqaba"
+        }
+      },
+      {
+        "id": "JOAQA_quairahaljadedah",
+        "level": 2,
+        "name": {
+          "local": "القويرة الجديدة",
+          "en": "QuairahAljadedah",
+          "slug": "quairahaljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.976",
+      "lon": "35.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAQA_quairahaljadedah_shakriyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الشاكرية",
+      "en": "Shakriyyeh",
+      "slug": "shakriyyeh"
+    },
+    "code": {
+      "id": "JOAQA_quairahaljadedah_shakriyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAQA_quairahaljadedah",
+      "level": 2,
+      "name": {
+        "local": "القويرة الجديدة",
+        "en": "QuairahAljadedah",
+        "slug": "quairahaljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAQA",
+        "level": 1,
+        "name": {
+          "local": "العقبة",
+          "en": "Aqaba",
+          "slug": "aqaba"
+        }
+      },
+      {
+        "id": "JOAQA_quairahaljadedah",
+        "level": 2,
+        "name": {
+          "local": "القويرة الجديدة",
+          "en": "QuairahAljadedah",
+          "slug": "quairahaljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.976",
+      "lon": "35.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAQA_quairahaljadedah_taweel",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الطويل",
+      "en": "Taweel",
+      "slug": "taweel"
+    },
+    "code": {
+      "id": "JOAQA_quairahaljadedah_taweel",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAQA_quairahaljadedah",
+      "level": 2,
+      "name": {
+        "local": "القويرة الجديدة",
+        "en": "QuairahAljadedah",
+        "slug": "quairahaljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAQA",
+        "level": 1,
+        "name": {
+          "local": "العقبة",
+          "en": "Aqaba",
+          "slug": "aqaba"
+        }
+      },
+      {
+        "id": "JOAQA_quairahaljadedah",
+        "level": 2,
+        "name": {
+          "local": "القويرة الجديدة",
+          "en": "QuairahAljadedah",
+          "slug": "quairahaljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.976",
+      "lon": "35.347"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

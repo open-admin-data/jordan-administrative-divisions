@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "Jordan Administrative Divisions Dataset"
+version: "2026.06"
+date-released: "2026-06-07"
+url: "https://github.com/open-admin-data/jordan-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/jordan-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - jordan
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of Jordan's administrative hierarchy:
+  12 governorates, 110 municipalitys, 741 localitys.
+  Bilingual with coordinates and postal codes where available.

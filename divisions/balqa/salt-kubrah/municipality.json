@@ -1,0 +1,47 @@
+{
+  "id": "JOBAL_salt-kubrah",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "السلط الكبرى",
+    "en": "Salt Kubrah",
+    "slug": "salt-kubrah"
+  },
+  "code": {
+    "id": "JOBAL_salt-kubrah",
+    "iso": null
+  },
+  "parent": {
+    "id": "JOBAL",
+    "level": 1,
+    "name": {
+      "local": "البلقاء",
+      "en": "Balqa",
+      "slug": "balqa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "JOBAL",
+      "level": 1,
+      "name": {
+        "local": "البلقاء",
+        "en": "Balqa",
+        "slug": "balqa"
+      }
+    }
+  ],
+  "children_count": {
+    "locality": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.954",
+    "lon": "35.704"
+  },
+  "metadata": {},
+  "source": {}
+}

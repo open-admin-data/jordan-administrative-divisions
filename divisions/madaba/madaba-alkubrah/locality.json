@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "JOMAD_madaba-alkubrah_abu-rdaineh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ابو ردينة",
+      "en": "Abu Rdaineh",
+      "slug": "abu-rdaineh"
+    },
+    "code": {
+      "id": "JOMAD_madaba-alkubrah_abu-rdaineh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_madaba-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "مادبا الكبرى",
+        "en": "Madaba Alkubrah",
+        "slug": "madaba-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_madaba-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "مادبا الكبرى",
+          "en": "Madaba Alkubrah",
+          "slug": "madaba-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_madaba-alkubrah_ain-eddieb",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "عين الذيب",
+      "en": "Ain Eddieb",
+      "slug": "ain-eddieb"
+    },
+    "code": {
+      "id": "JOMAD_madaba-alkubrah_ain-eddieb",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_madaba-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "مادبا الكبرى",
+        "en": "Madaba Alkubrah",
+        "slug": "madaba-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_madaba-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "مادبا الكبرى",
+          "en": "Madaba Alkubrah",
+          "slug": "madaba-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_madaba-alkubrah_ariesh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "العريش",
+      "en": "Ariesh",
+      "slug": "ariesh"
+    },
+    "code": {
+      "id": "JOMAD_madaba-alkubrah_ariesh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_madaba-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "مادبا الكبرى",
+        "en": "Madaba Alkubrah",
+        "slug": "madaba-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_madaba-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "مادبا الكبرى",
+          "en": "Madaba Alkubrah",
+          "slug": "madaba-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_madaba-alkubrah_faisaliah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الفيصلية",
+      "en": "Faisaliah",
+      "slug": "faisaliah"
+    },
+    "code": {
+      "id": "JOMAD_madaba-alkubrah_faisaliah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_madaba-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "مادبا الكبرى",
+        "en": "Madaba Alkubrah",
+        "slug": "madaba-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_madaba-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "مادبا الكبرى",
+          "en": "Madaba Alkubrah",
+          "slug": "madaba-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_madaba-alkubrah_fayhaa",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الفيحاء",
+      "en": "Fayha'a",
+      "slug": "fayhaa"
+    },
+    "code": {
+      "id": "JOMAD_madaba-alkubrah_fayhaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_madaba-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "مادبا الكبرى",
+        "en": "Madaba Alkubrah",
+        "slug": "madaba-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_madaba-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "مادبا الكبرى",
+          "en": "Madaba Alkubrah",
+          "slug": "madaba-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_madaba-alkubrah_ghernatah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "غرناطه",
+      "en": "Ghernatah",
+      "slug": "ghernatah"
+    },
+    "code": {
+      "id": "JOMAD_madaba-alkubrah_ghernatah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_madaba-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "مادبا الكبرى",
+        "en": "Madaba Alkubrah",
+        "slug": "madaba-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_madaba-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "مادبا الكبرى",
+          "en": "Madaba Alkubrah",
+          "slug": "madaba-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_madaba-alkubrah_hamamat-maeen",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "حمامات ماعين",
+      "en": "Hamamat Maeen",
+      "slug": "hamamat-maeen"
+    },
+    "code": {
+      "id": "JOMAD_madaba-alkubrah_hamamat-maeen",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_madaba-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "مادبا الكبرى",
+        "en": "Madaba Alkubrah",
+        "slug": "madaba-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_madaba-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "مادبا الكبرى",
+          "en": "Madaba Alkubrah",
+          "slug": "madaba-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_madaba-alkubrah_heialaleyeh-falha",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الهلالية (الفالحه)",
+      "en": "Heialaleyeh (Falha)",
+      "slug": "heialaleyeh-falha"
+    },
+    "code": {
+      "id": "JOMAD_madaba-alkubrah_heialaleyeh-falha",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_madaba-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "مادبا الكبرى",
+        "en": "Madaba Alkubrah",
+        "slug": "madaba-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_madaba-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "مادبا الكبرى",
+          "en": "Madaba Alkubrah",
+          "slug": "madaba-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_madaba-alkubrah_hwayyet-el-balouneh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "حوية البلاونه",
+      "en": "Hwayyet El-Balouneh",
+      "slug": "hwayyet-el-balouneh"
+    },
+    "code": {
+      "id": "JOMAD_madaba-alkubrah_hwayyet-el-balouneh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_madaba-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "مادبا الكبرى",
+        "en": "Madaba Alkubrah",
+        "slug": "madaba-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_madaba-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "مادبا الكبرى",
+          "en": "Madaba Alkubrah",
+          "slug": "madaba-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_madaba-alkubrah_jrainah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "جرينه",
+      "en": "Jrainah",
+      "slug": "jrainah"
+    },
+    "code": {
+      "id": "JOMAD_madaba-alkubrah_jrainah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_madaba-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "مادبا الكبرى",
+        "en": "Madaba Alkubrah",
+        "slug": "madaba-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_madaba-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "مادبا الكبرى",
+          "en": "Madaba Alkubrah",
+          "slug": "madaba-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_madaba-alkubrah_jubail",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الجبيل",
+      "en": "Jubail",
+      "slug": "jubail"
+    },
+    "code": {
+      "id": "JOMAD_madaba-alkubrah_jubail",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_madaba-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "مادبا الكبرى",
+        "en": "Madaba Alkubrah",
+        "slug": "madaba-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_madaba-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "مادبا الكبرى",
+          "en": "Madaba Alkubrah",
+          "slug": "madaba-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_madaba-alkubrah_khatabiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الخطابية",
+      "en": "Khatabiyyeh",
+      "slug": "khatabiyyeh"
+    },
+    "code": {
+      "id": "JOMAD_madaba-alkubrah_khatabiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_madaba-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "مادبا الكبرى",
+        "en": "Madaba Alkubrah",
+        "slug": "madaba-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_madaba-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "مادبا الكبرى",
+          "en": "Madaba Alkubrah",
+          "slug": "madaba-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_madaba-alkubrah_libbeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "اللبة",
+      "en": "Libbeh",
+      "slug": "libbeh"
+    },
+    "code": {
+      "id": "JOMAD_madaba-alkubrah_libbeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_madaba-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "مادبا الكبرى",
+        "en": "Madaba Alkubrah",
+        "slug": "madaba-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_madaba-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "مادبا الكبرى",
+          "en": "Madaba Alkubrah",
+          "slug": "madaba-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_madaba-alkubrah_mamoneia",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المأمونية",
+      "en": "Ma'moneia",
+      "slug": "mamoneia"
+    },
+    "code": {
+      "id": "JOMAD_madaba-alkubrah_mamoneia",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_madaba-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "مادبا الكبرى",
+        "en": "Madaba Alkubrah",
+        "slug": "madaba-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_madaba-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "مادبا الكبرى",
+          "en": "Madaba Alkubrah",
+          "slug": "madaba-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_madaba-alkubrah_madaba",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "مادبا",
+      "en": "Madaba",
+      "slug": "madaba"
+    },
+    "code": {
+      "id": "JOMAD_madaba-alkubrah_madaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_madaba-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "مادبا الكبرى",
+        "en": "Madaba Alkubrah",
+        "slug": "madaba-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_madaba-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "مادبا الكبرى",
+          "en": "Madaba Alkubrah",
+          "slug": "madaba-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_madaba-alkubrah_maeen",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ماعين",
+      "en": "Maeen",
+      "slug": "maeen"
+    },
+    "code": {
+      "id": "JOMAD_madaba-alkubrah_maeen",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_madaba-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "مادبا الكبرى",
+        "en": "Madaba Alkubrah",
+        "slug": "madaba-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_madaba-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "مادبا الكبرى",
+          "en": "Madaba Alkubrah",
+          "slug": "madaba-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_madaba-alkubrah_manshiyyet-maeen",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "منشية ماعين",
+      "en": "Manshiyyet Maeen",
+      "slug": "manshiyyet-maeen"
+    },
+    "code": {
+      "id": "JOMAD_madaba-alkubrah_manshiyyet-maeen",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_madaba-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "مادبا الكبرى",
+        "en": "Madaba Alkubrah",
+        "slug": "madaba-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_madaba-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "مادبا الكبرى",
+          "en": "Madaba Alkubrah",
+          "slug": "madaba-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_madaba-alkubrah_mkhait",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المخيط",
+      "en": "Mkhait",
+      "slug": "mkhait"
+    },
+    "code": {
+      "id": "JOMAD_madaba-alkubrah_mkhait",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_madaba-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "مادبا الكبرى",
+        "en": "Madaba Alkubrah",
+        "slug": "madaba-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_madaba-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "مادبا الكبرى",
+          "en": "Madaba Alkubrah",
+          "slug": "madaba-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_madaba-alkubrah_oyoon-moosa",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "عيون موسى",
+      "en": "Oyoon Moosa",
+      "slug": "oyoon-moosa"
+    },
+    "code": {
+      "id": "JOMAD_madaba-alkubrah_oyoon-moosa",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_madaba-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "مادبا الكبرى",
+        "en": "Madaba Alkubrah",
+        "slug": "madaba-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_madaba-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "مادبا الكبرى",
+          "en": "Madaba Alkubrah",
+          "slug": "madaba-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_madaba-alkubrah_syaghah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "صياغة",
+      "en": "Syaghah",
+      "slug": "syaghah"
+    },
+    "code": {
+      "id": "JOMAD_madaba-alkubrah_syaghah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_madaba-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "مادبا الكبرى",
+        "en": "Madaba Alkubrah",
+        "slug": "madaba-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_madaba-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "مادبا الكبرى",
+          "en": "Madaba Alkubrah",
+          "slug": "madaba-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_madaba-alkubrah_wah-mrejmet-el-hamed",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الواحة(مريجمة الحامد)",
+      "en": "Wah (Mrejmet El-Hamed)",
+      "slug": "wah-mrejmet-el-hamed"
+    },
+    "code": {
+      "id": "JOMAD_madaba-alkubrah_wah-mrejmet-el-hamed",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_madaba-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "مادبا الكبرى",
+        "en": "Madaba Alkubrah",
+        "slug": "madaba-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_madaba-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "مادبا الكبرى",
+          "en": "Madaba Alkubrah",
+          "slug": "madaba-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_madaba-alkubrah_wasiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الوسية",
+      "en": "Wasiyyeh",
+      "slug": "wasiyyeh"
+    },
+    "code": {
+      "id": "JOMAD_madaba-alkubrah_wasiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_madaba-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "مادبا الكبرى",
+        "en": "Madaba Alkubrah",
+        "slug": "madaba-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_madaba-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "مادبا الكبرى",
+          "en": "Madaba Alkubrah",
+          "slug": "madaba-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_madaba-alkubrah_zarqa-maeen",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "زرقاء ماعين",
+      "en": "Zarqa' Maeen",
+      "slug": "zarqa-maeen"
+    },
+    "code": {
+      "id": "JOMAD_madaba-alkubrah_zarqa-maeen",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_madaba-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "مادبا الكبرى",
+        "en": "Madaba Alkubrah",
+        "slug": "madaba-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_madaba-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "مادبا الكبرى",
+          "en": "Madaba Alkubrah",
+          "slug": "madaba-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

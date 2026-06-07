@@ -1,0 +1,812 @@
+[
+  {
+    "id": "JOBAL_al-ardha_azab",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "العزب",
+      "en": "Azab",
+      "slug": "azab"
+    },
+    "code": {
+      "id": "JOBAL_al-ardha_azab",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_al-ardha",
+      "level": 2,
+      "name": {
+        "local": "العارضة",
+        "en": "Al-Ardha",
+        "slug": "al-ardha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_al-ardha",
+        "level": 2,
+        "name": {
+          "local": "العارضة",
+          "en": "Al-Ardha",
+          "slug": "al-ardha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_al-ardha_bayyoodah-gharbiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "بيوضه الغربيه",
+      "en": "Bayyoodah Gharbiyyeh",
+      "slug": "bayyoodah-gharbiyyeh"
+    },
+    "code": {
+      "id": "JOBAL_al-ardha_bayyoodah-gharbiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_al-ardha",
+      "level": 2,
+      "name": {
+        "local": "العارضة",
+        "en": "Al-Ardha",
+        "slug": "al-ardha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_al-ardha",
+        "level": 2,
+        "name": {
+          "local": "العارضة",
+          "en": "Al-Ardha",
+          "slug": "al-ardha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_al-ardha_bayyoodah-shamaliyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "بيوضه الشماليه",
+      "en": "Bayyoodah Shamaliyyeh",
+      "slug": "bayyoodah-shamaliyyeh"
+    },
+    "code": {
+      "id": "JOBAL_al-ardha_bayyoodah-shamaliyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_al-ardha",
+      "level": 2,
+      "name": {
+        "local": "العارضة",
+        "en": "Al-Ardha",
+        "slug": "al-ardha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_al-ardha",
+        "level": 2,
+        "name": {
+          "local": "العارضة",
+          "en": "Al-Ardha",
+          "slug": "al-ardha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_al-ardha_bayyoodah-sharqiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "بيوضه الشرقية",
+      "en": "Bayyoodah Sharqiyyeh",
+      "slug": "bayyoodah-sharqiyyeh"
+    },
+    "code": {
+      "id": "JOBAL_al-ardha_bayyoodah-sharqiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_al-ardha",
+      "level": 2,
+      "name": {
+        "local": "العارضة",
+        "en": "Al-Ardha",
+        "slug": "al-ardha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_al-ardha",
+        "level": 2,
+        "name": {
+          "local": "العارضة",
+          "en": "Al-Ardha",
+          "slug": "al-ardha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_al-ardha_bwaib",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "البويب",
+      "en": "Bwaib",
+      "slug": "bwaib"
+    },
+    "code": {
+      "id": "JOBAL_al-ardha_bwaib",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_al-ardha",
+      "level": 2,
+      "name": {
+        "local": "العارضة",
+        "en": "Al-Ardha",
+        "slug": "al-ardha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_al-ardha",
+        "level": 2,
+        "name": {
+          "local": "العارضة",
+          "en": "Al-Ardha",
+          "slug": "al-ardha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_al-ardha_dhraissat",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الضريسات",
+      "en": "Dhraissat",
+      "slug": "dhraissat"
+    },
+    "code": {
+      "id": "JOBAL_al-ardha_dhraissat",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_al-ardha",
+      "level": 2,
+      "name": {
+        "local": "العارضة",
+        "en": "Al-Ardha",
+        "slug": "al-ardha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_al-ardha",
+        "level": 2,
+        "name": {
+          "local": "العارضة",
+          "en": "Al-Ardha",
+          "slug": "al-ardha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_al-ardha_elaiqoon",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "عليقون",
+      "en": "Elaiqoon",
+      "slug": "elaiqoon"
+    },
+    "code": {
+      "id": "JOBAL_al-ardha_elaiqoon",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_al-ardha",
+      "level": 2,
+      "name": {
+        "local": "العارضة",
+        "en": "Al-Ardha",
+        "slug": "al-ardha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_al-ardha",
+        "level": 2,
+        "name": {
+          "local": "العارضة",
+          "en": "Al-Ardha",
+          "slug": "al-ardha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_al-ardha_haqawah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الحقاوه",
+      "en": "Haqawah",
+      "slug": "haqawah"
+    },
+    "code": {
+      "id": "JOBAL_al-ardha_haqawah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_al-ardha",
+      "level": 2,
+      "name": {
+        "local": "العارضة",
+        "en": "Al-Ardha",
+        "slug": "al-ardha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_al-ardha",
+        "level": 2,
+        "name": {
+          "local": "العارضة",
+          "en": "Al-Ardha",
+          "slug": "al-ardha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_al-ardha_jarriesh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "جريش",
+      "en": "Jarriesh",
+      "slug": "jarriesh"
+    },
+    "code": {
+      "id": "JOBAL_al-ardha_jarriesh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_al-ardha",
+      "level": 2,
+      "name": {
+        "local": "العارضة",
+        "en": "Al-Ardha",
+        "slug": "al-ardha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_al-ardha",
+        "level": 2,
+        "name": {
+          "local": "العارضة",
+          "en": "Al-Ardha",
+          "slug": "al-ardha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_al-ardha_khashfeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "خشفه",
+      "en": "Khashfeh",
+      "slug": "khashfeh"
+    },
+    "code": {
+      "id": "JOBAL_al-ardha_khashfeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_al-ardha",
+      "level": 2,
+      "name": {
+        "local": "العارضة",
+        "en": "Al-Ardha",
+        "slug": "al-ardha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_al-ardha",
+        "level": 2,
+        "name": {
+          "local": "العارضة",
+          "en": "Al-Ardha",
+          "slug": "al-ardha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_al-ardha_maisarah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ميسرا",
+      "en": "Maisarah",
+      "slug": "maisarah"
+    },
+    "code": {
+      "id": "JOBAL_al-ardha_maisarah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_al-ardha",
+      "level": 2,
+      "name": {
+        "local": "العارضة",
+        "en": "Al-Ardha",
+        "slug": "al-ardha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_al-ardha",
+        "level": 2,
+        "name": {
+          "local": "العارضة",
+          "en": "Al-Ardha",
+          "slug": "al-ardha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_al-ardha_qsaib",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "قصيب",
+      "en": "Qsaib",
+      "slug": "qsaib"
+    },
+    "code": {
+      "id": "JOBAL_al-ardha_qsaib",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_al-ardha",
+      "level": 2,
+      "name": {
+        "local": "العارضة",
+        "en": "Al-Ardha",
+        "slug": "al-ardha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_al-ardha",
+        "level": 2,
+        "name": {
+          "local": "العارضة",
+          "en": "Al-Ardha",
+          "slug": "al-ardha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_al-ardha_sbaihi",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الصبيحي",
+      "en": "Sbaihi",
+      "slug": "sbaihi"
+    },
+    "code": {
+      "id": "JOBAL_al-ardha_sbaihi",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_al-ardha",
+      "level": 2,
+      "name": {
+        "local": "العارضة",
+        "en": "Al-Ardha",
+        "slug": "al-ardha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_al-ardha",
+        "level": 2,
+        "name": {
+          "local": "العارضة",
+          "en": "Al-Ardha",
+          "slug": "al-ardha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_al-ardha_siehan",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "سيحان",
+      "en": "Siehan",
+      "slug": "siehan"
+    },
+    "code": {
+      "id": "JOBAL_al-ardha_siehan",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_al-ardha",
+      "level": 2,
+      "name": {
+        "local": "العارضة",
+        "en": "Al-Ardha",
+        "slug": "al-ardha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_al-ardha",
+        "level": 2,
+        "name": {
+          "local": "العارضة",
+          "en": "Al-Ardha",
+          "slug": "al-ardha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_al-ardha_soomia",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "سوميا",
+      "en": "Soomia",
+      "slug": "soomia"
+    },
+    "code": {
+      "id": "JOBAL_al-ardha_soomia",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_al-ardha",
+      "level": 2,
+      "name": {
+        "local": "العارضة",
+        "en": "Al-Ardha",
+        "slug": "al-ardha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_al-ardha",
+        "level": 2,
+        "name": {
+          "local": "العارضة",
+          "en": "Al-Ardha",
+          "slug": "al-ardha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

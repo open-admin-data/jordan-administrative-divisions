@@ -1,0 +1,34 @@
+{
+  "id": "JOAJL",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "عجلون",
+    "en": "Ajlun",
+    "slug": "ajlun"
+  },
+  "code": {
+    "id": "JOAJL",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 5,
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.294",
+    "lon": "35.744"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/jo/governorates/ajlun/",
+    "api": "https://openadmindata.org/api/jo/"
+  }
+}

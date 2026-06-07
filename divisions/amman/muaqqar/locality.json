@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "JOAMM_muaqqar_dhaibeh-gharbiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الذهيبة الغربية",
+      "en": "Dhaibeh Gharbiyyeh",
+      "slug": "dhaibeh-gharbiyyeh"
+    },
+    "code": {
+      "id": "JOAMM_muaqqar_dhaibeh-gharbiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_muaqqar",
+      "level": 2,
+      "name": {
+        "local": "الموقر",
+        "en": "Muaqqar",
+        "slug": "muaqqar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_muaqqar",
+        "level": 2,
+        "name": {
+          "local": "الموقر",
+          "en": "Muaqqar",
+          "slug": "muaqqar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_muaqqar_dhaibeh-sharqiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الذهيبة الشرقية",
+      "en": "Dhaibeh Sharqiyyeh",
+      "slug": "dhaibeh-sharqiyyeh"
+    },
+    "code": {
+      "id": "JOAMM_muaqqar_dhaibeh-sharqiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_muaqqar",
+      "level": 2,
+      "name": {
+        "local": "الموقر",
+        "en": "Muaqqar",
+        "slug": "muaqqar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_muaqqar",
+        "level": 2,
+        "name": {
+          "local": "الموقر",
+          "en": "Muaqqar",
+          "slug": "muaqqar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_muaqqar_falej-rabyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الفالج(الرابية)",
+      "en": "Falej (Rabyyeh)",
+      "slug": "falej-rabyyeh"
+    },
+    "code": {
+      "id": "JOAMM_muaqqar_falej-rabyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_muaqqar",
+      "level": 2,
+      "name": {
+        "local": "الموقر",
+        "en": "Muaqqar",
+        "slug": "muaqqar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_muaqqar",
+        "level": 2,
+        "name": {
+          "local": "الموقر",
+          "en": "Muaqqar",
+          "slug": "muaqqar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_muaqqar_feisaliyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الفيصلية",
+      "en": "Feisaliyyeh",
+      "slug": "feisaliyyeh"
+    },
+    "code": {
+      "id": "JOAMM_muaqqar_feisaliyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_muaqqar",
+      "level": 2,
+      "name": {
+        "local": "الموقر",
+        "en": "Muaqqar",
+        "slug": "muaqqar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_muaqqar",
+        "level": 2,
+        "name": {
+          "local": "الموقر",
+          "en": "Muaqqar",
+          "slug": "muaqqar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_muaqqar_ghazaleh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "غزالة",
+      "en": "Ghazaleh",
+      "slug": "ghazaleh"
+    },
+    "code": {
+      "id": "JOAMM_muaqqar_ghazaleh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_muaqqar",
+      "level": 2,
+      "name": {
+        "local": "الموقر",
+        "en": "Muaqqar",
+        "slug": "muaqqar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_muaqqar",
+        "level": 2,
+        "name": {
+          "local": "الموقر",
+          "en": "Muaqqar",
+          "slug": "muaqqar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_muaqqar_hashimeyyah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الهاشمية",
+      "en": "Hashimeyyah",
+      "slug": "hashimeyyah"
+    },
+    "code": {
+      "id": "JOAMM_muaqqar_hashimeyyah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_muaqqar",
+      "level": 2,
+      "name": {
+        "local": "الموقر",
+        "en": "Muaqqar",
+        "slug": "muaqqar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_muaqqar",
+        "level": 2,
+        "name": {
+          "local": "الموقر",
+          "en": "Muaqqar",
+          "slug": "muaqqar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_muaqqar_hatmeia",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الحاتمية",
+      "en": "Hatmeia",
+      "slug": "hatmeia"
+    },
+    "code": {
+      "id": "JOAMM_muaqqar_hatmeia",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_muaqqar",
+      "level": 2,
+      "name": {
+        "local": "الموقر",
+        "en": "Muaqqar",
+        "slug": "muaqqar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_muaqqar",
+        "level": 2,
+        "name": {
+          "local": "الموقر",
+          "en": "Muaqqar",
+          "slug": "muaqqar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_muaqqar_hunaifiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الحنيفية",
+      "en": "Hunaifiyyeh",
+      "slug": "hunaifiyyeh"
+    },
+    "code": {
+      "id": "JOAMM_muaqqar_hunaifiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_muaqqar",
+      "level": 2,
+      "name": {
+        "local": "الموقر",
+        "en": "Muaqqar",
+        "slug": "muaqqar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_muaqqar",
+        "level": 2,
+        "name": {
+          "local": "الموقر",
+          "en": "Muaqqar",
+          "slug": "muaqqar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_muaqqar_jnab",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الجناب",
+      "en": "Jnab",
+      "slug": "jnab"
+    },
+    "code": {
+      "id": "JOAMM_muaqqar_jnab",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_muaqqar",
+      "level": 2,
+      "name": {
+        "local": "الموقر",
+        "en": "Muaqqar",
+        "slug": "muaqqar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_muaqqar",
+        "level": 2,
+        "name": {
+          "local": "الموقر",
+          "en": "Muaqqar",
+          "slug": "muaqqar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_muaqqar_ktafeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الكتيفه",
+      "en": "Ktafeh",
+      "slug": "ktafeh"
+    },
+    "code": {
+      "id": "JOAMM_muaqqar_ktafeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_muaqqar",
+      "level": 2,
+      "name": {
+        "local": "الموقر",
+        "en": "Muaqqar",
+        "slug": "muaqqar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_muaqqar",
+        "level": 2,
+        "name": {
+          "local": "الموقر",
+          "en": "Muaqqar",
+          "slug": "muaqqar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_muaqqar_laseen",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "اللسين",
+      "en": "Laseen",
+      "slug": "laseen"
+    },
+    "code": {
+      "id": "JOAMM_muaqqar_laseen",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_muaqqar",
+      "level": 2,
+      "name": {
+        "local": "الموقر",
+        "en": "Muaqqar",
+        "slug": "muaqqar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_muaqqar",
+        "level": 2,
+        "name": {
+          "local": "الموقر",
+          "en": "Muaqqar",
+          "slug": "muaqqar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_muaqqar_maghayer-mhanna",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "مغاير مهنا",
+      "en": "Maghayer Mhanna",
+      "slug": "maghayer-mhanna"
+    },
+    "code": {
+      "id": "JOAMM_muaqqar_maghayer-mhanna",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_muaqqar",
+      "level": 2,
+      "name": {
+        "local": "الموقر",
+        "en": "Muaqqar",
+        "slug": "muaqqar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_muaqqar",
+        "level": 2,
+        "name": {
+          "local": "الموقر",
+          "en": "Muaqqar",
+          "slug": "muaqqar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_muaqqar_majedeah-zabarah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الماجدية (زباره)",
+      "en": "Majedeah (Zabarah)",
+      "slug": "majedeah-zabarah"
+    },
+    "code": {
+      "id": "JOAMM_muaqqar_majedeah-zabarah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_muaqqar",
+      "level": 2,
+      "name": {
+        "local": "الموقر",
+        "en": "Muaqqar",
+        "slug": "muaqqar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_muaqqar",
+        "level": 2,
+        "name": {
+          "local": "الموقر",
+          "en": "Muaqqar",
+          "slug": "muaqqar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_muaqqar_manshiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المنشية",
+      "en": "Manshiyyeh",
+      "slug": "manshiyyeh"
+    },
+    "code": {
+      "id": "JOAMM_muaqqar_manshiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_muaqqar",
+      "level": 2,
+      "name": {
+        "local": "الموقر",
+        "en": "Muaqqar",
+        "slug": "muaqqar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_muaqqar",
+        "level": 2,
+        "name": {
+          "local": "الموقر",
+          "en": "Muaqqar",
+          "slug": "muaqqar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_muaqqar_matabah-mastabah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المطبة (المصطبه)",
+      "en": "Matabah (Mastabah)",
+      "slug": "matabah-mastabah"
+    },
+    "code": {
+      "id": "JOAMM_muaqqar_matabah-mastabah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_muaqqar",
+      "level": 2,
+      "name": {
+        "local": "الموقر",
+        "en": "Muaqqar",
+        "slug": "muaqqar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_muaqqar",
+        "level": 2,
+        "name": {
+          "local": "الموقر",
+          "en": "Muaqqar",
+          "slug": "muaqqar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_muaqqar_mowaqqar",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الموقر",
+      "en": "Mowaqqar",
+      "slug": "mowaqqar"
+    },
+    "code": {
+      "id": "JOAMM_muaqqar_mowaqqar",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_muaqqar",
+      "level": 2,
+      "name": {
+        "local": "الموقر",
+        "en": "Muaqqar",
+        "slug": "muaqqar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_muaqqar",
+        "level": 2,
+        "name": {
+          "local": "الموقر",
+          "en": "Muaqqar",
+          "slug": "muaqqar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_muaqqar_naqera",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "النقيرة",
+      "en": "Naqera",
+      "slug": "naqera"
+    },
+    "code": {
+      "id": "JOAMM_muaqqar_naqera",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_muaqqar",
+      "level": 2,
+      "name": {
+        "local": "الموقر",
+        "en": "Muaqqar",
+        "slug": "muaqqar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_muaqqar",
+        "level": 2,
+        "name": {
+          "local": "الموقر",
+          "en": "Muaqqar",
+          "slug": "muaqqar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_muaqqar_raudet-hussen-namuthajeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "روضة الحسين النموذجية",
+      "en": "Raudet Hussen Namuthajeh",
+      "slug": "raudet-hussen-namuthajeh"
+    },
+    "code": {
+      "id": "JOAMM_muaqqar_raudet-hussen-namuthajeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_muaqqar",
+      "level": 2,
+      "name": {
+        "local": "الموقر",
+        "en": "Muaqqar",
+        "slug": "muaqqar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_muaqqar",
+        "level": 2,
+        "name": {
+          "local": "الموقر",
+          "en": "Muaqqar",
+          "slug": "muaqqar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_muaqqar_rojom-shami-gharbi",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "رجم الشامي الغربي",
+      "en": "Rojom Shami Gharbi",
+      "slug": "rojom-shami-gharbi"
+    },
+    "code": {
+      "id": "JOAMM_muaqqar_rojom-shami-gharbi",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_muaqqar",
+      "level": 2,
+      "name": {
+        "local": "الموقر",
+        "en": "Muaqqar",
+        "slug": "muaqqar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_muaqqar",
+        "level": 2,
+        "name": {
+          "local": "الموقر",
+          "en": "Muaqqar",
+          "slug": "muaqqar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_muaqqar_rojom-shami-sharqi",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "رجم الشامي الشرقي",
+      "en": "Rojom Shami Sharqi",
+      "slug": "rojom-shami-sharqi"
+    },
+    "code": {
+      "id": "JOAMM_muaqqar_rojom-shami-sharqi",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_muaqqar",
+      "level": 2,
+      "name": {
+        "local": "الموقر",
+        "en": "Muaqqar",
+        "slug": "muaqqar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_muaqqar",
+        "level": 2,
+        "name": {
+          "local": "الموقر",
+          "en": "Muaqqar",
+          "slug": "muaqqar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_muaqqar_salem",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "سالم",
+      "en": "Salem",
+      "slug": "salem"
+    },
+    "code": {
+      "id": "JOAMM_muaqqar_salem",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_muaqqar",
+      "level": 2,
+      "name": {
+        "local": "الموقر",
+        "en": "Muaqqar",
+        "slug": "muaqqar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_muaqqar",
+        "level": 2,
+        "name": {
+          "local": "الموقر",
+          "en": "Muaqqar",
+          "slug": "muaqqar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_muaqqar_um-botmah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام بطمة",
+      "en": "Um Botmah",
+      "slug": "um-botmah"
+    },
+    "code": {
+      "id": "JOAMM_muaqqar_um-botmah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_muaqqar",
+      "level": 2,
+      "name": {
+        "local": "الموقر",
+        "en": "Muaqqar",
+        "slug": "muaqqar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_muaqqar",
+        "level": 2,
+        "name": {
+          "local": "الموقر",
+          "en": "Muaqqar",
+          "slug": "muaqqar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_muaqqar_zmailat",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الزميلات",
+      "en": "Zmailat",
+      "slug": "zmailat"
+    },
+    "code": {
+      "id": "JOAMM_muaqqar_zmailat",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_muaqqar",
+      "level": 2,
+      "name": {
+        "local": "الموقر",
+        "en": "Muaqqar",
+        "slug": "muaqqar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_muaqqar",
+        "level": 2,
+        "name": {
+          "local": "الموقر",
+          "en": "Muaqqar",
+          "slug": "muaqqar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

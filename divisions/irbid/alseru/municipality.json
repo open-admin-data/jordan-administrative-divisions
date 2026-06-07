@@ -1,0 +1,47 @@
+{
+  "id": "JOIRB_alseru",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "السرو",
+    "en": "Alseru",
+    "slug": "alseru"
+  },
+  "code": {
+    "id": "JOIRB_alseru",
+    "iso": null
+  },
+  "parent": {
+    "id": "JOIRB",
+    "level": 1,
+    "name": {
+      "local": "إربد",
+      "en": "Irbid",
+      "slug": "irbid"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "JOIRB",
+      "level": 1,
+      "name": {
+        "local": "إربد",
+        "en": "Irbid",
+        "slug": "irbid"
+      }
+    }
+  ],
+  "children_count": {
+    "locality": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.475",
+    "lon": "35.814"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,321 @@
+# Madaba — Jordan Administrative Divisions
+
+> 4 municipalitys, 73 localitys
+> Code: JOMAD
+> Coordinates: 31.624, 35.671
+> Last updated: 2026-06-07. License: CC-BY-4.0.
+
+## Municipalitys
+
+### ذيبان الجديدة (Dieban Jadeda)
+
+Code: JOMAD_dieban-jadeda, Coordinates: 31.624, 35.671
+Localitys: 20
+
+#### العالية (Alyeh)
+
+Code: JOMAD_dieban-jadeda_alyeh, Coordinates: 31.624, 35.671
+
+#### النهضه (ام زباره) (Annahda (Um Zabarah))
+
+Code: JOMAD_dieban-jadeda_annahda-um-zabarah, Coordinates: 31.624, 35.671
+
+#### عراعر (Ara&#39;er)
+
+Code: JOMAD_dieban-jadeda_araer, Coordinates: 31.624, 35.671
+
+#### برزه (Barzah)
+
+Code: JOMAD_dieban-jadeda_barzah, Coordinates: 31.624, 35.671
+
+#### الذهيبه الغربية (Dhaibeh Gharbiyyeh)
+
+Code: JOMAD_dieban-jadeda_dhaibeh-gharbiyyeh, Coordinates: 31.624, 35.671
+
+#### ذهيبة الشرقية (Dhaibeh Sharqiyyeh)
+
+Code: JOMAD_dieban-jadeda_dhaibeh-sharqiyyeh, Coordinates: 31.624, 35.671
+
+#### ذيبان (Dieban)
+
+Code: JOMAD_dieban-jadeda_dieban, Coordinates: 31.624, 35.671
+
+#### فلحه (Falha)
+
+Code: JOMAD_dieban-jadeda_falha, Coordinates: 31.624, 35.671
+
+#### الحنو والسكرانة (Heno &amp; Sakraneh)
+
+Code: JOMAD_dieban-jadeda_heno-sakraneh, Coordinates: 31.624, 35.671
+
+#### المنشية (Manshiyyeh)
+
+Code: JOMAD_dieban-jadeda_manshiyyeh, Coordinates: 31.624, 35.671
+
+#### المثلوثه (Mathlootheh)
+
+Code: JOMAD_dieban-jadeda_mathlootheh, Coordinates: 31.624, 35.671
+
+#### مقعد بن نصرالله (Meq&#39;ad Ben Nasrallah)
+
+Code: JOMAD_dieban-jadeda_meqad-ben-nasrallah, Coordinates: 31.624, 35.671
+
+#### المشرفة (Mesherfeh)
+
+Code: JOMAD_dieban-jadeda_mesherfeh, Coordinates: 31.624, 35.671
+
+#### القاسمية (Qasmeia)
+
+Code: JOMAD_dieban-jadeda_qasmeia, Coordinates: 31.624, 35.671
+
+#### القبيبه (Qbaibeh)
+
+Code: JOMAD_dieban-jadeda_qbaibeh, Coordinates: 31.624, 35.671
+
+#### الريحانه (ام شجره) (Rehaneih (Um Shajarah))
+
+Code: JOMAD_dieban-jadeda_rehaneih-um-shajarah, Coordinates: 31.624, 35.671
+
+#### الشقيق (Shqaiq)
+
+Code: JOMAD_dieban-jadeda_shqaiq, Coordinates: 31.624, 35.671
+
+#### ام شجيرة الغربية (Um Shjaireh Gharbiyyeh)
+
+Code: JOMAD_dieban-jadeda_um-shjaireh-gharbiyyeh, Coordinates: 31.624, 35.671
+
+#### ام شجيره الشرقية (Um Shjaireh Sharqiyyeh)
+
+Code: JOMAD_dieban-jadeda_um-shjaireh-sharqiyyeh, Coordinates: 31.624, 35.671
+
+#### وادي الموجب (Wadi El-Mujeb)
+
+Code: JOMAD_dieban-jadeda_wadi-el-mujeb, Coordinates: 31.624, 35.671
+
+### جبل بني حميدة (Jabal bne Hamedah)
+
+Code: JOMAD_jabal-bne-hamedah, Coordinates: 31.624, 35.671
+Localitys: 15
+
+#### العريض (Areedh)
+
+Code: JOMAD_jabal-bne-hamedah_areedh, Coordinates: 31.624, 35.671
+
+#### عطروز (Atrooz)
+
+Code: JOMAD_jabal-bne-hamedah_atrooz, Coordinates: 31.624, 35.671
+
+#### الزهراء (Azzahra&#39;)
+
+Code: JOMAD_jabal-bne-hamedah_azzahra, Coordinates: 31.624, 35.671
+
+#### البقيع (القباعي) (Bake&#39;a (Kuba&#39;i))
+
+Code: JOMAD_jabal-bne-hamedah_bakea-kubai, Coordinates: 31.624, 35.671
+
+#### بلوطه (Balotah)
+
+Code: JOMAD_jabal-bne-hamedah_balotah, Coordinates: 31.624, 35.671
+
+#### الدير (Dair)
+
+Code: JOMAD_jabal-bne-hamedah_dair, Coordinates: 31.624, 35.671
+
+#### الهاشمية(ام حصاص) (Hashemiyyeh (Um Hsas))
+
+Code: JOMAD_jabal-bne-hamedah_hashemiyyeh-um-hsas, Coordinates: 31.624, 35.671
+
+#### الجديدة (Jadedah)
+
+Code: JOMAD_jabal-bne-hamedah_jadedah, Coordinates: 31.624, 35.671
+
+#### الجروان(العامره) (Jarwan (Amerah))
+
+Code: JOMAD_jabal-bne-hamedah_jarwan-amerah, Coordinates: 31.624, 35.671
+
+#### مكاور (Makawer)
+
+Code: JOMAD_jabal-bne-hamedah_makawer, Coordinates: 31.624, 35.671
+
+#### المحمدية (Muhamadeh)
+
+Code: JOMAD_jabal-bne-hamedah_muhamadeh, Coordinates: 31.624, 35.671
+
+#### النامية (Namyeh)
+
+Code: JOMAD_jabal-bne-hamedah_namyeh, Coordinates: 31.624, 35.671
+
+#### النصيب (Nasieb)
+
+Code: JOMAD_jabal-bne-hamedah_nasieb, Coordinates: 31.624, 35.671
+
+#### القريات (Qrayyat)
+
+Code: JOMAD_jabal-bne-hamedah_qrayyat, Coordinates: 31.624, 35.671
+
+#### الزينه (Zayna)
+
+Code: JOMAD_jabal-bne-hamedah_zayna, Coordinates: 31.624, 35.671
+
+### لب ومليح (Leb &amp; Mlaih)
+
+Code: JOMAD_leb-mlaih, Coordinates: 31.624, 35.671
+Localitys: 15
+
+#### العلاقي (Alaqi)
+
+Code: JOMAD_leb-mlaih_alaqi, Coordinates: 31.624, 35.671
+
+#### دليلة الحمايدة (Dalielet El-Hamaydeh)
+
+Code: JOMAD_leb-mlaih_dalielet-el-hamaydeh, Coordinates: 31.624, 35.671
+
+#### الغدير (Gadeer)
+
+Code: JOMAD_leb-mlaih_gadeer, Coordinates: 31.624, 35.671
+
+#### الحياض (Hayyadh)
+
+Code: JOMAD_leb-mlaih_hayyadh, Coordinates: 31.624, 35.671
+
+#### الهيدان (Hiedan)
+
+Code: JOMAD_leb-mlaih_hiedan, Coordinates: 31.624, 35.671
+
+#### الخالدية (Kaldiyyeh)
+
+Code: JOMAD_leb-mlaih_kaldiyyeh, Coordinates: 31.624, 35.671
+
+#### الخالدية (ابو ازقل) (Khaldeyyeh (Abu Ezqal))
+
+Code: JOMAD_leb-mlaih_khaldeyyeh-abu-ezqal, Coordinates: 31.624, 35.671
+
+#### لب (Leb)
+
+Code: JOMAD_leb-mlaih_leb, Coordinates: 31.624, 35.671
+
+#### اللسن والربط (Lusen &amp; Rabt)
+
+Code: JOMAD_leb-mlaih_lusen-rabt, Coordinates: 31.624, 35.671
+
+#### مليح (Mlaih)
+
+Code: JOMAD_leb-mlaih_mlaih, Coordinates: 31.624, 35.671
+
+#### المنسف(المخرعه) (Munsaf (Mekher&#39;ah))
+
+Code: JOMAD_leb-mlaih_munsaf-mekherah, Coordinates: 31.624, 35.671
+
+#### نزهة الوالة (Nozhet El-Waleh)
+
+Code: JOMAD_leb-mlaih_nozhet-el-waleh, Coordinates: 31.624, 35.671
+
+#### الراشدية (Rashdeia)
+
+Code: JOMAD_leb-mlaih_rashdeia, Coordinates: 31.624, 35.671
+
+#### الصفا (Safa)
+
+Code: JOMAD_leb-mlaih_safa, Coordinates: 31.624, 35.671
+
+#### الواله (Waleh)
+
+Code: JOMAD_leb-mlaih_waleh, Coordinates: 31.624, 35.671
+
+### مادبا الكبرى (Madaba Alkubrah)
+
+Code: JOMAD_madaba-alkubrah, Coordinates: 31.624, 35.671
+Localitys: 23
+
+#### ابو ردينة (Abu Rdaineh)
+
+Code: JOMAD_madaba-alkubrah_abu-rdaineh, Coordinates: 31.624, 35.671
+
+#### عين الذيب (Ain Eddieb)
+
+Code: JOMAD_madaba-alkubrah_ain-eddieb, Coordinates: 31.624, 35.671
+
+#### العريش (Ariesh)
+
+Code: JOMAD_madaba-alkubrah_ariesh, Coordinates: 31.624, 35.671
+
+#### الفيصلية (Faisaliah)
+
+Code: JOMAD_madaba-alkubrah_faisaliah, Coordinates: 31.624, 35.671
+
+#### الفيحاء (Fayha&#39;a)
+
+Code: JOMAD_madaba-alkubrah_fayhaa, Coordinates: 31.624, 35.671
+
+#### غرناطه (Ghernatah)
+
+Code: JOMAD_madaba-alkubrah_ghernatah, Coordinates: 31.624, 35.671
+
+#### حمامات ماعين (Hamamat Maeen)
+
+Code: JOMAD_madaba-alkubrah_hamamat-maeen, Coordinates: 31.624, 35.671
+
+#### الهلالية (الفالحه) (Heialaleyeh (Falha))
+
+Code: JOMAD_madaba-alkubrah_heialaleyeh-falha, Coordinates: 31.624, 35.671
+
+#### حوية البلاونه (Hwayyet El-Balouneh)
+
+Code: JOMAD_madaba-alkubrah_hwayyet-el-balouneh, Coordinates: 31.624, 35.671
+
+#### جرينه (Jrainah)
+
+Code: JOMAD_madaba-alkubrah_jrainah, Coordinates: 31.624, 35.671
+
+#### الجبيل (Jubail)
+
+Code: JOMAD_madaba-alkubrah_jubail, Coordinates: 31.624, 35.671
+
+#### الخطابية (Khatabiyyeh)
+
+Code: JOMAD_madaba-alkubrah_khatabiyyeh, Coordinates: 31.624, 35.671
+
+#### اللبة (Libbeh)
+
+Code: JOMAD_madaba-alkubrah_libbeh, Coordinates: 31.624, 35.671
+
+#### المأمونية (Ma&#39;moneia)
+
+Code: JOMAD_madaba-alkubrah_mamoneia, Coordinates: 31.624, 35.671
+
+#### مادبا (Madaba)
+
+Code: JOMAD_madaba-alkubrah_madaba, Coordinates: 31.624, 35.671
+
+#### ماعين (Maeen)
+
+Code: JOMAD_madaba-alkubrah_maeen, Coordinates: 31.624, 35.671
+
+#### منشية ماعين (Manshiyyet Maeen)
+
+Code: JOMAD_madaba-alkubrah_manshiyyet-maeen, Coordinates: 31.624, 35.671
+
+#### المخيط (Mkhait)
+
+Code: JOMAD_madaba-alkubrah_mkhait, Coordinates: 31.624, 35.671
+
+#### عيون موسى (Oyoon Moosa)
+
+Code: JOMAD_madaba-alkubrah_oyoon-moosa, Coordinates: 31.624, 35.671
+
+#### صياغة (Syaghah)
+
+Code: JOMAD_madaba-alkubrah_syaghah, Coordinates: 31.624, 35.671
+
+#### الواحة(مريجمة الحامد) (Wah (Mrejmet El-Hamed))
+
+Code: JOMAD_madaba-alkubrah_wah-mrejmet-el-hamed, Coordinates: 31.624, 35.671
+
+#### الوسية (Wasiyyeh)
+
+Code: JOMAD_madaba-alkubrah_wasiyyeh, Coordinates: 31.624, 35.671
+
+#### زرقاء ماعين (Zarqa&#39; Maeen)
+
+Code: JOMAD_madaba-alkubrah_zarqa-maeen, Coordinates: 31.624, 35.671
+

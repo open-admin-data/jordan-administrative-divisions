@@ -1,0 +1,519 @@
+[
+  {
+    "id": "JOAMM_amanet-amman-alkubrah",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "أمانة عمان الكبرى",
+      "en": "Amanet Amman Alkubrah",
+      "slug": "amanet-amman-alkubrah"
+    },
+    "code": {
+      "id": "JOAMM_amanet-amman-alkubrah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM",
+      "level": 1,
+      "name": {
+        "local": "عمّان",
+        "en": "Amman",
+        "slug": "amman"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 33
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amireah",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "العامرية",
+      "en": "Amireah",
+      "slug": "amireah"
+    },
+    "code": {
+      "id": "JOAMM_amireah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM",
+      "level": 1,
+      "name": {
+        "local": "عمّان",
+        "en": "Amman",
+        "slug": "amman"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_hosban",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "حسبان",
+      "en": "Hosba'n",
+      "slug": "hosban"
+    },
+    "code": {
+      "id": "JOAMM_hosban",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM",
+      "level": 1,
+      "name": {
+        "local": "عمّان",
+        "en": "Amman",
+        "slug": "amman"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_jizah",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "الجيزة",
+      "en": "Jizah",
+      "slug": "jizah"
+    },
+    "code": {
+      "id": "JOAMM_jizah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM",
+      "level": 1,
+      "name": {
+        "local": "عمّان",
+        "en": "Amman",
+        "slug": "amman"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 33
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_marj-al-hamam",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "مرج الحمام",
+      "en": "Marj Al-hamam",
+      "slug": "marj-al-hamam"
+    },
+    "code": {
+      "id": "JOAMM_marj-al-hamam",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM",
+      "level": 1,
+      "name": {
+        "local": "عمّان",
+        "en": "Amman",
+        "slug": "amman"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_muaqqar",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "الموقر",
+      "en": "Muaqqar",
+      "slug": "muaqqar"
+    },
+    "code": {
+      "id": "JOAMM_muaqqar",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM",
+      "level": 1,
+      "name": {
+        "local": "عمّان",
+        "en": "Amman",
+        "slug": "amman"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_naoor",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "ناعور",
+      "en": "Na'oor",
+      "slug": "naoor"
+    },
+    "code": {
+      "id": "JOAMM_naoor",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM",
+      "level": 1,
+      "name": {
+        "local": "عمّان",
+        "en": "Amman",
+        "slug": "amman"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_sahab",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "سحاب",
+      "en": "Sahab",
+      "slug": "sahab"
+    },
+    "code": {
+      "id": "JOAMM_sahab",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM",
+      "level": 1,
+      "name": {
+        "local": "عمّان",
+        "en": "Amman",
+        "slug": "amman"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_talbiyyeh-camp",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "مخيم الطالبية*",
+      "en": "Talbiyyeh Camp*",
+      "slug": "talbiyyeh-camp"
+    },
+    "code": {
+      "id": "JOAMM_talbiyyeh-camp",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM",
+      "level": 1,
+      "name": {
+        "local": "عمّان",
+        "en": "Amman",
+        "slug": "amman"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_um-al-rasas",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "أم الرصاص",
+      "en": "Um Al-Rasas",
+      "slug": "um-al-rasas"
+    },
+    "code": {
+      "id": "JOAMM_um-al-rasas",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM",
+      "level": 1,
+      "name": {
+        "local": "عمّان",
+        "en": "Amman",
+        "slug": "amman"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_um-elbasatien",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "أم البساتين",
+      "en": "Um Elbasatien",
+      "slug": "um-elbasatien"
+    },
+    "code": {
+      "id": "JOAMM_um-elbasatien",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM",
+      "level": 1,
+      "name": {
+        "local": "عمّان",
+        "en": "Amman",
+        "slug": "amman"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

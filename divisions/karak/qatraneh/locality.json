@@ -1,0 +1,56 @@
+[
+  {
+    "id": "JOKAR_qatraneh_qatraneh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "القطرانة",
+      "en": "Qatraneh",
+      "slug": "qatraneh"
+    },
+    "code": {
+      "id": "JOKAR_qatraneh_qatraneh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_qatraneh",
+      "level": 2,
+      "name": {
+        "local": "القطرانة",
+        "en": "Qatraneh",
+        "slug": "qatraneh"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_qatraneh",
+        "level": 2,
+        "name": {
+          "local": "القطرانة",
+          "en": "Qatraneh",
+          "slug": "qatraneh"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "id": "JOZAR_hashemiyah_abu-ezziegan",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ابو الزيغان",
+      "en": "Abu Ezziegan",
+      "slug": "abu-ezziegan"
+    },
+    "code": {
+      "id": "JOZAR_hashemiyah_abu-ezziegan",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_hashemiyah",
+      "level": 2,
+      "name": {
+        "local": "الهاشمية",
+        "en": "Hashemiyah",
+        "slug": "hashemiyah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_hashemiyah",
+        "level": 2,
+        "name": {
+          "local": "الهاشمية",
+          "en": "Hashemiyah",
+          "slug": "hashemiyah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_hashemiyah_ain-el-nemreh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "عين النمره",
+      "en": "Ain El-Nemreh",
+      "slug": "ain-el-nemreh"
+    },
+    "code": {
+      "id": "JOZAR_hashemiyah_ain-el-nemreh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_hashemiyah",
+      "level": 2,
+      "name": {
+        "local": "الهاشمية",
+        "en": "Hashemiyah",
+        "slug": "hashemiyah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_hashemiyah",
+        "level": 2,
+        "name": {
+          "local": "الهاشمية",
+          "en": "Hashemiyah",
+          "slug": "hashemiyah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_hashemiyah_daban",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ضبعان",
+      "en": "Dab'an",
+      "slug": "daban"
+    },
+    "code": {
+      "id": "JOZAR_hashemiyah_daban",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_hashemiyah",
+      "level": 2,
+      "name": {
+        "local": "الهاشمية",
+        "en": "Hashemiyah",
+        "slug": "hashemiyah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_hashemiyah",
+        "level": 2,
+        "name": {
+          "local": "الهاشمية",
+          "en": "Hashemiyah",
+          "slug": "hashemiyah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_hashemiyah_doqarah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "دوقره",
+      "en": "Doqarah",
+      "slug": "doqarah"
+    },
+    "code": {
+      "id": "JOZAR_hashemiyah_doqarah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_hashemiyah",
+      "level": 2,
+      "name": {
+        "local": "الهاشمية",
+        "en": "Hashemiyah",
+        "slug": "hashemiyah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_hashemiyah",
+        "level": 2,
+        "name": {
+          "local": "الهاشمية",
+          "en": "Hashemiyah",
+          "slug": "hashemiyah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_hashemiyah_ghraiseh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "غريسه",
+      "en": "Ghraiseh",
+      "slug": "ghraiseh"
+    },
+    "code": {
+      "id": "JOZAR_hashemiyah_ghraiseh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_hashemiyah",
+      "level": 2,
+      "name": {
+        "local": "الهاشمية",
+        "en": "Hashemiyah",
+        "slug": "hashemiyah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_hashemiyah",
+        "level": 2,
+        "name": {
+          "local": "الهاشمية",
+          "en": "Hashemiyah",
+          "slug": "hashemiyah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_hashemiyah_hasab",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الحصب",
+      "en": "Hasab",
+      "slug": "hasab"
+    },
+    "code": {
+      "id": "JOZAR_hashemiyah_hasab",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_hashemiyah",
+      "level": 2,
+      "name": {
+        "local": "الهاشمية",
+        "en": "Hashemiyah",
+        "slug": "hashemiyah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_hashemiyah",
+        "level": 2,
+        "name": {
+          "local": "الهاشمية",
+          "en": "Hashemiyah",
+          "slug": "hashemiyah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_hashemiyah_hashemiyah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الهاشمية",
+      "en": "Hashemiyah",
+      "slug": "hashemiyah"
+    },
+    "code": {
+      "id": "JOZAR_hashemiyah_hashemiyah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_hashemiyah",
+      "level": 2,
+      "name": {
+        "local": "الهاشمية",
+        "en": "Hashemiyah",
+        "slug": "hashemiyah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_hashemiyah",
+        "level": 2,
+        "name": {
+          "local": "الهاشمية",
+          "en": "Hashemiyah",
+          "slug": "hashemiyah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_hashemiyah_qnayyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "القنية",
+      "en": "Qnayyeh",
+      "slug": "qnayyeh"
+    },
+    "code": {
+      "id": "JOZAR_hashemiyah_qnayyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_hashemiyah",
+      "level": 2,
+      "name": {
+        "local": "الهاشمية",
+        "en": "Hashemiyah",
+        "slug": "hashemiyah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_hashemiyah",
+        "level": 2,
+        "name": {
+          "local": "الهاشمية",
+          "en": "Hashemiyah",
+          "slug": "hashemiyah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_hashemiyah_rahayal",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الرحيل",
+      "en": "Rahayal",
+      "slug": "rahayal"
+    },
+    "code": {
+      "id": "JOZAR_hashemiyah_rahayal",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_hashemiyah",
+      "level": 2,
+      "name": {
+        "local": "الهاشمية",
+        "en": "Hashemiyah",
+        "slug": "hashemiyah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_hashemiyah",
+        "level": 2,
+        "name": {
+          "local": "الهاشمية",
+          "en": "Hashemiyah",
+          "slug": "hashemiyah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_hashemiyah_sokhneh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "السخنة",
+      "en": "Sokhneh",
+      "slug": "sokhneh"
+    },
+    "code": {
+      "id": "JOZAR_hashemiyah_sokhneh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_hashemiyah",
+      "level": 2,
+      "name": {
+        "local": "الهاشمية",
+        "en": "Hashemiyah",
+        "slug": "hashemiyah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_hashemiyah",
+        "level": 2,
+        "name": {
+          "local": "الهاشمية",
+          "en": "Hashemiyah",
+          "slug": "hashemiyah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_hashemiyah_um-essalleeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام الصليح",
+      "en": "Um Essalleeh",
+      "slug": "um-essalleeh"
+    },
+    "code": {
+      "id": "JOZAR_hashemiyah_um-essalleeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_hashemiyah",
+      "level": 2,
+      "name": {
+        "local": "الهاشمية",
+        "en": "Hashemiyah",
+        "slug": "hashemiyah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_hashemiyah",
+        "level": 2,
+        "name": {
+          "local": "الهاشمية",
+          "en": "Hashemiyah",
+          "slug": "hashemiyah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

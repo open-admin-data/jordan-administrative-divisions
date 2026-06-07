@@ -1,0 +1,47 @@
+{
+  "id": "JOAQA_wadi-araba",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "وادي عربه",
+    "en": "Wadi Araba",
+    "slug": "wadi-araba"
+  },
+  "code": {
+    "id": "JOAQA_wadi-araba",
+    "iso": null
+  },
+  "parent": {
+    "id": "JOAQA",
+    "level": 1,
+    "name": {
+      "local": "العقبة",
+      "en": "Aqaba",
+      "slug": "aqaba"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "JOAQA",
+      "level": 1,
+      "name": {
+        "local": "العقبة",
+        "en": "Aqaba",
+        "slug": "aqaba"
+      }
+    }
+  ],
+  "children_count": {
+    "locality": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.976",
+    "lon": "35.347"
+  },
+  "metadata": {},
+  "source": {}
+}

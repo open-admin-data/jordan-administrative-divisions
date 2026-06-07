@@ -1,0 +1,1784 @@
+[
+  {
+    "id": "JOAMM_amanet-amman-alkubrah_abdaliyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "العبدليه",
+      "en": "Abdaliyyeh",
+      "slug": "abdaliyyeh"
+    },
+    "code": {
+      "id": "JOAMM_amanet-amman-alkubrah_abdaliyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amanet-amman-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "أمانة عمان الكبرى",
+        "en": "Amanet Amman Alkubrah",
+        "slug": "amanet-amman-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amanet-amman-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "أمانة عمان الكبرى",
+          "en": "Amanet Amman Alkubrah",
+          "slug": "amanet-amman-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amanet-amman-alkubrah_abu-saiah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ابو صياح",
+      "en": "Abu Saiah",
+      "slug": "abu-saiah"
+    },
+    "code": {
+      "id": "JOAMM_amanet-amman-alkubrah_abu-saiah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amanet-amman-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "أمانة عمان الكبرى",
+        "en": "Amanet Amman Alkubrah",
+        "slug": "amanet-amman-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amanet-amman-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "أمانة عمان الكبرى",
+          "en": "Amanet Amman Alkubrah",
+          "slug": "amanet-amman-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amanet-amman-alkubrah_alabdaly",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "العبدلي",
+      "en": "Alabdaly",
+      "slug": "alabdaly"
+    },
+    "code": {
+      "id": "JOAMM_amanet-amman-alkubrah_alabdaly",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amanet-amman-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "أمانة عمان الكبرى",
+        "en": "Amanet Amman Alkubrah",
+        "slug": "amanet-amman-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amanet-amman-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "أمانة عمان الكبرى",
+          "en": "Amanet Amman Alkubrah",
+          "slug": "amanet-amman-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amanet-amman-alkubrah_almadina",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المدينه",
+      "en": "Almadina",
+      "slug": "almadina"
+    },
+    "code": {
+      "id": "JOAMM_amanet-amman-alkubrah_almadina",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amanet-amman-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "أمانة عمان الكبرى",
+        "en": "Amanet Amman Alkubrah",
+        "slug": "amanet-amman-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amanet-amman-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "أمانة عمان الكبرى",
+          "en": "Amanet Amman Alkubrah",
+          "slug": "amanet-amman-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amanet-amman-alkubrah_alnaser",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "النصر",
+      "en": "Alnaser",
+      "slug": "alnaser"
+    },
+    "code": {
+      "id": "JOAMM_amanet-amman-alkubrah_alnaser",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amanet-amman-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "أمانة عمان الكبرى",
+        "en": "Amanet Amman Alkubrah",
+        "slug": "amanet-amman-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amanet-amman-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "أمانة عمان الكبرى",
+          "en": "Amanet Amman Alkubrah",
+          "slug": "amanet-amman-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amanet-amman-alkubrah_alquaismehaljwaydehabu-alandaalrajeeb",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "القويسمة والجويدة وابو علندا والرجيب",
+      "en": "Alquaismeh,Aljwaydeh,Abu Alanda,Alrajeeb",
+      "slug": "alquaismehaljwaydehabu-alandaalrajeeb"
+    },
+    "code": {
+      "id": "JOAMM_amanet-amman-alkubrah_alquaismehaljwaydehabu-alandaalrajeeb",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amanet-amman-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "أمانة عمان الكبرى",
+        "en": "Amanet Amman Alkubrah",
+        "slug": "amanet-amman-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amanet-amman-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "أمانة عمان الكبرى",
+          "en": "Amanet Amman Alkubrah",
+          "slug": "amanet-amman-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amanet-amman-alkubrah_alyarmok",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "اليرموك",
+      "en": "Alyarmok",
+      "slug": "alyarmok"
+    },
+    "code": {
+      "id": "JOAMM_amanet-amman-alkubrah_alyarmok",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amanet-amman-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "أمانة عمان الكبرى",
+        "en": "Amanet Amman Alkubrah",
+        "slug": "amanet-amman-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amanet-amman-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "أمانة عمان الكبرى",
+          "en": "Amanet Amman Alkubrah",
+          "slug": "amanet-amman-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amanet-amman-alkubrah_bader",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "بدر",
+      "en": "Bader",
+      "slug": "bader"
+    },
+    "code": {
+      "id": "JOAMM_amanet-amman-alkubrah_bader",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amanet-amman-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "أمانة عمان الكبرى",
+        "en": "Amanet Amman Alkubrah",
+        "slug": "amanet-amman-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amanet-amman-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "أمانة عمان الكبرى",
+          "en": "Amanet Amman Alkubrah",
+          "slug": "amanet-amman-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amanet-amman-alkubrah_badr-jadeda",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "بدر الجديدة",
+      "en": "Badr Jadeda",
+      "slug": "badr-jadeda"
+    },
+    "code": {
+      "id": "JOAMM_amanet-amman-alkubrah_badr-jadeda",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amanet-amman-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "أمانة عمان الكبرى",
+        "en": "Amanet Amman Alkubrah",
+        "slug": "amanet-amman-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amanet-amman-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "أمانة عمان الكبرى",
+          "en": "Amanet Amman Alkubrah",
+          "slug": "amanet-amman-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amanet-amman-alkubrah_baidha",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "البيضاء",
+      "en": "Baidha",
+      "slug": "baidha"
+    },
+    "code": {
+      "id": "JOAMM_amanet-amman-alkubrah_baidha",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amanet-amman-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "أمانة عمان الكبرى",
+        "en": "Amanet Amman Alkubrah",
+        "slug": "amanet-amman-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amanet-amman-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "أمانة عمان الكبرى",
+          "en": "Amanet Amman Alkubrah",
+          "slug": "amanet-amman-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amanet-amman-alkubrah_basman",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "بسمان",
+      "en": "Basman",
+      "slug": "basman"
+    },
+    "code": {
+      "id": "JOAMM_amanet-amman-alkubrah_basman",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amanet-amman-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "أمانة عمان الكبرى",
+        "en": "Amanet Amman Alkubrah",
+        "slug": "amanet-amman-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amanet-amman-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "أمانة عمان الكبرى",
+          "en": "Amanet Amman Alkubrah",
+          "slug": "amanet-amman-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amanet-amman-alkubrah_dair",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الدير",
+      "en": "Dair",
+      "slug": "dair"
+    },
+    "code": {
+      "id": "JOAMM_amanet-amman-alkubrah_dair",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amanet-amman-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "أمانة عمان الكبرى",
+        "en": "Amanet Amman Alkubrah",
+        "slug": "amanet-amman-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amanet-amman-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "أمانة عمان الكبرى",
+          "en": "Amanet Amman Alkubrah",
+          "slug": "amanet-amman-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amanet-amman-alkubrah_eskan-abu-nsair",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "اسكان ابو نصير",
+      "en": "Eskan Abu Nsair",
+      "slug": "eskan-abu-nsair"
+    },
+    "code": {
+      "id": "JOAMM_amanet-amman-alkubrah_eskan-abu-nsair",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amanet-amman-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "أمانة عمان الكبرى",
+        "en": "Amanet Amman Alkubrah",
+        "slug": "amanet-amman-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amanet-amman-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "أمانة عمان الكبرى",
+          "en": "Amanet Amman Alkubrah",
+          "slug": "amanet-amman-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amanet-amman-alkubrah_fahs",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الفحص",
+      "en": "Fahs",
+      "slug": "fahs"
+    },
+    "code": {
+      "id": "JOAMM_amanet-amman-alkubrah_fahs",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amanet-amman-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "أمانة عمان الكبرى",
+        "en": "Amanet Amman Alkubrah",
+        "slug": "amanet-amman-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amanet-amman-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "أمانة عمان الكبرى",
+          "en": "Amanet Amman Alkubrah",
+          "slug": "amanet-amman-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amanet-amman-alkubrah_jbaiha",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الجبيهة",
+      "en": "Jbaiha",
+      "slug": "jbaiha"
+    },
+    "code": {
+      "id": "JOAMM_amanet-amman-alkubrah_jbaiha",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amanet-amman-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "أمانة عمان الكبرى",
+        "en": "Amanet Amman Alkubrah",
+        "slug": "amanet-amman-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amanet-amman-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "أمانة عمان الكبرى",
+          "en": "Amanet Amman Alkubrah",
+          "slug": "amanet-amman-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amanet-amman-alkubrah_kaafour",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "قعفور",
+      "en": "Ka'afour",
+      "slug": "kaafour"
+    },
+    "code": {
+      "id": "JOAMM_amanet-amman-alkubrah_kaafour",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amanet-amman-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "أمانة عمان الكبرى",
+        "en": "Amanet Amman Alkubrah",
+        "slug": "amanet-amman-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amanet-amman-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "أمانة عمان الكبرى",
+          "en": "Amanet Amman Alkubrah",
+          "slug": "amanet-amman-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amanet-amman-alkubrah_khashafiyyet-janubyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الخشافية الجنوبية",
+      "en": "Khashafiyyet Janubyyeh",
+      "slug": "khashafiyyet-janubyyeh"
+    },
+    "code": {
+      "id": "JOAMM_amanet-amman-alkubrah_khashafiyyet-janubyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amanet-amman-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "أمانة عمان الكبرى",
+        "en": "Amanet Amman Alkubrah",
+        "slug": "amanet-amman-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amanet-amman-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "أمانة عمان الكبرى",
+          "en": "Amanet Amman Alkubrah",
+          "slug": "amanet-amman-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amanet-amman-alkubrah_khashafiyyet-shamalyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الخشافية الشمالية",
+      "en": "Khashafiyyet Shamalyyeh",
+      "slug": "khashafiyyet-shamalyyeh"
+    },
+    "code": {
+      "id": "JOAMM_amanet-amman-alkubrah_khashafiyyet-shamalyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amanet-amman-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "أمانة عمان الكبرى",
+        "en": "Amanet Amman Alkubrah",
+        "slug": "amanet-amman-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amanet-amman-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "أمانة عمان الكبرى",
+          "en": "Amanet Amman Alkubrah",
+          "slug": "amanet-amman-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amanet-amman-alkubrah_khraibet-essooqjawayadoodeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "خريبة السوق وجاوا واليادودة",
+      "en": "Khraibet Essooq,Jawa,Yadoodeh",
+      "slug": "khraibet-essooqjawayadoodeh"
+    },
+    "code": {
+      "id": "JOAMM_amanet-amman-alkubrah_khraibet-essooqjawayadoodeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amanet-amman-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "أمانة عمان الكبرى",
+        "en": "Amanet Amman Alkubrah",
+        "slug": "amanet-amman-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amanet-amman-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "أمانة عمان الكبرى",
+          "en": "Amanet Amman Alkubrah",
+          "slug": "amanet-amman-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amanet-amman-alkubrah_madhouna",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الماضونة",
+      "en": "Madhouna",
+      "slug": "madhouna"
+    },
+    "code": {
+      "id": "JOAMM_amanet-amman-alkubrah_madhouna",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amanet-amman-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "أمانة عمان الكبرى",
+        "en": "Amanet Amman Alkubrah",
+        "slug": "amanet-amman-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amanet-amman-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "أمانة عمان الكبرى",
+          "en": "Amanet Amman Alkubrah",
+          "slug": "amanet-amman-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amanet-amman-alkubrah_manakher",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المناخر",
+      "en": "Manakher",
+      "slug": "manakher"
+    },
+    "code": {
+      "id": "JOAMM_amanet-amman-alkubrah_manakher",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amanet-amman-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "أمانة عمان الكبرى",
+        "en": "Amanet Amman Alkubrah",
+        "slug": "amanet-amman-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amanet-amman-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "أمانة عمان الكبرى",
+          "en": "Amanet Amman Alkubrah",
+          "slug": "amanet-amman-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amanet-amman-alkubrah_marka",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ماركا",
+      "en": "Marka",
+      "slug": "marka"
+    },
+    "code": {
+      "id": "JOAMM_amanet-amman-alkubrah_marka",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amanet-amman-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "أمانة عمان الكبرى",
+        "en": "Amanet Amman Alkubrah",
+        "slug": "amanet-amman-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amanet-amman-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "أمانة عمان الكبرى",
+          "en": "Amanet Amman Alkubrah",
+          "slug": "amanet-amman-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amanet-amman-alkubrah_nair",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "النعير",
+      "en": "N'air",
+      "slug": "nair"
+    },
+    "code": {
+      "id": "JOAMM_amanet-amman-alkubrah_nair",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amanet-amman-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "أمانة عمان الكبرى",
+        "en": "Amanet Amman Alkubrah",
+        "slug": "amanet-amman-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amanet-amman-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "أمانة عمان الكبرى",
+          "en": "Amanet Amman Alkubrah",
+          "slug": "amanet-amman-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amanet-amman-alkubrah_ras-alain",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "راس العين",
+      "en": "Ras Alain",
+      "slug": "ras-alain"
+    },
+    "code": {
+      "id": "JOAMM_amanet-amman-alkubrah_ras-alain",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amanet-amman-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "أمانة عمان الكبرى",
+        "en": "Amanet Amman Alkubrah",
+        "slug": "amanet-amman-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amanet-amman-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "أمانة عمان الكبرى",
+          "en": "Amanet Amman Alkubrah",
+          "slug": "amanet-amman-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amanet-amman-alkubrah_rmedan",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "رميدان",
+      "en": "Rmedan",
+      "slug": "rmedan"
+    },
+    "code": {
+      "id": "JOAMM_amanet-amman-alkubrah_rmedan",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amanet-amman-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "أمانة عمان الكبرى",
+        "en": "Amanet Amman Alkubrah",
+        "slug": "amanet-amman-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amanet-amman-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "أمانة عمان الكبرى",
+          "en": "Amanet Amman Alkubrah",
+          "slug": "amanet-amman-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amanet-amman-alkubrah_shafa-badran",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "شفا بدران",
+      "en": "Shafa Badran",
+      "slug": "shafa-badran"
+    },
+    "code": {
+      "id": "JOAMM_amanet-amman-alkubrah_shafa-badran",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amanet-amman-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "أمانة عمان الكبرى",
+        "en": "Amanet Amman Alkubrah",
+        "slug": "amanet-amman-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amanet-amman-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "أمانة عمان الكبرى",
+          "en": "Amanet Amman Alkubrah",
+          "slug": "amanet-amman-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amanet-amman-alkubrah_swaileh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "صويلح",
+      "en": "Swaileh",
+      "slug": "swaileh"
+    },
+    "code": {
+      "id": "JOAMM_amanet-amman-alkubrah_swaileh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amanet-amman-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "أمانة عمان الكبرى",
+        "en": "Amanet Amman Alkubrah",
+        "slug": "amanet-amman-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amanet-amman-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "أمانة عمان الكبرى",
+          "en": "Amanet Amman Alkubrah",
+          "slug": "amanet-amman-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amanet-amman-alkubrah_tareq",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "طارق",
+      "en": "Tareq",
+      "slug": "tareq"
+    },
+    "code": {
+      "id": "JOAMM_amanet-amman-alkubrah_tareq",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amanet-amman-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "أمانة عمان الكبرى",
+        "en": "Amanet Amman Alkubrah",
+        "slug": "amanet-amman-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amanet-amman-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "أمانة عمان الكبرى",
+          "en": "Amanet Amman Alkubrah",
+          "slug": "amanet-amman-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amanet-amman-alkubrah_tlaa-alalikheldaum-essommaq",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "تلاع العلي وخلدا وام السماق",
+      "en": "Tla'a Alali,Khelda,Um Essommaq",
+      "slug": "tlaa-alalikheldaum-essommaq"
+    },
+    "code": {
+      "id": "JOAMM_amanet-amman-alkubrah_tlaa-alalikheldaum-essommaq",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amanet-amman-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "أمانة عمان الكبرى",
+        "en": "Amanet Amman Alkubrah",
+        "slug": "amanet-amman-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amanet-amman-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "أمانة عمان الكبرى",
+          "en": "Amanet Amman Alkubrah",
+          "slug": "amanet-amman-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amanet-amman-alkubrah_um-qsairmoqabaleenbinayat",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام قصير والمقابلين و البنيات",
+      "en": "Um Qsair,Moqabaleen,Binayat",
+      "slug": "um-qsairmoqabaleenbinayat"
+    },
+    "code": {
+      "id": "JOAMM_amanet-amman-alkubrah_um-qsairmoqabaleenbinayat",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amanet-amman-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "أمانة عمان الكبرى",
+        "en": "Amanet Amman Alkubrah",
+        "slug": "amanet-amman-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amanet-amman-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "أمانة عمان الكبرى",
+          "en": "Amanet Amman Alkubrah",
+          "slug": "amanet-amman-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amanet-amman-alkubrah_wadi-essier",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "وادي السير",
+      "en": "Wadi Essier",
+      "slug": "wadi-essier"
+    },
+    "code": {
+      "id": "JOAMM_amanet-amman-alkubrah_wadi-essier",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amanet-amman-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "أمانة عمان الكبرى",
+        "en": "Amanet Amman Alkubrah",
+        "slug": "amanet-amman-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amanet-amman-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "أمانة عمان الكبرى",
+          "en": "Amanet Amman Alkubrah",
+          "slug": "amanet-amman-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amanet-amman-alkubrah_zahran",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "زهران",
+      "en": "Zahran",
+      "slug": "zahran"
+    },
+    "code": {
+      "id": "JOAMM_amanet-amman-alkubrah_zahran",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amanet-amman-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "أمانة عمان الكبرى",
+        "en": "Amanet Amman Alkubrah",
+        "slug": "amanet-amman-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amanet-amman-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "أمانة عمان الكبرى",
+          "en": "Amanet Amman Alkubrah",
+          "slug": "amanet-amman-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amanet-amman-alkubrah_zamlet-olia",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "زملة العليا",
+      "en": "Zamlet Olia",
+      "slug": "zamlet-olia"
+    },
+    "code": {
+      "id": "JOAMM_amanet-amman-alkubrah_zamlet-olia",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amanet-amman-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "أمانة عمان الكبرى",
+        "en": "Amanet Amman Alkubrah",
+        "slug": "amanet-amman-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amanet-amman-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "أمانة عمان الكبرى",
+          "en": "Amanet Amman Alkubrah",
+          "slug": "amanet-amman-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

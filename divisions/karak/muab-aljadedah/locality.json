@@ -1,0 +1,650 @@
+[
+  {
+    "id": "JOKAR_muab-aljadedah_aina",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "العينا",
+      "en": "Aina",
+      "slug": "aina"
+    },
+    "code": {
+      "id": "JOKAR_muab-aljadedah_aina",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_muab-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "مؤاب الجديدة",
+        "en": "Mu'ab Aljadedah",
+        "slug": "muab-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_muab-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "مؤاب الجديدة",
+          "en": "Mu'ab Aljadedah",
+          "slug": "muab-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_muab-aljadedah_faisaliyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الفيصليه",
+      "en": "Faisaliyyeh",
+      "slug": "faisaliyyeh"
+    },
+    "code": {
+      "id": "JOKAR_muab-aljadedah_faisaliyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_muab-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "مؤاب الجديدة",
+        "en": "Mu'ab Aljadedah",
+        "slug": "muab-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_muab-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "مؤاب الجديدة",
+          "en": "Mu'ab Aljadedah",
+          "slug": "muab-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_muab-aljadedah_hashemiyyeh-janoobiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الهاشميه الجنوبيه",
+      "en": "Hashemiyyeh Janoobiyyeh",
+      "slug": "hashemiyyeh-janoobiyyeh"
+    },
+    "code": {
+      "id": "JOKAR_muab-aljadedah_hashemiyyeh-janoobiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_muab-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "مؤاب الجديدة",
+        "en": "Mu'ab Aljadedah",
+        "slug": "muab-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_muab-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "مؤاب الجديدة",
+          "en": "Mu'ab Aljadedah",
+          "slug": "muab-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_muab-aljadedah_husseiniyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الحسينيه",
+      "en": "Husseiniyyeh",
+      "slug": "husseiniyyeh"
+    },
+    "code": {
+      "id": "JOKAR_muab-aljadedah_husseiniyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_muab-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "مؤاب الجديدة",
+        "en": "Mu'ab Aljadedah",
+        "slug": "muab-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_muab-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "مؤاب الجديدة",
+          "en": "Mu'ab Aljadedah",
+          "slug": "muab-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_muab-aljadedah_kaderiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "القادرية",
+      "en": "Kaderiyyeh",
+      "slug": "kaderiyyeh"
+    },
+    "code": {
+      "id": "JOKAR_muab-aljadedah_kaderiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_muab-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "مؤاب الجديدة",
+        "en": "Mu'ab Aljadedah",
+        "slug": "muab-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_muab-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "مؤاب الجديدة",
+          "en": "Mu'ab Aljadedah",
+          "slug": "muab-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_muab-aljadedah_khaldiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الخالديه",
+      "en": "Khaldiyyeh",
+      "slug": "khaldiyyeh"
+    },
+    "code": {
+      "id": "JOKAR_muab-aljadedah_khaldiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_muab-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "مؤاب الجديدة",
+        "en": "Mu'ab Aljadedah",
+        "slug": "muab-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_muab-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "مؤاب الجديدة",
+          "en": "Mu'ab Aljadedah",
+          "slug": "muab-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_muab-aljadedah_mhiyy",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "محي",
+      "en": "Mhiyy",
+      "slug": "mhiyy"
+    },
+    "code": {
+      "id": "JOKAR_muab-aljadedah_mhiyy",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_muab-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "مؤاب الجديدة",
+        "en": "Mu'ab Aljadedah",
+        "slug": "muab-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_muab-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "مؤاب الجديدة",
+          "en": "Mu'ab Aljadedah",
+          "slug": "muab-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_muab-aljadedah_omariyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "العمريه",
+      "en": "Omariyyeh",
+      "slug": "omariyyeh"
+    },
+    "code": {
+      "id": "JOKAR_muab-aljadedah_omariyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_muab-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "مؤاب الجديدة",
+        "en": "Mu'ab Aljadedah",
+        "slug": "muab-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_muab-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "مؤاب الجديدة",
+          "en": "Mu'ab Aljadedah",
+          "slug": "muab-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_muab-aljadedah_shqaira-el-gharbiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "شقيرا الغربيه",
+      "en": "Shqaira El-Gharbiyyeh",
+      "slug": "shqaira-el-gharbiyyeh"
+    },
+    "code": {
+      "id": "JOKAR_muab-aljadedah_shqaira-el-gharbiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_muab-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "مؤاب الجديدة",
+        "en": "Mu'ab Aljadedah",
+        "slug": "muab-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_muab-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "مؤاب الجديدة",
+          "en": "Mu'ab Aljadedah",
+          "slug": "muab-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_muab-aljadedah_shqaira-el-sharqiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "شقيرا الشرقيه",
+      "en": "Shqaira El-Sharqiyyeh",
+      "slug": "shqaira-el-sharqiyyeh"
+    },
+    "code": {
+      "id": "JOKAR_muab-aljadedah_shqaira-el-sharqiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_muab-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "مؤاب الجديدة",
+        "en": "Mu'ab Aljadedah",
+        "slug": "muab-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_muab-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "مؤاب الجديدة",
+          "en": "Mu'ab Aljadedah",
+          "slug": "muab-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_muab-aljadedah_that-ras",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ذات راس",
+      "en": "That Ras",
+      "slug": "that-ras"
+    },
+    "code": {
+      "id": "JOKAR_muab-aljadedah_that-ras",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_muab-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "مؤاب الجديدة",
+        "en": "Mu'ab Aljadedah",
+        "slug": "muab-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_muab-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "مؤاب الجديدة",
+          "en": "Mu'ab Aljadedah",
+          "slug": "muab-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_muab-aljadedah_um-hamat",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام حماط",
+      "en": "Um Hamat",
+      "slug": "um-hamat"
+    },
+    "code": {
+      "id": "JOKAR_muab-aljadedah_um-hamat",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_muab-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "مؤاب الجديدة",
+        "en": "Mu'ab Aljadedah",
+        "slug": "muab-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_muab-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "مؤاب الجديدة",
+          "en": "Mu'ab Aljadedah",
+          "slug": "muab-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

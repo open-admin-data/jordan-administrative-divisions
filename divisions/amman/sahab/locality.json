@@ -1,0 +1,56 @@
+[
+  {
+    "id": "JOAMM_sahab_sahab",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "سحاب",
+      "en": "Sahab",
+      "slug": "sahab"
+    },
+    "code": {
+      "id": "JOAMM_sahab_sahab",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_sahab",
+      "level": 2,
+      "name": {
+        "local": "سحاب",
+        "en": "Sahab",
+        "slug": "sahab"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_sahab",
+        "level": 2,
+        "name": {
+          "local": "سحاب",
+          "en": "Sahab",
+          "slug": "sahab"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

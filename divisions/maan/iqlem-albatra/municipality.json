@@ -1,0 +1,47 @@
+{
+  "id": "JOMAA_iqlem-albatra",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "إقليم البتراء",
+    "en": "Iqlem Albatra",
+    "slug": "iqlem-albatra"
+  },
+  "code": {
+    "id": "JOMAA_iqlem-albatra",
+    "iso": null
+  },
+  "parent": {
+    "id": "JOMAA",
+    "level": 1,
+    "name": {
+      "local": "معان",
+      "en": "Ma\"an",
+      "slug": "maan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "JOMAA",
+      "level": 1,
+      "name": {
+        "local": "معان",
+        "en": "Ma\"an",
+        "slug": "maan"
+      }
+    }
+  ],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.229",
+    "lon": "36.653"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,472 @@
+[
+  {
+    "id": "JOBAL_ain-albasha",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "عين الباشا",
+      "en": "Ain Albasha",
+      "slug": "ain-albasha"
+    },
+    "code": {
+      "id": "JOBAL_ain-albasha",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL",
+      "level": 1,
+      "name": {
+        "local": "البلقاء",
+        "en": "Balqa",
+        "slug": "balqa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_al-ardha",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "العارضة",
+      "en": "Al-Ardha",
+      "slug": "al-ardha"
+    },
+    "code": {
+      "id": "JOBAL_al-ardha",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL",
+      "level": 1,
+      "name": {
+        "local": "البلقاء",
+        "en": "Balqa",
+        "slug": "balqa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_alshoneh-alwasta",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "الشونة الوسطى",
+      "en": "Alshoneh Alwasta",
+      "slug": "alshoneh-alwasta"
+    },
+    "code": {
+      "id": "JOBAL_alshoneh-alwasta",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL",
+      "level": 1,
+      "name": {
+        "local": "البلقاء",
+        "en": "Balqa",
+        "slug": "balqa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_baqah-camp",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "مخيم البقعة*",
+      "en": "Baq'ah Camp*",
+      "slug": "baqah-camp"
+    },
+    "code": {
+      "id": "JOBAL_baqah-camp",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL",
+      "level": 1,
+      "name": {
+        "local": "البلقاء",
+        "en": "Balqa",
+        "slug": "balqa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_dair-alla",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "دير علا",
+      "en": "Dair Alla",
+      "slug": "dair-alla"
+    },
+    "code": {
+      "id": "JOBAL_dair-alla",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL",
+      "level": 1,
+      "name": {
+        "local": "البلقاء",
+        "en": "Balqa",
+        "slug": "balqa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_fuhais",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "الفحيص",
+      "en": "Fuhais",
+      "slug": "fuhais"
+    },
+    "code": {
+      "id": "JOBAL_fuhais",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL",
+      "level": 1,
+      "name": {
+        "local": "البلقاء",
+        "en": "Balqa",
+        "slug": "balqa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_maddi",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "معدي",
+      "en": "M'addi",
+      "slug": "maddi"
+    },
+    "code": {
+      "id": "JOBAL_maddi",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL",
+      "level": 1,
+      "name": {
+        "local": "البلقاء",
+        "en": "Balqa",
+        "slug": "balqa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_mahes",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "ماحص",
+      "en": "Mahes",
+      "slug": "mahes"
+    },
+    "code": {
+      "id": "JOBAL_mahes",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL",
+      "level": 1,
+      "name": {
+        "local": "البلقاء",
+        "en": "Balqa",
+        "slug": "balqa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_salt-kubrah",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "السلط الكبرى",
+      "en": "Salt Kubrah",
+      "slug": "salt-kubrah"
+    },
+    "code": {
+      "id": "JOBAL_salt-kubrah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL",
+      "level": 1,
+      "name": {
+        "local": "البلقاء",
+        "en": "Balqa",
+        "slug": "balqa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_swaimeh",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "سويمة",
+      "en": "Swaimeh",
+      "slug": "swaimeh"
+    },
+    "code": {
+      "id": "JOBAL_swaimeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL",
+      "level": 1,
+      "name": {
+        "local": "البلقاء",
+        "en": "Balqa",
+        "slug": "balqa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

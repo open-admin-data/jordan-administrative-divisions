@@ -1,0 +1,378 @@
+[
+  {
+    "id": "JOZAR_azraq",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "الازرق",
+      "en": "Azraq",
+      "slug": "azraq"
+    },
+    "code": {
+      "id": "JOZAR_azraq",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR",
+      "level": 1,
+      "name": {
+        "local": "الزرقاء",
+        "en": "Zarqa",
+        "slug": "zarqa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_bierain",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "بيرين",
+      "en": "Bierain",
+      "slug": "bierain"
+    },
+    "code": {
+      "id": "JOZAR_bierain",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR",
+      "level": 1,
+      "name": {
+        "local": "الزرقاء",
+        "en": "Zarqa",
+        "slug": "zarqa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 25
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_dhlail",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "الضليل",
+      "en": "Dhlail",
+      "slug": "dhlail"
+    },
+    "code": {
+      "id": "JOZAR_dhlail",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR",
+      "level": 1,
+      "name": {
+        "local": "الزرقاء",
+        "en": "Zarqa",
+        "slug": "zarqa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_el-hallabat",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "الحلابات",
+      "en": "El-Hallabat",
+      "slug": "el-hallabat"
+    },
+    "code": {
+      "id": "JOZAR_el-hallabat",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR",
+      "level": 1,
+      "name": {
+        "local": "الزرقاء",
+        "en": "Zarqa",
+        "slug": "zarqa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_hashemiyah",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "الهاشمية",
+      "en": "Hashemiyah",
+      "slug": "hashemiyah"
+    },
+    "code": {
+      "id": "JOZAR_hashemiyah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR",
+      "level": 1,
+      "name": {
+        "local": "الزرقاء",
+        "en": "Zarqa",
+        "slug": "zarqa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_hetten-mrayjeeb-al-fhoud-al-mkhayzen-al-gharbeih-camp",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "مخيم حطين, مريجيب الفهود, المخيزن الغربية*",
+      "en": "Hetten, Mrayjeeb Al-fhoud, AL-mkhayzen Al-gharbeih Camp*",
+      "slug": "hetten-mrayjeeb-al-fhoud-al-mkhayzen-al-gharbeih-camp"
+    },
+    "code": {
+      "id": "JOZAR_hetten-mrayjeeb-al-fhoud-al-mkhayzen-al-gharbeih-camp",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR",
+      "level": 1,
+      "name": {
+        "local": "الزرقاء",
+        "en": "Zarqa",
+        "slug": "zarqa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_russeifa",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "الرصيفة",
+      "en": "Russeifa",
+      "slug": "russeifa"
+    },
+    "code": {
+      "id": "JOZAR_russeifa",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR",
+      "level": 1,
+      "name": {
+        "local": "الزرقاء",
+        "en": "Zarqa",
+        "slug": "zarqa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_zarqa",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "الزرقاء",
+      "en": "Zarqa",
+      "slug": "zarqa"
+    },
+    "code": {
+      "id": "JOZAR_zarqa",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR",
+      "level": 1,
+      "name": {
+        "local": "الزرقاء",
+        "en": "Zarqa",
+        "slug": "zarqa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

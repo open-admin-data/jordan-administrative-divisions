@@ -1,0 +1,488 @@
+[
+  {
+    "id": "JOIRB_moath-abn-jabal_adasiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "العدسية",
+      "en": "Adasiyyeh",
+      "slug": "adasiyyeh"
+    },
+    "code": {
+      "id": "JOIRB_moath-abn-jabal_adasiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_moath-abn-jabal",
+      "level": 2,
+      "name": {
+        "local": "معاذ بن جبل",
+        "en": "Mo'ath Abn Jabal",
+        "slug": "moath-abn-jabal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_moath-abn-jabal",
+        "level": 2,
+        "name": {
+          "local": "معاذ بن جبل",
+          "en": "Mo'ath Abn Jabal",
+          "slug": "moath-abn-jabal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_moath-abn-jabal_baqoorah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الباقوره",
+      "en": "Baqoorah",
+      "slug": "baqoorah"
+    },
+    "code": {
+      "id": "JOIRB_moath-abn-jabal_baqoorah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_moath-abn-jabal",
+      "level": 2,
+      "name": {
+        "local": "معاذ بن جبل",
+        "en": "Mo'ath Abn Jabal",
+        "slug": "moath-abn-jabal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_moath-abn-jabal",
+        "level": 2,
+        "name": {
+          "local": "معاذ بن جبل",
+          "en": "Mo'ath Abn Jabal",
+          "slug": "moath-abn-jabal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_moath-abn-jabal_feddein",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الفضيين",
+      "en": "Feddein",
+      "slug": "feddein"
+    },
+    "code": {
+      "id": "JOIRB_moath-abn-jabal_feddein",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_moath-abn-jabal",
+      "level": 2,
+      "name": {
+        "local": "معاذ بن جبل",
+        "en": "Mo'ath Abn Jabal",
+        "slug": "moath-abn-jabal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_moath-abn-jabal",
+        "level": 2,
+        "name": {
+          "local": "معاذ بن جبل",
+          "en": "Mo'ath Abn Jabal",
+          "slug": "moath-abn-jabal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_moath-abn-jabal_majed",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ماجد",
+      "en": "Majed",
+      "slug": "majed"
+    },
+    "code": {
+      "id": "JOIRB_moath-abn-jabal_majed",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_moath-abn-jabal",
+      "level": 2,
+      "name": {
+        "local": "معاذ بن جبل",
+        "en": "Mo'ath Abn Jabal",
+        "slug": "moath-abn-jabal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_moath-abn-jabal",
+        "level": 2,
+        "name": {
+          "local": "معاذ بن جبل",
+          "en": "Mo'ath Abn Jabal",
+          "slug": "moath-abn-jabal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_moath-abn-jabal_manshiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المنشية",
+      "en": "Manshiyyeh",
+      "slug": "manshiyyeh"
+    },
+    "code": {
+      "id": "JOIRB_moath-abn-jabal_manshiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_moath-abn-jabal",
+      "level": 2,
+      "name": {
+        "local": "معاذ بن جبل",
+        "en": "Mo'ath Abn Jabal",
+        "slug": "moath-abn-jabal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_moath-abn-jabal",
+        "level": 2,
+        "name": {
+          "local": "معاذ بن جبل",
+          "en": "Mo'ath Abn Jabal",
+          "slug": "moath-abn-jabal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_moath-abn-jabal_sakneh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الساخنة",
+      "en": "Sakneh",
+      "slug": "sakneh"
+    },
+    "code": {
+      "id": "JOIRB_moath-abn-jabal_sakneh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_moath-abn-jabal",
+      "level": 2,
+      "name": {
+        "local": "معاذ بن جبل",
+        "en": "Mo'ath Abn Jabal",
+        "slug": "moath-abn-jabal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_moath-abn-jabal",
+        "level": 2,
+        "name": {
+          "local": "معاذ بن جبل",
+          "en": "Mo'ath Abn Jabal",
+          "slug": "moath-abn-jabal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_moath-abn-jabal_shooneh-shamaliyah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الشونة الشمالية",
+      "en": "Shooneh Shamaliyah",
+      "slug": "shooneh-shamaliyah"
+    },
+    "code": {
+      "id": "JOIRB_moath-abn-jabal_shooneh-shamaliyah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_moath-abn-jabal",
+      "level": 2,
+      "name": {
+        "local": "معاذ بن جبل",
+        "en": "Mo'ath Abn Jabal",
+        "slug": "moath-abn-jabal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_moath-abn-jabal",
+        "level": 2,
+        "name": {
+          "local": "معاذ بن جبل",
+          "en": "Mo'ath Abn Jabal",
+          "slug": "moath-abn-jabal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_moath-abn-jabal_wadi-el-arab",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "وادي العرب",
+      "en": "Wadi El-Arab",
+      "slug": "wadi-el-arab"
+    },
+    "code": {
+      "id": "JOIRB_moath-abn-jabal_wadi-el-arab",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_moath-abn-jabal",
+      "level": 2,
+      "name": {
+        "local": "معاذ بن جبل",
+        "en": "Mo'ath Abn Jabal",
+        "slug": "moath-abn-jabal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_moath-abn-jabal",
+        "level": 2,
+        "name": {
+          "local": "معاذ بن جبل",
+          "en": "Mo'ath Abn Jabal",
+          "slug": "moath-abn-jabal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_moath-abn-jabal_waqqas",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "وقاص",
+      "en": "Waqqas",
+      "slug": "waqqas"
+    },
+    "code": {
+      "id": "JOIRB_moath-abn-jabal_waqqas",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_moath-abn-jabal",
+      "level": 2,
+      "name": {
+        "local": "معاذ بن جبل",
+        "en": "Mo'ath Abn Jabal",
+        "slug": "moath-abn-jabal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_moath-abn-jabal",
+        "level": 2,
+        "name": {
+          "local": "معاذ بن جبل",
+          "en": "Mo'ath Abn Jabal",
+          "slug": "moath-abn-jabal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

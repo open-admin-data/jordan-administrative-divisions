@@ -1,0 +1,47 @@
+{
+  "id": "JOMAF_al-zatary-camp",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "مخيم الزعتري*",
+    "en": "Al-Za'tary Camp*",
+    "slug": "al-zatary-camp"
+  },
+  "code": {
+    "id": "JOMAF_al-zatary-camp",
+    "iso": null
+  },
+  "parent": {
+    "id": "JOMAF",
+    "level": 1,
+    "name": {
+      "local": "المفرق",
+      "en": "Mafraq",
+      "slug": "mafraq"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "JOMAF",
+      "level": 1,
+      "name": {
+        "local": "المفرق",
+        "en": "Mafraq",
+        "slug": "mafraq"
+      }
+    }
+  ],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.54",
+    "lon": "37.616"
+  },
+  "metadata": {},
+  "source": {}
+}

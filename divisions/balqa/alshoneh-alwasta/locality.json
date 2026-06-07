@@ -1,0 +1,380 @@
+[
+  {
+    "id": "JOBAL_alshoneh-alwasta_joafet-el-kafrain",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "جوفة الكفرين",
+      "en": "Joafet El-Kafrain",
+      "slug": "joafet-el-kafrain"
+    },
+    "code": {
+      "id": "JOBAL_alshoneh-alwasta_joafet-el-kafrain",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_alshoneh-alwasta",
+      "level": 2,
+      "name": {
+        "local": "الشونة الوسطى",
+        "en": "Alshoneh Alwasta",
+        "slug": "alshoneh-alwasta"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_alshoneh-alwasta",
+        "level": 2,
+        "name": {
+          "local": "الشونة الوسطى",
+          "en": "Alshoneh Alwasta",
+          "slug": "alshoneh-alwasta"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_alshoneh-alwasta_kafrain",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الكفرين",
+      "en": "kafrain",
+      "slug": "kafrain"
+    },
+    "code": {
+      "id": "JOBAL_alshoneh-alwasta_kafrain",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_alshoneh-alwasta",
+      "level": 2,
+      "name": {
+        "local": "الشونة الوسطى",
+        "en": "Alshoneh Alwasta",
+        "slug": "alshoneh-alwasta"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_alshoneh-alwasta",
+        "level": 2,
+        "name": {
+          "local": "الشونة الوسطى",
+          "en": "Alshoneh Alwasta",
+          "slug": "alshoneh-alwasta"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_alshoneh-alwasta_karamah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الكرامة",
+      "en": "Karamah",
+      "slug": "karamah"
+    },
+    "code": {
+      "id": "JOBAL_alshoneh-alwasta_karamah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_alshoneh-alwasta",
+      "level": 2,
+      "name": {
+        "local": "الشونة الوسطى",
+        "en": "Alshoneh Alwasta",
+        "slug": "alshoneh-alwasta"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_alshoneh-alwasta",
+        "level": 2,
+        "name": {
+          "local": "الشونة الوسطى",
+          "en": "Alshoneh Alwasta",
+          "slug": "alshoneh-alwasta"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_alshoneh-alwasta_ramah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الرامة",
+      "en": "Ramah",
+      "slug": "ramah"
+    },
+    "code": {
+      "id": "JOBAL_alshoneh-alwasta_ramah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_alshoneh-alwasta",
+      "level": 2,
+      "name": {
+        "local": "الشونة الوسطى",
+        "en": "Alshoneh Alwasta",
+        "slug": "alshoneh-alwasta"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_alshoneh-alwasta",
+        "level": 2,
+        "name": {
+          "local": "الشونة الوسطى",
+          "en": "Alshoneh Alwasta",
+          "slug": "alshoneh-alwasta"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_alshoneh-alwasta_roudhah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الروضة",
+      "en": "Roudhah",
+      "slug": "roudhah"
+    },
+    "code": {
+      "id": "JOBAL_alshoneh-alwasta_roudhah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_alshoneh-alwasta",
+      "level": 2,
+      "name": {
+        "local": "الشونة الوسطى",
+        "en": "Alshoneh Alwasta",
+        "slug": "alshoneh-alwasta"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_alshoneh-alwasta",
+        "level": 2,
+        "name": {
+          "local": "الشونة الوسطى",
+          "en": "Alshoneh Alwasta",
+          "slug": "alshoneh-alwasta"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_alshoneh-alwasta_shoonah-jadideh-sokneh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الشونة الجديدة (السكنه)",
+      "en": "Shoonah Jadideh (Sokneh)",
+      "slug": "shoonah-jadideh-sokneh"
+    },
+    "code": {
+      "id": "JOBAL_alshoneh-alwasta_shoonah-jadideh-sokneh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_alshoneh-alwasta",
+      "level": 2,
+      "name": {
+        "local": "الشونة الوسطى",
+        "en": "Alshoneh Alwasta",
+        "slug": "alshoneh-alwasta"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_alshoneh-alwasta",
+        "level": 2,
+        "name": {
+          "local": "الشونة الوسطى",
+          "en": "Alshoneh Alwasta",
+          "slug": "alshoneh-alwasta"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_alshoneh-alwasta_shoonah-janoobiyah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الشونة الجنوبية",
+      "en": "Shoonah Janoobiyah",
+      "slug": "shoonah-janoobiyah"
+    },
+    "code": {
+      "id": "JOBAL_alshoneh-alwasta_shoonah-janoobiyah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_alshoneh-alwasta",
+      "level": 2,
+      "name": {
+        "local": "الشونة الوسطى",
+        "en": "Alshoneh Alwasta",
+        "slug": "alshoneh-alwasta"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_alshoneh-alwasta",
+        "level": 2,
+        "name": {
+          "local": "الشونة الوسطى",
+          "en": "Alshoneh Alwasta",
+          "slug": "alshoneh-alwasta"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "JOMAF_al-zatary-camp_mukhayyam-al-zatary",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "مخيم الزعتري",
+      "en": "Mukhayyam Al-Za'tary*",
+      "slug": "mukhayyam-al-zatary"
+    },
+    "code": {
+      "id": "JOMAF_al-zatary-camp_mukhayyam-al-zatary",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_al-zatary-camp",
+      "level": 2,
+      "name": {
+        "local": "مخيم الزعتري*",
+        "en": "Al-Za'tary Camp*",
+        "slug": "al-zatary-camp"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_al-zatary-camp",
+        "level": 2,
+        "name": {
+          "local": "مخيم الزعتري*",
+          "en": "Al-Za'tary Camp*",
+          "slug": "al-zatary-camp"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "JOIRB_ramtha-jadeda",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "الرمثا الجديدة",
+    "en": "Ramtha Jadeda",
+    "slug": "ramtha-jadeda"
+  },
+  "code": {
+    "id": "JOIRB_ramtha-jadeda",
+    "iso": null
+  },
+  "parent": {
+    "id": "JOIRB",
+    "level": 1,
+    "name": {
+      "local": "إربد",
+      "en": "Irbid",
+      "slug": "irbid"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "JOIRB",
+      "level": 1,
+      "name": {
+        "local": "إربد",
+        "en": "Irbid",
+        "slug": "irbid"
+      }
+    }
+  ],
+  "children_count": {
+    "locality": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.475",
+    "lon": "35.814"
+  },
+  "metadata": {},
+  "source": {}
+}

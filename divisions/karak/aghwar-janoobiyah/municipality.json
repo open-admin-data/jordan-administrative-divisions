@@ -1,0 +1,47 @@
+{
+  "id": "JOKAR_aghwar-janoobiyah",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "الاغوار الجنوبية",
+    "en": "Aghwar Janoobiyah",
+    "slug": "aghwar-janoobiyah"
+  },
+  "code": {
+    "id": "JOKAR_aghwar-janoobiyah",
+    "iso": null
+  },
+  "parent": {
+    "id": "JOKAR",
+    "level": 1,
+    "name": {
+      "local": "الكرك",
+      "en": "Karak",
+      "slug": "karak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "JOKAR",
+      "level": 1,
+      "name": {
+        "local": "الكرك",
+        "en": "Karak",
+        "slug": "karak"
+      }
+    }
+  ],
+  "children_count": {
+    "locality": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.119",
+    "lon": "35.795"
+  },
+  "metadata": {},
+  "source": {}
+}

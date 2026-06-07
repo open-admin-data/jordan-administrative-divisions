@@ -1,0 +1,47 @@
+{
+  "id": "JOIRB_garb-irbid",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "غرب اربد",
+    "en": "Garb Irbid",
+    "slug": "garb-irbid"
+  },
+  "code": {
+    "id": "JOIRB_garb-irbid",
+    "iso": null
+  },
+  "parent": {
+    "id": "JOIRB",
+    "level": 1,
+    "name": {
+      "local": "إربد",
+      "en": "Irbid",
+      "slug": "irbid"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "JOIRB",
+      "level": 1,
+      "name": {
+        "local": "إربد",
+        "en": "Irbid",
+        "slug": "irbid"
+      }
+    }
+  ],
+  "children_count": {
+    "locality": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.475",
+    "lon": "35.814"
+  },
+  "metadata": {},
+  "source": {}
+}

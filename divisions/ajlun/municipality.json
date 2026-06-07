@@ -1,0 +1,237 @@
+[
+  {
+    "id": "JOAJL_ajlun-alkubrah",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "عجلون الكبرى",
+      "en": "Ajlun Alkubrah",
+      "slug": "ajlun-alkubrah"
+    },
+    "code": {
+      "id": "JOAJL_ajlun-alkubrah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAJL",
+      "level": 1,
+      "name": {
+        "local": "عجلون",
+        "en": "Ajlun",
+        "slug": "ajlun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAJL",
+        "level": 1,
+        "name": {
+          "local": "عجلون",
+          "en": "Ajlun",
+          "slug": "ajlun"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.294",
+      "lon": "35.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAJL_alauion",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "العيون",
+      "en": "Alauion",
+      "slug": "alauion"
+    },
+    "code": {
+      "id": "JOAJL_alauion",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAJL",
+      "level": 1,
+      "name": {
+        "local": "عجلون",
+        "en": "Ajlun",
+        "slug": "ajlun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAJL",
+        "level": 1,
+        "name": {
+          "local": "عجلون",
+          "en": "Ajlun",
+          "slug": "ajlun"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.294",
+      "lon": "35.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAJL_janed",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "الجنيد",
+      "en": "Janed",
+      "slug": "janed"
+    },
+    "code": {
+      "id": "JOAJL_janed",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAJL",
+      "level": 1,
+      "name": {
+        "local": "عجلون",
+        "en": "Ajlun",
+        "slug": "ajlun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAJL",
+        "level": 1,
+        "name": {
+          "local": "عجلون",
+          "en": "Ajlun",
+          "slug": "ajlun"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.294",
+      "lon": "35.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAJL_kufrangeh-aljadedah",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "كفرنجه الجديدة",
+      "en": "Kufrangeh Aljadedah",
+      "slug": "kufrangeh-aljadedah"
+    },
+    "code": {
+      "id": "JOAJL_kufrangeh-aljadedah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAJL",
+      "level": 1,
+      "name": {
+        "local": "عجلون",
+        "en": "Ajlun",
+        "slug": "ajlun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAJL",
+        "level": 1,
+        "name": {
+          "local": "عجلون",
+          "en": "Ajlun",
+          "slug": "ajlun"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.294",
+      "lon": "35.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAJL_shafa",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "الشفا",
+      "en": "Shafa",
+      "slug": "shafa"
+    },
+    "code": {
+      "id": "JOAJL_shafa",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAJL",
+      "level": 1,
+      "name": {
+        "local": "عجلون",
+        "en": "Ajlun",
+        "slug": "ajlun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAJL",
+        "level": 1,
+        "name": {
+          "local": "عجلون",
+          "en": "Ajlun",
+          "slug": "ajlun"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.294",
+      "lon": "35.744"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

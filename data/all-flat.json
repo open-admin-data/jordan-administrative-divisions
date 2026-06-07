@@ -1,0 +1,5583 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/jo/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/jordan-administrative-divisions",
+  "data": [
+    {
+      "id": "JOAJL",
+      "level": 1,
+      "level_name": {
+        "local": "محافظة",
+        "en": "Governorate"
+      },
+      "name": {
+        "local": "عجلون",
+        "en": "Ajlun",
+        "slug": "ajlun"
+      },
+      "code": {
+        "id": "JOAJL",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 5,
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.294",
+        "lon": "35.744"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/jo/governorates/ajlun/",
+        "api": "https://openadmindata.org/api/jo/"
+      }
+    },
+    {
+      "id": "JOAJL_ajlun-alkubrah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "عجلون الكبرى",
+        "en": "Ajlun Alkubrah",
+        "slug": "ajlun-alkubrah"
+      },
+      "code": {
+        "id": "JOAJL_ajlun-alkubrah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOAJL",
+        "level": 1,
+        "name": {
+          "local": "عجلون",
+          "en": "Ajlun",
+          "slug": "ajlun"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOAJL",
+          "level": 1,
+          "name": {
+            "local": "عجلون",
+            "en": "Ajlun",
+            "slug": "ajlun"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.294",
+        "lon": "35.744"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOAJL_alauion",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "العيون",
+        "en": "Alauion",
+        "slug": "alauion"
+      },
+      "code": {
+        "id": "JOAJL_alauion",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOAJL",
+        "level": 1,
+        "name": {
+          "local": "عجلون",
+          "en": "Ajlun",
+          "slug": "ajlun"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOAJL",
+          "level": 1,
+          "name": {
+            "local": "عجلون",
+            "en": "Ajlun",
+            "slug": "ajlun"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.294",
+        "lon": "35.744"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOAJL_janed",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "الجنيد",
+        "en": "Janed",
+        "slug": "janed"
+      },
+      "code": {
+        "id": "JOAJL_janed",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOAJL",
+        "level": 1,
+        "name": {
+          "local": "عجلون",
+          "en": "Ajlun",
+          "slug": "ajlun"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOAJL",
+          "level": 1,
+          "name": {
+            "local": "عجلون",
+            "en": "Ajlun",
+            "slug": "ajlun"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.294",
+        "lon": "35.744"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOAJL_kufrangeh-aljadedah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "كفرنجه الجديدة",
+        "en": "Kufrangeh Aljadedah",
+        "slug": "kufrangeh-aljadedah"
+      },
+      "code": {
+        "id": "JOAJL_kufrangeh-aljadedah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOAJL",
+        "level": 1,
+        "name": {
+          "local": "عجلون",
+          "en": "Ajlun",
+          "slug": "ajlun"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOAJL",
+          "level": 1,
+          "name": {
+            "local": "عجلون",
+            "en": "Ajlun",
+            "slug": "ajlun"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.294",
+        "lon": "35.744"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOAJL_shafa",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "الشفا",
+        "en": "Shafa",
+        "slug": "shafa"
+      },
+      "code": {
+        "id": "JOAJL_shafa",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOAJL",
+        "level": 1,
+        "name": {
+          "local": "عجلون",
+          "en": "Ajlun",
+          "slug": "ajlun"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOAJL",
+          "level": 1,
+          "name": {
+            "local": "عجلون",
+            "en": "Ajlun",
+            "slug": "ajlun"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.294",
+        "lon": "35.744"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOAMM",
+      "level": 1,
+      "level_name": {
+        "local": "محافظة",
+        "en": "Governorate"
+      },
+      "name": {
+        "local": "عمّان",
+        "en": "Amman",
+        "slug": "amman"
+      },
+      "code": {
+        "id": "JOAMM",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 11,
+        "locality": 138
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.671",
+        "lon": "36.447"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/jo/governorates/amman/",
+        "api": "https://openadmindata.org/api/jo/"
+      }
+    },
+    {
+      "id": "JOAMM_amanet-amman-alkubrah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "أمانة عمان الكبرى",
+        "en": "Amanet Amman Alkubrah",
+        "slug": "amanet-amman-alkubrah"
+      },
+      "code": {
+        "id": "JOAMM_amanet-amman-alkubrah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOAMM",
+          "level": 1,
+          "name": {
+            "local": "عمّان",
+            "en": "Amman",
+            "slug": "amman"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 33
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.671",
+        "lon": "36.447"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOAMM_amireah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "العامرية",
+        "en": "Amireah",
+        "slug": "amireah"
+      },
+      "code": {
+        "id": "JOAMM_amireah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOAMM",
+          "level": 1,
+          "name": {
+            "local": "عمّان",
+            "en": "Amman",
+            "slug": "amman"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 8
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.671",
+        "lon": "36.447"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOAMM_hosban",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "حسبان",
+        "en": "Hosba'n",
+        "slug": "hosban"
+      },
+      "code": {
+        "id": "JOAMM_hosban",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOAMM",
+          "level": 1,
+          "name": {
+            "local": "عمّان",
+            "en": "Amman",
+            "slug": "amman"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 5
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.671",
+        "lon": "36.447"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOAMM_jizah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "الجيزة",
+        "en": "Jizah",
+        "slug": "jizah"
+      },
+      "code": {
+        "id": "JOAMM_jizah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOAMM",
+          "level": 1,
+          "name": {
+            "local": "عمّان",
+            "en": "Amman",
+            "slug": "amman"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 33
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.671",
+        "lon": "36.447"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOAMM_marj-al-hamam",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "مرج الحمام",
+        "en": "Marj Al-hamam",
+        "slug": "marj-al-hamam"
+      },
+      "code": {
+        "id": "JOAMM_marj-al-hamam",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOAMM",
+          "level": 1,
+          "name": {
+            "local": "عمّان",
+            "en": "Amman",
+            "slug": "amman"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 14
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.671",
+        "lon": "36.447"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOAMM_muaqqar",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "الموقر",
+        "en": "Muaqqar",
+        "slug": "muaqqar"
+      },
+      "code": {
+        "id": "JOAMM_muaqqar",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOAMM",
+          "level": 1,
+          "name": {
+            "local": "عمّان",
+            "en": "Amman",
+            "slug": "amman"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 23
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.671",
+        "lon": "36.447"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOAMM_naoor",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "ناعور",
+        "en": "Na'oor",
+        "slug": "naoor"
+      },
+      "code": {
+        "id": "JOAMM_naoor",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOAMM",
+          "level": 1,
+          "name": {
+            "local": "عمّان",
+            "en": "Amman",
+            "slug": "amman"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 15
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.671",
+        "lon": "36.447"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOAMM_sahab",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "سحاب",
+        "en": "Sahab",
+        "slug": "sahab"
+      },
+      "code": {
+        "id": "JOAMM_sahab",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOAMM",
+          "level": 1,
+          "name": {
+            "local": "عمّان",
+            "en": "Amman",
+            "slug": "amman"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.671",
+        "lon": "36.447"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOAMM_talbiyyeh-camp",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "مخيم الطالبية*",
+        "en": "Talbiyyeh Camp*",
+        "slug": "talbiyyeh-camp"
+      },
+      "code": {
+        "id": "JOAMM_talbiyyeh-camp",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOAMM",
+          "level": 1,
+          "name": {
+            "local": "عمّان",
+            "en": "Amman",
+            "slug": "amman"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.671",
+        "lon": "36.447"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOAMM_um-al-rasas",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "أم الرصاص",
+        "en": "Um Al-Rasas",
+        "slug": "um-al-rasas"
+      },
+      "code": {
+        "id": "JOAMM_um-al-rasas",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOAMM",
+          "level": 1,
+          "name": {
+            "local": "عمّان",
+            "en": "Amman",
+            "slug": "amman"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.671",
+        "lon": "36.447"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOAMM_um-elbasatien",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "أم البساتين",
+        "en": "Um Elbasatien",
+        "slug": "um-elbasatien"
+      },
+      "code": {
+        "id": "JOAMM_um-elbasatien",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOAMM",
+          "level": 1,
+          "name": {
+            "local": "عمّان",
+            "en": "Amman",
+            "slug": "amman"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 6
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.671",
+        "lon": "36.447"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOAQA",
+      "level": 1,
+      "level_name": {
+        "local": "محافظة",
+        "en": "Governorate"
+      },
+      "name": {
+        "local": "العقبة",
+        "en": "Aqaba",
+        "slug": "aqaba"
+      },
+      "code": {
+        "id": "JOAQA",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 6,
+        "locality": 26
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "29.976",
+        "lon": "35.347"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/jo/governorates/aqaba/",
+        "api": "https://openadmindata.org/api/jo/"
+      }
+    },
+    {
+      "id": "JOAQA_hud-aldisah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "حوض الديسة",
+        "en": "Hud Aldisah",
+        "slug": "hud-aldisah"
+      },
+      "code": {
+        "id": "JOAQA_hud-aldisah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOAQA",
+        "level": 1,
+        "name": {
+          "local": "العقبة",
+          "en": "Aqaba",
+          "slug": "aqaba"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOAQA",
+          "level": 1,
+          "name": {
+            "local": "العقبة",
+            "en": "Aqaba",
+            "slug": "aqaba"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "29.976",
+        "lon": "35.347"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOAQA_iqlem-alaqaba",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "إقليم العقبة",
+        "en": "Iqlem Alaqaba",
+        "slug": "iqlem-alaqaba"
+      },
+      "code": {
+        "id": "JOAQA_iqlem-alaqaba",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOAQA",
+        "level": 1,
+        "name": {
+          "local": "العقبة",
+          "en": "Aqaba",
+          "slug": "aqaba"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOAQA",
+          "level": 1,
+          "name": {
+            "local": "العقبة",
+            "en": "Aqaba",
+            "slug": "aqaba"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "29.976",
+        "lon": "35.347"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOAQA_krekrah-finan",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "فريقره وفينان",
+        "en": "Krekrah & Finan",
+        "slug": "krekrah-finan"
+      },
+      "code": {
+        "id": "JOAQA_krekrah-finan",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOAQA",
+        "level": 1,
+        "name": {
+          "local": "العقبة",
+          "en": "Aqaba",
+          "slug": "aqaba"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOAQA",
+          "level": 1,
+          "name": {
+            "local": "العقبة",
+            "en": "Aqaba",
+            "slug": "aqaba"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "29.976",
+        "lon": "35.347"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOAQA_qatar-rahmah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "قطر و رحمة",
+        "en": "Qatar & Rahmah",
+        "slug": "qatar-rahmah"
+      },
+      "code": {
+        "id": "JOAQA_qatar-rahmah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOAQA",
+        "level": 1,
+        "name": {
+          "local": "العقبة",
+          "en": "Aqaba",
+          "slug": "aqaba"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOAQA",
+          "level": 1,
+          "name": {
+            "local": "العقبة",
+            "en": "Aqaba",
+            "slug": "aqaba"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "29.976",
+        "lon": "35.347"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOAQA_quairahaljadedah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "القويرة الجديدة",
+        "en": "QuairahAljadedah",
+        "slug": "quairahaljadedah"
+      },
+      "code": {
+        "id": "JOAQA_quairahaljadedah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOAQA",
+        "level": 1,
+        "name": {
+          "local": "العقبة",
+          "en": "Aqaba",
+          "slug": "aqaba"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOAQA",
+          "level": 1,
+          "name": {
+            "local": "العقبة",
+            "en": "Aqaba",
+            "slug": "aqaba"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 11
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "29.976",
+        "lon": "35.347"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOAQA_wadi-araba",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "وادي عربه",
+        "en": "Wadi Araba",
+        "slug": "wadi-araba"
+      },
+      "code": {
+        "id": "JOAQA_wadi-araba",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOAQA",
+        "level": 1,
+        "name": {
+          "local": "العقبة",
+          "en": "Aqaba",
+          "slug": "aqaba"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOAQA",
+          "level": 1,
+          "name": {
+            "local": "العقبة",
+            "en": "Aqaba",
+            "slug": "aqaba"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 5
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "29.976",
+        "lon": "35.347"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOBAL",
+      "level": 1,
+      "level_name": {
+        "local": "محافظة",
+        "en": "Governorate"
+      },
+      "name": {
+        "local": "البلقاء",
+        "en": "Balqa",
+        "slug": "balqa"
+      },
+      "code": {
+        "id": "JOBAL",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 10,
+        "locality": 76
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.954",
+        "lon": "35.704"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/jo/governorates/balqa/",
+        "api": "https://openadmindata.org/api/jo/"
+      }
+    },
+    {
+      "id": "JOBAL_ain-albasha",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "عين الباشا",
+        "en": "Ain Albasha",
+        "slug": "ain-albasha"
+      },
+      "code": {
+        "id": "JOBAL_ain-albasha",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOBAL",
+          "level": 1,
+          "name": {
+            "local": "البلقاء",
+            "en": "Balqa",
+            "slug": "balqa"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 15
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.954",
+        "lon": "35.704"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOBAL_al-ardha",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "العارضة",
+        "en": "Al-Ardha",
+        "slug": "al-ardha"
+      },
+      "code": {
+        "id": "JOBAL_al-ardha",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOBAL",
+          "level": 1,
+          "name": {
+            "local": "البلقاء",
+            "en": "Balqa",
+            "slug": "balqa"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 15
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.954",
+        "lon": "35.704"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOBAL_alshoneh-alwasta",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "الشونة الوسطى",
+        "en": "Alshoneh Alwasta",
+        "slug": "alshoneh-alwasta"
+      },
+      "code": {
+        "id": "JOBAL_alshoneh-alwasta",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOBAL",
+          "level": 1,
+          "name": {
+            "local": "البلقاء",
+            "en": "Balqa",
+            "slug": "balqa"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 7
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.954",
+        "lon": "35.704"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOBAL_baqah-camp",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "مخيم البقعة*",
+        "en": "Baq'ah Camp*",
+        "slug": "baqah-camp"
+      },
+      "code": {
+        "id": "JOBAL_baqah-camp",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOBAL",
+          "level": 1,
+          "name": {
+            "local": "البلقاء",
+            "en": "Balqa",
+            "slug": "balqa"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.954",
+        "lon": "35.704"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOBAL_dair-alla",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "دير علا",
+        "en": "Dair Alla",
+        "slug": "dair-alla"
+      },
+      "code": {
+        "id": "JOBAL_dair-alla",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOBAL",
+          "level": 1,
+          "name": {
+            "local": "البلقاء",
+            "en": "Balqa",
+            "slug": "balqa"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 8
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.954",
+        "lon": "35.704"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOBAL_fuhais",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "الفحيص",
+        "en": "Fuhais",
+        "slug": "fuhais"
+      },
+      "code": {
+        "id": "JOBAL_fuhais",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOBAL",
+          "level": 1,
+          "name": {
+            "local": "البلقاء",
+            "en": "Balqa",
+            "slug": "balqa"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.954",
+        "lon": "35.704"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOBAL_maddi",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "معدي",
+        "en": "M'addi",
+        "slug": "maddi"
+      },
+      "code": {
+        "id": "JOBAL_maddi",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOBAL",
+          "level": 1,
+          "name": {
+            "local": "البلقاء",
+            "en": "Balqa",
+            "slug": "balqa"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 8
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.954",
+        "lon": "35.704"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOBAL_mahes",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "ماحص",
+        "en": "Mahes",
+        "slug": "mahes"
+      },
+      "code": {
+        "id": "JOBAL_mahes",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOBAL",
+          "level": 1,
+          "name": {
+            "local": "البلقاء",
+            "en": "Balqa",
+            "slug": "balqa"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.954",
+        "lon": "35.704"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOBAL_salt-kubrah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "السلط الكبرى",
+        "en": "Salt Kubrah",
+        "slug": "salt-kubrah"
+      },
+      "code": {
+        "id": "JOBAL_salt-kubrah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOBAL",
+          "level": 1,
+          "name": {
+            "local": "البلقاء",
+            "en": "Balqa",
+            "slug": "balqa"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 20
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.954",
+        "lon": "35.704"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOBAL_swaimeh",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "سويمة",
+        "en": "Swaimeh",
+        "slug": "swaimeh"
+      },
+      "code": {
+        "id": "JOBAL_swaimeh",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOBAL",
+          "level": 1,
+          "name": {
+            "local": "البلقاء",
+            "en": "Balqa",
+            "slug": "balqa"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.954",
+        "lon": "35.704"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOIRB",
+      "level": 1,
+      "level_name": {
+        "local": "محافظة",
+        "en": "Governorate"
+      },
+      "name": {
+        "local": "إربد",
+        "en": "Irbid",
+        "slug": "irbid"
+      },
+      "code": {
+        "id": "JOIRB",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 19,
+        "locality": 136
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.475",
+        "lon": "35.814"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/jo/governorates/irbid/",
+        "api": "https://openadmindata.org/api/jo/"
+      }
+    },
+    {
+      "id": "JOIRB_alkfarat",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "الكفارات",
+        "en": "Alkfarat",
+        "slug": "alkfarat"
+      },
+      "code": {
+        "id": "JOIRB_alkfarat",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOIRB",
+          "level": 1,
+          "name": {
+            "local": "إربد",
+            "en": "Irbid",
+            "slug": "irbid"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 7
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.475",
+        "lon": "35.814"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOIRB_alseru",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "السرو",
+        "en": "Alseru",
+        "slug": "alseru"
+      },
+      "code": {
+        "id": "JOIRB_alseru",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOIRB",
+          "level": 1,
+          "name": {
+            "local": "إربد",
+            "en": "Irbid",
+            "slug": "irbid"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 5
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.475",
+        "lon": "35.814"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOIRB_alshoaleh",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "الشعلة",
+        "en": "Alshoaleh",
+        "slug": "alshoaleh"
+      },
+      "code": {
+        "id": "JOIRB_alshoaleh",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOIRB",
+          "level": 1,
+          "name": {
+            "local": "إربد",
+            "en": "Irbid",
+            "slug": "irbid"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.475",
+        "lon": "35.814"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOIRB_alyarmook-aljadedah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "اليرموك الجديدة",
+        "en": "Alyarmook Aljadedah",
+        "slug": "alyarmook-aljadedah"
+      },
+      "code": {
+        "id": "JOIRB_alyarmook-aljadedah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOIRB",
+          "level": 1,
+          "name": {
+            "local": "إربد",
+            "en": "Irbid",
+            "slug": "irbid"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 8
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.475",
+        "lon": "35.814"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOIRB_brkash",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "برقش",
+        "en": "Brkash",
+        "slug": "brkash"
+      },
+      "code": {
+        "id": "JOIRB_brkash",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOIRB",
+          "level": 1,
+          "name": {
+            "local": "إربد",
+            "en": "Irbid",
+            "slug": "irbid"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 7
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.475",
+        "lon": "35.814"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOIRB_dair-abi-said-jadeda",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "دير أبي سعيد الجديدة",
+        "en": "Dair Abi Sa'id Jadeda",
+        "slug": "dair-abi-said-jadeda"
+      },
+      "code": {
+        "id": "JOIRB_dair-abi-said-jadeda",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOIRB",
+          "level": 1,
+          "name": {
+            "local": "إربد",
+            "en": "Irbid",
+            "slug": "irbid"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 9
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.475",
+        "lon": "35.814"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOIRB_garb-irbid",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "غرب اربد",
+        "en": "Garb Irbid",
+        "slug": "garb-irbid"
+      },
+      "code": {
+        "id": "JOIRB_garb-irbid",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOIRB",
+          "level": 1,
+          "name": {
+            "local": "إربد",
+            "en": "Irbid",
+            "slug": "irbid"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 10
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.475",
+        "lon": "35.814"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOIRB_irbid-alkubrah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "اربد الكبرى",
+        "en": "Irbid Alkubrah",
+        "slug": "irbid-alkubrah"
+      },
+      "code": {
+        "id": "JOIRB_irbid-alkubrah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOIRB",
+          "level": 1,
+          "name": {
+            "local": "إربد",
+            "en": "Irbid",
+            "slug": "irbid"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 22
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.475",
+        "lon": "35.814"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOIRB_khaled-abn-alwaleed",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "خالد بن الوليد",
+        "en": "Khaled Abn Alwaleed",
+        "slug": "khaled-abn-alwaleed"
+      },
+      "code": {
+        "id": "JOIRB_khaled-abn-alwaleed",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOIRB",
+          "level": 1,
+          "name": {
+            "local": "إربد",
+            "en": "Irbid",
+            "slug": "irbid"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 5
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.475",
+        "lon": "35.814"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOIRB_mazar-jadeda",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "المزار الجديدة",
+        "en": "Mazar Jadeda",
+        "slug": "mazar-jadeda"
+      },
+      "code": {
+        "id": "JOIRB_mazar-jadeda",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOIRB",
+          "level": 1,
+          "name": {
+            "local": "إربد",
+            "en": "Irbid",
+            "slug": "irbid"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 12
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.475",
+        "lon": "35.814"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOIRB_moath-abn-jabal",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "معاذ بن جبل",
+        "en": "Mo'ath Abn Jabal",
+        "slug": "moath-abn-jabal"
+      },
+      "code": {
+        "id": "JOIRB_moath-abn-jabal",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOIRB",
+          "level": 1,
+          "name": {
+            "local": "إربد",
+            "en": "Irbid",
+            "slug": "irbid"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 9
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.475",
+        "lon": "35.814"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOIRB_rabeat-al-koorah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "رابية الكورة",
+        "en": "Rabeat Al Koorah",
+        "slug": "rabeat-al-koorah"
+      },
+      "code": {
+        "id": "JOIRB_rabeat-al-koorah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOIRB",
+          "level": 1,
+          "name": {
+            "local": "إربد",
+            "en": "Irbid",
+            "slug": "irbid"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 5
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.475",
+        "lon": "35.814"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOIRB_ramtha-jadeda",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "الرمثا الجديدة",
+        "en": "Ramtha Jadeda",
+        "slug": "ramtha-jadeda"
+      },
+      "code": {
+        "id": "JOIRB_ramtha-jadeda",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOIRB",
+          "level": 1,
+          "name": {
+            "local": "إربد",
+            "en": "Irbid",
+            "slug": "irbid"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.475",
+        "lon": "35.814"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOIRB_sahel-horan",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "سهل حوران",
+        "en": "Sahel Horan",
+        "slug": "sahel-horan"
+      },
+      "code": {
+        "id": "JOIRB_sahel-horan",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOIRB",
+          "level": 1,
+          "name": {
+            "local": "إربد",
+            "en": "Irbid",
+            "slug": "irbid"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.475",
+        "lon": "35.814"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOIRB_shahed-azmi-el-mufti-hosoncamp",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "مخيم الشهيد عزمي المفتي(الحصن)*",
+        "en": "Shahed Azmi El-Mufti (Hoson)Camp*",
+        "slug": "shahed-azmi-el-mufti-hosoncamp"
+      },
+      "code": {
+        "id": "JOIRB_shahed-azmi-el-mufti-hosoncamp",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOIRB",
+          "level": 1,
+          "name": {
+            "local": "إربد",
+            "en": "Irbid",
+            "slug": "irbid"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.475",
+        "lon": "35.814"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOIRB_sharhabeel-abn-hasnah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "شرحبيل بن حسنة",
+        "en": "Sharhabeel Abn Hasnah",
+        "slug": "sharhabeel-abn-hasnah"
+      },
+      "code": {
+        "id": "JOIRB_sharhabeel-abn-hasnah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOIRB",
+          "level": 1,
+          "name": {
+            "local": "إربد",
+            "en": "Irbid",
+            "slug": "irbid"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 8
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.475",
+        "lon": "35.814"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOIRB_tabaqat-fahl",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "طبقة فحل",
+        "en": "Tabaqat Fahl",
+        "slug": "tabaqat-fahl"
+      },
+      "code": {
+        "id": "JOIRB_tabaqat-fahl",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOIRB",
+          "level": 1,
+          "name": {
+            "local": "إربد",
+            "en": "Irbid",
+            "slug": "irbid"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 6
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.475",
+        "lon": "35.814"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOIRB_taybeh-jadeda",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "الطيبة الجديدة",
+        "en": "Taybeh  Jadeda",
+        "slug": "taybeh-jadeda"
+      },
+      "code": {
+        "id": "JOIRB_taybeh-jadeda",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOIRB",
+          "level": 1,
+          "name": {
+            "local": "إربد",
+            "en": "Irbid",
+            "slug": "irbid"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 7
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.475",
+        "lon": "35.814"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOIRB_wastiyyah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "الوسطية",
+        "en": "Wastiyyah",
+        "slug": "wastiyyah"
+      },
+      "code": {
+        "id": "JOIRB_wastiyyah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOIRB",
+          "level": 1,
+          "name": {
+            "local": "إربد",
+            "en": "Irbid",
+            "slug": "irbid"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 7
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.475",
+        "lon": "35.814"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOJER",
+      "level": 1,
+      "level_name": {
+        "local": "محافظة",
+        "en": "Governorate"
+      },
+      "name": {
+        "local": "جرش",
+        "en": "Jarash",
+        "slug": "jarash"
+      },
+      "code": {
+        "id": "JOJER",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 6,
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.242",
+        "lon": "35.834"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/jo/governorates/jarash/",
+        "api": "https://openadmindata.org/api/jo/"
+      }
+    },
+    {
+      "id": "JOJER_almarad",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "المعراض",
+        "en": "Alm'arad",
+        "slug": "almarad"
+      },
+      "code": {
+        "id": "JOJER_almarad",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOJER",
+        "level": 1,
+        "name": {
+          "local": "جرش",
+          "en": "Jarash",
+          "slug": "jarash"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOJER",
+          "level": 1,
+          "name": {
+            "local": "جرش",
+            "en": "Jarash",
+            "slug": "jarash"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.242",
+        "lon": "35.834"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOJER_alnasim",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "النسيم",
+        "en": "alnasim",
+        "slug": "alnasim"
+      },
+      "code": {
+        "id": "JOJER_alnasim",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOJER",
+        "level": 1,
+        "name": {
+          "local": "جرش",
+          "en": "Jarash",
+          "slug": "jarash"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOJER",
+          "level": 1,
+          "name": {
+            "local": "جرش",
+            "en": "Jarash",
+            "slug": "jarash"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.242",
+        "lon": "35.834"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOJER_bab-amman",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "باب عمان",
+        "en": "Bab Amman",
+        "slug": "bab-amman"
+      },
+      "code": {
+        "id": "JOJER_bab-amman",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOJER",
+        "level": 1,
+        "name": {
+          "local": "جرش",
+          "en": "Jarash",
+          "slug": "jarash"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOJER",
+          "level": 1,
+          "name": {
+            "local": "جرش",
+            "en": "Jarash",
+            "slug": "jarash"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.242",
+        "lon": "35.834"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOJER_borma",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "برما",
+        "en": "Borma",
+        "slug": "borma"
+      },
+      "code": {
+        "id": "JOJER_borma",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOJER",
+        "level": 1,
+        "name": {
+          "local": "جرش",
+          "en": "Jarash",
+          "slug": "jarash"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOJER",
+          "level": 1,
+          "name": {
+            "local": "جرش",
+            "en": "Jarash",
+            "slug": "jarash"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.242",
+        "lon": "35.834"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOJER_jarash-alkubrah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "جرش الكبرى",
+        "en": "Jarash Alkubrah",
+        "slug": "jarash-alkubrah"
+      },
+      "code": {
+        "id": "JOJER_jarash-alkubrah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOJER",
+        "level": 1,
+        "name": {
+          "local": "جرش",
+          "en": "Jarash",
+          "slug": "jarash"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOJER",
+          "level": 1,
+          "name": {
+            "local": "جرش",
+            "en": "Jarash",
+            "slug": "jarash"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.242",
+        "lon": "35.834"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOJER_soof-campgaza-camp",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "مخيم سوف، مخيم غزه*",
+        "en": "Soof Camp,Gaza Camp*",
+        "slug": "soof-campgaza-camp"
+      },
+      "code": {
+        "id": "JOJER_soof-campgaza-camp",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOJER",
+        "level": 1,
+        "name": {
+          "local": "جرش",
+          "en": "Jarash",
+          "slug": "jarash"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOJER",
+          "level": 1,
+          "name": {
+            "local": "جرش",
+            "en": "Jarash",
+            "slug": "jarash"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.242",
+        "lon": "35.834"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOKAR",
+      "level": 1,
+      "level_name": {
+        "local": "محافظة",
+        "en": "Governorate"
+      },
+      "name": {
+        "local": "الكرك",
+        "en": "Karak",
+        "slug": "karak"
+      },
+      "code": {
+        "id": "JOKAR",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 10,
+        "locality": 87
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.119",
+        "lon": "35.795"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/jo/governorates/karak/",
+        "api": "https://openadmindata.org/api/jo/"
+      }
+    },
+    {
+      "id": "JOKAR_abdulah-bin-ruaha",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "عبد الله بن رواحه",
+        "en": "Abdulah Bin Ruaha",
+        "slug": "abdulah-bin-ruaha"
+      },
+      "code": {
+        "id": "JOKAR_abdulah-bin-ruaha",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOKAR",
+          "level": 1,
+          "name": {
+            "local": "الكرك",
+            "en": "Karak",
+            "slug": "karak"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 6
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.119",
+        "lon": "35.795"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOKAR_aghwar-janoobiyah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "الاغوار الجنوبية",
+        "en": "Aghwar Janoobiyah",
+        "slug": "aghwar-janoobiyah"
+      },
+      "code": {
+        "id": "JOKAR_aghwar-janoobiyah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOKAR",
+          "level": 1,
+          "name": {
+            "local": "الكرك",
+            "en": "Karak",
+            "slug": "karak"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 11
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.119",
+        "lon": "35.795"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOKAR_ayy",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "عي",
+        "en": "Ayy",
+        "slug": "ayy"
+      },
+      "code": {
+        "id": "JOKAR_ayy",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOKAR",
+          "level": 1,
+          "name": {
+            "local": "الكرك",
+            "en": "Karak",
+            "slug": "karak"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.119",
+        "lon": "35.795"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOKAR_karak-alkubrah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "الكرك الكبرى",
+        "en": "Karak Alkubrah",
+        "slug": "karak-alkubrah"
+      },
+      "code": {
+        "id": "JOKAR_karak-alkubrah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOKAR",
+          "level": 1,
+          "name": {
+            "local": "الكرك",
+            "en": "Karak",
+            "slug": "karak"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 36
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.119",
+        "lon": "35.795"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOKAR_muab-aljadedah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "مؤاب الجديدة",
+        "en": "Mu'ab Aljadedah",
+        "slug": "muab-aljadedah"
+      },
+      "code": {
+        "id": "JOKAR_muab-aljadedah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOKAR",
+          "level": 1,
+          "name": {
+            "local": "الكرك",
+            "en": "Karak",
+            "slug": "karak"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 12
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.119",
+        "lon": "35.795"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOKAR_muata-almazar",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "مؤتة  والمزار",
+        "en": "Mu'ata & Almazar",
+        "slug": "muata-almazar"
+      },
+      "code": {
+        "id": "JOKAR_muata-almazar",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOKAR",
+          "level": 1,
+          "name": {
+            "local": "الكرك",
+            "en": "Karak",
+            "slug": "karak"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.119",
+        "lon": "35.795"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOKAR_qatraneh",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "القطرانة",
+        "en": "Qatraneh",
+        "slug": "qatraneh"
+      },
+      "code": {
+        "id": "JOKAR_qatraneh",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOKAR",
+          "level": 1,
+          "name": {
+            "local": "الكرك",
+            "en": "Karak",
+            "slug": "karak"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.119",
+        "lon": "35.795"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOKAR_shehan",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "شيحان",
+        "en": "Shehan",
+        "slug": "shehan"
+      },
+      "code": {
+        "id": "JOKAR_shehan",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOKAR",
+          "level": 1,
+          "name": {
+            "local": "الكرك",
+            "en": "Karak",
+            "slug": "karak"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 9
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.119",
+        "lon": "35.795"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOKAR_sultani",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "السلطاني",
+        "en": "Sultani",
+        "slug": "sultani"
+      },
+      "code": {
+        "id": "JOKAR_sultani",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOKAR",
+          "level": 1,
+          "name": {
+            "local": "الكرك",
+            "en": "Karak",
+            "slug": "karak"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.119",
+        "lon": "35.795"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOKAR_talal-aljadedah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "طلال الجديدة",
+        "en": "Talal Aljadedah",
+        "slug": "talal-aljadedah"
+      },
+      "code": {
+        "id": "JOKAR_talal-aljadedah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOKAR",
+          "level": 1,
+          "name": {
+            "local": "الكرك",
+            "en": "Karak",
+            "slug": "karak"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 7
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.119",
+        "lon": "35.795"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOMAA",
+      "level": 1,
+      "level_name": {
+        "local": "محافظة",
+        "en": "Governorate"
+      },
+      "name": {
+        "local": "معان",
+        "en": "Ma\"an",
+        "slug": "maan"
+      },
+      "code": {
+        "id": "JOMAA",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 8,
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "30.229",
+        "lon": "36.653"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/jo/governorates/maan/",
+        "api": "https://openadmindata.org/api/jo/"
+      }
+    },
+    {
+      "id": "JOMAA_alashari",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "الأشعري",
+        "en": "Alashari",
+        "slug": "alashari"
+      },
+      "code": {
+        "id": "JOMAA_alashari",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOMAA",
+        "level": 1,
+        "name": {
+          "local": "معان",
+          "en": "Ma\"an",
+          "slug": "maan"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOMAA",
+          "level": 1,
+          "name": {
+            "local": "معان",
+            "en": "Ma\"an",
+            "slug": "maan"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "30.229",
+        "lon": "36.653"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOMAA_alsharah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "الشراه",
+        "en": "Alsharah",
+        "slug": "alsharah"
+      },
+      "code": {
+        "id": "JOMAA_alsharah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOMAA",
+        "level": 1,
+        "name": {
+          "local": "معان",
+          "en": "Ma\"an",
+          "slug": "maan"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOMAA",
+          "level": 1,
+          "name": {
+            "local": "معان",
+            "en": "Ma\"an",
+            "slug": "maan"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "30.229",
+        "lon": "36.653"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOMAA_husanieh-aljadedah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "الحسينيه الجديدة",
+        "en": "Husanieh Aljadedah",
+        "slug": "husanieh-aljadedah"
+      },
+      "code": {
+        "id": "JOMAA_husanieh-aljadedah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOMAA",
+        "level": 1,
+        "name": {
+          "local": "معان",
+          "en": "Ma\"an",
+          "slug": "maan"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOMAA",
+          "level": 1,
+          "name": {
+            "local": "معان",
+            "en": "Ma\"an",
+            "slug": "maan"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "30.229",
+        "lon": "36.653"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOMAA_iel-jadeda",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "إيل الجديدة",
+        "en": "Iel Jadeda",
+        "slug": "iel-jadeda"
+      },
+      "code": {
+        "id": "JOMAA_iel-jadeda",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOMAA",
+        "level": 1,
+        "name": {
+          "local": "معان",
+          "en": "Ma\"an",
+          "slug": "maan"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOMAA",
+          "level": 1,
+          "name": {
+            "local": "معان",
+            "en": "Ma\"an",
+            "slug": "maan"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "30.229",
+        "lon": "36.653"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOMAA_iqlem-albatra",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "إقليم البتراء",
+        "en": "Iqlem Albatra",
+        "slug": "iqlem-albatra"
+      },
+      "code": {
+        "id": "JOMAA_iqlem-albatra",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOMAA",
+        "level": 1,
+        "name": {
+          "local": "معان",
+          "en": "Ma\"an",
+          "slug": "maan"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOMAA",
+          "level": 1,
+          "name": {
+            "local": "معان",
+            "en": "Ma\"an",
+            "slug": "maan"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "30.229",
+        "lon": "36.653"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOMAA_jafr",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "الجفر",
+        "en": "Jafr",
+        "slug": "jafr"
+      },
+      "code": {
+        "id": "JOMAA_jafr",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOMAA",
+        "level": 1,
+        "name": {
+          "local": "معان",
+          "en": "Ma\"an",
+          "slug": "maan"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOMAA",
+          "level": 1,
+          "name": {
+            "local": "معان",
+            "en": "Ma\"an",
+            "slug": "maan"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "30.229",
+        "lon": "36.653"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOMAA_maan",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "معان",
+        "en": "Ma'an",
+        "slug": "maan"
+      },
+      "code": {
+        "id": "JOMAA_maan",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOMAA",
+        "level": 1,
+        "name": {
+          "local": "معان",
+          "en": "Ma\"an",
+          "slug": "maan"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOMAA",
+          "level": 1,
+          "name": {
+            "local": "معان",
+            "en": "Ma\"an",
+            "slug": "maan"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "30.229",
+        "lon": "36.653"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOMAA_shobak-aljadedah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "الشوبك الجديدة",
+        "en": "Shobak Aljadedah",
+        "slug": "shobak-aljadedah"
+      },
+      "code": {
+        "id": "JOMAA_shobak-aljadedah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOMAA",
+        "level": 1,
+        "name": {
+          "local": "معان",
+          "en": "Ma\"an",
+          "slug": "maan"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOMAA",
+          "level": 1,
+          "name": {
+            "local": "معان",
+            "en": "Ma\"an",
+            "slug": "maan"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "30.229",
+        "lon": "36.653"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOMAD",
+      "level": 1,
+      "level_name": {
+        "local": "محافظة",
+        "en": "Governorate"
+      },
+      "name": {
+        "local": "مادبا",
+        "en": "Madaba",
+        "slug": "madaba"
+      },
+      "code": {
+        "id": "JOMAD",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 4,
+        "locality": 73
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.624",
+        "lon": "35.671"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/jo/governorates/madaba/",
+        "api": "https://openadmindata.org/api/jo/"
+      }
+    },
+    {
+      "id": "JOMAD_dieban-jadeda",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "ذيبان الجديدة",
+        "en": "Dieban Jadeda",
+        "slug": "dieban-jadeda"
+      },
+      "code": {
+        "id": "JOMAD_dieban-jadeda",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOMAD",
+          "level": 1,
+          "name": {
+            "local": "مادبا",
+            "en": "Madaba",
+            "slug": "madaba"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 20
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.624",
+        "lon": "35.671"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOMAD_jabal-bne-hamedah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "جبل بني حميدة",
+        "en": "Jabal bne Hamedah",
+        "slug": "jabal-bne-hamedah"
+      },
+      "code": {
+        "id": "JOMAD_jabal-bne-hamedah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOMAD",
+          "level": 1,
+          "name": {
+            "local": "مادبا",
+            "en": "Madaba",
+            "slug": "madaba"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 15
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.624",
+        "lon": "35.671"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOMAD_leb-mlaih",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "لب ومليح",
+        "en": "Leb & Mlaih",
+        "slug": "leb-mlaih"
+      },
+      "code": {
+        "id": "JOMAD_leb-mlaih",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOMAD",
+          "level": 1,
+          "name": {
+            "local": "مادبا",
+            "en": "Madaba",
+            "slug": "madaba"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 15
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.624",
+        "lon": "35.671"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOMAD_madaba-alkubrah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "مادبا الكبرى",
+        "en": "Madaba Alkubrah",
+        "slug": "madaba-alkubrah"
+      },
+      "code": {
+        "id": "JOMAD_madaba-alkubrah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOMAD",
+          "level": 1,
+          "name": {
+            "local": "مادبا",
+            "en": "Madaba",
+            "slug": "madaba"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 23
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.624",
+        "lon": "35.671"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOMAF",
+      "level": 1,
+      "level_name": {
+        "local": "محافظة",
+        "en": "Governorate"
+      },
+      "name": {
+        "local": "المفرق",
+        "en": "Mafraq",
+        "slug": "mafraq"
+      },
+      "code": {
+        "id": "JOMAF",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 19,
+        "locality": 145
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.54",
+        "lon": "37.616"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/jo/governorates/mafraq/",
+        "api": "https://openadmindata.org/api/jo/"
+      }
+    },
+    {
+      "id": "JOMAF_al-zatary-camp",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "مخيم الزعتري*",
+        "en": "Al-Za'tary Camp*",
+        "slug": "al-zatary-camp"
+      },
+      "code": {
+        "id": "JOMAF_al-zatary-camp",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOMAF",
+          "level": 1,
+          "name": {
+            "local": "المفرق",
+            "en": "Mafraq",
+            "slug": "mafraq"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.54",
+        "lon": "37.616"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOMAF_alamer-alhusain-ben-abdollah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "الامير الحسين بن عبدالله",
+        "en": "Alamer Alhusain Ben Abdollah",
+        "slug": "alamer-alhusain-ben-abdollah"
+      },
+      "code": {
+        "id": "JOMAF_alamer-alhusain-ben-abdollah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOMAF",
+          "level": 1,
+          "name": {
+            "local": "المفرق",
+            "en": "Mafraq",
+            "slug": "mafraq"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 8
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.54",
+        "lon": "37.616"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOMAF_alrwashed-aljadedah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "الرويشد الجديدة",
+        "en": "Alrwashed Aljadedah",
+        "slug": "alrwashed-aljadedah"
+      },
+      "code": {
+        "id": "JOMAF_alrwashed-aljadedah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOMAF",
+          "level": 1,
+          "name": {
+            "local": "المفرق",
+            "en": "Mafraq",
+            "slug": "mafraq"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 5
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.54",
+        "lon": "37.616"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOMAF_alzatary-almansheah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "الزعتري والمنشية",
+        "en": "Alza'tary & Almansheah",
+        "slug": "alzatary-almansheah"
+      },
+      "code": {
+        "id": "JOMAF_alzatary-almansheah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOMAF",
+          "level": 1,
+          "name": {
+            "local": "المفرق",
+            "en": "Mafraq",
+            "slug": "mafraq"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.54",
+        "lon": "37.616"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOMAF_asfawi",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "الصفاوي",
+        "en": "Asfawi",
+        "slug": "asfawi"
+      },
+      "code": {
+        "id": "JOMAF_asfawi",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOMAF",
+          "level": 1,
+          "name": {
+            "local": "المفرق",
+            "en": "Mafraq",
+            "slug": "mafraq"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 2
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.54",
+        "lon": "37.616"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOMAF_aum-qutain-makfieah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "ام القطين والمكيفته",
+        "en": "Aum Qutain & Makfieah",
+        "slug": "aum-qutain-makfieah"
+      },
+      "code": {
+        "id": "JOMAF_aum-qutain-makfieah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOMAF",
+          "level": 1,
+          "name": {
+            "local": "المفرق",
+            "en": "Mafraq",
+            "slug": "mafraq"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.54",
+        "lon": "37.616"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOMAF_balama-aljadedah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "بلعما الجديدة",
+        "en": "Bal'ama Aljadedah",
+        "slug": "balama-aljadedah"
+      },
+      "code": {
+        "id": "JOMAF_balama-aljadedah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOMAF",
+          "level": 1,
+          "name": {
+            "local": "المفرق",
+            "en": "Mafraq",
+            "slug": "mafraq"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 17
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.54",
+        "lon": "37.616"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOMAF_bani-hashem",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "بني هاشم",
+        "en": "Bani Hashem",
+        "slug": "bani-hashem"
+      },
+      "code": {
+        "id": "JOMAF_bani-hashem",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOMAF",
+          "level": 1,
+          "name": {
+            "local": "المفرق",
+            "en": "Mafraq",
+            "slug": "mafraq"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 5
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.54",
+        "lon": "37.616"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOMAF_basleah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "الباسلية",
+        "en": "Basleah",
+        "slug": "basleah"
+      },
+      "code": {
+        "id": "JOMAF_basleah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOMAF",
+          "level": 1,
+          "name": {
+            "local": "المفرق",
+            "en": "Mafraq",
+            "slug": "mafraq"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.54",
+        "lon": "37.616"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOMAF_dair-alkahf-aljadedah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "دير الكهف الجديدة",
+        "en": "Dair Alkahf Aljadedah",
+        "slug": "dair-alkahf-aljadedah"
+      },
+      "code": {
+        "id": "JOMAF_dair-alkahf-aljadedah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOMAF",
+          "level": 1,
+          "name": {
+            "local": "المفرق",
+            "en": "Mafraq",
+            "slug": "mafraq"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 17
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.54",
+        "lon": "37.616"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOMAF_husha-aljadedah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "حوشا الجديدة",
+        "en": "Husha Aljadedah",
+        "slug": "husha-aljadedah"
+      },
+      "code": {
+        "id": "JOMAF_husha-aljadedah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOMAF",
+          "level": 1,
+          "name": {
+            "local": "المفرق",
+            "en": "Mafraq",
+            "slug": "mafraq"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 9
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.54",
+        "lon": "37.616"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOMAF_khaldiyah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "الخالدية",
+        "en": "Khaldiyah",
+        "slug": "khaldiyah"
+      },
+      "code": {
+        "id": "JOMAF_khaldiyah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOMAF",
+          "level": 1,
+          "name": {
+            "local": "المفرق",
+            "en": "Mafraq",
+            "slug": "mafraq"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.54",
+        "lon": "37.616"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOMAF_mafraq-alkubrah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "المفرق الكبرى",
+        "en": "Mafraq Alkubrah",
+        "slug": "mafraq-alkubrah"
+      },
+      "code": {
+        "id": "JOMAF_mafraq-alkubrah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOMAF",
+          "level": 1,
+          "name": {
+            "local": "المفرق",
+            "en": "Mafraq",
+            "slug": "mafraq"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 13
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.54",
+        "lon": "37.616"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOMAF_manshiat-bane-hasan",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "منشية بني حسن",
+        "en": "Manshiat Bane Hasan",
+        "slug": "manshiat-bane-hasan"
+      },
+      "code": {
+        "id": "JOMAF_manshiat-bane-hasan",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOMAF",
+          "level": 1,
+          "name": {
+            "local": "المفرق",
+            "en": "Mafraq",
+            "slug": "mafraq"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.54",
+        "lon": "37.616"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOMAF_rhab-aljadedah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "رحاب الجديدة",
+        "en": "Rhab Aljadedah",
+        "slug": "rhab-aljadedah"
+      },
+      "code": {
+        "id": "JOMAF_rhab-aljadedah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOMAF",
+          "level": 1,
+          "name": {
+            "local": "المفرق",
+            "en": "Mafraq",
+            "slug": "mafraq"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 26
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.54",
+        "lon": "37.616"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOMAF_sabha-defianeh",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "صبحا والدفيانه",
+        "en": "Sabha & Defianeh",
+        "slug": "sabha-defianeh"
+      },
+      "code": {
+        "id": "JOMAF_sabha-defianeh",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOMAF",
+          "level": 1,
+          "name": {
+            "local": "المفرق",
+            "en": "Mafraq",
+            "slug": "mafraq"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.54",
+        "lon": "37.616"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOMAF_salhiah-naifeh",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "الصالحية ونايفة",
+        "en": "Salhiah & Naifeh",
+        "slug": "salhiah-naifeh"
+      },
+      "code": {
+        "id": "JOMAF_salhiah-naifeh",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOMAF",
+          "level": 1,
+          "name": {
+            "local": "المفرق",
+            "en": "Mafraq",
+            "slug": "mafraq"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 10
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.54",
+        "lon": "37.616"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOMAF_sama-serhan",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "سما السرحان",
+        "en": "Sama Serhan",
+        "slug": "sama-serhan"
+      },
+      "code": {
+        "id": "JOMAF_sama-serhan",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOMAF",
+          "level": 1,
+          "name": {
+            "local": "المفرق",
+            "en": "Mafraq",
+            "slug": "mafraq"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 9
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.54",
+        "lon": "37.616"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOMAF_um-aljmal-aljadedah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "أم الجمال الجديدة",
+        "en": "Um aljmal Aljadedah",
+        "slug": "um-aljmal-aljadedah"
+      },
+      "code": {
+        "id": "JOMAF_um-aljmal-aljadedah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOMAF",
+          "level": 1,
+          "name": {
+            "local": "المفرق",
+            "en": "Mafraq",
+            "slug": "mafraq"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 9
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "32.54",
+        "lon": "37.616"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOTAF",
+      "level": 1,
+      "level_name": {
+        "local": "محافظة",
+        "en": "Governorate"
+      },
+      "name": {
+        "local": "الطفيلة",
+        "en": "Tafela",
+        "slug": "tafela"
+      },
+      "code": {
+        "id": "JOTAF",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 4,
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "30.803",
+        "lon": "35.656"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/jo/governorates/tafela/",
+        "api": "https://openadmindata.org/api/jo/"
+      }
+    },
+    {
+      "id": "JOTAF_bsaira",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "بصيرا",
+        "en": "Bsaira",
+        "slug": "bsaira"
+      },
+      "code": {
+        "id": "JOTAF_bsaira",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOTAF",
+        "level": 1,
+        "name": {
+          "local": "الطفيلة",
+          "en": "Tafela",
+          "slug": "tafela"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOTAF",
+          "level": 1,
+          "name": {
+            "local": "الطفيلة",
+            "en": "Tafela",
+            "slug": "tafela"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "30.803",
+        "lon": "35.656"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOTAF_hasa",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "الحسا",
+        "en": "Hasa",
+        "slug": "hasa"
+      },
+      "code": {
+        "id": "JOTAF_hasa",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOTAF",
+        "level": 1,
+        "name": {
+          "local": "الطفيلة",
+          "en": "Tafela",
+          "slug": "tafela"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOTAF",
+          "level": 1,
+          "name": {
+            "local": "الطفيلة",
+            "en": "Tafela",
+            "slug": "tafela"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "30.803",
+        "lon": "35.656"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOTAF_qadesiah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "القادسية",
+        "en": "Qadesiah",
+        "slug": "qadesiah"
+      },
+      "code": {
+        "id": "JOTAF_qadesiah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOTAF",
+        "level": 1,
+        "name": {
+          "local": "الطفيلة",
+          "en": "Tafela",
+          "slug": "tafela"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOTAF",
+          "level": 1,
+          "name": {
+            "local": "الطفيلة",
+            "en": "Tafela",
+            "slug": "tafela"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "30.803",
+        "lon": "35.656"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOTAF_tafilah-alkubrah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "الطفيلة الكبرى",
+        "en": "Tafilah Alkubrah",
+        "slug": "tafilah-alkubrah"
+      },
+      "code": {
+        "id": "JOTAF_tafilah-alkubrah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOTAF",
+        "level": 1,
+        "name": {
+          "local": "الطفيلة",
+          "en": "Tafela",
+          "slug": "tafela"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOTAF",
+          "level": 1,
+          "name": {
+            "local": "الطفيلة",
+            "en": "Tafela",
+            "slug": "tafela"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "30.803",
+        "lon": "35.656"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOZAR",
+      "level": 1,
+      "level_name": {
+        "local": "محافظة",
+        "en": "Governorate"
+      },
+      "name": {
+        "local": "الزرقاء",
+        "en": "Zarqa",
+        "slug": "zarqa"
+      },
+      "code": {
+        "id": "JOZAR",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "municipality": 8,
+        "locality": 60
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.858",
+        "lon": "36.842"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/jo/governorates/zarqa/",
+        "api": "https://openadmindata.org/api/jo/"
+      }
+    },
+    {
+      "id": "JOZAR_azraq",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "الازرق",
+        "en": "Azraq",
+        "slug": "azraq"
+      },
+      "code": {
+        "id": "JOZAR_azraq",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOZAR",
+          "level": 1,
+          "name": {
+            "local": "الزرقاء",
+            "en": "Zarqa",
+            "slug": "zarqa"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 7
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.858",
+        "lon": "36.842"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOZAR_bierain",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "بيرين",
+        "en": "Bierain",
+        "slug": "bierain"
+      },
+      "code": {
+        "id": "JOZAR_bierain",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOZAR",
+          "level": 1,
+          "name": {
+            "local": "الزرقاء",
+            "en": "Zarqa",
+            "slug": "zarqa"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 25
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.858",
+        "lon": "36.842"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOZAR_dhlail",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "الضليل",
+        "en": "Dhlail",
+        "slug": "dhlail"
+      },
+      "code": {
+        "id": "JOZAR_dhlail",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOZAR",
+          "level": 1,
+          "name": {
+            "local": "الزرقاء",
+            "en": "Zarqa",
+            "slug": "zarqa"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 1
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.858",
+        "lon": "36.842"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOZAR_el-hallabat",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "الحلابات",
+        "en": "El-Hallabat",
+        "slug": "el-hallabat"
+      },
+      "code": {
+        "id": "JOZAR_el-hallabat",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOZAR",
+          "level": 1,
+          "name": {
+            "local": "الزرقاء",
+            "en": "Zarqa",
+            "slug": "zarqa"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 7
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.858",
+        "lon": "36.842"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOZAR_hashemiyah",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "الهاشمية",
+        "en": "Hashemiyah",
+        "slug": "hashemiyah"
+      },
+      "code": {
+        "id": "JOZAR_hashemiyah",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOZAR",
+          "level": 1,
+          "name": {
+            "local": "الزرقاء",
+            "en": "Zarqa",
+            "slug": "zarqa"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 11
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.858",
+        "lon": "36.842"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOZAR_hetten-mrayjeeb-al-fhoud-al-mkhayzen-al-gharbeih-camp",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "مخيم حطين, مريجيب الفهود, المخيزن الغربية*",
+        "en": "Hetten, Mrayjeeb Al-fhoud, AL-mkhayzen Al-gharbeih Camp*",
+        "slug": "hetten-mrayjeeb-al-fhoud-al-mkhayzen-al-gharbeih-camp"
+      },
+      "code": {
+        "id": "JOZAR_hetten-mrayjeeb-al-fhoud-al-mkhayzen-al-gharbeih-camp",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOZAR",
+          "level": 1,
+          "name": {
+            "local": "الزرقاء",
+            "en": "Zarqa",
+            "slug": "zarqa"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.858",
+        "lon": "36.842"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOZAR_russeifa",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "الرصيفة",
+        "en": "Russeifa",
+        "slug": "russeifa"
+      },
+      "code": {
+        "id": "JOZAR_russeifa",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOZAR",
+          "level": 1,
+          "name": {
+            "local": "الزرقاء",
+            "en": "Zarqa",
+            "slug": "zarqa"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 6
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.858",
+        "lon": "36.842"
+      },
+      "metadata": {},
+      "source": {}
+    },
+    {
+      "id": "JOZAR_zarqa",
+      "level": 2,
+      "level_name": {
+        "local": "بلدية",
+        "en": "Municipality"
+      },
+      "name": {
+        "local": "الزرقاء",
+        "en": "Zarqa",
+        "slug": "zarqa"
+      },
+      "code": {
+        "id": "JOZAR_zarqa",
+        "iso": null
+      },
+      "parent": {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      "ancestors": [
+        {
+          "id": "JOZAR",
+          "level": 1,
+          "name": {
+            "local": "الزرقاء",
+            "en": "Zarqa",
+            "slug": "zarqa"
+          }
+        }
+      ],
+      "children_count": {
+        "locality": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "31.858",
+        "lon": "36.842"
+      },
+      "metadata": {},
+      "source": {}
+    }
+  ]
+}

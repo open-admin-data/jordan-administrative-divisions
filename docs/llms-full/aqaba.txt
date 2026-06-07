@@ -1,0 +1,143 @@
+# Aqaba — Jordan Administrative Divisions
+
+> 6 municipalitys, 26 localitys
+> Code: JOAQA
+> Coordinates: 29.976, 35.347
+> Last updated: 2026-06-07. License: CC-BY-4.0.
+
+## Municipalitys
+
+### حوض الديسة (Hud Aldisah)
+
+Code: JOAQA_hud-aldisah, Coordinates: 29.976, 35.347
+Localitys: 4
+
+#### الديسه (Diesah)
+
+Code: JOAQA_hud-aldisah_diesah, Coordinates: 29.976, 35.347
+
+#### الغال (Ghal)
+
+Code: JOAQA_hud-aldisah_ghal, Coordinates: 29.976, 35.347
+
+#### منيشير (Mnaishier)
+
+Code: JOAQA_hud-aldisah_mnaishier, Coordinates: 29.976, 35.347
+
+#### الطويسه (Twaiseh)
+
+Code: JOAQA_hud-aldisah_twaiseh, Coordinates: 29.976, 35.347
+
+### إقليم العقبة (Iqlem Alaqaba)
+
+Code: JOAQA_iqlem-alaqaba, Coordinates: 29.976, 35.347
+Localitys: 4
+
+#### الدره (Aldorah)
+
+Code: JOAQA_iqlem-alaqaba_aldorah, Coordinates: 29.976, 35.347
+
+#### العقبة (Aqaba)
+
+Code: JOAQA_iqlem-alaqaba_aqaba, Coordinates: 29.976, 35.347
+
+#### المزفر (Mezfer)
+
+Code: JOAQA_iqlem-alaqaba_mezfer, Coordinates: 29.976, 35.347
+
+#### تتن (Teten)
+
+Code: JOAQA_iqlem-alaqaba_teten, Coordinates: 29.976, 35.347
+
+### فريقره وفينان (Krekrah &amp; Finan)
+
+Code: JOAQA_krekrah-finan, Coordinates: 29.976, 35.347
+Localitys: 0
+
+### قطر و رحمة (Qatar &amp; Rahmah)
+
+Code: JOAQA_qatar-rahmah, Coordinates: 29.976, 35.347
+Localitys: 2
+
+#### قطر (Qatar)
+
+Code: JOAQA_qatar-rahmah_qatar, Coordinates: 29.976, 35.347
+
+#### رحمه (Rahmah)
+
+Code: JOAQA_qatar-rahmah_rahmah, Coordinates: 29.976, 35.347
+
+### القويرة الجديدة (QuairahAljadedah)
+
+Code: JOAQA_quairahaljadedah, Coordinates: 29.976, 35.347
+Localitys: 11
+
+#### العسليه (Asaleah)
+
+Code: JOAQA_quairahaljadedah_asaleah, Coordinates: 29.976, 35.347
+
+#### دبة حانوت (Dabbet Hanoot)
+
+Code: JOAQA_quairahaljadedah_dabbet-hanoot, Coordinates: 29.976, 35.347
+
+#### عين الهوارة (Ean Hawara)
+
+Code: JOAQA_quairahaljadedah_ean-hawara, Coordinates: 29.976, 35.347
+
+#### الحميمه (Hmaimieh)
+
+Code: JOAQA_quairahaljadedah_hmaimieh, Coordinates: 29.976, 35.347
+
+#### الحميمة الجديدة (Hmaimieh Jadiedeh)
+
+Code: JOAQA_quairahaljadedah_hmaimieh-jadiedeh, Coordinates: 29.976, 35.347
+
+#### القويره (Quairah)
+
+Code: JOAQA_quairahaljadedah_quairah, Coordinates: 29.976, 35.347
+
+#### الراشديه (Rashdyah)
+
+Code: JOAQA_quairahaljadedah_rashdyah, Coordinates: 29.976, 35.347
+
+#### رم (Rum)
+
+Code: JOAQA_quairahaljadedah_rum, Coordinates: 29.976, 35.347
+
+#### الصالحيه (Sallheiah)
+
+Code: JOAQA_quairahaljadedah_sallheiah, Coordinates: 29.976, 35.347
+
+#### الشاكرية (Shakriyyeh)
+
+Code: JOAQA_quairahaljadedah_shakriyyeh, Coordinates: 29.976, 35.347
+
+#### الطويل (Taweel)
+
+Code: JOAQA_quairahaljadedah_taweel, Coordinates: 29.976, 35.347
+
+### وادي عربه (Wadi Araba)
+
+Code: JOAQA_wadi-araba, Coordinates: 29.976, 35.347
+Localitys: 5
+
+#### المقرح (Almaqrah)
+
+Code: JOAQA_wadi-araba_almaqrah, Coordinates: 29.976, 35.347
+
+#### بئر مذكور (Beir Mathkoor)
+
+Code: JOAQA_wadi-araba_beir-mathkoor, Coordinates: 29.976, 35.347
+
+#### غرندل (Grandal)
+
+Code: JOAQA_wadi-araba_grandal, Coordinates: 29.976, 35.347
+
+#### الريشه (Reisheh)
+
+Code: JOAQA_wadi-araba_reisheh, Coordinates: 29.976, 35.347
+
+#### طابا (Taba)
+
+Code: JOAQA_wadi-araba_taba, Coordinates: 29.976, 35.347
+

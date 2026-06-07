@@ -1,0 +1,1946 @@
+[
+  {
+    "id": "JOKAR_karak-alkubrah_abdaliyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "العبدليه",
+      "en": "Abdaliyyeh",
+      "slug": "abdaliyyeh"
+    },
+    "code": {
+      "id": "JOKAR_karak-alkubrah_abdaliyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_karak-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "الكرك الكبرى",
+        "en": "Karak Alkubrah",
+        "slug": "karak-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_karak-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "الكرك الكبرى",
+          "en": "Karak Alkubrah",
+          "slug": "karak-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_karak-alkubrah_ader",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ادر",
+      "en": "Ader",
+      "slug": "ader"
+    },
+    "code": {
+      "id": "JOKAR_karak-alkubrah_ader",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_karak-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "الكرك الكبرى",
+        "en": "Karak Alkubrah",
+        "slug": "karak-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_karak-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "الكرك الكبرى",
+          "en": "Karak Alkubrah",
+          "slug": "karak-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_karak-alkubrah_adnaniyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "العدنانيه",
+      "en": "Adnaniyyeh",
+      "slug": "adnaniyyeh"
+    },
+    "code": {
+      "id": "JOKAR_karak-alkubrah_adnaniyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_karak-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "الكرك الكبرى",
+        "en": "Karak Alkubrah",
+        "slug": "karak-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_karak-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "الكرك الكبرى",
+          "en": "Karak Alkubrah",
+          "slug": "karak-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_karak-alkubrah_ainoon",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "عينون",
+      "en": "Ainoon",
+      "slug": "ainoon"
+    },
+    "code": {
+      "id": "JOKAR_karak-alkubrah_ainoon",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_karak-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "الكرك الكبرى",
+        "en": "Karak Alkubrah",
+        "slug": "karak-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_karak-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "الكرك الكبرى",
+          "en": "Karak Alkubrah",
+          "slug": "karak-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_karak-alkubrah_azezieh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "العزيزيه",
+      "en": "Azezieh",
+      "slug": "azezieh"
+    },
+    "code": {
+      "id": "JOKAR_karak-alkubrah_azezieh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_karak-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "الكرك الكبرى",
+        "en": "Karak Alkubrah",
+        "slug": "karak-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_karak-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "الكرك الكبرى",
+          "en": "Karak Alkubrah",
+          "slug": "karak-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_karak-alkubrah_baqea",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "البقيع",
+      "en": "Baqea'",
+      "slug": "baqea"
+    },
+    "code": {
+      "id": "JOKAR_karak-alkubrah_baqea",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_karak-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "الكرك الكبرى",
+        "en": "Karak Alkubrah",
+        "slug": "karak-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_karak-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "الكرك الكبرى",
+          "en": "Karak Alkubrah",
+          "slug": "karak-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_karak-alkubrah_barada",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "بردى",
+      "en": "Barada",
+      "slug": "barada"
+    },
+    "code": {
+      "id": "JOKAR_karak-alkubrah_barada",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_karak-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "الكرك الكبرى",
+        "en": "Karak Alkubrah",
+        "slug": "karak-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_karak-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "الكرك الكبرى",
+          "en": "Karak Alkubrah",
+          "slug": "karak-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_karak-alkubrah_bathan",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "بذان",
+      "en": "Bathan",
+      "slug": "bathan"
+    },
+    "code": {
+      "id": "JOKAR_karak-alkubrah_bathan",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_karak-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "الكرك الكبرى",
+        "en": "Karak Alkubrah",
+        "slug": "karak-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_karak-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "الكرك الكبرى",
+          "en": "Karak Alkubrah",
+          "slug": "karak-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_karak-alkubrah_battier",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "بتير",
+      "en": "Battier",
+      "slug": "battier"
+    },
+    "code": {
+      "id": "JOKAR_karak-alkubrah_battier",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_karak-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "الكرك الكبرى",
+        "en": "Karak Alkubrah",
+        "slug": "karak-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_karak-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "الكرك الكبرى",
+          "en": "Karak Alkubrah",
+          "slug": "karak-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_karak-alkubrah_ghwair",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الغوير",
+      "en": "Ghwair",
+      "slug": "ghwair"
+    },
+    "code": {
+      "id": "JOKAR_karak-alkubrah_ghwair",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_karak-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "الكرك الكبرى",
+        "en": "Karak Alkubrah",
+        "slug": "karak-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_karak-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "الكرك الكبرى",
+          "en": "Karak Alkubrah",
+          "slug": "karak-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_karak-alkubrah_houyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الحويه",
+      "en": "Houyeh",
+      "slug": "houyeh"
+    },
+    "code": {
+      "id": "JOKAR_karak-alkubrah_houyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_karak-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "الكرك الكبرى",
+        "en": "Karak Alkubrah",
+        "slug": "karak-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_karak-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "الكرك الكبرى",
+          "en": "Karak Alkubrah",
+          "slug": "karak-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_karak-alkubrah_jadiedh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الجديده",
+      "en": "Jadiedh",
+      "slug": "jadiedh"
+    },
+    "code": {
+      "id": "JOKAR_karak-alkubrah_jadiedh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_karak-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "الكرك الكبرى",
+        "en": "Karak Alkubrah",
+        "slug": "karak-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_karak-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "الكرك الكبرى",
+          "en": "Karak Alkubrah",
+          "slug": "karak-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_karak-alkubrah_kamnah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "كمنه",
+      "en": "Kamnah",
+      "slug": "kamnah"
+    },
+    "code": {
+      "id": "JOKAR_karak-alkubrah_kamnah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_karak-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "الكرك الكبرى",
+        "en": "Karak Alkubrah",
+        "slug": "karak-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_karak-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "الكرك الكبرى",
+          "en": "Karak Alkubrah",
+          "slug": "karak-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_karak-alkubrah_karak",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الكرك",
+      "en": "Karak",
+      "slug": "karak"
+    },
+    "code": {
+      "id": "JOKAR_karak-alkubrah_karak",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_karak-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "الكرك الكبرى",
+        "en": "Karak Alkubrah",
+        "slug": "karak-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_karak-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "الكرك الكبرى",
+          "en": "Karak Alkubrah",
+          "slug": "karak-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_karak-alkubrah_lajoon",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "اللجون",
+      "en": "Lajoon",
+      "slug": "lajoon"
+    },
+    "code": {
+      "id": "JOKAR_karak-alkubrah_lajoon",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_karak-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "الكرك الكبرى",
+        "en": "Karak Alkubrah",
+        "slug": "karak-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_karak-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "الكرك الكبرى",
+          "en": "Karak Alkubrah",
+          "slug": "karak-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_karak-alkubrah_mamooniyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المأمونيه",
+      "en": "Ma'mooniyyeh",
+      "slug": "mamooniyyeh"
+    },
+    "code": {
+      "id": "JOKAR_karak-alkubrah_mamooniyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_karak-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "الكرك الكبرى",
+        "en": "Karak Alkubrah",
+        "slug": "karak-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_karak-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "الكرك الكبرى",
+          "en": "Karak Alkubrah",
+          "slug": "karak-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_karak-alkubrah_mahmodeyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المحموديه",
+      "en": "Mahmodeyeh",
+      "slug": "mahmodeyeh"
+    },
+    "code": {
+      "id": "JOKAR_karak-alkubrah_mahmodeyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_karak-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "الكرك الكبرى",
+        "en": "Karak Alkubrah",
+        "slug": "karak-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_karak-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "الكرك الكبرى",
+          "en": "Karak Alkubrah",
+          "slug": "karak-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_karak-alkubrah_manshiyyet-abu-hammoor",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "منشية ابو حمور",
+      "en": "Manshiyyet Abu Hammoor",
+      "slug": "manshiyyet-abu-hammoor"
+    },
+    "code": {
+      "id": "JOKAR_karak-alkubrah_manshiyyet-abu-hammoor",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_karak-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "الكرك الكبرى",
+        "en": "Karak Alkubrah",
+        "slug": "karak-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_karak-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "الكرك الكبرى",
+          "en": "Karak Alkubrah",
+          "slug": "karak-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_karak-alkubrah_median",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "مدين",
+      "en": "Median",
+      "slug": "median"
+    },
+    "code": {
+      "id": "JOKAR_karak-alkubrah_median",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_karak-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "الكرك الكبرى",
+        "en": "Karak Alkubrah",
+        "slug": "karak-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_karak-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "الكرك الكبرى",
+          "en": "Karak Alkubrah",
+          "slug": "karak-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_karak-alkubrah_merwed",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "مرود",
+      "en": "Merwed",
+      "slug": "merwed"
+    },
+    "code": {
+      "id": "JOKAR_karak-alkubrah_merwed",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_karak-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "الكرك الكبرى",
+        "en": "Karak Alkubrah",
+        "slug": "karak-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_karak-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "الكرك الكبرى",
+          "en": "Karak Alkubrah",
+          "slug": "karak-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_karak-alkubrah_moomia",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "موميا",
+      "en": "Moomia",
+      "slug": "moomia"
+    },
+    "code": {
+      "id": "JOKAR_karak-alkubrah_moomia",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_karak-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "الكرك الكبرى",
+        "en": "Karak Alkubrah",
+        "slug": "karak-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_karak-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "الكرك الكبرى",
+          "en": "Karak Alkubrah",
+          "slug": "karak-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_karak-alkubrah_mraighah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المريغه",
+      "en": "Mraighah",
+      "slug": "mraighah"
+    },
+    "code": {
+      "id": "JOKAR_karak-alkubrah_mraighah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_karak-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "الكرك الكبرى",
+        "en": "Karak Alkubrah",
+        "slug": "karak-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_karak-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "الكرك الكبرى",
+          "en": "Karak Alkubrah",
+          "slug": "karak-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_karak-alkubrah_mshairfeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المشيرفه",
+      "en": "Mshairfeh",
+      "slug": "mshairfeh"
+    },
+    "code": {
+      "id": "JOKAR_karak-alkubrah_mshairfeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_karak-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "الكرك الكبرى",
+        "en": "Karak Alkubrah",
+        "slug": "karak-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_karak-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "الكرك الكبرى",
+          "en": "Karak Alkubrah",
+          "slug": "karak-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_karak-alkubrah_qraifleh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "قريفله",
+      "en": "Qraifleh",
+      "slug": "qraifleh"
+    },
+    "code": {
+      "id": "JOKAR_karak-alkubrah_qraifleh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_karak-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "الكرك الكبرى",
+        "en": "Karak Alkubrah",
+        "slug": "karak-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_karak-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "الكرك الكبرى",
+          "en": "Karak Alkubrah",
+          "slug": "karak-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_karak-alkubrah_rakeen",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "راكين",
+      "en": "Rakeen",
+      "slug": "rakeen"
+    },
+    "code": {
+      "id": "JOKAR_karak-alkubrah_rakeen",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_karak-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "الكرك الكبرى",
+        "en": "Karak Alkubrah",
+        "slug": "karak-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_karak-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "الكرك الكبرى",
+          "en": "Karak Alkubrah",
+          "slug": "karak-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_karak-alkubrah_rashdiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الراشديه",
+      "en": "Rashdiyyeh",
+      "slug": "rashdiyyeh"
+    },
+    "code": {
+      "id": "JOKAR_karak-alkubrah_rashdiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_karak-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "الكرك الكبرى",
+        "en": "Karak Alkubrah",
+        "slug": "karak-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_karak-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "الكرك الكبرى",
+          "en": "Karak Alkubrah",
+          "slug": "karak-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_karak-alkubrah_sakka",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "سكا",
+      "en": "Sakka",
+      "slug": "sakka"
+    },
+    "code": {
+      "id": "JOKAR_karak-alkubrah_sakka",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_karak-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "الكرك الكبرى",
+        "en": "Karak Alkubrah",
+        "slug": "karak-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_karak-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "الكرك الكبرى",
+          "en": "Karak Alkubrah",
+          "slug": "karak-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_karak-alkubrah_salhiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الصالحيه",
+      "en": "Salhiyyeh",
+      "slug": "salhiyyeh"
+    },
+    "code": {
+      "id": "JOKAR_karak-alkubrah_salhiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_karak-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "الكرك الكبرى",
+        "en": "Karak Alkubrah",
+        "slug": "karak-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_karak-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "الكرك الكبرى",
+          "en": "Karak Alkubrah",
+          "slug": "karak-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_karak-alkubrah_samra",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "سمرا",
+      "en": "Samra",
+      "slug": "samra"
+    },
+    "code": {
+      "id": "JOKAR_karak-alkubrah_samra",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_karak-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "الكرك الكبرى",
+        "en": "Karak Alkubrah",
+        "slug": "karak-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_karak-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "الكرك الكبرى",
+          "en": "Karak Alkubrah",
+          "slug": "karak-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_karak-alkubrah_shehabiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الشهابيه",
+      "en": "Shehabiyyeh",
+      "slug": "shehabiyyeh"
+    },
+    "code": {
+      "id": "JOKAR_karak-alkubrah_shehabiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_karak-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "الكرك الكبرى",
+        "en": "Karak Alkubrah",
+        "slug": "karak-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_karak-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "الكرك الكبرى",
+          "en": "Karak Alkubrah",
+          "slug": "karak-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_karak-alkubrah_thaniyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الثنيه",
+      "en": "Thaniyyeh",
+      "slug": "thaniyyeh"
+    },
+    "code": {
+      "id": "JOKAR_karak-alkubrah_thaniyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_karak-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "الكرك الكبرى",
+        "en": "Karak Alkubrah",
+        "slug": "karak-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_karak-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "الكرك الكبرى",
+          "en": "Karak Alkubrah",
+          "slug": "karak-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_karak-alkubrah_um-rommaneh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام رمانه",
+      "en": "Um Rommaneh",
+      "slug": "um-rommaneh"
+    },
+    "code": {
+      "id": "JOKAR_karak-alkubrah_um-rommaneh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_karak-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "الكرك الكبرى",
+        "en": "Karak Alkubrah",
+        "slug": "karak-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_karak-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "الكرك الكبرى",
+          "en": "Karak Alkubrah",
+          "slug": "karak-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_karak-alkubrah_wadi-ibin-hamad",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "وادي ابن حماد",
+      "en": "Wadi Ibin Hamad",
+      "slug": "wadi-ibin-hamad"
+    },
+    "code": {
+      "id": "JOKAR_karak-alkubrah_wadi-ibin-hamad",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_karak-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "الكرك الكبرى",
+        "en": "Karak Alkubrah",
+        "slug": "karak-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_karak-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "الكرك الكبرى",
+          "en": "Karak Alkubrah",
+          "slug": "karak-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_karak-alkubrah_waseiyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الوسيه",
+      "en": "Waseiyeh",
+      "slug": "waseiyeh"
+    },
+    "code": {
+      "id": "JOKAR_karak-alkubrah_waseiyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_karak-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "الكرك الكبرى",
+        "en": "Karak Alkubrah",
+        "slug": "karak-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_karak-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "الكرك الكبرى",
+          "en": "Karak Alkubrah",
+          "slug": "karak-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_karak-alkubrah_zaghairiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الزغريه",
+      "en": "Zaghairiyyeh",
+      "slug": "zaghairiyyeh"
+    },
+    "code": {
+      "id": "JOKAR_karak-alkubrah_zaghairiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_karak-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "الكرك الكبرى",
+        "en": "Karak Alkubrah",
+        "slug": "karak-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_karak-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "الكرك الكبرى",
+          "en": "Karak Alkubrah",
+          "slug": "karak-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_karak-alkubrah_zahoom",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "زحوم",
+      "en": "Zahoom",
+      "slug": "zahoom"
+    },
+    "code": {
+      "id": "JOKAR_karak-alkubrah_zahoom",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_karak-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "الكرك الكبرى",
+        "en": "Karak Alkubrah",
+        "slug": "karak-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_karak-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "الكرك الكبرى",
+          "en": "Karak Alkubrah",
+          "slug": "karak-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

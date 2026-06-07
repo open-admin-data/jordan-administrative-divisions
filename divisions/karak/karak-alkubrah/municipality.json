@@ -1,0 +1,47 @@
+{
+  "id": "JOKAR_karak-alkubrah",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "الكرك الكبرى",
+    "en": "Karak Alkubrah",
+    "slug": "karak-alkubrah"
+  },
+  "code": {
+    "id": "JOKAR_karak-alkubrah",
+    "iso": null
+  },
+  "parent": {
+    "id": "JOKAR",
+    "level": 1,
+    "name": {
+      "local": "الكرك",
+      "en": "Karak",
+      "slug": "karak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "JOKAR",
+      "level": 1,
+      "name": {
+        "local": "الكرك",
+        "en": "Karak",
+        "slug": "karak"
+      }
+    }
+  ],
+  "children_count": {
+    "locality": 36
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.119",
+    "lon": "35.795"
+  },
+  "metadata": {},
+  "source": {}
+}

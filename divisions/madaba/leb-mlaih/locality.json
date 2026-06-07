@@ -1,0 +1,812 @@
+[
+  {
+    "id": "JOMAD_leb-mlaih_alaqi",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "العلاقي",
+      "en": "Alaqi",
+      "slug": "alaqi"
+    },
+    "code": {
+      "id": "JOMAD_leb-mlaih_alaqi",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_leb-mlaih",
+      "level": 2,
+      "name": {
+        "local": "لب ومليح",
+        "en": "Leb & Mlaih",
+        "slug": "leb-mlaih"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_leb-mlaih",
+        "level": 2,
+        "name": {
+          "local": "لب ومليح",
+          "en": "Leb & Mlaih",
+          "slug": "leb-mlaih"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_leb-mlaih_dalielet-el-hamaydeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "دليلة الحمايدة",
+      "en": "Dalielet El-Hamaydeh",
+      "slug": "dalielet-el-hamaydeh"
+    },
+    "code": {
+      "id": "JOMAD_leb-mlaih_dalielet-el-hamaydeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_leb-mlaih",
+      "level": 2,
+      "name": {
+        "local": "لب ومليح",
+        "en": "Leb & Mlaih",
+        "slug": "leb-mlaih"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_leb-mlaih",
+        "level": 2,
+        "name": {
+          "local": "لب ومليح",
+          "en": "Leb & Mlaih",
+          "slug": "leb-mlaih"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_leb-mlaih_gadeer",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الغدير",
+      "en": "Gadeer",
+      "slug": "gadeer"
+    },
+    "code": {
+      "id": "JOMAD_leb-mlaih_gadeer",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_leb-mlaih",
+      "level": 2,
+      "name": {
+        "local": "لب ومليح",
+        "en": "Leb & Mlaih",
+        "slug": "leb-mlaih"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_leb-mlaih",
+        "level": 2,
+        "name": {
+          "local": "لب ومليح",
+          "en": "Leb & Mlaih",
+          "slug": "leb-mlaih"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_leb-mlaih_hayyadh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الحياض",
+      "en": "Hayyadh",
+      "slug": "hayyadh"
+    },
+    "code": {
+      "id": "JOMAD_leb-mlaih_hayyadh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_leb-mlaih",
+      "level": 2,
+      "name": {
+        "local": "لب ومليح",
+        "en": "Leb & Mlaih",
+        "slug": "leb-mlaih"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_leb-mlaih",
+        "level": 2,
+        "name": {
+          "local": "لب ومليح",
+          "en": "Leb & Mlaih",
+          "slug": "leb-mlaih"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_leb-mlaih_hiedan",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الهيدان",
+      "en": "Hiedan",
+      "slug": "hiedan"
+    },
+    "code": {
+      "id": "JOMAD_leb-mlaih_hiedan",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_leb-mlaih",
+      "level": 2,
+      "name": {
+        "local": "لب ومليح",
+        "en": "Leb & Mlaih",
+        "slug": "leb-mlaih"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_leb-mlaih",
+        "level": 2,
+        "name": {
+          "local": "لب ومليح",
+          "en": "Leb & Mlaih",
+          "slug": "leb-mlaih"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_leb-mlaih_kaldiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الخالدية",
+      "en": "Kaldiyyeh",
+      "slug": "kaldiyyeh"
+    },
+    "code": {
+      "id": "JOMAD_leb-mlaih_kaldiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_leb-mlaih",
+      "level": 2,
+      "name": {
+        "local": "لب ومليح",
+        "en": "Leb & Mlaih",
+        "slug": "leb-mlaih"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_leb-mlaih",
+        "level": 2,
+        "name": {
+          "local": "لب ومليح",
+          "en": "Leb & Mlaih",
+          "slug": "leb-mlaih"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_leb-mlaih_khaldeyyeh-abu-ezqal",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الخالدية (ابو ازقل)",
+      "en": "Khaldeyyeh (Abu Ezqal)",
+      "slug": "khaldeyyeh-abu-ezqal"
+    },
+    "code": {
+      "id": "JOMAD_leb-mlaih_khaldeyyeh-abu-ezqal",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_leb-mlaih",
+      "level": 2,
+      "name": {
+        "local": "لب ومليح",
+        "en": "Leb & Mlaih",
+        "slug": "leb-mlaih"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_leb-mlaih",
+        "level": 2,
+        "name": {
+          "local": "لب ومليح",
+          "en": "Leb & Mlaih",
+          "slug": "leb-mlaih"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_leb-mlaih_leb",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "لب",
+      "en": "Leb",
+      "slug": "leb"
+    },
+    "code": {
+      "id": "JOMAD_leb-mlaih_leb",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_leb-mlaih",
+      "level": 2,
+      "name": {
+        "local": "لب ومليح",
+        "en": "Leb & Mlaih",
+        "slug": "leb-mlaih"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_leb-mlaih",
+        "level": 2,
+        "name": {
+          "local": "لب ومليح",
+          "en": "Leb & Mlaih",
+          "slug": "leb-mlaih"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_leb-mlaih_lusen-rabt",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "اللسن والربط",
+      "en": "Lusen & Rabt",
+      "slug": "lusen-rabt"
+    },
+    "code": {
+      "id": "JOMAD_leb-mlaih_lusen-rabt",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_leb-mlaih",
+      "level": 2,
+      "name": {
+        "local": "لب ومليح",
+        "en": "Leb & Mlaih",
+        "slug": "leb-mlaih"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_leb-mlaih",
+        "level": 2,
+        "name": {
+          "local": "لب ومليح",
+          "en": "Leb & Mlaih",
+          "slug": "leb-mlaih"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_leb-mlaih_mlaih",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "مليح",
+      "en": "Mlaih",
+      "slug": "mlaih"
+    },
+    "code": {
+      "id": "JOMAD_leb-mlaih_mlaih",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_leb-mlaih",
+      "level": 2,
+      "name": {
+        "local": "لب ومليح",
+        "en": "Leb & Mlaih",
+        "slug": "leb-mlaih"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_leb-mlaih",
+        "level": 2,
+        "name": {
+          "local": "لب ومليح",
+          "en": "Leb & Mlaih",
+          "slug": "leb-mlaih"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_leb-mlaih_munsaf-mekherah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المنسف(المخرعه)",
+      "en": "Munsaf (Mekher'ah)",
+      "slug": "munsaf-mekherah"
+    },
+    "code": {
+      "id": "JOMAD_leb-mlaih_munsaf-mekherah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_leb-mlaih",
+      "level": 2,
+      "name": {
+        "local": "لب ومليح",
+        "en": "Leb & Mlaih",
+        "slug": "leb-mlaih"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_leb-mlaih",
+        "level": 2,
+        "name": {
+          "local": "لب ومليح",
+          "en": "Leb & Mlaih",
+          "slug": "leb-mlaih"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_leb-mlaih_nozhet-el-waleh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "نزهة الوالة",
+      "en": "Nozhet El-Waleh",
+      "slug": "nozhet-el-waleh"
+    },
+    "code": {
+      "id": "JOMAD_leb-mlaih_nozhet-el-waleh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_leb-mlaih",
+      "level": 2,
+      "name": {
+        "local": "لب ومليح",
+        "en": "Leb & Mlaih",
+        "slug": "leb-mlaih"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_leb-mlaih",
+        "level": 2,
+        "name": {
+          "local": "لب ومليح",
+          "en": "Leb & Mlaih",
+          "slug": "leb-mlaih"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_leb-mlaih_rashdeia",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الراشدية",
+      "en": "Rashdeia",
+      "slug": "rashdeia"
+    },
+    "code": {
+      "id": "JOMAD_leb-mlaih_rashdeia",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_leb-mlaih",
+      "level": 2,
+      "name": {
+        "local": "لب ومليح",
+        "en": "Leb & Mlaih",
+        "slug": "leb-mlaih"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_leb-mlaih",
+        "level": 2,
+        "name": {
+          "local": "لب ومليح",
+          "en": "Leb & Mlaih",
+          "slug": "leb-mlaih"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_leb-mlaih_safa",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الصفا",
+      "en": "Safa",
+      "slug": "safa"
+    },
+    "code": {
+      "id": "JOMAD_leb-mlaih_safa",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_leb-mlaih",
+      "level": 2,
+      "name": {
+        "local": "لب ومليح",
+        "en": "Leb & Mlaih",
+        "slug": "leb-mlaih"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_leb-mlaih",
+        "level": 2,
+        "name": {
+          "local": "لب ومليح",
+          "en": "Leb & Mlaih",
+          "slug": "leb-mlaih"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_leb-mlaih_waleh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الواله",
+      "en": "Waleh",
+      "slug": "waleh"
+    },
+    "code": {
+      "id": "JOMAD_leb-mlaih_waleh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_leb-mlaih",
+      "level": 2,
+      "name": {
+        "local": "لب ومليح",
+        "en": "Leb & Mlaih",
+        "slug": "leb-mlaih"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_leb-mlaih",
+        "level": 2,
+        "name": {
+          "local": "لب ومليح",
+          "en": "Leb & Mlaih",
+          "slug": "leb-mlaih"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

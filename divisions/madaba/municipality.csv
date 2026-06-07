@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,children_count.locality,geo.lat,geo.lon
+JOMAD_dieban-jadeda,ذيبان الجديدة,Dieban Jadeda,dieban-jadeda,JOMAD_dieban-jadeda,20,31.624,35.671
+JOMAD_jabal-bne-hamedah,جبل بني حميدة,Jabal bne Hamedah,jabal-bne-hamedah,JOMAD_jabal-bne-hamedah,15,31.624,35.671
+JOMAD_leb-mlaih,لب ومليح,Leb & Mlaih,leb-mlaih,JOMAD_leb-mlaih,15,31.624,35.671
+JOMAD_madaba-alkubrah,مادبا الكبرى,Madaba Alkubrah,madaba-alkubrah,JOMAD_madaba-alkubrah,23,31.624,35.671

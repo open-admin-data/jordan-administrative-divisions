@@ -1,0 +1,272 @@
+[
+  {
+    "id": "JOAMM_hosban_el-aal",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "العال",
+      "en": "El-A'al",
+      "slug": "el-aal"
+    },
+    "code": {
+      "id": "JOAMM_hosban_el-aal",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_hosban",
+      "level": 2,
+      "name": {
+        "local": "حسبان",
+        "en": "Hosba'n",
+        "slug": "hosban"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_hosban",
+        "level": 2,
+        "name": {
+          "local": "حسبان",
+          "en": "Hosba'n",
+          "slug": "hosban"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_hosban_hesban",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "حسبان",
+      "en": "Hesban",
+      "slug": "hesban"
+    },
+    "code": {
+      "id": "JOAMM_hosban_hesban",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_hosban",
+      "level": 2,
+      "name": {
+        "local": "حسبان",
+        "en": "Hosba'n",
+        "slug": "hosban"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_hosban",
+        "level": 2,
+        "name": {
+          "local": "حسبان",
+          "en": "Hosba'n",
+          "slug": "hosban"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_hosban_karmet-hesban",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "كرمة حسبان",
+      "en": "Karmet Hesban",
+      "slug": "karmet-hesban"
+    },
+    "code": {
+      "id": "JOAMM_hosban_karmet-hesban",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_hosban",
+      "level": 2,
+      "name": {
+        "local": "حسبان",
+        "en": "Hosba'n",
+        "slug": "hosban"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_hosban",
+        "level": 2,
+        "name": {
+          "local": "حسبان",
+          "en": "Hosba'n",
+          "slug": "hosban"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_hosban_manshiyyet-hesban",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "منشية حسبان",
+      "en": "Manshiyyet Hesban",
+      "slug": "manshiyyet-hesban"
+    },
+    "code": {
+      "id": "JOAMM_hosban_manshiyyet-hesban",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_hosban",
+      "level": 2,
+      "name": {
+        "local": "حسبان",
+        "en": "Hosba'n",
+        "slug": "hosban"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_hosban",
+        "level": 2,
+        "name": {
+          "local": "حسبان",
+          "en": "Hosba'n",
+          "slug": "hosban"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_hosban_mshkar",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المشقر",
+      "en": "Mshkar",
+      "slug": "mshkar"
+    },
+    "code": {
+      "id": "JOAMM_hosban_mshkar",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_hosban",
+      "level": 2,
+      "name": {
+        "local": "حسبان",
+        "en": "Hosba'n",
+        "slug": "hosban"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_hosban",
+        "level": 2,
+        "name": {
+          "local": "حسبان",
+          "en": "Hosba'n",
+          "slug": "hosban"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,488 @@
+[
+  {
+    "id": "JOKAR_shehan_demnah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "دمنه",
+      "en": "Demnah",
+      "slug": "demnah"
+    },
+    "code": {
+      "id": "JOKAR_shehan_demnah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_shehan",
+      "level": 2,
+      "name": {
+        "local": "شيحان",
+        "en": "Shehan",
+        "slug": "shehan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_shehan",
+        "level": 2,
+        "name": {
+          "local": "شيحان",
+          "en": "Shehan",
+          "slug": "shehan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_shehan_hmood",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "حمود",
+      "en": "Hmood",
+      "slug": "hmood"
+    },
+    "code": {
+      "id": "JOKAR_shehan_hmood",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_shehan",
+      "level": 2,
+      "name": {
+        "local": "شيحان",
+        "en": "Shehan",
+        "slug": "shehan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_shehan",
+        "level": 2,
+        "name": {
+          "local": "شيحان",
+          "en": "Shehan",
+          "slug": "shehan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_shehan_qasr",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "القصر",
+      "en": "Qasr",
+      "slug": "qasr"
+    },
+    "code": {
+      "id": "JOKAR_shehan_qasr",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_shehan",
+      "level": 2,
+      "name": {
+        "local": "شيحان",
+        "en": "Shehan",
+        "slug": "shehan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_shehan",
+        "level": 2,
+        "name": {
+          "local": "شيحان",
+          "en": "Shehan",
+          "slug": "shehan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_shehan_rabbah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الربه",
+      "en": "Rabbah",
+      "slug": "rabbah"
+    },
+    "code": {
+      "id": "JOKAR_shehan_rabbah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_shehan",
+      "level": 2,
+      "name": {
+        "local": "شيحان",
+        "en": "Shehan",
+        "slug": "shehan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_shehan",
+        "level": 2,
+        "name": {
+          "local": "شيحان",
+          "en": "Shehan",
+          "slug": "shehan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_shehan_rashadeih",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الرشايده",
+      "en": "Rashadeih",
+      "slug": "rashadeih"
+    },
+    "code": {
+      "id": "JOKAR_shehan_rashadeih",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_shehan",
+      "level": 2,
+      "name": {
+        "local": "شيحان",
+        "en": "Shehan",
+        "slug": "shehan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_shehan",
+        "level": 2,
+        "name": {
+          "local": "شيحان",
+          "en": "Shehan",
+          "slug": "shehan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_shehan_rawdah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الروضه",
+      "en": "Rawdah",
+      "slug": "rawdah"
+    },
+    "code": {
+      "id": "JOKAR_shehan_rawdah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_shehan",
+      "level": 2,
+      "name": {
+        "local": "شيحان",
+        "en": "Shehan",
+        "slug": "shehan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_shehan",
+        "level": 2,
+        "name": {
+          "local": "شيحان",
+          "en": "Shehan",
+          "slug": "shehan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_shehan_sheehan",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "شيحان",
+      "en": "Sheehan",
+      "slug": "sheehan"
+    },
+    "code": {
+      "id": "JOKAR_shehan_sheehan",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_shehan",
+      "level": 2,
+      "name": {
+        "local": "شيحان",
+        "en": "Shehan",
+        "slug": "shehan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_shehan",
+        "level": 2,
+        "name": {
+          "local": "شيحان",
+          "en": "Shehan",
+          "slug": "shehan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_shehan_smakiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "السماكيه",
+      "en": "Smakiyyeh",
+      "slug": "smakiyyeh"
+    },
+    "code": {
+      "id": "JOKAR_shehan_smakiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_shehan",
+      "level": 2,
+      "name": {
+        "local": "شيحان",
+        "en": "Shehan",
+        "slug": "shehan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_shehan",
+        "level": 2,
+        "name": {
+          "local": "شيحان",
+          "en": "Shehan",
+          "slug": "shehan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_shehan_yaroot",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الياروت",
+      "en": "Yaroot",
+      "slug": "yaroot"
+    },
+    "code": {
+      "id": "JOKAR_shehan_yaroot",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_shehan",
+      "level": 2,
+      "name": {
+        "local": "شيحان",
+        "en": "Shehan",
+        "slug": "shehan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_shehan",
+        "level": 2,
+        "name": {
+          "local": "شيحان",
+          "en": "Shehan",
+          "slug": "shehan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "JOBAL_maddi",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "معدي",
+    "en": "M'addi",
+    "slug": "maddi"
+  },
+  "code": {
+    "id": "JOBAL_maddi",
+    "iso": null
+  },
+  "parent": {
+    "id": "JOBAL",
+    "level": 1,
+    "name": {
+      "local": "البلقاء",
+      "en": "Balqa",
+      "slug": "balqa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "JOBAL",
+      "level": 1,
+      "name": {
+        "local": "البلقاء",
+        "en": "Balqa",
+        "slug": "balqa"
+      }
+    }
+  ],
+  "children_count": {
+    "locality": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.954",
+    "lon": "35.704"
+  },
+  "metadata": {},
+  "source": {}
+}

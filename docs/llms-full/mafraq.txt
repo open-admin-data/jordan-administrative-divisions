@@ -1,0 +1,684 @@
+# Mafraq — Jordan Administrative Divisions
+
+> 19 municipalitys, 145 localitys
+> Code: JOMAF
+> Coordinates: 32.54, 37.616
+> Last updated: 2026-06-07. License: CC-BY-4.0.
+
+## Municipalitys
+
+### مخيم الزعتري* (Al-Za&#39;tary Camp*)
+
+Code: JOMAF_al-zatary-camp, Coordinates: 32.54, 37.616
+Localitys: 1
+
+#### مخيم الزعتري (Mukhayyam Al-Za&#39;tary*)
+
+Code: JOMAF_al-zatary-camp_mukhayyam-al-zatary, Coordinates: 32.54, 37.616
+
+### الامير الحسين بن عبدالله (Alamer Alhusain Ben Abdollah)
+
+Code: JOMAF_alamer-alhusain-ben-abdollah, Coordinates: 32.54, 37.616
+Localitys: 8
+
+#### الباعج (Ba&#39;ej)
+
+Code: JOMAF_alamer-alhusain-ben-abdollah_baej, Coordinates: 32.54, 37.616
+
+#### الفحيلية (Fohayhileh)
+
+Code: JOMAF_alamer-alhusain-ben-abdollah_fohayhileh, Coordinates: 32.54, 37.616
+
+#### حويجة (Hwaijeh)
+
+Code: JOMAF_alamer-alhusain-ben-abdollah_hwaijeh, Coordinates: 32.54, 37.616
+
+#### المشرف (Meshref)
+
+Code: JOMAF_alamer-alhusain-ben-abdollah_meshref, Coordinates: 32.54, 37.616
+
+#### النهضة (Nahdhah)
+
+Code: JOMAF_alamer-alhusain-ben-abdollah_nahdhah, Coordinates: 32.54, 37.616
+
+#### روضة الرويعي (Rodhet Errwai&#39;i)
+
+Code: JOMAF_alamer-alhusain-ben-abdollah_rodhet-errwaii, Coordinates: 32.54, 37.616
+
+#### ام السرب (Um Essrab)
+
+Code: JOMAF_alamer-alhusain-ben-abdollah_um-essrab, Coordinates: 32.54, 37.616
+
+#### الزبيدية (Zubaidyyeh)
+
+Code: JOMAF_alamer-alhusain-ben-abdollah_zubaidyyeh, Coordinates: 32.54, 37.616
+
+### الرويشد الجديدة (Alrwashed Aljadedah)
+
+Code: JOMAF_alrwashed-aljadedah, Coordinates: 32.54, 37.616
+Localitys: 5
+
+#### الفيضة (Fhaidhah)
+
+Code: JOMAF_alrwashed-aljadedah_fhaidhah, Coordinates: 32.54, 37.616
+
+#### منشية الغياث (Manshiyyet El-Gheiath)
+
+Code: JOMAF_alrwashed-aljadedah_manshiyyet-el-gheiath, Coordinates: 32.54, 37.616
+
+#### الرويشد (Rwaished)
+
+Code: JOMAF_alrwashed-aljadedah_rwaished, Coordinates: 32.54, 37.616
+
+#### صالحية النعيم (Salheiat Enneim)
+
+Code: JOMAF_alrwashed-aljadedah_salheiat-enneim, Coordinates: 32.54, 37.616
+
+#### الروضة (روضة البندان) (Talbiyyeh Camp*)
+
+Code: JOMAF_alrwashed-aljadedah_talbiyyeh-camp, Coordinates: 32.54, 37.616
+
+### الزعتري والمنشية (Alza&#39;tary &amp; Almansheah)
+
+Code: JOMAF_alzatary-almansheah, Coordinates: 32.54, 37.616
+Localitys: 3
+
+#### منشية السلطة (Manshiyyet Essoltah)
+
+Code: JOMAF_alzatary-almansheah_manshiyyet-essoltah, Coordinates: 32.54, 37.616
+
+#### روضة ابو الهيال (Rodhet Abu Heyal)
+
+Code: JOMAF_alzatary-almansheah_rodhet-abu-heyal, Coordinates: 32.54, 37.616
+
+#### الزعتري (Za&#39;tary)
+
+Code: JOMAF_alzatary-almansheah_zatary, Coordinates: 32.54, 37.616
+
+### الصفاوي (Asfawi)
+
+Code: JOMAF_asfawi, Coordinates: 32.54, 37.616
+Localitys: 2
+
+#### منشية خليفة (Manshiyyet Kalefeh)
+
+Code: JOMAF_asfawi_manshiyyet-kalefeh, Coordinates: 32.54, 37.616
+
+#### الصفاوي (Safawi)
+
+Code: JOMAF_asfawi_safawi, Coordinates: 32.54, 37.616
+
+### ام القطين والمكيفته (Aum Qutain &amp; Makfieah)
+
+Code: JOMAF_aum-qutain-makfieah, Coordinates: 32.54, 37.616
+Localitys: 0
+
+### بلعما الجديدة (Bal&#39;ama Aljadedah)
+
+Code: JOMAF_balama-aljadedah, Coordinates: 32.54, 37.616
+Localitys: 17
+
+#### بلعما (Bal&#39;ama)
+
+Code: JOMAF_balama-aljadedah_balama, Coordinates: 32.54, 37.616
+
+#### البستان (Bostan)
+
+Code: JOMAF_balama-aljadedah_bostan, Coordinates: 32.54, 37.616
+
+#### الظاهرية (Dahreiah)
+
+Code: JOMAF_balama-aljadedah_dahreiah, Coordinates: 32.54, 37.616
+
+#### حمنانة الجديدة (Hamaneh El-Jadiedeh)
+
+Code: JOMAF_balama-aljadedah_hamaneh-el-jadiedeh, Coordinates: 32.54, 37.616
+
+#### حمنانة القديمة (Hamaneh El-Qadiemeh)
+
+Code: JOMAF_balama-aljadedah_hamaneh-el-qadiemeh, Coordinates: 32.54, 37.616
+
+#### حيان الرويبض الغربي (Hayyan Rwaibedh Gharbi)
+
+Code: JOMAF_balama-aljadedah_hayyan-rwaibedh-gharbi, Coordinates: 32.54, 37.616
+
+#### حيان الرويبض الشرقي (Hayyan Rwaibedh Sharqi)
+
+Code: JOMAF_balama-aljadedah_hayyan-rwaibedh-sharqi, Coordinates: 32.54, 37.616
+
+#### الخربة السمراء(روضة الامير محمد) (Kherbeh Samra(Raudit Al-Amir Mohamad))
+
+Code: JOMAF_balama-aljadedah_kherbeh-samraraudit-al-amir-mohamad, Coordinates: 32.54, 37.616
+
+#### خريسان (Khraisan)
+
+Code: JOMAF_balama-aljadedah_khraisan, Coordinates: 32.54, 37.616
+
+#### منشية العليان (الخان) (Manshiyyet Alaian (Alkhan))
+
+Code: JOMAF_balama-aljadedah_manshiyyet-alaian-alkhan, Coordinates: 32.54, 37.616
+
+#### المراجم (Marajem)
+
+Code: JOMAF_balama-aljadedah_marajem, Coordinates: 32.54, 37.616
+
+#### المزرعة (Mazra&#39;ah)
+
+Code: JOMAF_balama-aljadedah_mazraah, Coordinates: 32.54, 37.616
+
+#### النمرة (Nemreh)
+
+Code: JOMAF_balama-aljadedah_nemreh, Coordinates: 32.54, 37.616
+
+#### النزهة (Nozhah)
+
+Code: JOMAF_balama-aljadedah_nozhah, Coordinates: 32.54, 37.616
+
+#### الشريفية (Shraifiyyeh)
+
+Code: JOMAF_balama-aljadedah_shraifiyyeh, Coordinates: 32.54, 37.616
+
+#### ام صويوينه (Um Swaiweeneh)
+
+Code: JOMAF_balama-aljadedah_um-swaiweeneh, Coordinates: 32.54, 37.616
+
+#### الزنية (Zaniyyeh)
+
+Code: JOMAF_balama-aljadedah_zaniyyeh, Coordinates: 32.54, 37.616
+
+### بني هاشم (Bani Hashem)
+
+Code: JOMAF_bani-hashem, Coordinates: 32.54, 37.616
+Localitys: 5
+
+#### عالية الشويعر (Aliet El-Shwa&#39;ar)
+
+Code: JOMAF_bani-hashem_aliet-el-shwaar, Coordinates: 32.54, 37.616
+
+#### بني هاشم(حمراء السحيم) (Bani Hashem (Hamra Esahim))
+
+Code: JOMAF_bani-hashem_bani-hashem-hamra-esahim, Coordinates: 32.54, 37.616
+
+#### البشرية (Beshriyyeh)
+
+Code: JOMAF_bani-hashem_beshriyyeh, Coordinates: 32.54, 37.616
+
+#### الهاشمية الشرقية (Hashimiyyeh Sharqiyyeh)
+
+Code: JOMAF_bani-hashem_hashimiyyeh-sharqiyyeh, Coordinates: 32.54, 37.616
+
+#### روضة الامير حمزة(حليوة المسارحة) (Raudit Al-Amir Hamzeh (Hliut Masarha))
+
+Code: JOMAF_bani-hashem_raudit-al-amir-hamzeh-hliut-masarha, Coordinates: 32.54, 37.616
+
+### الباسلية (Basleah)
+
+Code: JOMAF_basleah, Coordinates: 32.54, 37.616
+Localitys: 4
+
+#### بريقا (Braiqa)
+
+Code: JOMAF_basleah_braiqa, Coordinates: 32.54, 37.616
+
+#### فاع (Fa&#39;)
+
+Code: JOMAF_basleah_fa, Coordinates: 32.54, 37.616
+
+#### الحرش (Harsh)
+
+Code: JOMAF_basleah_harsh, Coordinates: 32.54, 37.616
+
+#### الخناصري (Khanasri)
+
+Code: JOMAF_basleah_khanasri, Coordinates: 32.54, 37.616
+
+### دير الكهف الجديدة (Dair Alkahf Aljadedah)
+
+Code: JOMAF_dair-alkahf-aljadedah, Coordinates: 32.54, 37.616
+Localitys: 17
+
+#### ارينبة النعيمات (Arainbet Enaimat)
+
+Code: JOMAF_dair-alkahf-aljadedah_arainbet-enaimat, Coordinates: 32.54, 37.616
+
+#### دير الكهف (Dair Al Kahf)
+
+Code: JOMAF_dair-alkahf-aljadedah_dair-al-kahf, Coordinates: 32.54, 37.616
+
+#### دير القن (Dair El-Qenn)
+
+Code: JOMAF_dair-alkahf-aljadedah_dair-el-qenn, Coordinates: 32.54, 37.616
+
+#### الثلاج (Ethlag)
+
+Code: JOMAF_dair-alkahf-aljadedah_ethlag, Coordinates: 32.54, 37.616
+
+#### الجدعا (Jad&#39;ah)
+
+Code: JOMAF_dair-alkahf-aljadedah_jadah, Coordinates: 32.54, 37.616
+
+#### الجبية (Jubbeiah)
+
+Code: JOMAF_dair-alkahf-aljadedah_jubbeiah, Coordinates: 32.54, 37.616
+
+#### خشاع القن (Khsha&#39; El-Qenn)
+
+Code: JOMAF_dair-alkahf-aljadedah_khsha-el-qenn, Coordinates: 32.54, 37.616
+
+#### المنصورة (Mansoorah)
+
+Code: JOMAF_dair-alkahf-aljadedah_mansoorah, Coordinates: 32.54, 37.616
+
+#### مدور القن (Medwer El-Qenn)
+
+Code: JOMAF_dair-alkahf-aljadedah_medwer-el-qenn, Coordinates: 32.54, 37.616
+
+#### المنيصة (Menyasah)
+
+Code: JOMAF_dair-alkahf-aljadedah_menyasah, Coordinates: 32.54, 37.616
+
+#### مثناة راجل (Methnat Rajel)
+
+Code: JOMAF_dair-alkahf-aljadedah_methnat-rajel, Coordinates: 32.54, 37.616
+
+#### مريجب (Mrajeeb)
+
+Code: JOMAF_dair-alkahf-aljadedah_mrajeeb, Coordinates: 32.54, 37.616
+
+#### قاسم (Qasem)
+
+Code: JOMAF_dair-alkahf-aljadedah_qasem, Coordinates: 32.54, 37.616
+
+#### الرفاعيات (Rfa&#39;iyyat)
+
+Code: JOMAF_dair-alkahf-aljadedah_rfaiyyat, Coordinates: 32.54, 37.616
+
+#### روضة الامير علي بن الحسين(ابو الفرث) (Roadhet Al-Amir Ali Bin Al-Hussein (Abu Frth))
+
+Code: JOMAF_dair-alkahf-aljadedah_roadhet-al-amir-ali-bin-al-hussein-abu-frth, Coordinates: 32.54, 37.616
+
+#### تل رماح (Tal Ermah)
+
+Code: JOMAF_dair-alkahf-aljadedah_tal-ermah, Coordinates: 32.54, 37.616
+
+#### ام حسين (Um Hussein)
+
+Code: JOMAF_dair-alkahf-aljadedah_um-hussein, Coordinates: 32.54, 37.616
+
+### حوشا الجديدة (Husha Aljadedah)
+
+Code: JOMAF_husha-aljadedah, Coordinates: 32.54, 37.616
+Localitys: 9
+
+#### الاكيدر (Akaidar)
+
+Code: JOMAF_husha-aljadedah_akaidar, Coordinates: 32.54, 37.616
+
+#### الدندنيه (Dandania)
+
+Code: JOMAF_husha-aljadedah_dandania, Coordinates: 32.54, 37.616
+
+#### الدرزيه (Darzeah)
+
+Code: JOMAF_husha-aljadedah_darzeah, Coordinates: 32.54, 37.616
+
+#### الحمراء (Hamra)
+
+Code: JOMAF_husha-aljadedah_hamra, Coordinates: 32.54, 37.616
+
+#### حوشا (Hosha)
+
+Code: JOMAF_husha-aljadedah_hosha, Coordinates: 32.54, 37.616
+
+#### المنصورة (Mansoorah)
+
+Code: JOMAF_husha-aljadedah_mansoorah, Coordinates: 32.54, 37.616
+
+#### المشيرفه (Mshairfeh)
+
+Code: JOMAF_husha-aljadedah_mshairfeh, Coordinates: 32.54, 37.616
+
+#### صره (Sorrah)
+
+Code: JOMAF_husha-aljadedah_sorrah, Coordinates: 32.54, 37.616
+
+#### السويلمه (Swailmeh)
+
+Code: JOMAF_husha-aljadedah_swailmeh, Coordinates: 32.54, 37.616
+
+### الخالدية (Khaldiyah)
+
+Code: JOMAF_khaldiyah, Coordinates: 32.54, 37.616
+Localitys: 4
+
+#### الخالدية الجديدة (Khaldiyah Jadedah)
+
+Code: JOMAF_khaldiyah_khaldiyah-jadedah, Coordinates: 32.54, 37.616
+
+#### الخالدية القديمة (Khaldiyah Qademeh)
+
+Code: JOMAF_khaldiyah_khaldiyah-qademeh, Coordinates: 32.54, 37.616
+
+#### المبروكة (Mabrookah)
+
+Code: JOMAF_khaldiyah_mabrookah, Coordinates: 32.54, 37.616
+
+#### المشرفة (Mshrfeh)
+
+Code: JOMAF_khaldiyah_mshrfeh, Coordinates: 32.54, 37.616
+
+### المفرق الكبرى (Mafraq Alkubrah)
+
+Code: JOMAF_mafraq-alkubrah, Coordinates: 32.54, 37.616
+Localitys: 13
+
+#### ايدون (Aidoon)
+
+Code: JOMAF_mafraq-alkubrah_aidoon, Coordinates: 32.54, 37.616
+
+#### الابرار (Alabrar)
+
+Code: JOMAF_mafraq-alkubrah_alabrar, Coordinates: 32.54, 37.616
+
+#### بويضة الحوامده (Bwaidhet El-Hwamdeh)
+
+Code: JOMAF_mafraq-alkubrah_bwaidhet-el-hwamdeh, Coordinates: 32.54, 37.616
+
+#### الغدير الابيض (Ghadier Abyadh)
+
+Code: JOMAF_mafraq-alkubrah_ghadier-abyadh, Coordinates: 32.54, 37.616
+
+#### حيان المشرف (Hayyan El-Meshref)
+
+Code: JOMAF_mafraq-alkubrah_hayyan-el-meshref, Coordinates: 32.54, 37.616
+
+#### المفرق (Mafraq)
+
+Code: JOMAF_mafraq-alkubrah_mafraq, Coordinates: 32.54, 37.616
+
+#### المزه (Mazzeh)
+
+Code: JOMAF_mafraq-alkubrah_mazzeh, Coordinates: 32.54, 37.616
+
+#### المفردات (Meferdat)
+
+Code: JOMAF_mafraq-alkubrah_meferdat, Coordinates: 32.54, 37.616
+
+#### رجم سبع الشمالي (Rojom Essabi&#39;e El-Shamali)
+
+Code: JOMAF_mafraq-alkubrah_rojom-essabie-el-shamali, Coordinates: 32.54, 37.616
+
+#### طيب اسم (Teeb Isem)
+
+Code: JOMAF_mafraq-alkubrah_teeb-isem, Coordinates: 32.54, 37.616
+
+#### ثغرة الجب (Thoghret El-Jobb)
+
+Code: JOMAF_mafraq-alkubrah_thoghret-el-jobb, Coordinates: 32.54, 37.616
+
+#### ام النعام الغربيه (Um Enna&#39;am Gharbiyyeh)
+
+Code: JOMAF_mafraq-alkubrah_um-ennaam-gharbiyyeh, Coordinates: 32.54, 37.616
+
+#### ام النعام الشرقيه (Um Enna&#39;am Sharqiyyeh)
+
+Code: JOMAF_mafraq-alkubrah_um-ennaam-sharqiyyeh, Coordinates: 32.54, 37.616
+
+### منشية بني حسن (Manshiat Bane Hasan)
+
+Code: JOMAF_manshiat-bane-hasan, Coordinates: 32.54, 37.616
+Localitys: 3
+
+#### دير ورق (Dair Waraq)
+
+Code: JOMAF_manshiat-bane-hasan_dair-waraq, Coordinates: 32.54, 37.616
+
+#### منشية بني حسن (Manshiyyet Bani Hasan)
+
+Code: JOMAF_manshiat-bane-hasan_manshiyyet-bani-hasan, Coordinates: 32.54, 37.616
+
+#### ام اللولو (Um Elloolo)
+
+Code: JOMAF_manshiat-bane-hasan_um-elloolo, Coordinates: 32.54, 37.616
+
+### رحاب الجديدة (Rhab Aljadedah)
+
+Code: JOMAF_rhab-aljadedah, Coordinates: 32.54, 37.616
+Localitys: 26
+
+#### ابو السوس (Abu El-Soos)
+
+Code: JOMAF_rhab-aljadedah_abu-el-soos, Coordinates: 32.54, 37.616
+
+#### عين بني حسن (Ain Bani Hasan)
+
+Code: JOMAF_rhab-aljadedah_ain-bani-hasan, Coordinates: 32.54, 37.616
+
+#### عين النبي (Ain Ennabi)
+
+Code: JOMAF_rhab-aljadedah_ain-ennabi, Coordinates: 32.54, 37.616
+
+#### البويضة الغربية (BwaidhahGhrbiyyeh)
+
+Code: JOMAF_rhab-aljadedah_bwaidhahghrbiyyeh, Coordinates: 32.54, 37.616
+
+#### بويضة العليمات(بيوضه الشرقية) (Bwaidhet Elaimat(Bwaidhah Sharqiyyeh))
+
+Code: JOMAF_rhab-aljadedah_bwaidhet-elaimatbwaidhah-sharqiyyeh, Coordinates: 32.54, 37.616
+
+#### دحل (Dahal)
+
+Code: JOMAF_rhab-aljadedah_dahal, Coordinates: 32.54, 37.616
+
+#### الدجنية (Dajaniyyeh)
+
+Code: JOMAF_rhab-aljadedah_dajaniyyeh, Coordinates: 32.54, 37.616
+
+#### الدقمسة (Doqomseh)
+
+Code: JOMAF_rhab-aljadedah_doqomseh, Coordinates: 32.54, 37.616
+
+#### حمامة العليمات (Hamamet Elaimat)
+
+Code: JOMAF_rhab-aljadedah_hamamet-elaimat, Coordinates: 32.54, 37.616
+
+#### حمامة العموش (Hamamet Omoosh)
+
+Code: JOMAF_rhab-aljadedah_hamamet-omoosh, Coordinates: 32.54, 37.616
+
+#### حميد (Hamied)
+
+Code: JOMAF_rhab-aljadedah_hamied, Coordinates: 32.54, 37.616
+
+#### هويشان (Hwaishan)
+
+Code: JOMAF_rhab-aljadedah_hwaishan, Coordinates: 32.54, 37.616
+
+#### ارحاب (Irhab)
+
+Code: JOMAF_rhab-aljadedah_irhab, Coordinates: 32.54, 37.616
+
+#### الكرم (Karm)
+
+Code: JOMAF_rhab-aljadedah_karm, Coordinates: 32.54, 37.616
+
+#### خراب المطوي (Kharab El-Matwi)
+
+Code: JOMAF_rhab-aljadedah_kharab-el-matwi, Coordinates: 32.54, 37.616
+
+#### خطلة (Khatlah)
+
+Code: JOMAF_rhab-aljadedah_khatlah, Coordinates: 32.54, 37.616
+
+#### المدور (Medwar)
+
+Code: JOMAF_rhab-aljadedah_medwar, Coordinates: 32.54, 37.616
+
+#### المنيفة (Mnifa)
+
+Code: JOMAF_rhab-aljadedah_mnifa, Coordinates: 32.54, 37.616
+
+#### المعمرية (Mo&#39;ammariyyeh)
+
+Code: JOMAF_rhab-aljadedah_moammariyyeh, Coordinates: 32.54, 37.616
+
+#### نادرة (Nadreh)
+
+Code: JOMAF_rhab-aljadedah_nadreh, Coordinates: 32.54, 37.616
+
+#### القدم (Qadam)
+
+Code: JOMAF_rhab-aljadedah_qadam, Coordinates: 32.54, 37.616
+
+#### الصهاة (Sahah)
+
+Code: JOMAF_rhab-aljadedah_sahah, Coordinates: 32.54, 37.616
+
+#### ام بطيمة (Um Btaimeh)
+
+Code: JOMAF_rhab-aljadedah_um-btaimeh, Coordinates: 32.54, 37.616
+
+#### ام حصماصة (Um Hysmasa)
+
+Code: JOMAF_rhab-aljadedah_um-hysmasa, Coordinates: 32.54, 37.616
+
+#### ام خروبة (Um Kheroba)
+
+Code: JOMAF_rhab-aljadedah_um-kheroba, Coordinates: 32.54, 37.616
+
+#### الزعفرانة (Zafaraneh)
+
+Code: JOMAF_rhab-aljadedah_zafaraneh, Coordinates: 32.54, 37.616
+
+### صبحا والدفيانه (Sabha &amp; Defianeh)
+
+Code: JOMAF_sabha-defianeh, Coordinates: 32.54, 37.616
+Localitys: 0
+
+### الصالحية ونايفة (Salhiah &amp; Naifeh)
+
+Code: JOMAF_salhiah-naifeh, Coordinates: 32.54, 37.616
+Localitys: 10
+
+#### الاشرفية (Ashrafiyyeh)
+
+Code: JOMAF_salhiah-naifeh_ashrafiyyeh, Coordinates: 32.54, 37.616
+
+#### البستانة (Bostaneh)
+
+Code: JOMAF_salhiah-naifeh_bostaneh, Coordinates: 32.54, 37.616
+
+#### الحميدية (Hamiediyyeh)
+
+Code: JOMAF_salhiah-naifeh_hamiediyyeh, Coordinates: 32.54, 37.616
+
+#### قاعدة الامير حسن الجوية (Kaidat Al-Amir HassanAl-Jauiah)
+
+Code: JOMAF_salhiah-naifeh_kaidat-al-amir-hassanal-jauiah, Coordinates: 32.54, 37.616
+
+#### المنارة (Manarah)
+
+Code: JOMAF_salhiah-naifeh_manarah, Coordinates: 32.54, 37.616
+
+#### نايفة (Nayfeh)
+
+Code: JOMAF_salhiah-naifeh_nayfeh, Coordinates: 32.54, 37.616
+
+#### رحبة ركاد (Rahbet Rakkad)
+
+Code: JOMAF_salhiah-naifeh_rahbet-rakkad, Coordinates: 32.54, 37.616
+
+#### السعادة (Sa&#39;adah)
+
+Code: JOMAF_salhiah-naifeh_saadah, Coordinates: 32.54, 37.616
+
+#### الصالحية (Salhiya)
+
+Code: JOMAF_salhiah-naifeh_salhiya, Coordinates: 32.54, 37.616
+
+#### زملة الامير غازي (Zamlet Al-Amir Ghazi)
+
+Code: JOMAF_salhiah-naifeh_zamlet-al-amir-ghazi, Coordinates: 32.54, 37.616
+
+### سما السرحان (Sama Serhan)
+
+Code: JOMAF_sama-serhan, Coordinates: 32.54, 37.616
+Localitys: 9
+
+#### الحرفوشية (Harfosheia)
+
+Code: JOMAF_sama-serhan_harfosheia, Coordinates: 32.54, 37.616
+
+#### جابر السرحان (Jaber Serhan)
+
+Code: JOMAF_sama-serhan_jaber-serhan, Coordinates: 32.54, 37.616
+
+#### منشية الكعيبر (Manshiyyet K&#39;aiber)
+
+Code: JOMAF_sama-serhan_manshiyyet-kaiber, Coordinates: 32.54, 37.616
+
+#### المطلة (Matalleh)
+
+Code: JOMAF_sama-serhan_matalleh, Coordinates: 32.54, 37.616
+
+#### مغير السرحان (Mghayyer Serhan)
+
+Code: JOMAF_sama-serhan_mghayyer-serhan, Coordinates: 32.54, 37.616
+
+#### رباع السرحان (Rba&#39; Serhan)
+
+Code: JOMAF_sama-serhan_rba-serhan, Coordinates: 32.54, 37.616
+
+#### سما السرحان (Sama Serhan)
+
+Code: JOMAF_sama-serhan_sama-serhan, Coordinates: 32.54, 37.616
+
+#### سميا السرحان (Somayya Serhan)
+
+Code: JOMAF_sama-serhan_somayya-serhan, Coordinates: 32.54, 37.616
+
+#### زملة الطرقي (Zamlett Atterqi)
+
+Code: JOMAF_sama-serhan_zamlett-atterqi, Coordinates: 32.54, 37.616
+
+### أم الجمال الجديدة (Um aljmal Aljadedah)
+
+Code: JOMAF_um-aljmal-aljadedah, Coordinates: 32.54, 37.616
+Localitys: 9
+
+#### عمرة وعميرة (Amra &amp; Amiereh)
+
+Code: JOMAF_um-aljmal-aljadedah_amra-amiereh, Coordinates: 32.54, 37.616
+
+#### العاقب (Aqeb)
+
+Code: JOMAF_um-aljmal-aljadedah_aqeb, Coordinates: 32.54, 37.616
+
+#### الكوم الاحمر (Koam El-Ahmar)
+
+Code: JOMAF_um-aljmal-aljadedah_koam-el-ahmar, Coordinates: 32.54, 37.616
+
+#### الرحمات (Rahmat)
+
+Code: JOMAF_um-aljmal-aljadedah_rahmat, Coordinates: 32.54, 37.616
+
+#### رسم الحصان (Rasm El-Hesan)
+
+Code: JOMAF_um-aljmal-aljadedah_rasm-el-hesan, Coordinates: 32.54, 37.616
+
+#### روضة بسمة (Roadhet Basmah)
+
+Code: JOMAF_um-aljmal-aljadedah_roadhet-basmah, Coordinates: 32.54, 37.616
+
+#### السعيدية (Sa&#39;iediyyeh)
+
+Code: JOMAF_um-aljmal-aljadedah_saiediyyeh, Coordinates: 32.54, 37.616
+
+#### ام الجمال (Um Al-Jemal)
+
+Code: JOMAF_um-aljmal-aljadedah_um-al-jemal, Coordinates: 32.54, 37.616
+
+#### الزهور (Zuhoor)
+
+Code: JOMAF_um-aljmal-aljadedah_zuhoor, Coordinates: 32.54, 37.616
+

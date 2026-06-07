@@ -1,0 +1,56 @@
+[
+  {
+    "id": "JOBAL_fuhais_fuhais",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الفحيص",
+      "en": "Fuhais",
+      "slug": "fuhais"
+    },
+    "code": {
+      "id": "JOBAL_fuhais_fuhais",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_fuhais",
+      "level": 2,
+      "name": {
+        "local": "الفحيص",
+        "en": "Fuhais",
+        "slug": "fuhais"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_fuhais",
+        "level": 2,
+        "name": {
+          "local": "الفحيص",
+          "en": "Fuhais",
+          "slug": "fuhais"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

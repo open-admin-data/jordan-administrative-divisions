@@ -1,0 +1,648 @@
+# Irbid — Jordan Administrative Divisions
+
+> 19 municipalitys, 136 localitys
+> Code: JOIRB
+> Coordinates: 32.475, 35.814
+> Last updated: 2026-06-07. License: CC-BY-4.0.
+
+## Municipalitys
+
+### الكفارات (Alkfarat)
+
+Code: JOIRB_alkfarat, Coordinates: 32.475, 35.814
+Localitys: 7
+
+#### عقربا (Aqraba)
+
+Code: JOIRB_alkfarat_aqraba, Coordinates: 32.475, 35.814
+
+#### برشتا (Bareshta)
+
+Code: JOIRB_alkfarat_bareshta, Coordinates: 32.475, 35.814
+
+#### حرثا (Hartha)
+
+Code: JOIRB_alkfarat_hartha, Coordinates: 32.475, 35.814
+
+#### حبراص (Hebras)
+
+Code: JOIRB_alkfarat_hebras, Coordinates: 32.475, 35.814
+
+#### كفر سوم (Kofor Soom)
+
+Code: JOIRB_alkfarat_kofor-soom, Coordinates: 32.475, 35.814
+
+#### الرفيد (Rfaid)
+
+Code: JOIRB_alkfarat_rfaid, Coordinates: 32.475, 35.814
+
+#### يبلا (Yebla)
+
+Code: JOIRB_alkfarat_yebla, Coordinates: 32.475, 35.814
+
+### السرو (Alseru)
+
+Code: JOIRB_alseru, Coordinates: 32.475, 35.814
+Localitys: 5
+
+#### عزريت (Azriet)
+
+Code: JOIRB_alseru_azriet, Coordinates: 32.475, 35.814
+
+#### ابدر (Ebder)
+
+Code: JOIRB_alseru_ebder, Coordinates: 32.475, 35.814
+
+#### حاتم (Hatem)
+
+Code: JOIRB_alseru_hatem, Coordinates: 32.475, 35.814
+
+#### المزيريب (Mzaireeb)
+
+Code: JOIRB_alseru_mzaireeb, Coordinates: 32.475, 35.814
+
+#### سما الروسان (Sama El-Roosan)
+
+Code: JOIRB_alseru_sama-el-roosan, Coordinates: 32.475, 35.814
+
+### الشعلة (Alshoaleh)
+
+Code: JOIRB_alshoaleh, Coordinates: 32.475, 35.814
+Localitys: 3
+
+#### العشة (Esheh)
+
+Code: JOIRB_alshoaleh_esheh, Coordinates: 32.475, 35.814
+
+#### سحم (Saham)
+
+Code: JOIRB_alshoaleh_saham, Coordinates: 32.475, 35.814
+
+#### سمر (Samar)
+
+Code: JOIRB_alshoaleh_samar, Coordinates: 32.475, 35.814
+
+### اليرموك الجديدة (Alyarmook Aljadedah)
+
+Code: JOIRB_alyarmook-aljadedah, Coordinates: 32.475, 35.814
+Localitys: 8
+
+#### ابو اللوقس (Abu El-Loqas)
+
+Code: JOIRB_alyarmook-aljadedah_abu-el-loqas, Coordinates: 32.475, 35.814
+
+#### حريما (Hariema)
+
+Code: JOIRB_alyarmook-aljadedah_hariema, Coordinates: 32.475, 35.814
+
+#### خرجا (Kharja)
+
+Code: JOIRB_alyarmook-aljadedah_kharja, Coordinates: 32.475, 35.814
+
+#### الخريبة (Khrayybeh)
+
+Code: JOIRB_alyarmook-aljadedah_khrayybeh, Coordinates: 32.475, 35.814
+
+#### القصفة (Qasfah)
+
+Code: JOIRB_alyarmook-aljadedah_qasfah, Coordinates: 32.475, 35.814
+
+#### السيلة (Saileh)
+
+Code: JOIRB_alyarmook-aljadedah_saileh, Coordinates: 32.475, 35.814
+
+#### اليرموك (yarmook)
+
+Code: JOIRB_alyarmook-aljadedah_yarmook, Coordinates: 32.475, 35.814
+
+#### الزوية (Zaweh)
+
+Code: JOIRB_alyarmook-aljadedah_zaweh, Coordinates: 32.475, 35.814
+
+### برقش (Brkash)
+
+Code: JOIRB_brkash, Coordinates: 32.475, 35.814
+Localitys: 7
+
+#### بيت ايدس (Bait Iedes)
+
+Code: JOIRB_brkash_bait-iedes, Coordinates: 32.475, 35.814
+
+#### جديتا (Jdaitta)
+
+Code: JOIRB_brkash_jdaitta, Coordinates: 32.475, 35.814
+
+#### خربة الحاوي (Kherbet El-Hawi)
+
+Code: JOIRB_brkash_kherbet-el-hawi, Coordinates: 32.475, 35.814
+
+#### كفر ابيل (Kofor Abil)
+
+Code: JOIRB_brkash_kofor-abil, Coordinates: 32.475, 35.814
+
+#### كفر عوان (Kofor Awan)
+
+Code: JOIRB_brkash_kofor-awan, Coordinates: 32.475, 35.814
+
+#### كفر راكب (Kofor Rakeb)
+
+Code: JOIRB_brkash_kofor-rakeb, Coordinates: 32.475, 35.814
+
+#### الرهوه (Rahwah)
+
+Code: JOIRB_brkash_rahwah, Coordinates: 32.475, 35.814
+
+### دير أبي سعيد الجديدة (Dair Abi Sa&#39;id Jadeda)
+
+Code: JOIRB_dair-abi-said-jadeda, Coordinates: 32.475, 35.814
+Localitys: 9
+
+#### ابو القين (Abu El-Qain)
+
+Code: JOIRB_dair-abi-said-jadeda_abu-el-qain, Coordinates: 32.475, 35.814
+
+#### الاشرفية (Ashrafiyyeh)
+
+Code: JOIRB_dair-abi-said-jadeda_ashrafiyyeh, Coordinates: 32.475, 35.814
+
+#### دير ابي سعيد (Dair Abi Sa&#39;id)
+
+Code: JOIRB_dair-abi-said-jadeda_dair-abi-said, Coordinates: 32.475, 35.814
+
+#### اسكايين (Iskayeen)
+
+Code: JOIRB_dair-abi-said-jadeda_iskayeen, Coordinates: 32.475, 35.814
+
+#### جفين (Jeffien)
+
+Code: JOIRB_dair-abi-said-jadeda_jeffien, Coordinates: 32.475, 35.814
+
+#### كفر الماء (Kofor El-Ma&#39;)
+
+Code: JOIRB_dair-abi-said-jadeda_kofor-el-ma, Coordinates: 32.475, 35.814
+
+#### الرقه (Roqqah)
+
+Code: JOIRB_dair-abi-said-jadeda_roqqah, Coordinates: 32.475, 35.814
+
+#### الصوان (Sowwan)
+
+Code: JOIRB_dair-abi-said-jadeda_sowwan, Coordinates: 32.475, 35.814
+
+#### تبنه (Tebneh)
+
+Code: JOIRB_dair-abi-said-jadeda_tebneh, Coordinates: 32.475, 35.814
+
+### غرب اربد (Garb Irbid)
+
+Code: JOIRB_garb-irbid, Coordinates: 32.475, 35.814
+Localitys: 10
+
+#### بيت يافا (Bait Yafa)
+
+Code: JOIRB_garb-irbid_bait-yafa, Coordinates: 32.475, 35.814
+
+#### دوقره (Doaqarah)
+
+Code: JOIRB_garb-irbid_doaqarah, Coordinates: 32.475, 35.814
+
+#### هام (Ham)
+
+Code: JOIRB_garb-irbid_ham, Coordinates: 32.475, 35.814
+
+#### جمحه (Jamhah)
+
+Code: JOIRB_garb-irbid_jamhah, Coordinates: 32.475, 35.814
+
+#### ججين (Jijjien)
+
+Code: JOIRB_garb-irbid_jijjien, Coordinates: 32.475, 35.814
+
+#### كفر رحتا (Kofor Rahta)
+
+Code: JOIRB_garb-irbid_kofor-rahta, Coordinates: 32.475, 35.814
+
+#### كفر يوبا (Kofor Yooba)
+
+Code: JOIRB_garb-irbid_kofor-yooba, Coordinates: 32.475, 35.814
+
+#### ناطفه (Natfeh)
+
+Code: JOIRB_garb-irbid_natfeh, Coordinates: 32.475, 35.814
+
+#### سوم (Soom)
+
+Code: JOIRB_garb-irbid_soom, Coordinates: 32.475, 35.814
+
+#### زحر (Zahar)
+
+Code: JOIRB_garb-irbid_zahar, Coordinates: 32.475, 35.814
+
+### اربد الكبرى (Irbid Alkubrah)
+
+Code: JOIRB_irbid-alkubrah, Coordinates: 32.475, 35.814
+Localitys: 22
+
+#### ايدون (Aidoon)
+
+Code: JOIRB_irbid-alkubrah_aidoon, Coordinates: 32.475, 35.814
+
+#### علعال (Al&#39;al)
+
+Code: JOIRB_irbid-alkubrah_alal, Coordinates: 32.475, 35.814
+
+#### عالية (Aliah)
+
+Code: JOIRB_irbid-alkubrah_aliah, Coordinates: 32.475, 35.814
+
+#### اسعره (As&#39;ara)
+
+Code: JOIRB_irbid-alkubrah_asara, Coordinates: 32.475, 35.814
+
+#### بيت راس (Bait Ras)
+
+Code: JOIRB_irbid-alkubrah_bait-ras, Coordinates: 32.475, 35.814
+
+#### بشرى (Boshra)
+
+Code: JOIRB_irbid-alkubrah_boshra, Coordinates: 32.475, 35.814
+
+#### فوعره (Fo&#39;arah)
+
+Code: JOIRB_irbid-alkubrah_foarah, Coordinates: 32.475, 35.814
+
+#### حكما (Hakama)
+
+Code: JOIRB_irbid-alkubrah_hakama, Coordinates: 32.475, 35.814
+
+#### حور (Hoor)
+
+Code: JOIRB_irbid-alkubrah_hoor, Coordinates: 32.475, 35.814
+
+#### الحصن (Hoson)
+
+Code: JOIRB_irbid-alkubrah_hoson, Coordinates: 32.475, 35.814
+
+#### حواره (Howwarah)
+
+Code: JOIRB_irbid-alkubrah_howwarah, Coordinates: 32.475, 35.814
+
+#### اربد (Irbid)
+
+Code: JOIRB_irbid-alkubrah_irbid, Coordinates: 32.475, 35.814
+
+#### كتم (Ketem)
+
+Code: JOIRB_irbid-alkubrah_ketem, Coordinates: 32.475, 35.814
+
+#### كفر جايز (Kofor Jayez)
+
+Code: JOIRB_irbid-alkubrah_kofor-jayez, Coordinates: 32.475, 35.814
+
+#### مرو (Maro)
+
+Code: JOIRB_irbid-alkubrah_maro, Coordinates: 32.475, 35.814
+
+#### المغير (Mghayyer)
+
+Code: JOIRB_irbid-alkubrah_mghayyer, Coordinates: 32.475, 35.814
+
+#### النعيمة (No&#39;ayymeh)
+
+Code: JOIRB_irbid-alkubrah_noayymeh, Coordinates: 32.475, 35.814
+
+#### سال (Sal)
+
+Code: JOIRB_irbid-alkubrah_sal, Coordinates: 32.475, 35.814
+
+#### الصريح (Sarieh)
+
+Code: JOIRB_irbid-alkubrah_sarieh, Coordinates: 32.475, 35.814
+
+#### شطنا (Shatna)
+
+Code: JOIRB_irbid-alkubrah_shatna, Coordinates: 32.475, 35.814
+
+#### تقبل (Teqbel)
+
+Code: JOIRB_irbid-alkubrah_teqbel, Coordinates: 32.475, 35.814
+
+#### ام الجدايل (Um El-Jadayel)
+
+Code: JOIRB_irbid-alkubrah_um-el-jadayel, Coordinates: 32.475, 35.814
+
+### خالد بن الوليد (Khaled Abn Alwaleed)
+
+Code: JOIRB_khaled-abn-alwaleed, Coordinates: 32.475, 35.814
+Localitys: 5
+
+#### الحمة الاردنية (المخيبة الفوقا) (Hemah Aurdinyah (Mkhaibeh El-Foaqa))
+
+Code: JOIRB_khaled-abn-alwaleed_hemah-aurdinyah-mkhaibeh-el-foaqa, Coordinates: 32.475, 35.814
+
+#### ملكا (Malka)
+
+Code: JOIRB_khaled-abn-alwaleed_malka, Coordinates: 32.475, 35.814
+
+#### المنصورة (Mansoorah)
+
+Code: JOIRB_khaled-abn-alwaleed_mansoorah, Coordinates: 32.475, 35.814
+
+#### المخيبة التحتا (Mkhaibeh El-Tehta)
+
+Code: JOIRB_khaled-abn-alwaleed_mkhaibeh-el-tehta, Coordinates: 32.475, 35.814
+
+#### ام قيس (Um Qais)
+
+Code: JOIRB_khaled-abn-alwaleed_um-qais, Coordinates: 32.475, 35.814
+
+### المزار الجديدة (Mazar Jadeda)
+
+Code: JOIRB_mazar-jadeda, Coordinates: 32.475, 35.814
+Localitys: 12
+
+#### دير يوسف (Dair Yoosef)
+
+Code: JOIRB_mazar-jadeda_dair-yoosef, Coordinates: 32.475, 35.814
+
+#### عنبة (Enbeh)
+
+Code: JOIRB_mazar-jadeda_enbeh, Coordinates: 32.475, 35.814
+
+#### حبكا (Habka)
+
+Code: JOIRB_mazar-jadeda_habka, Coordinates: 32.475, 35.814
+
+#### حوفا المزار (Hoafa El-Mazar)
+
+Code: JOIRB_mazar-jadeda_hoafa-el-mazar, Coordinates: 32.475, 35.814
+
+#### الابراهيمية (سراس) (Ibrahimia (Sarras))
+
+Code: JOIRB_mazar-jadeda_ibrahimia-sarras, Coordinates: 32.475, 35.814
+
+#### جحفية (Johfiyyeh)
+
+Code: JOIRB_mazar-jadeda_johfiyyeh, Coordinates: 32.475, 35.814
+
+#### المزار الشمالي (Mazar Shamali)
+
+Code: JOIRB_mazar-jadeda_mazar-shamali, Coordinates: 32.475, 35.814
+
+#### الرحمة (Rahmeh)
+
+Code: JOIRB_mazar-jadeda_rahmeh, Coordinates: 32.475, 35.814
+
+#### ارحابا (Rhaba)
+
+Code: JOIRB_mazar-jadeda_rhaba, Coordinates: 32.475, 35.814
+
+#### صمد (Samad)
+
+Code: JOIRB_mazar-jadeda_samad, Coordinates: 32.475, 35.814
+
+#### الزعترة (Z&#39;atara)
+
+Code: JOIRB_mazar-jadeda_zatara, Coordinates: 32.475, 35.814
+
+#### زوبيا (Zoobya)
+
+Code: JOIRB_mazar-jadeda_zoobya, Coordinates: 32.475, 35.814
+
+### معاذ بن جبل (Mo&#39;ath Abn Jabal)
+
+Code: JOIRB_moath-abn-jabal, Coordinates: 32.475, 35.814
+Localitys: 9
+
+#### العدسية (Adasiyyeh)
+
+Code: JOIRB_moath-abn-jabal_adasiyyeh, Coordinates: 32.475, 35.814
+
+#### الباقوره (Baqoorah)
+
+Code: JOIRB_moath-abn-jabal_baqoorah, Coordinates: 32.475, 35.814
+
+#### الفضيين (Feddein)
+
+Code: JOIRB_moath-abn-jabal_feddein, Coordinates: 32.475, 35.814
+
+#### ماجد (Majed)
+
+Code: JOIRB_moath-abn-jabal_majed, Coordinates: 32.475, 35.814
+
+#### المنشية (Manshiyyeh)
+
+Code: JOIRB_moath-abn-jabal_manshiyyeh, Coordinates: 32.475, 35.814
+
+#### الساخنة (Sakneh)
+
+Code: JOIRB_moath-abn-jabal_sakneh, Coordinates: 32.475, 35.814
+
+#### الشونة الشمالية (Shooneh Shamaliyah)
+
+Code: JOIRB_moath-abn-jabal_shooneh-shamaliyah, Coordinates: 32.475, 35.814
+
+#### وادي العرب (Wadi El-Arab)
+
+Code: JOIRB_moath-abn-jabal_wadi-el-arab, Coordinates: 32.475, 35.814
+
+#### وقاص (Waqqas)
+
+Code: JOIRB_moath-abn-jabal_waqqas, Coordinates: 32.475, 35.814
+
+### رابية الكورة (Rabeat Al Koorah)
+
+Code: JOIRB_rabeat-al-koorah, Coordinates: 32.475, 35.814
+Localitys: 5
+
+#### جنين الصفا (Jenien Essafa)
+
+Code: JOIRB_rabeat-al-koorah_jenien-essafa, Coordinates: 32.475, 35.814
+
+#### كفر كيفيا (Kofor Kiefia)
+
+Code: JOIRB_rabeat-al-koorah_kofor-kiefia, Coordinates: 32.475, 35.814
+
+#### ارخيم (Rkhayyem)
+
+Code: JOIRB_rabeat-al-koorah_rkhayyem, Coordinates: 32.475, 35.814
+
+#### سموع (Sammo&#39;)
+
+Code: JOIRB_rabeat-al-koorah_sammo, Coordinates: 32.475, 35.814
+
+#### زمال (Zmal)
+
+Code: JOIRB_rabeat-al-koorah_zmal, Coordinates: 32.475, 35.814
+
+### الرمثا الجديدة (Ramtha Jadeda)
+
+Code: JOIRB_ramtha-jadeda, Coordinates: 32.475, 35.814
+Localitys: 2
+
+#### البويضة (Bwaidhah)
+
+Code: JOIRB_ramtha-jadeda_bwaidhah, Coordinates: 32.475, 35.814
+
+#### الرمثا (Ramtha)
+
+Code: JOIRB_ramtha-jadeda_ramtha, Coordinates: 32.475, 35.814
+
+### سهل حوران (Sahel Horan)
+
+Code: JOIRB_sahel-horan, Coordinates: 32.475, 35.814
+Localitys: 4
+
+#### الذنيبة (Dnaibeh)
+
+Code: JOIRB_sahel-horan_dnaibeh, Coordinates: 32.475, 35.814
+
+#### عمراوة (Emrawah)
+
+Code: JOIRB_sahel-horan_emrawah, Coordinates: 32.475, 35.814
+
+#### الشجرة (Shajarah)
+
+Code: JOIRB_sahel-horan_shajarah, Coordinates: 32.475, 35.814
+
+#### الطرة (Torrah)
+
+Code: JOIRB_sahel-horan_torrah, Coordinates: 32.475, 35.814
+
+### مخيم الشهيد عزمي المفتي(الحصن)* (Shahed Azmi El-Mufti (Hoson)Camp*)
+
+Code: JOIRB_shahed-azmi-el-mufti-hosoncamp, Coordinates: 32.475, 35.814
+Localitys: 0
+
+### شرحبيل بن حسنة (Sharhabeel Abn Hasnah)
+
+Code: JOIRB_sharhabeel-abn-hasnah, Coordinates: 32.475, 35.814
+Localitys: 8
+
+#### ابو هابيل (Abu Habeel)
+
+Code: JOIRB_sharhabeel-abn-hasnah_abu-habeel, Coordinates: 32.475, 35.814
+
+#### ابو سيدو (Abu Saydo)
+
+Code: JOIRB_sharhabeel-abn-hasnah_abu-saydo, Coordinates: 32.475, 35.814
+
+#### كركمة (Karkamah)
+
+Code: JOIRB_sharhabeel-abn-hasnah_karkamah, Coordinates: 32.475, 35.814
+
+#### كريمه (Krayymeh)
+
+Code: JOIRB_sharhabeel-abn-hasnah_krayymeh, Coordinates: 32.475, 35.814
+
+#### القرن (Qarn)
+
+Code: JOIRB_sharhabeel-abn-hasnah_qarn, Coordinates: 32.475, 35.814
+
+#### سبيره (Sbiereh)
+
+Code: JOIRB_sharhabeel-abn-hasnah_sbiereh, Coordinates: 32.475, 35.814
+
+#### سليخات (Sliaikhat)
+
+Code: JOIRB_sharhabeel-abn-hasnah_sliaikhat, Coordinates: 32.475, 35.814
+
+#### وادي الريان (Wadi El-Raian)
+
+Code: JOIRB_sharhabeel-abn-hasnah_wadi-el-raian, Coordinates: 32.475, 35.814
+
+### طبقة فحل (Tabaqat Fahl)
+
+Code: JOIRB_tabaqat-fahl, Coordinates: 32.475, 35.814
+Localitys: 6
+
+#### ابو زياد (Abu Ziad)
+
+Code: JOIRB_tabaqat-fahl_abu-ziad, Coordinates: 32.475, 35.814
+
+#### المرزة (Marzeh)
+
+Code: JOIRB_tabaqat-fahl_marzeh, Coordinates: 32.475, 35.814
+
+#### المشارع (Mashari&#39;e)
+
+Code: JOIRB_tabaqat-fahl_masharie, Coordinates: 32.475, 35.814
+
+#### الشيخ حسين (Shaikh Hussein)
+
+Code: JOIRB_tabaqat-fahl_shaikh-hussein, Coordinates: 32.475, 35.814
+
+#### طبقة فحل (Tabaqat Fahl)
+
+Code: JOIRB_tabaqat-fahl_tabaqat-fahl, Coordinates: 32.475, 35.814
+
+#### الزمالية (Zmaliyyeh)
+
+Code: JOIRB_tabaqat-fahl_zmaliyyeh, Coordinates: 32.475, 35.814
+
+### الطيبة الجديدة (Taybeh  Jadeda)
+
+Code: JOIRB_taybeh-jadeda, Coordinates: 32.475, 35.814
+Localitys: 7
+
+#### ابسر ابو علي (Abser Abu Ali)
+
+Code: JOIRB_taybeh-jadeda_abser-abu-ali, Coordinates: 32.475, 35.814
+
+#### دير السعنة (Dair Ess&#39;eneh)
+
+Code: JOIRB_taybeh-jadeda_dair-esseneh, Coordinates: 32.475, 35.814
+
+#### مخربا (Makhraba)
+
+Code: JOIRB_taybeh-jadeda_makhraba, Coordinates: 32.475, 35.814
+
+#### مندح (Mendah)
+
+Code: JOIRB_taybeh-jadeda_mendah, Coordinates: 32.475, 35.814
+
+#### صما (Samma)
+
+Code: JOIRB_taybeh-jadeda_samma, Coordinates: 32.475, 35.814
+
+#### الطيبة (Taybeh)
+
+Code: JOIRB_taybeh-jadeda_taybeh, Coordinates: 32.475, 35.814
+
+#### زبدة الوسطية (Zabdah El-Wastiyyeh)
+
+Code: JOIRB_taybeh-jadeda_zabdah-el-wastiyyeh, Coordinates: 32.475, 35.814
+
+### الوسطية (Wastiyyah)
+
+Code: JOIRB_wastiyyah, Coordinates: 32.475, 35.814
+Localitys: 7
+
+#### حوفا الوسطية (Hoafa El-Wastiyyeh)
+
+Code: JOIRB_wastiyyah_hoafa-el-wastiyyeh, Coordinates: 32.475, 35.814
+
+#### الخراج (Kharaj)
+
+Code: JOIRB_wastiyyah_kharaj, Coordinates: 32.475, 35.814
+
+#### كفر عان (Kofor An)
+
+Code: JOIRB_wastiyyah_kofor-an, Coordinates: 32.475, 35.814
+
+#### كفر اسد (Kofor Asad)
+
+Code: JOIRB_wastiyyah_kofor-asad, Coordinates: 32.475, 35.814
+
+#### قميم (Qmaim)
+
+Code: JOIRB_wastiyyah_qmaim, Coordinates: 32.475, 35.814
+
+#### قم (Qom)
+
+Code: JOIRB_wastiyyah_qom, Coordinates: 32.475, 35.814
+
+#### صيدور (Saidoor)
+
+Code: JOIRB_wastiyyah_saidoor, Coordinates: 32.475, 35.814
+

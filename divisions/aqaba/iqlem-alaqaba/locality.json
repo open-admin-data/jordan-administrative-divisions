@@ -1,0 +1,218 @@
+[
+  {
+    "id": "JOAQA_iqlem-alaqaba_aldorah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الدره",
+      "en": "Aldorah",
+      "slug": "aldorah"
+    },
+    "code": {
+      "id": "JOAQA_iqlem-alaqaba_aldorah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAQA_iqlem-alaqaba",
+      "level": 2,
+      "name": {
+        "local": "إقليم العقبة",
+        "en": "Iqlem Alaqaba",
+        "slug": "iqlem-alaqaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAQA",
+        "level": 1,
+        "name": {
+          "local": "العقبة",
+          "en": "Aqaba",
+          "slug": "aqaba"
+        }
+      },
+      {
+        "id": "JOAQA_iqlem-alaqaba",
+        "level": 2,
+        "name": {
+          "local": "إقليم العقبة",
+          "en": "Iqlem Alaqaba",
+          "slug": "iqlem-alaqaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.976",
+      "lon": "35.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAQA_iqlem-alaqaba_aqaba",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "العقبة",
+      "en": "Aqaba",
+      "slug": "aqaba"
+    },
+    "code": {
+      "id": "JOAQA_iqlem-alaqaba_aqaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAQA_iqlem-alaqaba",
+      "level": 2,
+      "name": {
+        "local": "إقليم العقبة",
+        "en": "Iqlem Alaqaba",
+        "slug": "iqlem-alaqaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAQA",
+        "level": 1,
+        "name": {
+          "local": "العقبة",
+          "en": "Aqaba",
+          "slug": "aqaba"
+        }
+      },
+      {
+        "id": "JOAQA_iqlem-alaqaba",
+        "level": 2,
+        "name": {
+          "local": "إقليم العقبة",
+          "en": "Iqlem Alaqaba",
+          "slug": "iqlem-alaqaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.976",
+      "lon": "35.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAQA_iqlem-alaqaba_mezfer",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المزفر",
+      "en": "Mezfer",
+      "slug": "mezfer"
+    },
+    "code": {
+      "id": "JOAQA_iqlem-alaqaba_mezfer",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAQA_iqlem-alaqaba",
+      "level": 2,
+      "name": {
+        "local": "إقليم العقبة",
+        "en": "Iqlem Alaqaba",
+        "slug": "iqlem-alaqaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAQA",
+        "level": 1,
+        "name": {
+          "local": "العقبة",
+          "en": "Aqaba",
+          "slug": "aqaba"
+        }
+      },
+      {
+        "id": "JOAQA_iqlem-alaqaba",
+        "level": 2,
+        "name": {
+          "local": "إقليم العقبة",
+          "en": "Iqlem Alaqaba",
+          "slug": "iqlem-alaqaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.976",
+      "lon": "35.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAQA_iqlem-alaqaba_teten",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "تتن",
+      "en": "Teten",
+      "slug": "teten"
+    },
+    "code": {
+      "id": "JOAQA_iqlem-alaqaba_teten",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAQA_iqlem-alaqaba",
+      "level": 2,
+      "name": {
+        "local": "إقليم العقبة",
+        "en": "Iqlem Alaqaba",
+        "slug": "iqlem-alaqaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAQA",
+        "level": 1,
+        "name": {
+          "local": "العقبة",
+          "en": "Aqaba",
+          "slug": "aqaba"
+        }
+      },
+      {
+        "id": "JOAQA_iqlem-alaqaba",
+        "level": 2,
+        "name": {
+          "local": "إقليم العقبة",
+          "en": "Iqlem Alaqaba",
+          "slug": "iqlem-alaqaba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.976",
+      "lon": "35.347"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

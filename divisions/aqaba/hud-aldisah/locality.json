@@ -1,0 +1,218 @@
+[
+  {
+    "id": "JOAQA_hud-aldisah_diesah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الديسه",
+      "en": "Diesah",
+      "slug": "diesah"
+    },
+    "code": {
+      "id": "JOAQA_hud-aldisah_diesah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAQA_hud-aldisah",
+      "level": 2,
+      "name": {
+        "local": "حوض الديسة",
+        "en": "Hud Aldisah",
+        "slug": "hud-aldisah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAQA",
+        "level": 1,
+        "name": {
+          "local": "العقبة",
+          "en": "Aqaba",
+          "slug": "aqaba"
+        }
+      },
+      {
+        "id": "JOAQA_hud-aldisah",
+        "level": 2,
+        "name": {
+          "local": "حوض الديسة",
+          "en": "Hud Aldisah",
+          "slug": "hud-aldisah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.976",
+      "lon": "35.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAQA_hud-aldisah_ghal",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الغال",
+      "en": "Ghal",
+      "slug": "ghal"
+    },
+    "code": {
+      "id": "JOAQA_hud-aldisah_ghal",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAQA_hud-aldisah",
+      "level": 2,
+      "name": {
+        "local": "حوض الديسة",
+        "en": "Hud Aldisah",
+        "slug": "hud-aldisah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAQA",
+        "level": 1,
+        "name": {
+          "local": "العقبة",
+          "en": "Aqaba",
+          "slug": "aqaba"
+        }
+      },
+      {
+        "id": "JOAQA_hud-aldisah",
+        "level": 2,
+        "name": {
+          "local": "حوض الديسة",
+          "en": "Hud Aldisah",
+          "slug": "hud-aldisah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.976",
+      "lon": "35.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAQA_hud-aldisah_mnaishier",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "منيشير",
+      "en": "Mnaishier",
+      "slug": "mnaishier"
+    },
+    "code": {
+      "id": "JOAQA_hud-aldisah_mnaishier",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAQA_hud-aldisah",
+      "level": 2,
+      "name": {
+        "local": "حوض الديسة",
+        "en": "Hud Aldisah",
+        "slug": "hud-aldisah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAQA",
+        "level": 1,
+        "name": {
+          "local": "العقبة",
+          "en": "Aqaba",
+          "slug": "aqaba"
+        }
+      },
+      {
+        "id": "JOAQA_hud-aldisah",
+        "level": 2,
+        "name": {
+          "local": "حوض الديسة",
+          "en": "Hud Aldisah",
+          "slug": "hud-aldisah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.976",
+      "lon": "35.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAQA_hud-aldisah_twaiseh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الطويسه",
+      "en": "Twaiseh",
+      "slug": "twaiseh"
+    },
+    "code": {
+      "id": "JOAQA_hud-aldisah_twaiseh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAQA_hud-aldisah",
+      "level": 2,
+      "name": {
+        "local": "حوض الديسة",
+        "en": "Hud Aldisah",
+        "slug": "hud-aldisah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAQA",
+        "level": 1,
+        "name": {
+          "local": "العقبة",
+          "en": "Aqaba",
+          "slug": "aqaba"
+        }
+      },
+      {
+        "id": "JOAQA_hud-aldisah",
+        "level": 2,
+        "name": {
+          "local": "حوض الديسة",
+          "en": "Hud Aldisah",
+          "slug": "hud-aldisah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.976",
+      "lon": "35.347"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

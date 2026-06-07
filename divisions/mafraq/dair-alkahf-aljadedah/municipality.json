@@ -1,0 +1,47 @@
+{
+  "id": "JOMAF_dair-alkahf-aljadedah",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "دير الكهف الجديدة",
+    "en": "Dair Alkahf Aljadedah",
+    "slug": "dair-alkahf-aljadedah"
+  },
+  "code": {
+    "id": "JOMAF_dair-alkahf-aljadedah",
+    "iso": null
+  },
+  "parent": {
+    "id": "JOMAF",
+    "level": 1,
+    "name": {
+      "local": "المفرق",
+      "en": "Mafraq",
+      "slug": "mafraq"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "JOMAF",
+      "level": 1,
+      "name": {
+        "local": "المفرق",
+        "en": "Mafraq",
+        "slug": "mafraq"
+      }
+    }
+  ],
+  "children_count": {
+    "locality": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.54",
+    "lon": "37.616"
+  },
+  "metadata": {},
+  "source": {}
+}

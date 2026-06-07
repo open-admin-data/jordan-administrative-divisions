@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "JOIRB_irbid-alkubrah_aidoon",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ايدون",
+      "en": "Aidoon",
+      "slug": "aidoon"
+    },
+    "code": {
+      "id": "JOIRB_irbid-alkubrah_aidoon",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_irbid-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "اربد الكبرى",
+        "en": "Irbid Alkubrah",
+        "slug": "irbid-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_irbid-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "اربد الكبرى",
+          "en": "Irbid Alkubrah",
+          "slug": "irbid-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_irbid-alkubrah_alal",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "علعال",
+      "en": "Al'al",
+      "slug": "alal"
+    },
+    "code": {
+      "id": "JOIRB_irbid-alkubrah_alal",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_irbid-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "اربد الكبرى",
+        "en": "Irbid Alkubrah",
+        "slug": "irbid-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_irbid-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "اربد الكبرى",
+          "en": "Irbid Alkubrah",
+          "slug": "irbid-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_irbid-alkubrah_aliah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "عالية",
+      "en": "Aliah",
+      "slug": "aliah"
+    },
+    "code": {
+      "id": "JOIRB_irbid-alkubrah_aliah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_irbid-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "اربد الكبرى",
+        "en": "Irbid Alkubrah",
+        "slug": "irbid-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_irbid-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "اربد الكبرى",
+          "en": "Irbid Alkubrah",
+          "slug": "irbid-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_irbid-alkubrah_asara",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "اسعره",
+      "en": "As'ara",
+      "slug": "asara"
+    },
+    "code": {
+      "id": "JOIRB_irbid-alkubrah_asara",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_irbid-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "اربد الكبرى",
+        "en": "Irbid Alkubrah",
+        "slug": "irbid-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_irbid-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "اربد الكبرى",
+          "en": "Irbid Alkubrah",
+          "slug": "irbid-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_irbid-alkubrah_bait-ras",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "بيت راس",
+      "en": "Bait Ras",
+      "slug": "bait-ras"
+    },
+    "code": {
+      "id": "JOIRB_irbid-alkubrah_bait-ras",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_irbid-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "اربد الكبرى",
+        "en": "Irbid Alkubrah",
+        "slug": "irbid-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_irbid-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "اربد الكبرى",
+          "en": "Irbid Alkubrah",
+          "slug": "irbid-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_irbid-alkubrah_boshra",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "بشرى",
+      "en": "Boshra",
+      "slug": "boshra"
+    },
+    "code": {
+      "id": "JOIRB_irbid-alkubrah_boshra",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_irbid-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "اربد الكبرى",
+        "en": "Irbid Alkubrah",
+        "slug": "irbid-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_irbid-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "اربد الكبرى",
+          "en": "Irbid Alkubrah",
+          "slug": "irbid-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_irbid-alkubrah_foarah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "فوعره",
+      "en": "Fo'arah",
+      "slug": "foarah"
+    },
+    "code": {
+      "id": "JOIRB_irbid-alkubrah_foarah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_irbid-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "اربد الكبرى",
+        "en": "Irbid Alkubrah",
+        "slug": "irbid-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_irbid-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "اربد الكبرى",
+          "en": "Irbid Alkubrah",
+          "slug": "irbid-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_irbid-alkubrah_hakama",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "حكما",
+      "en": "Hakama",
+      "slug": "hakama"
+    },
+    "code": {
+      "id": "JOIRB_irbid-alkubrah_hakama",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_irbid-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "اربد الكبرى",
+        "en": "Irbid Alkubrah",
+        "slug": "irbid-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_irbid-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "اربد الكبرى",
+          "en": "Irbid Alkubrah",
+          "slug": "irbid-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_irbid-alkubrah_hoor",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "حور",
+      "en": "Hoor",
+      "slug": "hoor"
+    },
+    "code": {
+      "id": "JOIRB_irbid-alkubrah_hoor",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_irbid-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "اربد الكبرى",
+        "en": "Irbid Alkubrah",
+        "slug": "irbid-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_irbid-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "اربد الكبرى",
+          "en": "Irbid Alkubrah",
+          "slug": "irbid-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_irbid-alkubrah_hoson",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الحصن",
+      "en": "Hoson",
+      "slug": "hoson"
+    },
+    "code": {
+      "id": "JOIRB_irbid-alkubrah_hoson",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_irbid-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "اربد الكبرى",
+        "en": "Irbid Alkubrah",
+        "slug": "irbid-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_irbid-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "اربد الكبرى",
+          "en": "Irbid Alkubrah",
+          "slug": "irbid-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_irbid-alkubrah_howwarah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "حواره",
+      "en": "Howwarah",
+      "slug": "howwarah"
+    },
+    "code": {
+      "id": "JOIRB_irbid-alkubrah_howwarah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_irbid-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "اربد الكبرى",
+        "en": "Irbid Alkubrah",
+        "slug": "irbid-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_irbid-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "اربد الكبرى",
+          "en": "Irbid Alkubrah",
+          "slug": "irbid-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_irbid-alkubrah_irbid",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "اربد",
+      "en": "Irbid",
+      "slug": "irbid"
+    },
+    "code": {
+      "id": "JOIRB_irbid-alkubrah_irbid",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_irbid-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "اربد الكبرى",
+        "en": "Irbid Alkubrah",
+        "slug": "irbid-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_irbid-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "اربد الكبرى",
+          "en": "Irbid Alkubrah",
+          "slug": "irbid-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_irbid-alkubrah_ketem",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "كتم",
+      "en": "Ketem",
+      "slug": "ketem"
+    },
+    "code": {
+      "id": "JOIRB_irbid-alkubrah_ketem",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_irbid-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "اربد الكبرى",
+        "en": "Irbid Alkubrah",
+        "slug": "irbid-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_irbid-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "اربد الكبرى",
+          "en": "Irbid Alkubrah",
+          "slug": "irbid-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_irbid-alkubrah_kofor-jayez",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "كفر جايز",
+      "en": "Kofor Jayez",
+      "slug": "kofor-jayez"
+    },
+    "code": {
+      "id": "JOIRB_irbid-alkubrah_kofor-jayez",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_irbid-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "اربد الكبرى",
+        "en": "Irbid Alkubrah",
+        "slug": "irbid-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_irbid-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "اربد الكبرى",
+          "en": "Irbid Alkubrah",
+          "slug": "irbid-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_irbid-alkubrah_maro",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "مرو",
+      "en": "Maro",
+      "slug": "maro"
+    },
+    "code": {
+      "id": "JOIRB_irbid-alkubrah_maro",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_irbid-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "اربد الكبرى",
+        "en": "Irbid Alkubrah",
+        "slug": "irbid-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_irbid-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "اربد الكبرى",
+          "en": "Irbid Alkubrah",
+          "slug": "irbid-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_irbid-alkubrah_mghayyer",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المغير",
+      "en": "Mghayyer",
+      "slug": "mghayyer"
+    },
+    "code": {
+      "id": "JOIRB_irbid-alkubrah_mghayyer",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_irbid-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "اربد الكبرى",
+        "en": "Irbid Alkubrah",
+        "slug": "irbid-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_irbid-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "اربد الكبرى",
+          "en": "Irbid Alkubrah",
+          "slug": "irbid-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_irbid-alkubrah_noayymeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "النعيمة",
+      "en": "No'ayymeh",
+      "slug": "noayymeh"
+    },
+    "code": {
+      "id": "JOIRB_irbid-alkubrah_noayymeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_irbid-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "اربد الكبرى",
+        "en": "Irbid Alkubrah",
+        "slug": "irbid-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_irbid-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "اربد الكبرى",
+          "en": "Irbid Alkubrah",
+          "slug": "irbid-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_irbid-alkubrah_sal",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "سال",
+      "en": "Sal",
+      "slug": "sal"
+    },
+    "code": {
+      "id": "JOIRB_irbid-alkubrah_sal",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_irbid-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "اربد الكبرى",
+        "en": "Irbid Alkubrah",
+        "slug": "irbid-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_irbid-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "اربد الكبرى",
+          "en": "Irbid Alkubrah",
+          "slug": "irbid-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_irbid-alkubrah_sarieh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الصريح",
+      "en": "Sarieh",
+      "slug": "sarieh"
+    },
+    "code": {
+      "id": "JOIRB_irbid-alkubrah_sarieh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_irbid-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "اربد الكبرى",
+        "en": "Irbid Alkubrah",
+        "slug": "irbid-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_irbid-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "اربد الكبرى",
+          "en": "Irbid Alkubrah",
+          "slug": "irbid-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_irbid-alkubrah_shatna",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "شطنا",
+      "en": "Shatna",
+      "slug": "shatna"
+    },
+    "code": {
+      "id": "JOIRB_irbid-alkubrah_shatna",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_irbid-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "اربد الكبرى",
+        "en": "Irbid Alkubrah",
+        "slug": "irbid-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_irbid-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "اربد الكبرى",
+          "en": "Irbid Alkubrah",
+          "slug": "irbid-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_irbid-alkubrah_teqbel",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "تقبل",
+      "en": "Teqbel",
+      "slug": "teqbel"
+    },
+    "code": {
+      "id": "JOIRB_irbid-alkubrah_teqbel",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_irbid-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "اربد الكبرى",
+        "en": "Irbid Alkubrah",
+        "slug": "irbid-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_irbid-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "اربد الكبرى",
+          "en": "Irbid Alkubrah",
+          "slug": "irbid-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_irbid-alkubrah_um-el-jadayel",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام الجدايل",
+      "en": "Um El-Jadayel",
+      "slug": "um-el-jadayel"
+    },
+    "code": {
+      "id": "JOIRB_irbid-alkubrah_um-el-jadayel",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_irbid-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "اربد الكبرى",
+        "en": "Irbid Alkubrah",
+        "slug": "irbid-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_irbid-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "اربد الكبرى",
+          "en": "Irbid Alkubrah",
+          "slug": "irbid-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

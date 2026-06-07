@@ -1,0 +1,596 @@
+[
+  {
+    "id": "JOKAR_aghwar-janoobiyah_blaidet-almazraa",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "بليدة المزرعة",
+      "en": "Blaidet Almazra'a",
+      "slug": "blaidet-almazraa"
+    },
+    "code": {
+      "id": "JOKAR_aghwar-janoobiyah_blaidet-almazraa",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_aghwar-janoobiyah",
+      "level": 2,
+      "name": {
+        "local": "الاغوار الجنوبية",
+        "en": "Aghwar Janoobiyah",
+        "slug": "aghwar-janoobiyah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_aghwar-janoobiyah",
+        "level": 2,
+        "name": {
+          "local": "الاغوار الجنوبية",
+          "en": "Aghwar Janoobiyah",
+          "slug": "aghwar-janoobiyah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_aghwar-janoobiyah_blaidet-hadiethah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "بليدة الحديثة",
+      "en": "Blaidet Hadiethah",
+      "slug": "blaidet-hadiethah"
+    },
+    "code": {
+      "id": "JOKAR_aghwar-janoobiyah_blaidet-hadiethah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_aghwar-janoobiyah",
+      "level": 2,
+      "name": {
+        "local": "الاغوار الجنوبية",
+        "en": "Aghwar Janoobiyah",
+        "slug": "aghwar-janoobiyah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_aghwar-janoobiyah",
+        "level": 2,
+        "name": {
+          "local": "الاغوار الجنوبية",
+          "en": "Aghwar Janoobiyah",
+          "slug": "aghwar-janoobiyah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_aghwar-janoobiyah_ghawr-almazraa",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "غور المزرعة",
+      "en": "Ghawr Almazra'a",
+      "slug": "ghawr-almazraa"
+    },
+    "code": {
+      "id": "JOKAR_aghwar-janoobiyah_ghawr-almazraa",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_aghwar-janoobiyah",
+      "level": 2,
+      "name": {
+        "local": "الاغوار الجنوبية",
+        "en": "Aghwar Janoobiyah",
+        "slug": "aghwar-janoobiyah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_aghwar-janoobiyah",
+        "level": 2,
+        "name": {
+          "local": "الاغوار الجنوبية",
+          "en": "Aghwar Janoobiyah",
+          "slug": "aghwar-janoobiyah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_aghwar-janoobiyah_ghawr-assal",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "غور عسال",
+      "en": "Ghawr Assal",
+      "slug": "ghawr-assal"
+    },
+    "code": {
+      "id": "JOKAR_aghwar-janoobiyah_ghawr-assal",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_aghwar-janoobiyah",
+      "level": 2,
+      "name": {
+        "local": "الاغوار الجنوبية",
+        "en": "Aghwar Janoobiyah",
+        "slug": "aghwar-janoobiyah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_aghwar-janoobiyah",
+        "level": 2,
+        "name": {
+          "local": "الاغوار الجنوبية",
+          "en": "Aghwar Janoobiyah",
+          "slug": "aghwar-janoobiyah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_aghwar-janoobiyah_ghawr-dra",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "غور الذراع",
+      "en": "Ghawr Dra'",
+      "slug": "ghawr-dra"
+    },
+    "code": {
+      "id": "JOKAR_aghwar-janoobiyah_ghawr-dra",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_aghwar-janoobiyah",
+      "level": 2,
+      "name": {
+        "local": "الاغوار الجنوبية",
+        "en": "Aghwar Janoobiyah",
+        "slug": "aghwar-janoobiyah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_aghwar-janoobiyah",
+        "level": 2,
+        "name": {
+          "local": "الاغوار الجنوبية",
+          "en": "Aghwar Janoobiyah",
+          "slug": "aghwar-janoobiyah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_aghwar-janoobiyah_ghawr-faifa",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "غور فيفا",
+      "en": "Ghawr Faifa",
+      "slug": "ghawr-faifa"
+    },
+    "code": {
+      "id": "JOKAR_aghwar-janoobiyah_ghawr-faifa",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_aghwar-janoobiyah",
+      "level": 2,
+      "name": {
+        "local": "الاغوار الجنوبية",
+        "en": "Aghwar Janoobiyah",
+        "slug": "aghwar-janoobiyah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_aghwar-janoobiyah",
+        "level": 2,
+        "name": {
+          "local": "الاغوار الجنوبية",
+          "en": "Aghwar Janoobiyah",
+          "slug": "aghwar-janoobiyah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_aghwar-janoobiyah_ghawr-hadiethah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "غور الحديثة",
+      "en": "Ghawr Hadiethah",
+      "slug": "ghawr-hadiethah"
+    },
+    "code": {
+      "id": "JOKAR_aghwar-janoobiyah_ghawr-hadiethah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_aghwar-janoobiyah",
+      "level": 2,
+      "name": {
+        "local": "الاغوار الجنوبية",
+        "en": "Aghwar Janoobiyah",
+        "slug": "aghwar-janoobiyah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_aghwar-janoobiyah",
+        "level": 2,
+        "name": {
+          "local": "الاغوار الجنوبية",
+          "en": "Aghwar Janoobiyah",
+          "slug": "aghwar-janoobiyah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_aghwar-janoobiyah_ghawr-safi",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "غور الصافي",
+      "en": "Ghawr Safi",
+      "slug": "ghawr-safi"
+    },
+    "code": {
+      "id": "JOKAR_aghwar-janoobiyah_ghawr-safi",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_aghwar-janoobiyah",
+      "level": 2,
+      "name": {
+        "local": "الاغوار الجنوبية",
+        "en": "Aghwar Janoobiyah",
+        "slug": "aghwar-janoobiyah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_aghwar-janoobiyah",
+        "level": 2,
+        "name": {
+          "local": "الاغوار الجنوبية",
+          "en": "Aghwar Janoobiyah",
+          "slug": "aghwar-janoobiyah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_aghwar-janoobiyah_gwiebeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الغويبة",
+      "en": "Gwiebeh",
+      "slug": "gwiebeh"
+    },
+    "code": {
+      "id": "JOKAR_aghwar-janoobiyah_gwiebeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_aghwar-janoobiyah",
+      "level": 2,
+      "name": {
+        "local": "الاغوار الجنوبية",
+        "en": "Aghwar Janoobiyah",
+        "slug": "aghwar-janoobiyah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_aghwar-janoobiyah",
+        "level": 2,
+        "name": {
+          "local": "الاغوار الجنوبية",
+          "en": "Aghwar Janoobiyah",
+          "slug": "aghwar-janoobiyah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_aghwar-janoobiyah_mamorah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المعمورة",
+      "en": "Mamorah",
+      "slug": "mamorah"
+    },
+    "code": {
+      "id": "JOKAR_aghwar-janoobiyah_mamorah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_aghwar-janoobiyah",
+      "level": 2,
+      "name": {
+        "local": "الاغوار الجنوبية",
+        "en": "Aghwar Janoobiyah",
+        "slug": "aghwar-janoobiyah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_aghwar-janoobiyah",
+        "level": 2,
+        "name": {
+          "local": "الاغوار الجنوبية",
+          "en": "Aghwar Janoobiyah",
+          "slug": "aghwar-janoobiyah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_aghwar-janoobiyah_salmani",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "السلماني",
+      "en": "Salmani",
+      "slug": "salmani"
+    },
+    "code": {
+      "id": "JOKAR_aghwar-janoobiyah_salmani",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_aghwar-janoobiyah",
+      "level": 2,
+      "name": {
+        "local": "الاغوار الجنوبية",
+        "en": "Aghwar Janoobiyah",
+        "slug": "aghwar-janoobiyah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_aghwar-janoobiyah",
+        "level": 2,
+        "name": {
+          "local": "الاغوار الجنوبية",
+          "en": "Aghwar Janoobiyah",
+          "slug": "aghwar-janoobiyah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "id": "JOKAR_abdulah-bin-ruaha_emra",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "امرع",
+      "en": "Emra'",
+      "slug": "emra"
+    },
+    "code": {
+      "id": "JOKAR_abdulah-bin-ruaha_emra",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_abdulah-bin-ruaha",
+      "level": 2,
+      "name": {
+        "local": "عبد الله بن رواحه",
+        "en": "Abdulah Bin Ruaha",
+        "slug": "abdulah-bin-ruaha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_abdulah-bin-ruaha",
+        "level": 2,
+        "name": {
+          "local": "عبد الله بن رواحه",
+          "en": "Abdulah Bin Ruaha",
+          "slug": "abdulah-bin-ruaha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_abdulah-bin-ruaha_faqoe",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "فقوع",
+      "en": "Faqo'e",
+      "slug": "faqoe"
+    },
+    "code": {
+      "id": "JOKAR_abdulah-bin-ruaha_faqoe",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_abdulah-bin-ruaha",
+      "level": 2,
+      "name": {
+        "local": "عبد الله بن رواحه",
+        "en": "Abdulah Bin Ruaha",
+        "slug": "abdulah-bin-ruaha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_abdulah-bin-ruaha",
+        "level": 2,
+        "name": {
+          "local": "عبد الله بن رواحه",
+          "en": "Abdulah Bin Ruaha",
+          "slug": "abdulah-bin-ruaha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_abdulah-bin-ruaha_majdoleen",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "مجدولين",
+      "en": "Majdoleen",
+      "slug": "majdoleen"
+    },
+    "code": {
+      "id": "JOKAR_abdulah-bin-ruaha_majdoleen",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_abdulah-bin-ruaha",
+      "level": 2,
+      "name": {
+        "local": "عبد الله بن رواحه",
+        "en": "Abdulah Bin Ruaha",
+        "slug": "abdulah-bin-ruaha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_abdulah-bin-ruaha",
+        "level": 2,
+        "name": {
+          "local": "عبد الله بن رواحه",
+          "en": "Abdulah Bin Ruaha",
+          "slug": "abdulah-bin-ruaha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_abdulah-bin-ruaha_serfa",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "صرفا",
+      "en": "Serfa",
+      "slug": "serfa"
+    },
+    "code": {
+      "id": "JOKAR_abdulah-bin-ruaha_serfa",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_abdulah-bin-ruaha",
+      "level": 2,
+      "name": {
+        "local": "عبد الله بن رواحه",
+        "en": "Abdulah Bin Ruaha",
+        "slug": "abdulah-bin-ruaha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_abdulah-bin-ruaha",
+        "level": 2,
+        "name": {
+          "local": "عبد الله بن رواحه",
+          "en": "Abdulah Bin Ruaha",
+          "slug": "abdulah-bin-ruaha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_abdulah-bin-ruaha_shahtoor",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "شحتور",
+      "en": "Shahtoor",
+      "slug": "shahtoor"
+    },
+    "code": {
+      "id": "JOKAR_abdulah-bin-ruaha_shahtoor",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_abdulah-bin-ruaha",
+      "level": 2,
+      "name": {
+        "local": "عبد الله بن رواحه",
+        "en": "Abdulah Bin Ruaha",
+        "slug": "abdulah-bin-ruaha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_abdulah-bin-ruaha",
+        "level": 2,
+        "name": {
+          "local": "عبد الله بن رواحه",
+          "en": "Abdulah Bin Ruaha",
+          "slug": "abdulah-bin-ruaha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_abdulah-bin-ruaha_zahra",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الزهراء",
+      "en": "Zahra'",
+      "slug": "zahra"
+    },
+    "code": {
+      "id": "JOKAR_abdulah-bin-ruaha_zahra",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_abdulah-bin-ruaha",
+      "level": 2,
+      "name": {
+        "local": "عبد الله بن رواحه",
+        "en": "Abdulah Bin Ruaha",
+        "slug": "abdulah-bin-ruaha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_abdulah-bin-ruaha",
+        "level": 2,
+        "name": {
+          "local": "عبد الله بن رواحه",
+          "en": "Abdulah Bin Ruaha",
+          "slug": "abdulah-bin-ruaha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

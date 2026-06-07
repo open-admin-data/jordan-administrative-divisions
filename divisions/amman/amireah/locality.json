@@ -1,0 +1,434 @@
+[
+  {
+    "id": "JOAMM_amireah_dabah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ضبعة",
+      "en": "Dab'ah",
+      "slug": "dabah"
+    },
+    "code": {
+      "id": "JOAMM_amireah_dabah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amireah",
+      "level": 2,
+      "name": {
+        "local": "العامرية",
+        "en": "Amireah",
+        "slug": "amireah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amireah",
+        "level": 2,
+        "name": {
+          "local": "العامرية",
+          "en": "Amireah",
+          "slug": "amireah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amireah_hammam-el-shmoot",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "حمام الشموط",
+      "en": "Hammam El-Shmoot",
+      "slug": "hammam-el-shmoot"
+    },
+    "code": {
+      "id": "JOAMM_amireah_hammam-el-shmoot",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amireah",
+      "level": 2,
+      "name": {
+        "local": "العامرية",
+        "en": "Amireah",
+        "slug": "amireah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amireah",
+        "level": 2,
+        "name": {
+          "local": "العامرية",
+          "en": "Amireah",
+          "slug": "amireah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amireah_hammam-el-tallaq",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "حمام الطلاق",
+      "en": "Hammam El-Tallaq",
+      "slug": "hammam-el-tallaq"
+    },
+    "code": {
+      "id": "JOAMM_amireah_hammam-el-tallaq",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amireah",
+      "level": 2,
+      "name": {
+        "local": "العامرية",
+        "en": "Amireah",
+        "slug": "amireah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amireah",
+        "level": 2,
+        "name": {
+          "local": "العامرية",
+          "en": "Amireah",
+          "slug": "amireah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amireah_kaldeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الخالدية",
+      "en": "Kaldeh",
+      "slug": "kaldeh"
+    },
+    "code": {
+      "id": "JOAMM_amireah_kaldeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amireah",
+      "level": 2,
+      "name": {
+        "local": "العامرية",
+        "en": "Amireah",
+        "slug": "amireah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amireah",
+        "level": 2,
+        "name": {
+          "local": "العامرية",
+          "en": "Amireah",
+          "slug": "amireah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amireah_kan-el-zabib",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "خان الزبيب",
+      "en": "Kan El-Zabib",
+      "slug": "kan-el-zabib"
+    },
+    "code": {
+      "id": "JOAMM_amireah_kan-el-zabib",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amireah",
+      "level": 2,
+      "name": {
+        "local": "العامرية",
+        "en": "Amireah",
+        "slug": "amireah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amireah",
+        "level": 2,
+        "name": {
+          "local": "العامرية",
+          "en": "Amireah",
+          "slug": "amireah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amireah_khrayyem",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الخريم",
+      "en": "Khrayyem",
+      "slug": "khrayyem"
+    },
+    "code": {
+      "id": "JOAMM_amireah_khrayyem",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amireah",
+      "level": 2,
+      "name": {
+        "local": "العامرية",
+        "en": "Amireah",
+        "slug": "amireah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amireah",
+        "level": 2,
+        "name": {
+          "local": "العامرية",
+          "en": "Amireah",
+          "slug": "amireah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amireah_tharah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الذرة",
+      "en": "Tharah",
+      "slug": "tharah"
+    },
+    "code": {
+      "id": "JOAMM_amireah_tharah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amireah",
+      "level": 2,
+      "name": {
+        "local": "العامرية",
+        "en": "Amireah",
+        "slug": "amireah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amireah",
+        "level": 2,
+        "name": {
+          "local": "العامرية",
+          "en": "Amireah",
+          "slug": "amireah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_amireah_zmaileh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الزميلة",
+      "en": "Zmaileh",
+      "slug": "zmaileh"
+    },
+    "code": {
+      "id": "JOAMM_amireah_zmaileh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_amireah",
+      "level": 2,
+      "name": {
+        "local": "العامرية",
+        "en": "Amireah",
+        "slug": "amireah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_amireah",
+        "level": 2,
+        "name": {
+          "local": "العامرية",
+          "en": "Amireah",
+          "slug": "amireah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

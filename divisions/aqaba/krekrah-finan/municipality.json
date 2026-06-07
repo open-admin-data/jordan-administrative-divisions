@@ -1,0 +1,47 @@
+{
+  "id": "JOAQA_krekrah-finan",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "فريقره وفينان",
+    "en": "Krekrah & Finan",
+    "slug": "krekrah-finan"
+  },
+  "code": {
+    "id": "JOAQA_krekrah-finan",
+    "iso": null
+  },
+  "parent": {
+    "id": "JOAQA",
+    "level": 1,
+    "name": {
+      "local": "العقبة",
+      "en": "Aqaba",
+      "slug": "aqaba"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "JOAQA",
+      "level": 1,
+      "name": {
+        "local": "العقبة",
+        "en": "Aqaba",
+        "slug": "aqaba"
+      }
+    }
+  ],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.976",
+    "lon": "35.347"
+  },
+  "metadata": {},
+  "source": {}
+}

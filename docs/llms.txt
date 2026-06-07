@@ -1,0 +1,76 @@
+# Jordan Administrative Divisions
+
+> Open dataset of Jordan's administrative hierarchy:
+> 12 governorates, 110 municipalitys, 741 localitys.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total governorates: 12
+- Total municipalitys: 110
+- Total localitys: 741
+- Coordinates: included (all levels)
+- Last updated: 2026-06-07
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All governorates (JSON)](https://raw.githubusercontent.com/open-admin-data/jordan-administrative-divisions/main/data/all-governorate.json)
+- [All municipalitys (JSON)](https://raw.githubusercontent.com/open-admin-data/jordan-administrative-divisions/main/data/all-municipality.json)
+- [All localitys (JSON)](https://raw.githubusercontent.com/open-admin-data/jordan-administrative-divisions/main/data/all-locality.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/jordan-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/jordan-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/jordan-administrative-divisions/main/data/schema.json)
+
+## Browse by Governorate
+
+- [Amman](https://github.com/open-admin-data/jordan-administrative-divisions/tree/main/divisions/amman/) — 11 municipalitys, 138 localitys
+- [Balqa](https://github.com/open-admin-data/jordan-administrative-divisions/tree/main/divisions/balqa/) — 10 municipalitys, 76 localitys
+- [Zarqa](https://github.com/open-admin-data/jordan-administrative-divisions/tree/main/divisions/zarqa/) — 8 municipalitys, 60 localitys
+- [Madaba](https://github.com/open-admin-data/jordan-administrative-divisions/tree/main/divisions/madaba/) — 4 municipalitys, 73 localitys
+- [Irbid](https://github.com/open-admin-data/jordan-administrative-divisions/tree/main/divisions/irbid/) — 19 municipalitys, 136 localitys
+- [Mafraq](https://github.com/open-admin-data/jordan-administrative-divisions/tree/main/divisions/mafraq/) — 19 municipalitys, 145 localitys
+- [Jarash](https://github.com/open-admin-data/jordan-administrative-divisions/tree/main/divisions/jarash/) — 6 municipalitys, 0 localitys
+- [Ajlun](https://github.com/open-admin-data/jordan-administrative-divisions/tree/main/divisions/ajlun/) — 5 municipalitys, 0 localitys
+- [Karak](https://github.com/open-admin-data/jordan-administrative-divisions/tree/main/divisions/karak/) — 10 municipalitys, 87 localitys
+- [Tafela](https://github.com/open-admin-data/jordan-administrative-divisions/tree/main/divisions/tafela/) — 4 municipalitys, 0 localitys
+- [Ma&#34;an](https://github.com/open-admin-data/jordan-administrative-divisions/tree/main/divisions/maan/) — 8 municipalitys, 0 localitys
+- [Aqaba](https://github.com/open-admin-data/jordan-administrative-divisions/tree/main/divisions/aqaba/) — 6 municipalitys, 26 localitys
+
+## Per-Governorate Full Data
+
+- [Amman](https://raw.githubusercontent.com/open-admin-data/jordan-administrative-divisions/main/docs/llms-full/amman.txt)
+- [Balqa](https://raw.githubusercontent.com/open-admin-data/jordan-administrative-divisions/main/docs/llms-full/balqa.txt)
+- [Zarqa](https://raw.githubusercontent.com/open-admin-data/jordan-administrative-divisions/main/docs/llms-full/zarqa.txt)
+- [Madaba](https://raw.githubusercontent.com/open-admin-data/jordan-administrative-divisions/main/docs/llms-full/madaba.txt)
+- [Irbid](https://raw.githubusercontent.com/open-admin-data/jordan-administrative-divisions/main/docs/llms-full/irbid.txt)
+- [Mafraq](https://raw.githubusercontent.com/open-admin-data/jordan-administrative-divisions/main/docs/llms-full/mafraq.txt)
+- [Jarash](https://raw.githubusercontent.com/open-admin-data/jordan-administrative-divisions/main/docs/llms-full/jarash.txt)
+- [Ajlun](https://raw.githubusercontent.com/open-admin-data/jordan-administrative-divisions/main/docs/llms-full/ajlun.txt)
+- [Karak](https://raw.githubusercontent.com/open-admin-data/jordan-administrative-divisions/main/docs/llms-full/karak.txt)
+- [Tafela](https://raw.githubusercontent.com/open-admin-data/jordan-administrative-divisions/main/docs/llms-full/tafela.txt)
+- [Ma&#34;an](https://raw.githubusercontent.com/open-admin-data/jordan-administrative-divisions/main/docs/llms-full/maan.txt)
+- [Aqaba](https://raw.githubusercontent.com/open-admin-data/jordan-administrative-divisions/main/docs/llms-full/aqaba.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (governorate), 2 (municipality), 3 (locality)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Jordan Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/jordan-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

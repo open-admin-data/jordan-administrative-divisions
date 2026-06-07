@@ -1,0 +1,289 @@
+# Zarqa — Jordan Administrative Divisions
+
+> 8 municipalitys, 60 localitys
+> Code: JOZAR
+> Coordinates: 31.858, 36.842
+> Last updated: 2026-06-07. License: CC-BY-4.0.
+
+## Municipalitys
+
+### الازرق (Azraq)
+
+Code: JOZAR_azraq, Coordinates: 31.858, 36.842
+Localitys: 7
+
+#### عين البيضاء (Ain El-Baidha)
+
+Code: JOZAR_azraq_ain-el-baidha, Coordinates: 31.858, 36.842
+
+#### 7659 (AL-Emirat (Mrayjeeb Al-fhoud) Camp*)
+
+Code: JOZAR_azraq_al-emirat-mrayjeeb-al-fhoud-camp, Coordinates: 31.858, 36.842
+
+#### مخيم الأزرق (المخيزن الغربية) (Azraq  (AL-mkhayzen Al-gharbeih) Camp*)
+
+Code: JOZAR_azraq_azraq-al-mkhayzen-al-gharbeih-camp, Coordinates: 31.858, 36.842
+
+#### الازرق الجنوبي (Azraq Janoobi)
+
+Code: JOZAR_azraq_azraq-janoobi, Coordinates: 31.858, 36.842
+
+#### الازرق الشمالي (Azraq Shamali)
+
+Code: JOZAR_azraq_azraq-shamali, Coordinates: 31.858, 36.842
+
+#### العمري (Omari)
+
+Code: JOZAR_azraq_omari, Coordinates: 31.858, 36.842
+
+#### قاعدة سلاح الجو (موفق السلطي) (Qa&#39;aedat Selah Aljaw(Moafaq Salti))
+
+Code: JOZAR_azraq_qaaedat-selah-aljawmoafaq-salti, Coordinates: 31.858, 36.842
+
+### بيرين (Bierain)
+
+Code: JOZAR_bierain, Coordinates: 31.858, 36.842
+Localitys: 25
+
+#### عين الحوايا (Ain El-Hawaya)
+
+Code: JOZAR_bierain_ain-el-hawaya, Coordinates: 31.858, 36.842
+
+#### عين صابر (Ain Saber)
+
+Code: JOZAR_bierain_ain-saber, Coordinates: 31.858, 36.842
+
+#### العالوك (Alook)
+
+Code: JOZAR_bierain_alook, Coordinates: 31.858, 36.842
+
+#### بيرين (Bierain)
+
+Code: JOZAR_bierain_bierain, Coordinates: 31.858, 36.842
+
+#### البيرة (Biereh)
+
+Code: JOZAR_bierain_biereh, Coordinates: 31.858, 36.842
+
+#### العويلية (Ewailiyyeh)
+
+Code: JOZAR_bierain_ewailiyyeh, Coordinates: 31.858, 36.842
+
+#### الكمشة (Kamshah)
+
+Code: JOZAR_bierain_kamshah, Coordinates: 31.858, 36.842
+
+#### الخلة (Khalleh)
+
+Code: JOZAR_bierain_khalleh, Coordinates: 31.858, 36.842
+
+#### الماخذات (Makethat)
+
+Code: JOZAR_bierain_makethat, Coordinates: 31.858, 36.842
+
+#### مقام عيسى (Maqam Isa)
+
+Code: JOZAR_bierain_maqam-isa, Coordinates: 31.858, 36.842
+
+#### المسرة الغربية (Masarrah Gharbiyyeh)
+
+Code: JOZAR_bierain_masarrah-gharbiyyeh, Coordinates: 31.858, 36.842
+
+#### المسرة الشرقية (Masarrah Sharqiyyeh)
+
+Code: JOZAR_bierain_masarrah-sharqiyyeh, Coordinates: 31.858, 36.842
+
+#### المكمان (Mekman)
+
+Code: JOZAR_bierain_mekman, Coordinates: 31.858, 36.842
+
+#### مرحب (Merheb)
+
+Code: JOZAR_bierain_merheb, Coordinates: 31.858, 36.842
+
+#### الناصرية (Naseryah)
+
+Code: JOZAR_bierain_naseryah, Coordinates: 31.858, 36.842
+
+#### الرياض (Reyad)
+
+Code: JOZAR_bierain_reyad, Coordinates: 31.858, 36.842
+
+#### رجم الشوك (Rojom Eshoak)
+
+Code: JOZAR_bierain_rojom-eshoak, Coordinates: 31.858, 36.842
+
+#### السحارة (Saharah)
+
+Code: JOZAR_bierain_saharah, Coordinates: 31.858, 36.842
+
+#### صروت (Sarroot)
+
+Code: JOZAR_bierain_sarroot, Coordinates: 31.858, 36.842
+
+#### طواحين العدوان (Tawahien Adwan)
+
+Code: JOZAR_bierain_tawahien-adwan, Coordinates: 31.858, 36.842
+
+#### ام البيار (Um El-Byar)
+
+Code: JOZAR_bierain_um-el-byar, Coordinates: 31.858, 36.842
+
+#### ام الفطاير (Um El-Fat&#39;ier)
+
+Code: JOZAR_bierain_um-el-fatier, Coordinates: 31.858, 36.842
+
+#### ام خشيبة (Um Khashibeh)
+
+Code: JOZAR_bierain_um-khashibeh, Coordinates: 31.858, 36.842
+
+#### ام رمانه (Um Rommaneh)
+
+Code: JOZAR_bierain_um-rommaneh, Coordinates: 31.858, 36.842
+
+#### وادي الصوان (Wadi Esswan)
+
+Code: JOZAR_bierain_wadi-esswan, Coordinates: 31.858, 36.842
+
+### الضليل (Dhlail)
+
+Code: JOZAR_dhlail, Coordinates: 31.858, 36.842
+Localitys: 1
+
+#### الضليل (Dhlail)
+
+Code: JOZAR_dhlail_dhlail, Coordinates: 31.858, 36.842
+
+### الحلابات (El-Hallabat)
+
+Code: JOZAR_el-hallabat, Coordinates: 31.858, 36.842
+Localitys: 7
+
+#### الدهيثم (Dhaythem)
+
+Code: JOZAR_el-hallabat_dhaythem, Coordinates: 31.858, 36.842
+
+#### مزارع الحلابات (Mazari&#39;e El-Hallabat)
+
+Code: JOZAR_el-hallabat_mazarie-el-hallabat, Coordinates: 31.858, 36.842
+
+#### قصر الحلابات الغربي (Qaser Hallabat El-Gharbi)
+
+Code: JOZAR_el-hallabat_qaser-hallabat-el-gharbi, Coordinates: 31.858, 36.842
+
+#### قصر الحلابات الشرقي (Qaser Hallabat El-Sharqi)
+
+Code: JOZAR_el-hallabat_qaser-hallabat-el-sharqi, Coordinates: 31.858, 36.842
+
+#### الركبان (Rukban)
+
+Code: JOZAR_el-hallabat_rukban, Coordinates: 31.858, 36.842
+
+#### سايح ذياب (Sayeh Diab)
+
+Code: JOZAR_el-hallabat_sayeh-diab, Coordinates: 31.858, 36.842
+
+#### الطافح (Tafeh)
+
+Code: JOZAR_el-hallabat_tafeh, Coordinates: 31.858, 36.842
+
+### الهاشمية (Hashemiyah)
+
+Code: JOZAR_hashemiyah, Coordinates: 31.858, 36.842
+Localitys: 11
+
+#### ابو الزيغان (Abu Ezziegan)
+
+Code: JOZAR_hashemiyah_abu-ezziegan, Coordinates: 31.858, 36.842
+
+#### عين النمره (Ain El-Nemreh)
+
+Code: JOZAR_hashemiyah_ain-el-nemreh, Coordinates: 31.858, 36.842
+
+#### ضبعان (Dab&#39;an)
+
+Code: JOZAR_hashemiyah_daban, Coordinates: 31.858, 36.842
+
+#### دوقره (Doqarah)
+
+Code: JOZAR_hashemiyah_doqarah, Coordinates: 31.858, 36.842
+
+#### غريسه (Ghraiseh)
+
+Code: JOZAR_hashemiyah_ghraiseh, Coordinates: 31.858, 36.842
+
+#### الحصب (Hasab)
+
+Code: JOZAR_hashemiyah_hasab, Coordinates: 31.858, 36.842
+
+#### الهاشمية (Hashemiyah)
+
+Code: JOZAR_hashemiyah_hashemiyah, Coordinates: 31.858, 36.842
+
+#### القنية (Qnayyeh)
+
+Code: JOZAR_hashemiyah_qnayyeh, Coordinates: 31.858, 36.842
+
+#### الرحيل (Rahayal)
+
+Code: JOZAR_hashemiyah_rahayal, Coordinates: 31.858, 36.842
+
+#### السخنة (Sokhneh)
+
+Code: JOZAR_hashemiyah_sokhneh, Coordinates: 31.858, 36.842
+
+#### ام الصليح (Um Essalleeh)
+
+Code: JOZAR_hashemiyah_um-essalleeh, Coordinates: 31.858, 36.842
+
+### مخيم حطين, مريجيب الفهود, المخيزن الغربية* (Hetten, Mrayjeeb Al-fhoud, AL-mkhayzen Al-gharbeih Camp*)
+
+Code: JOZAR_hetten-mrayjeeb-al-fhoud-al-mkhayzen-al-gharbeih-camp, Coordinates: 31.858, 36.842
+Localitys: 0
+
+### الرصيفة (Russeifa)
+
+Code: JOZAR_russeifa, Coordinates: 31.858, 36.842
+Localitys: 6
+
+#### الرشيد (Alrasheed)
+
+Code: JOZAR_russeifa_alrasheed, Coordinates: 31.858, 36.842
+
+#### العامرية (Amireah)
+
+Code: JOZAR_russeifa_amireah, Coordinates: 31.858, 36.842
+
+#### حطين (Hetten)
+
+Code: JOZAR_russeifa_hetten, Coordinates: 31.858, 36.842
+
+#### القادسية (Qhadesiyeh)
+
+Code: JOZAR_russeifa_qhadesiyeh, Coordinates: 31.858, 36.842
+
+#### الرصيفة (Russeifa)
+
+Code: JOZAR_russeifa_russeifa, Coordinates: 31.858, 36.842
+
+#### اليرموك (yarmook)
+
+Code: JOZAR_russeifa_yarmook, Coordinates: 31.858, 36.842
+
+### الزرقاء (Zarqa)
+
+Code: JOZAR_zarqa, Coordinates: 31.858, 36.842
+Localitys: 3
+
+#### خو (Khou)
+
+Code: JOZAR_zarqa_khou, Coordinates: 31.858, 36.842
+
+#### مدينة الشرق (Madenat AL-Sharq)
+
+Code: JOZAR_zarqa_madenat-al-sharq, Coordinates: 31.858, 36.842
+
+#### الزرقاء (Zarqa)
+
+Code: JOZAR_zarqa_zarqa, Coordinates: 31.858, 36.842
+

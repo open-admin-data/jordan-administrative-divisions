@@ -1,0 +1,47 @@
+{
+  "id": "JOZAR_azraq",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "الازرق",
+    "en": "Azraq",
+    "slug": "azraq"
+  },
+  "code": {
+    "id": "JOZAR_azraq",
+    "iso": null
+  },
+  "parent": {
+    "id": "JOZAR",
+    "level": 1,
+    "name": {
+      "local": "الزرقاء",
+      "en": "Zarqa",
+      "slug": "zarqa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "JOZAR",
+      "level": 1,
+      "name": {
+        "local": "الزرقاء",
+        "en": "Zarqa",
+        "slug": "zarqa"
+      }
+    }
+  ],
+  "children_count": {
+    "locality": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.858",
+    "lon": "36.842"
+  },
+  "metadata": {},
+  "source": {}
+}

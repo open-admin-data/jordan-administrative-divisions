@@ -1,0 +1,47 @@
+{
+  "id": "JOMAF_rhab-aljadedah",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "رحاب الجديدة",
+    "en": "Rhab Aljadedah",
+    "slug": "rhab-aljadedah"
+  },
+  "code": {
+    "id": "JOMAF_rhab-aljadedah",
+    "iso": null
+  },
+  "parent": {
+    "id": "JOMAF",
+    "level": 1,
+    "name": {
+      "local": "المفرق",
+      "en": "Mafraq",
+      "slug": "mafraq"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "JOMAF",
+      "level": 1,
+      "name": {
+        "local": "المفرق",
+        "en": "Mafraq",
+        "slug": "mafraq"
+      }
+    }
+  ],
+  "children_count": {
+    "locality": 26
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.54",
+    "lon": "37.616"
+  },
+  "metadata": {},
+  "source": {}
+}

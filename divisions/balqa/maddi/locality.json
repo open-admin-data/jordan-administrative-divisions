@@ -1,0 +1,434 @@
+[
+  {
+    "id": "JOBAL_maddi_abu-ezzighan",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ابو الزيغان",
+      "en": "Abu Ezzighan",
+      "slug": "abu-ezzighan"
+    },
+    "code": {
+      "id": "JOBAL_maddi_abu-ezzighan",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_maddi",
+      "level": 2,
+      "name": {
+        "local": "معدي",
+        "en": "M'addi",
+        "slug": "maddi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_maddi",
+        "level": 2,
+        "name": {
+          "local": "معدي",
+          "en": "M'addi",
+          "slug": "maddi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_maddi_damia",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "داميا",
+      "en": "Damia",
+      "slug": "damia"
+    },
+    "code": {
+      "id": "JOBAL_maddi_damia",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_maddi",
+      "level": 2,
+      "name": {
+        "local": "معدي",
+        "en": "M'addi",
+        "slug": "maddi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_maddi",
+        "level": 2,
+        "name": {
+          "local": "معدي",
+          "en": "M'addi",
+          "slug": "maddi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_maddi_dhahret-erramel",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ظهرة الرمل",
+      "en": "Dhahret Erramel",
+      "slug": "dhahret-erramel"
+    },
+    "code": {
+      "id": "JOBAL_maddi_dhahret-erramel",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_maddi",
+      "level": 2,
+      "name": {
+        "local": "معدي",
+        "en": "M'addi",
+        "slug": "maddi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_maddi",
+        "level": 2,
+        "name": {
+          "local": "معدي",
+          "en": "M'addi",
+          "slug": "maddi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_maddi_ghour-kebed",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "غور كبد",
+      "en": "Ghour Kebed",
+      "slug": "ghour-kebed"
+    },
+    "code": {
+      "id": "JOBAL_maddi_ghour-kebed",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_maddi",
+      "level": 2,
+      "name": {
+        "local": "معدي",
+        "en": "M'addi",
+        "slug": "maddi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_maddi",
+        "level": 2,
+        "name": {
+          "local": "معدي",
+          "en": "M'addi",
+          "slug": "maddi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_maddi_maddi",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "معدي",
+      "en": "M'addi",
+      "slug": "maddi"
+    },
+    "code": {
+      "id": "JOBAL_maddi_maddi",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_maddi",
+      "level": 2,
+      "name": {
+        "local": "معدي",
+        "en": "M'addi",
+        "slug": "maddi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_maddi",
+        "level": 2,
+        "name": {
+          "local": "معدي",
+          "en": "M'addi",
+          "slug": "maddi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_maddi_maisarat-fannosh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ميسرة فنوش",
+      "en": "Maisarat Fannosh",
+      "slug": "maisarat-fannosh"
+    },
+    "code": {
+      "id": "JOBAL_maddi_maisarat-fannosh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_maddi",
+      "level": 2,
+      "name": {
+        "local": "معدي",
+        "en": "M'addi",
+        "slug": "maddi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_maddi",
+        "level": 2,
+        "name": {
+          "local": "معدي",
+          "en": "M'addi",
+          "slug": "maddi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_maddi_muthallath-el-ardhah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "مثلث العارضة",
+      "en": "Muthallath El-Ardhah",
+      "slug": "muthallath-el-ardhah"
+    },
+    "code": {
+      "id": "JOBAL_maddi_muthallath-el-ardhah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_maddi",
+      "level": 2,
+      "name": {
+        "local": "معدي",
+        "en": "M'addi",
+        "slug": "maddi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_maddi",
+        "level": 2,
+        "name": {
+          "local": "معدي",
+          "en": "M'addi",
+          "slug": "maddi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_maddi_muthallath-el-masri",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "مثلث المصري",
+      "en": "Muthallath El-Masri",
+      "slug": "muthallath-el-masri"
+    },
+    "code": {
+      "id": "JOBAL_maddi_muthallath-el-masri",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_maddi",
+      "level": 2,
+      "name": {
+        "local": "معدي",
+        "en": "M'addi",
+        "slug": "maddi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_maddi",
+        "level": 2,
+        "name": {
+          "local": "معدي",
+          "en": "M'addi",
+          "slug": "maddi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

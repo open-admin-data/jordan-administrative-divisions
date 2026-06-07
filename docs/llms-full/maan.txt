@@ -1,0 +1,49 @@
+# Ma&#34;an — Jordan Administrative Divisions
+
+> 8 municipalitys, 0 localitys
+> Code: JOMAA
+> Coordinates: 30.229, 36.653
+> Last updated: 2026-06-07. License: CC-BY-4.0.
+
+## Municipalitys
+
+### الأشعري (Alashari)
+
+Code: JOMAA_alashari, Coordinates: 30.229, 36.653
+Localitys: 0
+
+### الشراه (Alsharah)
+
+Code: JOMAA_alsharah, Coordinates: 30.229, 36.653
+Localitys: 0
+
+### الحسينيه الجديدة (Husanieh Aljadedah)
+
+Code: JOMAA_husanieh-aljadedah, Coordinates: 30.229, 36.653
+Localitys: 0
+
+### إيل الجديدة (Iel Jadeda)
+
+Code: JOMAA_iel-jadeda, Coordinates: 30.229, 36.653
+Localitys: 0
+
+### إقليم البتراء (Iqlem Albatra)
+
+Code: JOMAA_iqlem-albatra, Coordinates: 30.229, 36.653
+Localitys: 0
+
+### الجفر (Jafr)
+
+Code: JOMAA_jafr, Coordinates: 30.229, 36.653
+Localitys: 0
+
+### معان (Ma&#39;an)
+
+Code: JOMAA_maan, Coordinates: 30.229, 36.653
+Localitys: 0
+
+### الشوبك الجديدة (Shobak Aljadedah)
+
+Code: JOMAA_shobak-aljadedah, Coordinates: 30.229, 36.653
+Localitys: 0
+

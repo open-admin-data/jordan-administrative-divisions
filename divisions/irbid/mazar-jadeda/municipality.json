@@ -1,0 +1,47 @@
+{
+  "id": "JOIRB_mazar-jadeda",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "المزار الجديدة",
+    "en": "Mazar Jadeda",
+    "slug": "mazar-jadeda"
+  },
+  "code": {
+    "id": "JOIRB_mazar-jadeda",
+    "iso": null
+  },
+  "parent": {
+    "id": "JOIRB",
+    "level": 1,
+    "name": {
+      "local": "إربد",
+      "en": "Irbid",
+      "slug": "irbid"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "JOIRB",
+      "level": 1,
+      "name": {
+        "local": "إربد",
+        "en": "Irbid",
+        "slug": "irbid"
+      }
+    }
+  ],
+  "children_count": {
+    "locality": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.475",
+    "lon": "35.814"
+  },
+  "metadata": {},
+  "source": {}
+}

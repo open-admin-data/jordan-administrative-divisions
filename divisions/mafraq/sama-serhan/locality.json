@@ -1,0 +1,488 @@
+[
+  {
+    "id": "JOMAF_sama-serhan_harfosheia",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الحرفوشية",
+      "en": "Harfosheia",
+      "slug": "harfosheia"
+    },
+    "code": {
+      "id": "JOMAF_sama-serhan_harfosheia",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_sama-serhan",
+      "level": 2,
+      "name": {
+        "local": "سما السرحان",
+        "en": "Sama Serhan",
+        "slug": "sama-serhan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_sama-serhan",
+        "level": 2,
+        "name": {
+          "local": "سما السرحان",
+          "en": "Sama Serhan",
+          "slug": "sama-serhan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_sama-serhan_jaber-serhan",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "جابر السرحان",
+      "en": "Jaber Serhan",
+      "slug": "jaber-serhan"
+    },
+    "code": {
+      "id": "JOMAF_sama-serhan_jaber-serhan",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_sama-serhan",
+      "level": 2,
+      "name": {
+        "local": "سما السرحان",
+        "en": "Sama Serhan",
+        "slug": "sama-serhan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_sama-serhan",
+        "level": 2,
+        "name": {
+          "local": "سما السرحان",
+          "en": "Sama Serhan",
+          "slug": "sama-serhan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_sama-serhan_manshiyyet-kaiber",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "منشية الكعيبر",
+      "en": "Manshiyyet K'aiber",
+      "slug": "manshiyyet-kaiber"
+    },
+    "code": {
+      "id": "JOMAF_sama-serhan_manshiyyet-kaiber",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_sama-serhan",
+      "level": 2,
+      "name": {
+        "local": "سما السرحان",
+        "en": "Sama Serhan",
+        "slug": "sama-serhan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_sama-serhan",
+        "level": 2,
+        "name": {
+          "local": "سما السرحان",
+          "en": "Sama Serhan",
+          "slug": "sama-serhan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_sama-serhan_matalleh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المطلة",
+      "en": "Matalleh",
+      "slug": "matalleh"
+    },
+    "code": {
+      "id": "JOMAF_sama-serhan_matalleh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_sama-serhan",
+      "level": 2,
+      "name": {
+        "local": "سما السرحان",
+        "en": "Sama Serhan",
+        "slug": "sama-serhan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_sama-serhan",
+        "level": 2,
+        "name": {
+          "local": "سما السرحان",
+          "en": "Sama Serhan",
+          "slug": "sama-serhan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_sama-serhan_mghayyer-serhan",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "مغير السرحان",
+      "en": "Mghayyer Serhan",
+      "slug": "mghayyer-serhan"
+    },
+    "code": {
+      "id": "JOMAF_sama-serhan_mghayyer-serhan",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_sama-serhan",
+      "level": 2,
+      "name": {
+        "local": "سما السرحان",
+        "en": "Sama Serhan",
+        "slug": "sama-serhan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_sama-serhan",
+        "level": 2,
+        "name": {
+          "local": "سما السرحان",
+          "en": "Sama Serhan",
+          "slug": "sama-serhan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_sama-serhan_rba-serhan",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "رباع السرحان",
+      "en": "Rba' Serhan",
+      "slug": "rba-serhan"
+    },
+    "code": {
+      "id": "JOMAF_sama-serhan_rba-serhan",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_sama-serhan",
+      "level": 2,
+      "name": {
+        "local": "سما السرحان",
+        "en": "Sama Serhan",
+        "slug": "sama-serhan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_sama-serhan",
+        "level": 2,
+        "name": {
+          "local": "سما السرحان",
+          "en": "Sama Serhan",
+          "slug": "sama-serhan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_sama-serhan_sama-serhan",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "سما السرحان",
+      "en": "Sama Serhan",
+      "slug": "sama-serhan"
+    },
+    "code": {
+      "id": "JOMAF_sama-serhan_sama-serhan",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_sama-serhan",
+      "level": 2,
+      "name": {
+        "local": "سما السرحان",
+        "en": "Sama Serhan",
+        "slug": "sama-serhan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_sama-serhan",
+        "level": 2,
+        "name": {
+          "local": "سما السرحان",
+          "en": "Sama Serhan",
+          "slug": "sama-serhan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_sama-serhan_somayya-serhan",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "سميا السرحان",
+      "en": "Somayya Serhan",
+      "slug": "somayya-serhan"
+    },
+    "code": {
+      "id": "JOMAF_sama-serhan_somayya-serhan",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_sama-serhan",
+      "level": 2,
+      "name": {
+        "local": "سما السرحان",
+        "en": "Sama Serhan",
+        "slug": "sama-serhan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_sama-serhan",
+        "level": 2,
+        "name": {
+          "local": "سما السرحان",
+          "en": "Sama Serhan",
+          "slug": "sama-serhan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_sama-serhan_zamlett-atterqi",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "زملة الطرقي",
+      "en": "Zamlett Atterqi",
+      "slug": "zamlett-atterqi"
+    },
+    "code": {
+      "id": "JOMAF_sama-serhan_zamlett-atterqi",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_sama-serhan",
+      "level": 2,
+      "name": {
+        "local": "سما السرحان",
+        "en": "Sama Serhan",
+        "slug": "sama-serhan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_sama-serhan",
+        "level": 2,
+        "name": {
+          "local": "سما السرحان",
+          "en": "Sama Serhan",
+          "slug": "sama-serhan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

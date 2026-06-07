@@ -1,0 +1,164 @@
+[
+  {
+    "id": "JOKAR_ayy_ayy",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "عي",
+      "en": "Ayy",
+      "slug": "ayy"
+    },
+    "code": {
+      "id": "JOKAR_ayy_ayy",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_ayy",
+      "level": 2,
+      "name": {
+        "local": "عي",
+        "en": "Ayy",
+        "slug": "ayy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_ayy",
+        "level": 2,
+        "name": {
+          "local": "عي",
+          "en": "Ayy",
+          "slug": "ayy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_ayy_joza",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "جوزا",
+      "en": "Joza",
+      "slug": "joza"
+    },
+    "code": {
+      "id": "JOKAR_ayy_joza",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_ayy",
+      "level": 2,
+      "name": {
+        "local": "عي",
+        "en": "Ayy",
+        "slug": "ayy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_ayy",
+        "level": 2,
+        "name": {
+          "local": "عي",
+          "en": "Ayy",
+          "slug": "ayy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_ayy_kathrabba",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "كثريا",
+      "en": "Kathrabba",
+      "slug": "kathrabba"
+    },
+    "code": {
+      "id": "JOKAR_ayy_kathrabba",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_ayy",
+      "level": 2,
+      "name": {
+        "local": "عي",
+        "en": "Ayy",
+        "slug": "ayy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_ayy",
+        "level": 2,
+        "name": {
+          "local": "عي",
+          "en": "Ayy",
+          "slug": "ayy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

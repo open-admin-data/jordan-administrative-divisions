@@ -1,0 +1,7 @@
+id,name.local,name.en,name.slug,code.id,children_count.locality,geo.lat,geo.lon
+JOAQA_hud-aldisah,حوض الديسة,Hud Aldisah,hud-aldisah,JOAQA_hud-aldisah,4,29.976,35.347
+JOAQA_iqlem-alaqaba,إقليم العقبة,Iqlem Alaqaba,iqlem-alaqaba,JOAQA_iqlem-alaqaba,4,29.976,35.347
+JOAQA_krekrah-finan,فريقره وفينان,Krekrah & Finan,krekrah-finan,JOAQA_krekrah-finan,0,29.976,35.347
+JOAQA_qatar-rahmah,قطر و رحمة,Qatar & Rahmah,qatar-rahmah,JOAQA_qatar-rahmah,2,29.976,35.347
+JOAQA_quairahaljadedah,القويرة الجديدة,QuairahAljadedah,quairahaljadedah,JOAQA_quairahaljadedah,11,29.976,35.347
+JOAQA_wadi-araba,وادي عربه,Wadi Araba,wadi-araba,JOAQA_wadi-araba,5,29.976,35.347

@@ -1,0 +1,380 @@
+[
+  {
+    "id": "JOZAR_el-hallabat_dhaythem",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الدهيثم",
+      "en": "Dhaythem",
+      "slug": "dhaythem"
+    },
+    "code": {
+      "id": "JOZAR_el-hallabat_dhaythem",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_el-hallabat",
+      "level": 2,
+      "name": {
+        "local": "الحلابات",
+        "en": "El-Hallabat",
+        "slug": "el-hallabat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_el-hallabat",
+        "level": 2,
+        "name": {
+          "local": "الحلابات",
+          "en": "El-Hallabat",
+          "slug": "el-hallabat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_el-hallabat_mazarie-el-hallabat",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "مزارع الحلابات",
+      "en": "Mazari'e El-Hallabat",
+      "slug": "mazarie-el-hallabat"
+    },
+    "code": {
+      "id": "JOZAR_el-hallabat_mazarie-el-hallabat",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_el-hallabat",
+      "level": 2,
+      "name": {
+        "local": "الحلابات",
+        "en": "El-Hallabat",
+        "slug": "el-hallabat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_el-hallabat",
+        "level": 2,
+        "name": {
+          "local": "الحلابات",
+          "en": "El-Hallabat",
+          "slug": "el-hallabat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_el-hallabat_qaser-hallabat-el-gharbi",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "قصر الحلابات الغربي",
+      "en": "Qaser Hallabat El-Gharbi",
+      "slug": "qaser-hallabat-el-gharbi"
+    },
+    "code": {
+      "id": "JOZAR_el-hallabat_qaser-hallabat-el-gharbi",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_el-hallabat",
+      "level": 2,
+      "name": {
+        "local": "الحلابات",
+        "en": "El-Hallabat",
+        "slug": "el-hallabat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_el-hallabat",
+        "level": 2,
+        "name": {
+          "local": "الحلابات",
+          "en": "El-Hallabat",
+          "slug": "el-hallabat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_el-hallabat_qaser-hallabat-el-sharqi",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "قصر الحلابات الشرقي",
+      "en": "Qaser Hallabat El-Sharqi",
+      "slug": "qaser-hallabat-el-sharqi"
+    },
+    "code": {
+      "id": "JOZAR_el-hallabat_qaser-hallabat-el-sharqi",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_el-hallabat",
+      "level": 2,
+      "name": {
+        "local": "الحلابات",
+        "en": "El-Hallabat",
+        "slug": "el-hallabat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_el-hallabat",
+        "level": 2,
+        "name": {
+          "local": "الحلابات",
+          "en": "El-Hallabat",
+          "slug": "el-hallabat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_el-hallabat_rukban",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الركبان",
+      "en": "Rukban",
+      "slug": "rukban"
+    },
+    "code": {
+      "id": "JOZAR_el-hallabat_rukban",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_el-hallabat",
+      "level": 2,
+      "name": {
+        "local": "الحلابات",
+        "en": "El-Hallabat",
+        "slug": "el-hallabat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_el-hallabat",
+        "level": 2,
+        "name": {
+          "local": "الحلابات",
+          "en": "El-Hallabat",
+          "slug": "el-hallabat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_el-hallabat_sayeh-diab",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "سايح ذياب",
+      "en": "Sayeh Diab",
+      "slug": "sayeh-diab"
+    },
+    "code": {
+      "id": "JOZAR_el-hallabat_sayeh-diab",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_el-hallabat",
+      "level": 2,
+      "name": {
+        "local": "الحلابات",
+        "en": "El-Hallabat",
+        "slug": "el-hallabat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_el-hallabat",
+        "level": 2,
+        "name": {
+          "local": "الحلابات",
+          "en": "El-Hallabat",
+          "slug": "el-hallabat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_el-hallabat_tafeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الطافح",
+      "en": "Tafeh",
+      "slug": "tafeh"
+    },
+    "code": {
+      "id": "JOZAR_el-hallabat_tafeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_el-hallabat",
+      "level": 2,
+      "name": {
+        "local": "الحلابات",
+        "en": "El-Hallabat",
+        "slug": "el-hallabat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_el-hallabat",
+        "level": 2,
+        "name": {
+          "local": "الحلابات",
+          "en": "El-Hallabat",
+          "slug": "el-hallabat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

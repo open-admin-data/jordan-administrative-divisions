@@ -1,0 +1,47 @@
+{
+  "id": "JOAJL_alauion",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "العيون",
+    "en": "Alauion",
+    "slug": "alauion"
+  },
+  "code": {
+    "id": "JOAJL_alauion",
+    "iso": null
+  },
+  "parent": {
+    "id": "JOAJL",
+    "level": 1,
+    "name": {
+      "local": "عجلون",
+      "en": "Ajlun",
+      "slug": "ajlun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "JOAJL",
+      "level": 1,
+      "name": {
+        "local": "عجلون",
+        "en": "Ajlun",
+        "slug": "ajlun"
+      }
+    }
+  ],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.294",
+    "lon": "35.744"
+  },
+  "metadata": {},
+  "source": {}
+}

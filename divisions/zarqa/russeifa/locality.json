@@ -1,0 +1,326 @@
+[
+  {
+    "id": "JOZAR_russeifa_alrasheed",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الرشيد",
+      "en": "Alrasheed",
+      "slug": "alrasheed"
+    },
+    "code": {
+      "id": "JOZAR_russeifa_alrasheed",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_russeifa",
+      "level": 2,
+      "name": {
+        "local": "الرصيفة",
+        "en": "Russeifa",
+        "slug": "russeifa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_russeifa",
+        "level": 2,
+        "name": {
+          "local": "الرصيفة",
+          "en": "Russeifa",
+          "slug": "russeifa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_russeifa_amireah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "العامرية",
+      "en": "Amireah",
+      "slug": "amireah"
+    },
+    "code": {
+      "id": "JOZAR_russeifa_amireah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_russeifa",
+      "level": 2,
+      "name": {
+        "local": "الرصيفة",
+        "en": "Russeifa",
+        "slug": "russeifa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_russeifa",
+        "level": 2,
+        "name": {
+          "local": "الرصيفة",
+          "en": "Russeifa",
+          "slug": "russeifa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_russeifa_hetten",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "حطين",
+      "en": "Hetten",
+      "slug": "hetten"
+    },
+    "code": {
+      "id": "JOZAR_russeifa_hetten",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_russeifa",
+      "level": 2,
+      "name": {
+        "local": "الرصيفة",
+        "en": "Russeifa",
+        "slug": "russeifa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_russeifa",
+        "level": 2,
+        "name": {
+          "local": "الرصيفة",
+          "en": "Russeifa",
+          "slug": "russeifa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_russeifa_qhadesiyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "القادسية",
+      "en": "Qhadesiyeh",
+      "slug": "qhadesiyeh"
+    },
+    "code": {
+      "id": "JOZAR_russeifa_qhadesiyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_russeifa",
+      "level": 2,
+      "name": {
+        "local": "الرصيفة",
+        "en": "Russeifa",
+        "slug": "russeifa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_russeifa",
+        "level": 2,
+        "name": {
+          "local": "الرصيفة",
+          "en": "Russeifa",
+          "slug": "russeifa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_russeifa_russeifa",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الرصيفة",
+      "en": "Russeifa",
+      "slug": "russeifa"
+    },
+    "code": {
+      "id": "JOZAR_russeifa_russeifa",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_russeifa",
+      "level": 2,
+      "name": {
+        "local": "الرصيفة",
+        "en": "Russeifa",
+        "slug": "russeifa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_russeifa",
+        "level": 2,
+        "name": {
+          "local": "الرصيفة",
+          "en": "Russeifa",
+          "slug": "russeifa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_russeifa_yarmook",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "اليرموك",
+      "en": "yarmook",
+      "slug": "yarmook"
+    },
+    "code": {
+      "id": "JOZAR_russeifa_yarmook",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_russeifa",
+      "level": 2,
+      "name": {
+        "local": "الرصيفة",
+        "en": "Russeifa",
+        "slug": "russeifa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_russeifa",
+        "level": 2,
+        "name": {
+          "local": "الرصيفة",
+          "en": "Russeifa",
+          "slug": "russeifa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

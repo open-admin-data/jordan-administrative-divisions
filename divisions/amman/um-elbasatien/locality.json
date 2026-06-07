@@ -1,0 +1,326 @@
+[
+  {
+    "id": "JOAMM_um-elbasatien_masooh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ماسوح",
+      "en": "Masooh",
+      "slug": "masooh"
+    },
+    "code": {
+      "id": "JOAMM_um-elbasatien_masooh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_um-elbasatien",
+      "level": 2,
+      "name": {
+        "local": "أم البساتين",
+        "en": "Um Elbasatien",
+        "slug": "um-elbasatien"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_um-elbasatien",
+        "level": 2,
+        "name": {
+          "local": "أم البساتين",
+          "en": "Um Elbasatien",
+          "slug": "um-elbasatien"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_um-elbasatien_samek",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "السامك",
+      "en": "Samek",
+      "slug": "samek"
+    },
+    "code": {
+      "id": "JOAMM_um-elbasatien_samek",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_um-elbasatien",
+      "level": 2,
+      "name": {
+        "local": "أم البساتين",
+        "en": "Um Elbasatien",
+        "slug": "um-elbasatien"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_um-elbasatien",
+        "level": 2,
+        "name": {
+          "local": "أم البساتين",
+          "en": "Um Elbasatien",
+          "slug": "um-elbasatien"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_um-elbasatien_um-el-asaker",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام العساكر",
+      "en": "Um El-Asaker",
+      "slug": "um-el-asaker"
+    },
+    "code": {
+      "id": "JOAMM_um-elbasatien_um-el-asaker",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_um-elbasatien",
+      "level": 2,
+      "name": {
+        "local": "أم البساتين",
+        "en": "Um Elbasatien",
+        "slug": "um-elbasatien"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_um-elbasatien",
+        "level": 2,
+        "name": {
+          "local": "أم البساتين",
+          "en": "Um Elbasatien",
+          "slug": "um-elbasatien"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_um-elbasatien_um-el-basatien",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام البساتين",
+      "en": "Um El-Basatien",
+      "slug": "um-el-basatien"
+    },
+    "code": {
+      "id": "JOAMM_um-elbasatien_um-el-basatien",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_um-elbasatien",
+      "level": 2,
+      "name": {
+        "local": "أم البساتين",
+        "en": "Um Elbasatien",
+        "slug": "um-elbasatien"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_um-elbasatien",
+        "level": 2,
+        "name": {
+          "local": "أم البساتين",
+          "en": "Um Elbasatien",
+          "slug": "um-elbasatien"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_um-elbasatien_um--el-kindam",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام الكندم",
+      "en": "Um- El-Kindam",
+      "slug": "um--el-kindam"
+    },
+    "code": {
+      "id": "JOAMM_um-elbasatien_um--el-kindam",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_um-elbasatien",
+      "level": 2,
+      "name": {
+        "local": "أم البساتين",
+        "en": "Um Elbasatien",
+        "slug": "um-elbasatien"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_um-elbasatien",
+        "level": 2,
+        "name": {
+          "local": "أم البساتين",
+          "en": "Um Elbasatien",
+          "slug": "um-elbasatien"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_um-elbasatien_um-el-berak",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام البرك",
+      "en": "Um-El-Berak",
+      "slug": "um-el-berak"
+    },
+    "code": {
+      "id": "JOAMM_um-elbasatien_um-el-berak",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_um-elbasatien",
+      "level": 2,
+      "name": {
+        "local": "أم البساتين",
+        "en": "Um Elbasatien",
+        "slug": "um-elbasatien"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_um-elbasatien",
+        "level": 2,
+        "name": {
+          "local": "أم البساتين",
+          "en": "Um Elbasatien",
+          "slug": "um-elbasatien"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

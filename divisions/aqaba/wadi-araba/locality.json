@@ -1,0 +1,272 @@
+[
+  {
+    "id": "JOAQA_wadi-araba_almaqrah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المقرح",
+      "en": "Almaqrah",
+      "slug": "almaqrah"
+    },
+    "code": {
+      "id": "JOAQA_wadi-araba_almaqrah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAQA_wadi-araba",
+      "level": 2,
+      "name": {
+        "local": "وادي عربه",
+        "en": "Wadi Araba",
+        "slug": "wadi-araba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAQA",
+        "level": 1,
+        "name": {
+          "local": "العقبة",
+          "en": "Aqaba",
+          "slug": "aqaba"
+        }
+      },
+      {
+        "id": "JOAQA_wadi-araba",
+        "level": 2,
+        "name": {
+          "local": "وادي عربه",
+          "en": "Wadi Araba",
+          "slug": "wadi-araba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.976",
+      "lon": "35.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAQA_wadi-araba_beir-mathkoor",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "بئر مذكور",
+      "en": "Beir Mathkoor",
+      "slug": "beir-mathkoor"
+    },
+    "code": {
+      "id": "JOAQA_wadi-araba_beir-mathkoor",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAQA_wadi-araba",
+      "level": 2,
+      "name": {
+        "local": "وادي عربه",
+        "en": "Wadi Araba",
+        "slug": "wadi-araba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAQA",
+        "level": 1,
+        "name": {
+          "local": "العقبة",
+          "en": "Aqaba",
+          "slug": "aqaba"
+        }
+      },
+      {
+        "id": "JOAQA_wadi-araba",
+        "level": 2,
+        "name": {
+          "local": "وادي عربه",
+          "en": "Wadi Araba",
+          "slug": "wadi-araba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.976",
+      "lon": "35.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAQA_wadi-araba_grandal",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "غرندل",
+      "en": "Grandal",
+      "slug": "grandal"
+    },
+    "code": {
+      "id": "JOAQA_wadi-araba_grandal",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAQA_wadi-araba",
+      "level": 2,
+      "name": {
+        "local": "وادي عربه",
+        "en": "Wadi Araba",
+        "slug": "wadi-araba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAQA",
+        "level": 1,
+        "name": {
+          "local": "العقبة",
+          "en": "Aqaba",
+          "slug": "aqaba"
+        }
+      },
+      {
+        "id": "JOAQA_wadi-araba",
+        "level": 2,
+        "name": {
+          "local": "وادي عربه",
+          "en": "Wadi Araba",
+          "slug": "wadi-araba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.976",
+      "lon": "35.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAQA_wadi-araba_reisheh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الريشه",
+      "en": "Reisheh",
+      "slug": "reisheh"
+    },
+    "code": {
+      "id": "JOAQA_wadi-araba_reisheh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAQA_wadi-araba",
+      "level": 2,
+      "name": {
+        "local": "وادي عربه",
+        "en": "Wadi Araba",
+        "slug": "wadi-araba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAQA",
+        "level": 1,
+        "name": {
+          "local": "العقبة",
+          "en": "Aqaba",
+          "slug": "aqaba"
+        }
+      },
+      {
+        "id": "JOAQA_wadi-araba",
+        "level": 2,
+        "name": {
+          "local": "وادي عربه",
+          "en": "Wadi Araba",
+          "slug": "wadi-araba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.976",
+      "lon": "35.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAQA_wadi-araba_taba",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "طابا",
+      "en": "Taba",
+      "slug": "taba"
+    },
+    "code": {
+      "id": "JOAQA_wadi-araba_taba",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAQA_wadi-araba",
+      "level": 2,
+      "name": {
+        "local": "وادي عربه",
+        "en": "Wadi Araba",
+        "slug": "wadi-araba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAQA",
+        "level": 1,
+        "name": {
+          "local": "العقبة",
+          "en": "Aqaba",
+          "slug": "aqaba"
+        }
+      },
+      {
+        "id": "JOAQA_wadi-araba",
+        "level": 2,
+        "name": {
+          "local": "وادي عربه",
+          "en": "Wadi Araba",
+          "slug": "wadi-araba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.976",
+      "lon": "35.347"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "id": "JOKAR_talal-aljadedah_abu-trabah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ابو ترابه",
+      "en": "Abu Trabah",
+      "slug": "abu-trabah"
+    },
+    "code": {
+      "id": "JOKAR_talal-aljadedah_abu-trabah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_talal-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "طلال الجديدة",
+        "en": "Talal Aljadedah",
+        "slug": "talal-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_talal-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "طلال الجديدة",
+          "en": "Talal Aljadedah",
+          "slug": "talal-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_talal-aljadedah_alyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "العاليه",
+      "en": "Alyeh",
+      "slug": "alyeh"
+    },
+    "code": {
+      "id": "JOKAR_talal-aljadedah_alyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_talal-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "طلال الجديدة",
+        "en": "Talal Aljadedah",
+        "slug": "talal-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_talal-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "طلال الجديدة",
+          "en": "Talal Aljadedah",
+          "slug": "talal-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_talal-aljadedah_jada",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الجدعا",
+      "en": "Jada'",
+      "slug": "jada"
+    },
+    "code": {
+      "id": "JOKAR_talal-aljadedah_jada",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_talal-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "طلال الجديدة",
+        "en": "Talal Aljadedah",
+        "slug": "talal-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_talal-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "طلال الجديدة",
+          "en": "Talal Aljadedah",
+          "slug": "talal-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_talal-aljadedah_mesar",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "مسعر",
+      "en": "Mes'ar",
+      "slug": "mesar"
+    },
+    "code": {
+      "id": "JOKAR_talal-aljadedah_mesar",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_talal-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "طلال الجديدة",
+        "en": "Talal Aljadedah",
+        "slug": "talal-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_talal-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "طلال الجديدة",
+          "en": "Talal Aljadedah",
+          "slug": "talal-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_talal-aljadedah_mghayyer",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "مغير",
+      "en": "Mghayyer",
+      "slug": "mghayyer"
+    },
+    "code": {
+      "id": "JOKAR_talal-aljadedah_mghayyer",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_talal-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "طلال الجديدة",
+        "en": "Talal Aljadedah",
+        "slug": "talal-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_talal-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "طلال الجديدة",
+          "en": "Talal Aljadedah",
+          "slug": "talal-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_talal-aljadedah_mowjeb",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الموجب",
+      "en": "Mowjeb",
+      "slug": "mowjeb"
+    },
+    "code": {
+      "id": "JOKAR_talal-aljadedah_mowjeb",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_talal-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "طلال الجديدة",
+        "en": "Talal Aljadedah",
+        "slug": "talal-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_talal-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "طلال الجديدة",
+          "en": "Talal Aljadedah",
+          "slug": "talal-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_talal-aljadedah_riha",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ريحا",
+      "en": "Riha",
+      "slug": "riha"
+    },
+    "code": {
+      "id": "JOKAR_talal-aljadedah_riha",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_talal-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "طلال الجديدة",
+        "en": "Talal Aljadedah",
+        "slug": "talal-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_talal-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "طلال الجديدة",
+          "en": "Talal Aljadedah",
+          "slug": "talal-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

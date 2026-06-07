@@ -1,0 +1,47 @@
+{
+  "id": "JOBAL_alshoneh-alwasta",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "الشونة الوسطى",
+    "en": "Alshoneh Alwasta",
+    "slug": "alshoneh-alwasta"
+  },
+  "code": {
+    "id": "JOBAL_alshoneh-alwasta",
+    "iso": null
+  },
+  "parent": {
+    "id": "JOBAL",
+    "level": 1,
+    "name": {
+      "local": "البلقاء",
+      "en": "Balqa",
+      "slug": "balqa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "JOBAL",
+      "level": 1,
+      "name": {
+        "local": "البلقاء",
+        "en": "Balqa",
+        "slug": "balqa"
+      }
+    }
+  ],
+  "children_count": {
+    "locality": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.954",
+    "lon": "35.704"
+  },
+  "metadata": {},
+  "source": {}
+}

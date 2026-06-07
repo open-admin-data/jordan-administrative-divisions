@@ -1,0 +1,110 @@
+[
+  {
+    "id": "JOAQA_qatar-rahmah_qatar",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "قطر",
+      "en": "Qatar",
+      "slug": "qatar"
+    },
+    "code": {
+      "id": "JOAQA_qatar-rahmah_qatar",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAQA_qatar-rahmah",
+      "level": 2,
+      "name": {
+        "local": "قطر و رحمة",
+        "en": "Qatar & Rahmah",
+        "slug": "qatar-rahmah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAQA",
+        "level": 1,
+        "name": {
+          "local": "العقبة",
+          "en": "Aqaba",
+          "slug": "aqaba"
+        }
+      },
+      {
+        "id": "JOAQA_qatar-rahmah",
+        "level": 2,
+        "name": {
+          "local": "قطر و رحمة",
+          "en": "Qatar & Rahmah",
+          "slug": "qatar-rahmah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.976",
+      "lon": "35.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAQA_qatar-rahmah_rahmah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "رحمه",
+      "en": "Rahmah",
+      "slug": "rahmah"
+    },
+    "code": {
+      "id": "JOAQA_qatar-rahmah_rahmah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAQA_qatar-rahmah",
+      "level": 2,
+      "name": {
+        "local": "قطر و رحمة",
+        "en": "Qatar & Rahmah",
+        "slug": "qatar-rahmah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAQA",
+        "level": 1,
+        "name": {
+          "local": "العقبة",
+          "en": "Aqaba",
+          "slug": "aqaba"
+        }
+      },
+      {
+        "id": "JOAQA_qatar-rahmah",
+        "level": 2,
+        "name": {
+          "local": "قطر و رحمة",
+          "en": "Qatar & Rahmah",
+          "slug": "qatar-rahmah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.976",
+      "lon": "35.347"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

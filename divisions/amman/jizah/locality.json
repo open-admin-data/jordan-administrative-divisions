@@ -1,0 +1,1784 @@
+[
+  {
+    "id": "JOAMM_jizah_arainbeh-gharbiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ارينبه الغربية",
+      "en": "Arainbeh Gharbiyyeh",
+      "slug": "arainbeh-gharbiyyeh"
+    },
+    "code": {
+      "id": "JOAMM_jizah_arainbeh-gharbiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_jizah",
+      "level": 2,
+      "name": {
+        "local": "الجيزة",
+        "en": "Jizah",
+        "slug": "jizah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_jizah",
+        "level": 2,
+        "name": {
+          "local": "الجيزة",
+          "en": "Jizah",
+          "slug": "jizah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_jizah_arainbeh-sharqiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ارينبة الشرقية",
+      "en": "Arainbeh Sharqiyyeh",
+      "slug": "arainbeh-sharqiyyeh"
+    },
+    "code": {
+      "id": "JOAMM_jizah_arainbeh-sharqiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_jizah",
+      "level": 2,
+      "name": {
+        "local": "الجيزة",
+        "en": "Jizah",
+        "slug": "jizah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_jizah",
+        "level": 2,
+        "name": {
+          "local": "الجيزة",
+          "en": "Jizah",
+          "slug": "jizah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_jizah_baseleih",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الباسلية",
+      "en": "Baseleih",
+      "slug": "baseleih"
+    },
+    "code": {
+      "id": "JOAMM_jizah_baseleih",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_jizah",
+      "level": 2,
+      "name": {
+        "local": "الجيزة",
+        "en": "Jizah",
+        "slug": "jizah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_jizah",
+        "level": 2,
+        "name": {
+          "local": "الجيزة",
+          "en": "Jizah",
+          "slug": "jizah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_jizah_bdo-alwasat",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "بدو الوسط",
+      "en": "Bdo Alwasat",
+      "slug": "bdo-alwasat"
+    },
+    "code": {
+      "id": "JOAMM_jizah_bdo-alwasat",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_jizah",
+      "level": 2,
+      "name": {
+        "local": "الجيزة",
+        "en": "Jizah",
+        "slug": "jizah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_jizah",
+        "level": 2,
+        "name": {
+          "local": "الجيزة",
+          "en": "Jizah",
+          "slug": "jizah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_jizah_edlayla-dalielet-mtairat",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الدليله(دليلة المطيرات)",
+      "en": "Edlayla (Dalielet Mtairat)",
+      "slug": "edlayla-dalielet-mtairat"
+    },
+    "code": {
+      "id": "JOAMM_jizah_edlayla-dalielet-mtairat",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_jizah",
+      "level": 2,
+      "name": {
+        "local": "الجيزة",
+        "en": "Jizah",
+        "slug": "jizah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_jizah",
+        "level": 2,
+        "name": {
+          "local": "الجيزة",
+          "en": "Jizah",
+          "slug": "jizah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_jizah_gbeih",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الغبية",
+      "en": "Gbeih",
+      "slug": "gbeih"
+    },
+    "code": {
+      "id": "JOAMM_jizah_gbeih",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_jizah",
+      "level": 2,
+      "name": {
+        "local": "الجيزة",
+        "en": "Jizah",
+        "slug": "jizah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_jizah",
+        "level": 2,
+        "name": {
+          "local": "الجيزة",
+          "en": "Jizah",
+          "slug": "jizah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_jizah_howwarah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "حواره",
+      "en": "Howwarah",
+      "slug": "howwarah"
+    },
+    "code": {
+      "id": "JOAMM_jizah_howwarah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_jizah",
+      "level": 2,
+      "name": {
+        "local": "الجيزة",
+        "en": "Jizah",
+        "slug": "jizah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_jizah",
+        "level": 2,
+        "name": {
+          "local": "الجيزة",
+          "en": "Jizah",
+          "slug": "jizah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_jizah_jizeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الجيزة",
+      "en": "Jizeh",
+      "slug": "jizeh"
+    },
+    "code": {
+      "id": "JOAMM_jizah_jizeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_jizah",
+      "level": 2,
+      "name": {
+        "local": "الجيزة",
+        "en": "Jizah",
+        "slug": "jizah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_jizah",
+        "level": 2,
+        "name": {
+          "local": "الجيزة",
+          "en": "Jizah",
+          "slug": "jizah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_jizah_jlool",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "جلول",
+      "en": "Jlool",
+      "slug": "jlool"
+    },
+    "code": {
+      "id": "JOAMM_jizah_jlool",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_jizah",
+      "level": 2,
+      "name": {
+        "local": "الجيزة",
+        "en": "Jizah",
+        "slug": "jizah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_jizah",
+        "level": 2,
+        "name": {
+          "local": "الجيزة",
+          "en": "Jizah",
+          "slug": "jizah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_jizah_khadra",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الخضراء",
+      "en": "Khadra",
+      "slug": "khadra"
+    },
+    "code": {
+      "id": "JOAMM_jizah_khadra",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_jizah",
+      "level": 2,
+      "name": {
+        "local": "الجيزة",
+        "en": "Jizah",
+        "slug": "jizah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_jizah",
+        "level": 2,
+        "name": {
+          "local": "الجيزة",
+          "en": "Jizah",
+          "slug": "jizah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_jizah_libban",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "اللبن",
+      "en": "Libban",
+      "slug": "libban"
+    },
+    "code": {
+      "id": "JOAMM_jizah_libban",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_jizah",
+      "level": 2,
+      "name": {
+        "local": "الجيزة",
+        "en": "Jizah",
+        "slug": "jizah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_jizah",
+        "level": 2,
+        "name": {
+          "local": "الجيزة",
+          "en": "Jizah",
+          "slug": "jizah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_jizah_manarah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المناره",
+      "en": "Manarah",
+      "slug": "manarah"
+    },
+    "code": {
+      "id": "JOAMM_jizah_manarah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_jizah",
+      "level": 2,
+      "name": {
+        "local": "الجيزة",
+        "en": "Jizah",
+        "slug": "jizah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_jizah",
+        "level": 2,
+        "name": {
+          "local": "الجيزة",
+          "en": "Jizah",
+          "slug": "jizah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_jizah_manja",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "منجا",
+      "en": "Manja",
+      "slug": "manja"
+    },
+    "code": {
+      "id": "JOAMM_jizah_manja",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_jizah",
+      "level": 2,
+      "name": {
+        "local": "الجيزة",
+        "en": "Jizah",
+        "slug": "jizah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_jizah",
+        "level": 2,
+        "name": {
+          "local": "الجيزة",
+          "en": "Jizah",
+          "slug": "jizah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_jizah_mshatta",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المشتى",
+      "en": "Mshatta",
+      "slug": "mshatta"
+    },
+    "code": {
+      "id": "JOAMM_jizah_mshatta",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_jizah",
+      "level": 2,
+      "name": {
+        "local": "الجيزة",
+        "en": "Jizah",
+        "slug": "jizah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_jizah",
+        "level": 2,
+        "name": {
+          "local": "الجيزة",
+          "en": "Jizah",
+          "slug": "jizah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_jizah_naseriyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الناصرية",
+      "en": "Naseriyyeh",
+      "slug": "naseriyyeh"
+    },
+    "code": {
+      "id": "JOAMM_jizah_naseriyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_jizah",
+      "level": 2,
+      "name": {
+        "local": "الجيزة",
+        "en": "Jizah",
+        "slug": "jizah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_jizah",
+        "level": 2,
+        "name": {
+          "local": "الجيزة",
+          "en": "Jizah",
+          "slug": "jizah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_jizah_netel",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "نتل",
+      "en": "Netel",
+      "slug": "netel"
+    },
+    "code": {
+      "id": "JOAMM_jizah_netel",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_jizah",
+      "level": 2,
+      "name": {
+        "local": "الجيزة",
+        "en": "Jizah",
+        "slug": "jizah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_jizah",
+        "level": 2,
+        "name": {
+          "local": "الجيزة",
+          "en": "Jizah",
+          "slug": "jizah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_jizah_qanater",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "القناطر",
+      "en": "Qanater",
+      "slug": "qanater"
+    },
+    "code": {
+      "id": "JOAMM_jizah_qanater",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_jizah",
+      "level": 2,
+      "name": {
+        "local": "الجيزة",
+        "en": "Jizah",
+        "slug": "jizah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_jizah",
+        "level": 2,
+        "name": {
+          "local": "الجيزة",
+          "en": "Jizah",
+          "slug": "jizah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_jizah_qastal",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "القسطل",
+      "en": "Qastal",
+      "slug": "qastal"
+    },
+    "code": {
+      "id": "JOAMM_jizah_qastal",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_jizah",
+      "level": 2,
+      "name": {
+        "local": "الجيزة",
+        "en": "Jizah",
+        "slug": "jizah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_jizah",
+        "level": 2,
+        "name": {
+          "local": "الجيزة",
+          "en": "Jizah",
+          "slug": "jizah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_jizah_qnaitreh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "القنيطره",
+      "en": "Qnaitreh",
+      "slug": "qnaitreh"
+    },
+    "code": {
+      "id": "JOAMM_jizah_qnaitreh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_jizah",
+      "level": 2,
+      "name": {
+        "local": "الجيزة",
+        "en": "Jizah",
+        "slug": "jizah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_jizah",
+        "level": 2,
+        "name": {
+          "local": "الجيزة",
+          "en": "Jizah",
+          "slug": "jizah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_jizah_saifeih-zabayer-knayan",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "السيفية(زباير كنيعان)",
+      "en": "Saifeih (Zabayer Knayan)",
+      "slug": "saifeih-zabayer-knayan"
+    },
+    "code": {
+      "id": "JOAMM_jizah_saifeih-zabayer-knayan",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_jizah",
+      "level": 2,
+      "name": {
+        "local": "الجيزة",
+        "en": "Jizah",
+        "slug": "jizah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_jizah",
+        "level": 2,
+        "name": {
+          "local": "الجيزة",
+          "en": "Jizah",
+          "slug": "jizah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_jizah_salahia-zabayer-twal",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الصلاحيه(زباير الطوال)",
+      "en": "Salahia (Zabayer Twal)",
+      "slug": "salahia-zabayer-twal"
+    },
+    "code": {
+      "id": "JOAMM_jizah_salahia-zabayer-twal",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_jizah",
+      "level": 2,
+      "name": {
+        "local": "الجيزة",
+        "en": "Jizah",
+        "slug": "jizah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_jizah",
+        "level": 2,
+        "name": {
+          "local": "الجيزة",
+          "en": "Jizah",
+          "slug": "jizah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_jizah_shhba-zabayer-wtairi",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الشهباء(زباير الوتيري)",
+      "en": "Sh'hba (Zabayer Wtairi)",
+      "slug": "shhba-zabayer-wtairi"
+    },
+    "code": {
+      "id": "JOAMM_jizah_shhba-zabayer-wtairi",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_jizah",
+      "level": 2,
+      "name": {
+        "local": "الجيزة",
+        "en": "Jizah",
+        "slug": "jizah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_jizah",
+        "level": 2,
+        "name": {
+          "local": "الجيزة",
+          "en": "Jizah",
+          "slug": "jizah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_jizah_soofa",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "صوفه",
+      "en": "Soofa",
+      "slug": "soofa"
+    },
+    "code": {
+      "id": "JOAMM_jizah_soofa",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_jizah",
+      "level": 2,
+      "name": {
+        "local": "الجيزة",
+        "en": "Jizah",
+        "slug": "jizah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_jizah",
+        "level": 2,
+        "name": {
+          "local": "الجيزة",
+          "en": "Jizah",
+          "slug": "jizah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_jizah_thamad",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الثمد",
+      "en": "Thamad",
+      "slug": "thamad"
+    },
+    "code": {
+      "id": "JOAMM_jizah_thamad",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_jizah",
+      "level": 2,
+      "name": {
+        "local": "الجيزة",
+        "en": "Jizah",
+        "slug": "jizah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_jizah",
+        "level": 2,
+        "name": {
+          "local": "الجيزة",
+          "en": "Jizah",
+          "slug": "jizah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_jizah_tnaib",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الطنيب",
+      "en": "Tnaib",
+      "slug": "tnaib"
+    },
+    "code": {
+      "id": "JOAMM_jizah_tnaib",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_jizah",
+      "level": 2,
+      "name": {
+        "local": "الجيزة",
+        "en": "Jizah",
+        "slug": "jizah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_jizah",
+        "level": 2,
+        "name": {
+          "local": "الجيزة",
+          "en": "Jizah",
+          "slug": "jizah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_jizah_um-elamad",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام العمد",
+      "en": "Um Elamad",
+      "slug": "um-elamad"
+    },
+    "code": {
+      "id": "JOAMM_jizah_um-elamad",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_jizah",
+      "level": 2,
+      "name": {
+        "local": "الجيزة",
+        "en": "Jizah",
+        "slug": "jizah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_jizah",
+        "level": 2,
+        "name": {
+          "local": "الجيزة",
+          "en": "Jizah",
+          "slug": "jizah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_jizah_um-elwalied",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام الوليد",
+      "en": "Um Elwalied",
+      "slug": "um-elwalied"
+    },
+    "code": {
+      "id": "JOAMM_jizah_um-elwalied",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_jizah",
+      "level": 2,
+      "name": {
+        "local": "الجيزة",
+        "en": "Jizah",
+        "slug": "jizah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_jizah",
+        "level": 2,
+        "name": {
+          "local": "الجيزة",
+          "en": "Jizah",
+          "slug": "jizah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_jizah_um-qsair",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام قصير",
+      "en": "Um Qsair",
+      "slug": "um-qsair"
+    },
+    "code": {
+      "id": "JOAMM_jizah_um-qsair",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_jizah",
+      "level": 2,
+      "name": {
+        "local": "الجيزة",
+        "en": "Jizah",
+        "slug": "jizah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_jizah",
+        "level": 2,
+        "name": {
+          "local": "الجيزة",
+          "en": "Jizah",
+          "slug": "jizah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_jizah_um-rommaneh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام رمانه",
+      "en": "Um Rommaneh",
+      "slug": "um-rommaneh"
+    },
+    "code": {
+      "id": "JOAMM_jizah_um-rommaneh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_jizah",
+      "level": 2,
+      "name": {
+        "local": "الجيزة",
+        "en": "Jizah",
+        "slug": "jizah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_jizah",
+        "level": 2,
+        "name": {
+          "local": "الجيزة",
+          "en": "Jizah",
+          "slug": "jizah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_jizah_zafaran",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الزعفران",
+      "en": "Za'faran",
+      "slug": "zafaran"
+    },
+    "code": {
+      "id": "JOAMM_jizah_zafaran",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_jizah",
+      "level": 2,
+      "name": {
+        "local": "الجيزة",
+        "en": "Jizah",
+        "slug": "jizah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_jizah",
+        "level": 2,
+        "name": {
+          "local": "الجيزة",
+          "en": "Jizah",
+          "slug": "jizah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_jizah_zainab",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "زينب",
+      "en": "Zainab",
+      "slug": "zainab"
+    },
+    "code": {
+      "id": "JOAMM_jizah_zainab",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_jizah",
+      "level": 2,
+      "name": {
+        "local": "الجيزة",
+        "en": "Jizah",
+        "slug": "jizah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_jizah",
+        "level": 2,
+        "name": {
+          "local": "الجيزة",
+          "en": "Jizah",
+          "slug": "jizah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_jizah_zaitooneh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الزيتونة",
+      "en": "Zaitooneh",
+      "slug": "zaitooneh"
+    },
+    "code": {
+      "id": "JOAMM_jizah_zaitooneh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_jizah",
+      "level": 2,
+      "name": {
+        "local": "الجيزة",
+        "en": "Jizah",
+        "slug": "jizah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_jizah",
+        "level": 2,
+        "name": {
+          "local": "الجيزة",
+          "en": "Jizah",
+          "slug": "jizah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_jizah_zwezia",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "زويزيا",
+      "en": "Zwezia",
+      "slug": "zwezia"
+    },
+    "code": {
+      "id": "JOAMM_jizah_zwezia",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_jizah",
+      "level": 2,
+      "name": {
+        "local": "الجيزة",
+        "en": "Jizah",
+        "slug": "jizah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_jizah",
+        "level": 2,
+        "name": {
+          "local": "الجيزة",
+          "en": "Jizah",
+          "slug": "jizah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

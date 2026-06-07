@@ -1,0 +1,650 @@
+[
+  {
+    "id": "JOIRB_mazar-jadeda_dair-yoosef",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "دير يوسف",
+      "en": "Dair Yoosef",
+      "slug": "dair-yoosef"
+    },
+    "code": {
+      "id": "JOIRB_mazar-jadeda_dair-yoosef",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_mazar-jadeda",
+      "level": 2,
+      "name": {
+        "local": "المزار الجديدة",
+        "en": "Mazar Jadeda",
+        "slug": "mazar-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_mazar-jadeda",
+        "level": 2,
+        "name": {
+          "local": "المزار الجديدة",
+          "en": "Mazar Jadeda",
+          "slug": "mazar-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_mazar-jadeda_enbeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "عنبة",
+      "en": "Enbeh",
+      "slug": "enbeh"
+    },
+    "code": {
+      "id": "JOIRB_mazar-jadeda_enbeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_mazar-jadeda",
+      "level": 2,
+      "name": {
+        "local": "المزار الجديدة",
+        "en": "Mazar Jadeda",
+        "slug": "mazar-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_mazar-jadeda",
+        "level": 2,
+        "name": {
+          "local": "المزار الجديدة",
+          "en": "Mazar Jadeda",
+          "slug": "mazar-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_mazar-jadeda_habka",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "حبكا",
+      "en": "Habka",
+      "slug": "habka"
+    },
+    "code": {
+      "id": "JOIRB_mazar-jadeda_habka",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_mazar-jadeda",
+      "level": 2,
+      "name": {
+        "local": "المزار الجديدة",
+        "en": "Mazar Jadeda",
+        "slug": "mazar-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_mazar-jadeda",
+        "level": 2,
+        "name": {
+          "local": "المزار الجديدة",
+          "en": "Mazar Jadeda",
+          "slug": "mazar-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_mazar-jadeda_hoafa-el-mazar",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "حوفا المزار",
+      "en": "Hoafa El-Mazar",
+      "slug": "hoafa-el-mazar"
+    },
+    "code": {
+      "id": "JOIRB_mazar-jadeda_hoafa-el-mazar",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_mazar-jadeda",
+      "level": 2,
+      "name": {
+        "local": "المزار الجديدة",
+        "en": "Mazar Jadeda",
+        "slug": "mazar-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_mazar-jadeda",
+        "level": 2,
+        "name": {
+          "local": "المزار الجديدة",
+          "en": "Mazar Jadeda",
+          "slug": "mazar-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_mazar-jadeda_ibrahimia-sarras",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الابراهيمية (سراس)",
+      "en": "Ibrahimia (Sarras)",
+      "slug": "ibrahimia-sarras"
+    },
+    "code": {
+      "id": "JOIRB_mazar-jadeda_ibrahimia-sarras",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_mazar-jadeda",
+      "level": 2,
+      "name": {
+        "local": "المزار الجديدة",
+        "en": "Mazar Jadeda",
+        "slug": "mazar-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_mazar-jadeda",
+        "level": 2,
+        "name": {
+          "local": "المزار الجديدة",
+          "en": "Mazar Jadeda",
+          "slug": "mazar-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_mazar-jadeda_johfiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "جحفية",
+      "en": "Johfiyyeh",
+      "slug": "johfiyyeh"
+    },
+    "code": {
+      "id": "JOIRB_mazar-jadeda_johfiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_mazar-jadeda",
+      "level": 2,
+      "name": {
+        "local": "المزار الجديدة",
+        "en": "Mazar Jadeda",
+        "slug": "mazar-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_mazar-jadeda",
+        "level": 2,
+        "name": {
+          "local": "المزار الجديدة",
+          "en": "Mazar Jadeda",
+          "slug": "mazar-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_mazar-jadeda_mazar-shamali",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المزار الشمالي",
+      "en": "Mazar Shamali",
+      "slug": "mazar-shamali"
+    },
+    "code": {
+      "id": "JOIRB_mazar-jadeda_mazar-shamali",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_mazar-jadeda",
+      "level": 2,
+      "name": {
+        "local": "المزار الجديدة",
+        "en": "Mazar Jadeda",
+        "slug": "mazar-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_mazar-jadeda",
+        "level": 2,
+        "name": {
+          "local": "المزار الجديدة",
+          "en": "Mazar Jadeda",
+          "slug": "mazar-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_mazar-jadeda_rahmeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الرحمة",
+      "en": "Rahmeh",
+      "slug": "rahmeh"
+    },
+    "code": {
+      "id": "JOIRB_mazar-jadeda_rahmeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_mazar-jadeda",
+      "level": 2,
+      "name": {
+        "local": "المزار الجديدة",
+        "en": "Mazar Jadeda",
+        "slug": "mazar-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_mazar-jadeda",
+        "level": 2,
+        "name": {
+          "local": "المزار الجديدة",
+          "en": "Mazar Jadeda",
+          "slug": "mazar-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_mazar-jadeda_rhaba",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ارحابا",
+      "en": "Rhaba",
+      "slug": "rhaba"
+    },
+    "code": {
+      "id": "JOIRB_mazar-jadeda_rhaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_mazar-jadeda",
+      "level": 2,
+      "name": {
+        "local": "المزار الجديدة",
+        "en": "Mazar Jadeda",
+        "slug": "mazar-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_mazar-jadeda",
+        "level": 2,
+        "name": {
+          "local": "المزار الجديدة",
+          "en": "Mazar Jadeda",
+          "slug": "mazar-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_mazar-jadeda_samad",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "صمد",
+      "en": "Samad",
+      "slug": "samad"
+    },
+    "code": {
+      "id": "JOIRB_mazar-jadeda_samad",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_mazar-jadeda",
+      "level": 2,
+      "name": {
+        "local": "المزار الجديدة",
+        "en": "Mazar Jadeda",
+        "slug": "mazar-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_mazar-jadeda",
+        "level": 2,
+        "name": {
+          "local": "المزار الجديدة",
+          "en": "Mazar Jadeda",
+          "slug": "mazar-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_mazar-jadeda_zatara",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الزعترة",
+      "en": "Z'atara",
+      "slug": "zatara"
+    },
+    "code": {
+      "id": "JOIRB_mazar-jadeda_zatara",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_mazar-jadeda",
+      "level": 2,
+      "name": {
+        "local": "المزار الجديدة",
+        "en": "Mazar Jadeda",
+        "slug": "mazar-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_mazar-jadeda",
+        "level": 2,
+        "name": {
+          "local": "المزار الجديدة",
+          "en": "Mazar Jadeda",
+          "slug": "mazar-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_mazar-jadeda_zoobya",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "زوبيا",
+      "en": "Zoobya",
+      "slug": "zoobya"
+    },
+    "code": {
+      "id": "JOIRB_mazar-jadeda_zoobya",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_mazar-jadeda",
+      "level": 2,
+      "name": {
+        "local": "المزار الجديدة",
+        "en": "Mazar Jadeda",
+        "slug": "mazar-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_mazar-jadeda",
+        "level": 2,
+        "name": {
+          "local": "المزار الجديدة",
+          "en": "Mazar Jadeda",
+          "slug": "mazar-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

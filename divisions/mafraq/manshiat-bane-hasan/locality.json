@@ -1,0 +1,164 @@
+[
+  {
+    "id": "JOMAF_manshiat-bane-hasan_dair-waraq",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "دير ورق",
+      "en": "Dair Waraq",
+      "slug": "dair-waraq"
+    },
+    "code": {
+      "id": "JOMAF_manshiat-bane-hasan_dair-waraq",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_manshiat-bane-hasan",
+      "level": 2,
+      "name": {
+        "local": "منشية بني حسن",
+        "en": "Manshiat Bane Hasan",
+        "slug": "manshiat-bane-hasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_manshiat-bane-hasan",
+        "level": 2,
+        "name": {
+          "local": "منشية بني حسن",
+          "en": "Manshiat Bane Hasan",
+          "slug": "manshiat-bane-hasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_manshiat-bane-hasan_manshiyyet-bani-hasan",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "منشية بني حسن",
+      "en": "Manshiyyet Bani Hasan",
+      "slug": "manshiyyet-bani-hasan"
+    },
+    "code": {
+      "id": "JOMAF_manshiat-bane-hasan_manshiyyet-bani-hasan",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_manshiat-bane-hasan",
+      "level": 2,
+      "name": {
+        "local": "منشية بني حسن",
+        "en": "Manshiat Bane Hasan",
+        "slug": "manshiat-bane-hasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_manshiat-bane-hasan",
+        "level": 2,
+        "name": {
+          "local": "منشية بني حسن",
+          "en": "Manshiat Bane Hasan",
+          "slug": "manshiat-bane-hasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_manshiat-bane-hasan_um-elloolo",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام اللولو",
+      "en": "Um Elloolo",
+      "slug": "um-elloolo"
+    },
+    "code": {
+      "id": "JOMAF_manshiat-bane-hasan_um-elloolo",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_manshiat-bane-hasan",
+      "level": 2,
+      "name": {
+        "local": "منشية بني حسن",
+        "en": "Manshiat Bane Hasan",
+        "slug": "manshiat-bane-hasan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_manshiat-bane-hasan",
+        "level": 2,
+        "name": {
+          "local": "منشية بني حسن",
+          "en": "Manshiat Bane Hasan",
+          "slug": "manshiat-bane-hasan"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

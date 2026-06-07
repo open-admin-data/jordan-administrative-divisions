@@ -1,0 +1,110 @@
+[
+  {
+    "id": "JOIRB_ramtha-jadeda_bwaidhah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "البويضة",
+      "en": "Bwaidhah",
+      "slug": "bwaidhah"
+    },
+    "code": {
+      "id": "JOIRB_ramtha-jadeda_bwaidhah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_ramtha-jadeda",
+      "level": 2,
+      "name": {
+        "local": "الرمثا الجديدة",
+        "en": "Ramtha Jadeda",
+        "slug": "ramtha-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_ramtha-jadeda",
+        "level": 2,
+        "name": {
+          "local": "الرمثا الجديدة",
+          "en": "Ramtha Jadeda",
+          "slug": "ramtha-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_ramtha-jadeda_ramtha",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الرمثا",
+      "en": "Ramtha",
+      "slug": "ramtha"
+    },
+    "code": {
+      "id": "JOIRB_ramtha-jadeda_ramtha",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_ramtha-jadeda",
+      "level": 2,
+      "name": {
+        "local": "الرمثا الجديدة",
+        "en": "Ramtha Jadeda",
+        "slug": "ramtha-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_ramtha-jadeda",
+        "level": 2,
+        "name": {
+          "local": "الرمثا الجديدة",
+          "en": "Ramtha Jadeda",
+          "slug": "ramtha-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

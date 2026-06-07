@@ -1,0 +1,47 @@
+{
+  "id": "JOAJL_janed",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "الجنيد",
+    "en": "Janed",
+    "slug": "janed"
+  },
+  "code": {
+    "id": "JOAJL_janed",
+    "iso": null
+  },
+  "parent": {
+    "id": "JOAJL",
+    "level": 1,
+    "name": {
+      "local": "عجلون",
+      "en": "Ajlun",
+      "slug": "ajlun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "JOAJL",
+      "level": 1,
+      "name": {
+        "local": "عجلون",
+        "en": "Ajlun",
+        "slug": "ajlun"
+      }
+    }
+  ],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.294",
+    "lon": "35.744"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "JOZAR_zarqa_khou",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "خو",
+      "en": "Khou",
+      "slug": "khou"
+    },
+    "code": {
+      "id": "JOZAR_zarqa_khou",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_zarqa",
+      "level": 2,
+      "name": {
+        "local": "الزرقاء",
+        "en": "Zarqa",
+        "slug": "zarqa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_zarqa",
+        "level": 2,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_zarqa_madenat-al-sharq",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "مدينة الشرق",
+      "en": "Madenat AL-Sharq",
+      "slug": "madenat-al-sharq"
+    },
+    "code": {
+      "id": "JOZAR_zarqa_madenat-al-sharq",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_zarqa",
+      "level": 2,
+      "name": {
+        "local": "الزرقاء",
+        "en": "Zarqa",
+        "slug": "zarqa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_zarqa",
+        "level": 2,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_zarqa_zarqa",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الزرقاء",
+      "en": "Zarqa",
+      "slug": "zarqa"
+    },
+    "code": {
+      "id": "JOZAR_zarqa_zarqa",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_zarqa",
+      "level": 2,
+      "name": {
+        "local": "الزرقاء",
+        "en": "Zarqa",
+        "slug": "zarqa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_zarqa",
+        "level": 2,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

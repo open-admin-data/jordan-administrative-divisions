@@ -1,0 +1,363 @@
+# Balqa — Jordan Administrative Divisions
+
+> 10 municipalitys, 76 localitys
+> Code: JOBAL
+> Coordinates: 31.954, 35.704
+> Last updated: 2026-06-07. License: CC-BY-4.0.
+
+## Municipalitys
+
+### عين الباشا (Ain Albasha)
+
+Code: JOBAL_ain-albasha, Coordinates: 31.954, 35.704
+Localitys: 15
+
+#### ابو حامد (Abu Hamed)
+
+Code: JOBAL_ain-albasha_abu-hamed, Coordinates: 31.954, 35.704
+
+#### عين الباشا (Ain Albasha)
+
+Code: JOBAL_ain-albasha_ain-albasha, Coordinates: 31.954, 35.704
+
+#### الحنو (Heno)
+
+Code: JOBAL_ain-albasha_heno, Coordinates: 31.954, 35.704
+
+#### الجعيدية (Jaidiyyeh)
+
+Code: JOBAL_ain-albasha_jaidiyyeh, Coordinates: 31.954, 35.704
+
+#### قرية ابو نصير (Karet Abu Nsair)
+
+Code: JOBAL_ain-albasha_karet-abu-nsair, Coordinates: 31.954, 35.704
+
+#### موبص (Moobes)
+
+Code: JOBAL_ain-albasha_moobes, Coordinates: 31.954, 35.704
+
+#### الرمان (Romman)
+
+Code: JOBAL_ain-albasha_romman, Coordinates: 31.954, 35.704
+
+#### صافوط (Safoot)
+
+Code: JOBAL_ain-albasha_safoot, Coordinates: 31.954, 35.704
+
+#### السحلولية (Sahlooliyyeh)
+
+Code: JOBAL_ain-albasha_sahlooliyyeh, Coordinates: 31.954, 35.704
+
+#### السليحي (Saleehi)
+
+Code: JOBAL_ain-albasha_saleehi, Coordinates: 31.954, 35.704
+
+#### سلحوب (Salhoob)
+
+Code: JOBAL_ain-albasha_salhoob, Coordinates: 31.954, 35.704
+
+#### الشويحي الغربي (Shewahi El-Gharbi)
+
+Code: JOBAL_ain-albasha_shewahi-el-gharbi, Coordinates: 31.954, 35.704
+
+#### ام الدنانير (Um Edananier)
+
+Code: JOBAL_ain-albasha_um-edananier, Coordinates: 31.954, 35.704
+
+#### ام نجاصة (Um Njasah)
+
+Code: JOBAL_ain-albasha_um-njasah, Coordinates: 31.954, 35.704
+
+#### ام سنديانه (Um Sendyaneh)
+
+Code: JOBAL_ain-albasha_um-sendyaneh, Coordinates: 31.954, 35.704
+
+### العارضة (Al-Ardha)
+
+Code: JOBAL_al-ardha, Coordinates: 31.954, 35.704
+Localitys: 15
+
+#### العزب (Azab)
+
+Code: JOBAL_al-ardha_azab, Coordinates: 31.954, 35.704
+
+#### بيوضه الغربيه (Bayyoodah Gharbiyyeh)
+
+Code: JOBAL_al-ardha_bayyoodah-gharbiyyeh, Coordinates: 31.954, 35.704
+
+#### بيوضه الشماليه (Bayyoodah Shamaliyyeh)
+
+Code: JOBAL_al-ardha_bayyoodah-shamaliyyeh, Coordinates: 31.954, 35.704
+
+#### بيوضه الشرقية (Bayyoodah Sharqiyyeh)
+
+Code: JOBAL_al-ardha_bayyoodah-sharqiyyeh, Coordinates: 31.954, 35.704
+
+#### البويب (Bwaib)
+
+Code: JOBAL_al-ardha_bwaib, Coordinates: 31.954, 35.704
+
+#### الضريسات (Dhraissat)
+
+Code: JOBAL_al-ardha_dhraissat, Coordinates: 31.954, 35.704
+
+#### عليقون (Elaiqoon)
+
+Code: JOBAL_al-ardha_elaiqoon, Coordinates: 31.954, 35.704
+
+#### الحقاوه (Haqawah)
+
+Code: JOBAL_al-ardha_haqawah, Coordinates: 31.954, 35.704
+
+#### جريش (Jarriesh)
+
+Code: JOBAL_al-ardha_jarriesh, Coordinates: 31.954, 35.704
+
+#### خشفه (Khashfeh)
+
+Code: JOBAL_al-ardha_khashfeh, Coordinates: 31.954, 35.704
+
+#### ميسرا (Maisarah)
+
+Code: JOBAL_al-ardha_maisarah, Coordinates: 31.954, 35.704
+
+#### قصيب (Qsaib)
+
+Code: JOBAL_al-ardha_qsaib, Coordinates: 31.954, 35.704
+
+#### الصبيحي (Sbaihi)
+
+Code: JOBAL_al-ardha_sbaihi, Coordinates: 31.954, 35.704
+
+#### سيحان (Siehan)
+
+Code: JOBAL_al-ardha_siehan, Coordinates: 31.954, 35.704
+
+#### سوميا (Soomia)
+
+Code: JOBAL_al-ardha_soomia, Coordinates: 31.954, 35.704
+
+### الشونة الوسطى (Alshoneh Alwasta)
+
+Code: JOBAL_alshoneh-alwasta, Coordinates: 31.954, 35.704
+Localitys: 7
+
+#### جوفة الكفرين (Joafet El-Kafrain)
+
+Code: JOBAL_alshoneh-alwasta_joafet-el-kafrain, Coordinates: 31.954, 35.704
+
+#### الكفرين (kafrain)
+
+Code: JOBAL_alshoneh-alwasta_kafrain, Coordinates: 31.954, 35.704
+
+#### الكرامة (Karamah)
+
+Code: JOBAL_alshoneh-alwasta_karamah, Coordinates: 31.954, 35.704
+
+#### الرامة (Ramah)
+
+Code: JOBAL_alshoneh-alwasta_ramah, Coordinates: 31.954, 35.704
+
+#### الروضة (Roudhah)
+
+Code: JOBAL_alshoneh-alwasta_roudhah, Coordinates: 31.954, 35.704
+
+#### الشونة الجديدة (السكنه) (Shoonah Jadideh (Sokneh))
+
+Code: JOBAL_alshoneh-alwasta_shoonah-jadideh-sokneh, Coordinates: 31.954, 35.704
+
+#### الشونة الجنوبية (Shoonah Janoobiyah)
+
+Code: JOBAL_alshoneh-alwasta_shoonah-janoobiyah, Coordinates: 31.954, 35.704
+
+### مخيم البقعة* (Baq&#39;ah Camp*)
+
+Code: JOBAL_baqah-camp, Coordinates: 31.954, 35.704
+Localitys: 0
+
+### دير علا (Dair Alla)
+
+Code: JOBAL_dair-alla, Coordinates: 31.954, 35.704
+Localitys: 8
+
+#### البلاونة (Balaooneh)
+
+Code: JOBAL_dair-alla_balaooneh, Coordinates: 31.954, 35.704
+
+#### دير علا (Dair Alla)
+
+Code: JOBAL_dair-alla_dair-alla, Coordinates: 31.954, 35.704
+
+#### الدباب (Debab)
+
+Code: JOBAL_dair-alla_debab, Coordinates: 31.954, 35.704
+
+#### ضرار (Dherar)
+
+Code: JOBAL_dair-alla_dherar, Coordinates: 31.954, 35.704
+
+#### خزمة (Khazma)
+
+Code: JOBAL_dair-alla_khazma, Coordinates: 31.954, 35.704
+
+#### الرويحة (Rwaihah)
+
+Code: JOBAL_dair-alla_rwaihah, Coordinates: 31.954, 35.704
+
+#### الطوال الجنوبي (Twal Janoobi)
+
+Code: JOBAL_dair-alla_twal-janoobi, Coordinates: 31.954, 35.704
+
+#### الطوال الشمالي (Twal Shamali)
+
+Code: JOBAL_dair-alla_twal-shamali, Coordinates: 31.954, 35.704
+
+### الفحيص (Fuhais)
+
+Code: JOBAL_fuhais, Coordinates: 31.954, 35.704
+Localitys: 1
+
+#### الفحيص (Fuhais)
+
+Code: JOBAL_fuhais_fuhais, Coordinates: 31.954, 35.704
+
+### معدي (M&#39;addi)
+
+Code: JOBAL_maddi, Coordinates: 31.954, 35.704
+Localitys: 8
+
+#### ابو الزيغان (Abu Ezzighan)
+
+Code: JOBAL_maddi_abu-ezzighan, Coordinates: 31.954, 35.704
+
+#### داميا (Damia)
+
+Code: JOBAL_maddi_damia, Coordinates: 31.954, 35.704
+
+#### ظهرة الرمل (Dhahret Erramel)
+
+Code: JOBAL_maddi_dhahret-erramel, Coordinates: 31.954, 35.704
+
+#### غور كبد (Ghour Kebed)
+
+Code: JOBAL_maddi_ghour-kebed, Coordinates: 31.954, 35.704
+
+#### معدي (M&#39;addi)
+
+Code: JOBAL_maddi_maddi, Coordinates: 31.954, 35.704
+
+#### ميسرة فنوش (Maisarat Fannosh)
+
+Code: JOBAL_maddi_maisarat-fannosh, Coordinates: 31.954, 35.704
+
+#### مثلث العارضة (Muthallath El-Ardhah)
+
+Code: JOBAL_maddi_muthallath-el-ardhah, Coordinates: 31.954, 35.704
+
+#### مثلث المصري (Muthallath El-Masri)
+
+Code: JOBAL_maddi_muthallath-el-masri, Coordinates: 31.954, 35.704
+
+### ماحص (Mahes)
+
+Code: JOBAL_mahes, Coordinates: 31.954, 35.704
+Localitys: 1
+
+#### ماحص (Mahes)
+
+Code: JOBAL_mahes_mahes, Coordinates: 31.954, 35.704
+
+### السلط الكبرى (Salt Kubrah)
+
+Code: JOBAL_salt-kubrah, Coordinates: 31.954, 35.704
+Localitys: 20
+
+#### الديرة (AlDiereh)
+
+Code: JOBAL_salt-kubrah_aldiereh, Coordinates: 31.954, 35.704
+
+#### علان (Allan)
+
+Code: JOBAL_salt-kubrah_allan, Coordinates: 31.954, 35.704
+
+#### دعم (Da&#39;am)
+
+Code: JOBAL_salt-kubrah_daam, Coordinates: 31.954, 35.704
+
+#### عيرا (Ira)
+
+Code: JOBAL_salt-kubrah_ira, Coordinates: 31.954, 35.704
+
+#### جلعد (Jal&#39;ad)
+
+Code: JOBAL_salt-kubrah_jalad, Coordinates: 31.954, 35.704
+
+#### المشيرفة (Msherfah)
+
+Code: JOBAL_salt-kubrah_msherfah, Coordinates: 31.954, 35.704
+
+#### الرميمين (Rmemen)
+
+Code: JOBAL_salt-kubrah_rmemen, Coordinates: 31.954, 35.704
+
+#### سلعوف (Sala&#39;of)
+
+Code: JOBAL_salt-kubrah_salaof, Coordinates: 31.954, 35.704
+
+#### السلط (Salt)
+
+Code: JOBAL_salt-kubrah_salt, Coordinates: 31.954, 35.704
+
+#### ام العمد (Um El-Amad)
+
+Code: JOBAL_salt-kubrah_um-el-amad, Coordinates: 31.954, 35.704
+
+#### ام جوزه (Um Jauzeh)
+
+Code: JOBAL_salt-kubrah_um-jauzeh, Coordinates: 31.954, 35.704
+
+#### ام خروبه (Um Karubah)
+
+Code: JOBAL_salt-kubrah_um-karubah, Coordinates: 31.954, 35.704
+
+#### وادي الحور (Wadi Elhoor)
+
+Code: JOBAL_salt-kubrah_wadi-elhoor, Coordinates: 31.954, 35.704
+
+#### وادي الناقه (Wadi Ennaqah)
+
+Code: JOBAL_salt-kubrah_wadi-ennaqah, Coordinates: 31.954, 35.704
+
+#### وادي الصحن (Wadi Essahn)
+
+Code: JOBAL_salt-kubrah_wadi-essahn, Coordinates: 31.954, 35.704
+
+#### وادي شعيب (Wadi Sho&#39;aib)
+
+Code: JOBAL_salt-kubrah_wadi-shoaib, Coordinates: 31.954, 35.704
+
+#### الوسية (Waseah)
+
+Code: JOBAL_salt-kubrah_waseah, Coordinates: 31.954, 35.704
+
+#### يرقا (Yarqha)
+
+Code: JOBAL_salt-kubrah_yarqha, Coordinates: 31.954, 35.704
+
+#### اليزيدية (Yazeediyyeh)
+
+Code: JOBAL_salt-kubrah_yazeediyyeh, Coordinates: 31.954, 35.704
+
+#### زي (Zayy)
+
+Code: JOBAL_salt-kubrah_zayy, Coordinates: 31.954, 35.704
+
+### سويمة (Swaimeh)
+
+Code: JOBAL_swaimeh, Coordinates: 31.954, 35.704
+Localitys: 1
+
+#### سويمة (Swaimeh)
+
+Code: JOBAL_swaimeh_swaimeh, Coordinates: 31.954, 35.704
+

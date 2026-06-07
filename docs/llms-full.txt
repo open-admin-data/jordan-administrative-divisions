@@ -1,0 +1,35 @@
+# Jordan Administrative Divisions — Full Reference
+
+> Last updated: 2026-06-07. License: CC-BY-4.0.
+
+## Per-Governorate Data Files
+
+- [Amman](https://github.com/open-admin-data/jordan-administrative-divisions/blob/main/docs/llms-full/amman.txt) — 11 municipalitys, 138 localitys
+- [Balqa](https://github.com/open-admin-data/jordan-administrative-divisions/blob/main/docs/llms-full/balqa.txt) — 10 municipalitys, 76 localitys
+- [Zarqa](https://github.com/open-admin-data/jordan-administrative-divisions/blob/main/docs/llms-full/zarqa.txt) — 8 municipalitys, 60 localitys
+- [Madaba](https://github.com/open-admin-data/jordan-administrative-divisions/blob/main/docs/llms-full/madaba.txt) — 4 municipalitys, 73 localitys
+- [Irbid](https://github.com/open-admin-data/jordan-administrative-divisions/blob/main/docs/llms-full/irbid.txt) — 19 municipalitys, 136 localitys
+- [Mafraq](https://github.com/open-admin-data/jordan-administrative-divisions/blob/main/docs/llms-full/mafraq.txt) — 19 municipalitys, 145 localitys
+- [Jarash](https://github.com/open-admin-data/jordan-administrative-divisions/blob/main/docs/llms-full/jarash.txt) — 6 municipalitys, 0 localitys
+- [Ajlun](https://github.com/open-admin-data/jordan-administrative-divisions/blob/main/docs/llms-full/ajlun.txt) — 5 municipalitys, 0 localitys
+- [Karak](https://github.com/open-admin-data/jordan-administrative-divisions/blob/main/docs/llms-full/karak.txt) — 10 municipalitys, 87 localitys
+- [Tafela](https://github.com/open-admin-data/jordan-administrative-divisions/blob/main/docs/llms-full/tafela.txt) — 4 municipalitys, 0 localitys
+- [Ma&#34;an](https://github.com/open-admin-data/jordan-administrative-divisions/blob/main/docs/llms-full/maan.txt) — 8 municipalitys, 0 localitys
+- [Aqaba](https://github.com/open-admin-data/jordan-administrative-divisions/blob/main/docs/llms-full/aqaba.txt) — 6 municipalitys, 26 localitys
+
+## Summary
+
+| Governorate | Municipalitys | Localitys | 
+|---|---|---|
+| Amman | 11 | 138 | 
+| Balqa | 10 | 76 | 
+| Zarqa | 8 | 60 | 
+| Madaba | 4 | 73 | 
+| Irbid | 19 | 136 | 
+| Mafraq | 19 | 145 | 
+| Jarash | 6 | 0 | 
+| Ajlun | 5 | 0 | 
+| Karak | 10 | 87 | 
+| Tafela | 4 | 0 | 
+| Ma&#34;an | 8 | 0 | 
+| Aqaba | 6 | 26 | 

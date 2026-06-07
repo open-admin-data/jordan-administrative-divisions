@@ -1,0 +1,39 @@
+# Jarash — Jordan Administrative Divisions
+
+> 6 municipalitys, 0 localitys
+> Code: JOJER
+> Coordinates: 32.242, 35.834
+> Last updated: 2026-06-07. License: CC-BY-4.0.
+
+## Municipalitys
+
+### المعراض (Alm&#39;arad)
+
+Code: JOJER_almarad, Coordinates: 32.242, 35.834
+Localitys: 0
+
+### النسيم (alnasim)
+
+Code: JOJER_alnasim, Coordinates: 32.242, 35.834
+Localitys: 0
+
+### باب عمان (Bab Amman)
+
+Code: JOJER_bab-amman, Coordinates: 32.242, 35.834
+Localitys: 0
+
+### برما (Borma)
+
+Code: JOJER_borma, Coordinates: 32.242, 35.834
+Localitys: 0
+
+### جرش الكبرى (Jarash Alkubrah)
+
+Code: JOJER_jarash-alkubrah, Coordinates: 32.242, 35.834
+Localitys: 0
+
+### مخيم سوف، مخيم غزه* (Soof Camp,Gaza Camp*)
+
+Code: JOJER_soof-campgaza-camp, Coordinates: 32.242, 35.834
+Localitys: 0
+

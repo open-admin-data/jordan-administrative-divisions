@@ -1,0 +1,380 @@
+[
+  {
+    "id": "JOIRB_alkfarat_aqraba",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "عقربا",
+      "en": "Aqraba",
+      "slug": "aqraba"
+    },
+    "code": {
+      "id": "JOIRB_alkfarat_aqraba",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_alkfarat",
+      "level": 2,
+      "name": {
+        "local": "الكفارات",
+        "en": "Alkfarat",
+        "slug": "alkfarat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_alkfarat",
+        "level": 2,
+        "name": {
+          "local": "الكفارات",
+          "en": "Alkfarat",
+          "slug": "alkfarat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_alkfarat_bareshta",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "برشتا",
+      "en": "Bareshta",
+      "slug": "bareshta"
+    },
+    "code": {
+      "id": "JOIRB_alkfarat_bareshta",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_alkfarat",
+      "level": 2,
+      "name": {
+        "local": "الكفارات",
+        "en": "Alkfarat",
+        "slug": "alkfarat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_alkfarat",
+        "level": 2,
+        "name": {
+          "local": "الكفارات",
+          "en": "Alkfarat",
+          "slug": "alkfarat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_alkfarat_hartha",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "حرثا",
+      "en": "Hartha",
+      "slug": "hartha"
+    },
+    "code": {
+      "id": "JOIRB_alkfarat_hartha",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_alkfarat",
+      "level": 2,
+      "name": {
+        "local": "الكفارات",
+        "en": "Alkfarat",
+        "slug": "alkfarat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_alkfarat",
+        "level": 2,
+        "name": {
+          "local": "الكفارات",
+          "en": "Alkfarat",
+          "slug": "alkfarat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_alkfarat_hebras",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "حبراص",
+      "en": "Hebras",
+      "slug": "hebras"
+    },
+    "code": {
+      "id": "JOIRB_alkfarat_hebras",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_alkfarat",
+      "level": 2,
+      "name": {
+        "local": "الكفارات",
+        "en": "Alkfarat",
+        "slug": "alkfarat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_alkfarat",
+        "level": 2,
+        "name": {
+          "local": "الكفارات",
+          "en": "Alkfarat",
+          "slug": "alkfarat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_alkfarat_kofor-soom",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "كفر سوم",
+      "en": "Kofor Soom",
+      "slug": "kofor-soom"
+    },
+    "code": {
+      "id": "JOIRB_alkfarat_kofor-soom",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_alkfarat",
+      "level": 2,
+      "name": {
+        "local": "الكفارات",
+        "en": "Alkfarat",
+        "slug": "alkfarat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_alkfarat",
+        "level": 2,
+        "name": {
+          "local": "الكفارات",
+          "en": "Alkfarat",
+          "slug": "alkfarat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_alkfarat_rfaid",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الرفيد",
+      "en": "Rfaid",
+      "slug": "rfaid"
+    },
+    "code": {
+      "id": "JOIRB_alkfarat_rfaid",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_alkfarat",
+      "level": 2,
+      "name": {
+        "local": "الكفارات",
+        "en": "Alkfarat",
+        "slug": "alkfarat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_alkfarat",
+        "level": 2,
+        "name": {
+          "local": "الكفارات",
+          "en": "Alkfarat",
+          "slug": "alkfarat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_alkfarat_yebla",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "يبلا",
+      "en": "Yebla",
+      "slug": "yebla"
+    },
+    "code": {
+      "id": "JOIRB_alkfarat_yebla",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_alkfarat",
+      "level": 2,
+      "name": {
+        "local": "الكفارات",
+        "en": "Alkfarat",
+        "slug": "alkfarat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_alkfarat",
+        "level": 2,
+        "name": {
+          "local": "الكفارات",
+          "en": "Alkfarat",
+          "slug": "alkfarat"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "JOMAD_dieban-jadeda",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "ذيبان الجديدة",
+    "en": "Dieban Jadeda",
+    "slug": "dieban-jadeda"
+  },
+  "code": {
+    "id": "JOMAD_dieban-jadeda",
+    "iso": null
+  },
+  "parent": {
+    "id": "JOMAD",
+    "level": 1,
+    "name": {
+      "local": "مادبا",
+      "en": "Madaba",
+      "slug": "madaba"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "JOMAD",
+      "level": 1,
+      "name": {
+        "local": "مادبا",
+        "en": "Madaba",
+        "slug": "madaba"
+      }
+    }
+  ],
+  "children_count": {
+    "locality": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.624",
+    "lon": "35.671"
+  },
+  "metadata": {},
+  "source": {}
+}

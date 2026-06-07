@@ -1,0 +1,29 @@
+# Tafela — Jordan Administrative Divisions
+
+> 4 municipalitys, 0 localitys
+> Code: JOTAF
+> Coordinates: 30.803, 35.656
+> Last updated: 2026-06-07. License: CC-BY-4.0.
+
+## Municipalitys
+
+### بصيرا (Bsaira)
+
+Code: JOTAF_bsaira, Coordinates: 30.803, 35.656
+Localitys: 0
+
+### الحسا (Hasa)
+
+Code: JOTAF_hasa, Coordinates: 30.803, 35.656
+Localitys: 0
+
+### القادسية (Qadesiah)
+
+Code: JOTAF_qadesiah, Coordinates: 30.803, 35.656
+Localitys: 0
+
+### الطفيلة الكبرى (Tafilah Alkubrah)
+
+Code: JOTAF_tafilah-alkubrah, Coordinates: 30.803, 35.656
+Localitys: 0
+

@@ -1,0 +1,47 @@
+{
+  "id": "JOTAF_qadesiah",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "القادسية",
+    "en": "Qadesiah",
+    "slug": "qadesiah"
+  },
+  "code": {
+    "id": "JOTAF_qadesiah",
+    "iso": null
+  },
+  "parent": {
+    "id": "JOTAF",
+    "level": 1,
+    "name": {
+      "local": "الطفيلة",
+      "en": "Tafela",
+      "slug": "tafela"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "JOTAF",
+      "level": 1,
+      "name": {
+        "local": "الطفيلة",
+        "en": "Tafela",
+        "slug": "tafela"
+      }
+    }
+  ],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.803",
+    "lon": "35.656"
+  },
+  "metadata": {},
+  "source": {}
+}

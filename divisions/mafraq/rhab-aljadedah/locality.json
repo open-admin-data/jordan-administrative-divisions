@@ -1,0 +1,1406 @@
+[
+  {
+    "id": "JOMAF_rhab-aljadedah_abu-el-soos",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ابو السوس",
+      "en": "Abu El-Soos",
+      "slug": "abu-el-soos"
+    },
+    "code": {
+      "id": "JOMAF_rhab-aljadedah_abu-el-soos",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_rhab-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "رحاب الجديدة",
+        "en": "Rhab Aljadedah",
+        "slug": "rhab-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_rhab-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "رحاب الجديدة",
+          "en": "Rhab Aljadedah",
+          "slug": "rhab-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_rhab-aljadedah_ain-bani-hasan",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "عين بني حسن",
+      "en": "Ain Bani Hasan",
+      "slug": "ain-bani-hasan"
+    },
+    "code": {
+      "id": "JOMAF_rhab-aljadedah_ain-bani-hasan",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_rhab-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "رحاب الجديدة",
+        "en": "Rhab Aljadedah",
+        "slug": "rhab-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_rhab-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "رحاب الجديدة",
+          "en": "Rhab Aljadedah",
+          "slug": "rhab-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_rhab-aljadedah_ain-ennabi",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "عين النبي",
+      "en": "Ain Ennabi",
+      "slug": "ain-ennabi"
+    },
+    "code": {
+      "id": "JOMAF_rhab-aljadedah_ain-ennabi",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_rhab-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "رحاب الجديدة",
+        "en": "Rhab Aljadedah",
+        "slug": "rhab-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_rhab-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "رحاب الجديدة",
+          "en": "Rhab Aljadedah",
+          "slug": "rhab-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_rhab-aljadedah_bwaidhahghrbiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "البويضة الغربية",
+      "en": "BwaidhahGhrbiyyeh",
+      "slug": "bwaidhahghrbiyyeh"
+    },
+    "code": {
+      "id": "JOMAF_rhab-aljadedah_bwaidhahghrbiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_rhab-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "رحاب الجديدة",
+        "en": "Rhab Aljadedah",
+        "slug": "rhab-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_rhab-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "رحاب الجديدة",
+          "en": "Rhab Aljadedah",
+          "slug": "rhab-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_rhab-aljadedah_bwaidhet-elaimatbwaidhah-sharqiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "بويضة العليمات(بيوضه الشرقية)",
+      "en": "Bwaidhet Elaimat(Bwaidhah Sharqiyyeh)",
+      "slug": "bwaidhet-elaimatbwaidhah-sharqiyyeh"
+    },
+    "code": {
+      "id": "JOMAF_rhab-aljadedah_bwaidhet-elaimatbwaidhah-sharqiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_rhab-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "رحاب الجديدة",
+        "en": "Rhab Aljadedah",
+        "slug": "rhab-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_rhab-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "رحاب الجديدة",
+          "en": "Rhab Aljadedah",
+          "slug": "rhab-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_rhab-aljadedah_dahal",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "دحل",
+      "en": "Dahal",
+      "slug": "dahal"
+    },
+    "code": {
+      "id": "JOMAF_rhab-aljadedah_dahal",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_rhab-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "رحاب الجديدة",
+        "en": "Rhab Aljadedah",
+        "slug": "rhab-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_rhab-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "رحاب الجديدة",
+          "en": "Rhab Aljadedah",
+          "slug": "rhab-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_rhab-aljadedah_dajaniyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الدجنية",
+      "en": "Dajaniyyeh",
+      "slug": "dajaniyyeh"
+    },
+    "code": {
+      "id": "JOMAF_rhab-aljadedah_dajaniyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_rhab-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "رحاب الجديدة",
+        "en": "Rhab Aljadedah",
+        "slug": "rhab-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_rhab-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "رحاب الجديدة",
+          "en": "Rhab Aljadedah",
+          "slug": "rhab-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_rhab-aljadedah_doqomseh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الدقمسة",
+      "en": "Doqomseh",
+      "slug": "doqomseh"
+    },
+    "code": {
+      "id": "JOMAF_rhab-aljadedah_doqomseh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_rhab-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "رحاب الجديدة",
+        "en": "Rhab Aljadedah",
+        "slug": "rhab-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_rhab-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "رحاب الجديدة",
+          "en": "Rhab Aljadedah",
+          "slug": "rhab-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_rhab-aljadedah_hamamet-elaimat",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "حمامة العليمات",
+      "en": "Hamamet Elaimat",
+      "slug": "hamamet-elaimat"
+    },
+    "code": {
+      "id": "JOMAF_rhab-aljadedah_hamamet-elaimat",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_rhab-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "رحاب الجديدة",
+        "en": "Rhab Aljadedah",
+        "slug": "rhab-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_rhab-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "رحاب الجديدة",
+          "en": "Rhab Aljadedah",
+          "slug": "rhab-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_rhab-aljadedah_hamamet-omoosh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "حمامة العموش",
+      "en": "Hamamet Omoosh",
+      "slug": "hamamet-omoosh"
+    },
+    "code": {
+      "id": "JOMAF_rhab-aljadedah_hamamet-omoosh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_rhab-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "رحاب الجديدة",
+        "en": "Rhab Aljadedah",
+        "slug": "rhab-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_rhab-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "رحاب الجديدة",
+          "en": "Rhab Aljadedah",
+          "slug": "rhab-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_rhab-aljadedah_hamied",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "حميد",
+      "en": "Hamied",
+      "slug": "hamied"
+    },
+    "code": {
+      "id": "JOMAF_rhab-aljadedah_hamied",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_rhab-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "رحاب الجديدة",
+        "en": "Rhab Aljadedah",
+        "slug": "rhab-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_rhab-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "رحاب الجديدة",
+          "en": "Rhab Aljadedah",
+          "slug": "rhab-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_rhab-aljadedah_hwaishan",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "هويشان",
+      "en": "Hwaishan",
+      "slug": "hwaishan"
+    },
+    "code": {
+      "id": "JOMAF_rhab-aljadedah_hwaishan",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_rhab-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "رحاب الجديدة",
+        "en": "Rhab Aljadedah",
+        "slug": "rhab-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_rhab-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "رحاب الجديدة",
+          "en": "Rhab Aljadedah",
+          "slug": "rhab-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_rhab-aljadedah_irhab",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ارحاب",
+      "en": "Irhab",
+      "slug": "irhab"
+    },
+    "code": {
+      "id": "JOMAF_rhab-aljadedah_irhab",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_rhab-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "رحاب الجديدة",
+        "en": "Rhab Aljadedah",
+        "slug": "rhab-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_rhab-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "رحاب الجديدة",
+          "en": "Rhab Aljadedah",
+          "slug": "rhab-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_rhab-aljadedah_karm",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الكرم",
+      "en": "Karm",
+      "slug": "karm"
+    },
+    "code": {
+      "id": "JOMAF_rhab-aljadedah_karm",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_rhab-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "رحاب الجديدة",
+        "en": "Rhab Aljadedah",
+        "slug": "rhab-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_rhab-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "رحاب الجديدة",
+          "en": "Rhab Aljadedah",
+          "slug": "rhab-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_rhab-aljadedah_kharab-el-matwi",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "خراب المطوي",
+      "en": "Kharab El-Matwi",
+      "slug": "kharab-el-matwi"
+    },
+    "code": {
+      "id": "JOMAF_rhab-aljadedah_kharab-el-matwi",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_rhab-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "رحاب الجديدة",
+        "en": "Rhab Aljadedah",
+        "slug": "rhab-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_rhab-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "رحاب الجديدة",
+          "en": "Rhab Aljadedah",
+          "slug": "rhab-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_rhab-aljadedah_khatlah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "خطلة",
+      "en": "Khatlah",
+      "slug": "khatlah"
+    },
+    "code": {
+      "id": "JOMAF_rhab-aljadedah_khatlah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_rhab-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "رحاب الجديدة",
+        "en": "Rhab Aljadedah",
+        "slug": "rhab-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_rhab-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "رحاب الجديدة",
+          "en": "Rhab Aljadedah",
+          "slug": "rhab-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_rhab-aljadedah_medwar",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المدور",
+      "en": "Medwar",
+      "slug": "medwar"
+    },
+    "code": {
+      "id": "JOMAF_rhab-aljadedah_medwar",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_rhab-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "رحاب الجديدة",
+        "en": "Rhab Aljadedah",
+        "slug": "rhab-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_rhab-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "رحاب الجديدة",
+          "en": "Rhab Aljadedah",
+          "slug": "rhab-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_rhab-aljadedah_mnifa",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المنيفة",
+      "en": "Mnifa",
+      "slug": "mnifa"
+    },
+    "code": {
+      "id": "JOMAF_rhab-aljadedah_mnifa",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_rhab-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "رحاب الجديدة",
+        "en": "Rhab Aljadedah",
+        "slug": "rhab-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_rhab-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "رحاب الجديدة",
+          "en": "Rhab Aljadedah",
+          "slug": "rhab-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_rhab-aljadedah_moammariyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المعمرية",
+      "en": "Mo'ammariyyeh",
+      "slug": "moammariyyeh"
+    },
+    "code": {
+      "id": "JOMAF_rhab-aljadedah_moammariyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_rhab-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "رحاب الجديدة",
+        "en": "Rhab Aljadedah",
+        "slug": "rhab-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_rhab-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "رحاب الجديدة",
+          "en": "Rhab Aljadedah",
+          "slug": "rhab-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_rhab-aljadedah_nadreh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "نادرة",
+      "en": "Nadreh",
+      "slug": "nadreh"
+    },
+    "code": {
+      "id": "JOMAF_rhab-aljadedah_nadreh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_rhab-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "رحاب الجديدة",
+        "en": "Rhab Aljadedah",
+        "slug": "rhab-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_rhab-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "رحاب الجديدة",
+          "en": "Rhab Aljadedah",
+          "slug": "rhab-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_rhab-aljadedah_qadam",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "القدم",
+      "en": "Qadam",
+      "slug": "qadam"
+    },
+    "code": {
+      "id": "JOMAF_rhab-aljadedah_qadam",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_rhab-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "رحاب الجديدة",
+        "en": "Rhab Aljadedah",
+        "slug": "rhab-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_rhab-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "رحاب الجديدة",
+          "en": "Rhab Aljadedah",
+          "slug": "rhab-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_rhab-aljadedah_sahah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الصهاة",
+      "en": "Sahah",
+      "slug": "sahah"
+    },
+    "code": {
+      "id": "JOMAF_rhab-aljadedah_sahah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_rhab-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "رحاب الجديدة",
+        "en": "Rhab Aljadedah",
+        "slug": "rhab-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_rhab-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "رحاب الجديدة",
+          "en": "Rhab Aljadedah",
+          "slug": "rhab-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_rhab-aljadedah_um-btaimeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام بطيمة",
+      "en": "Um Btaimeh",
+      "slug": "um-btaimeh"
+    },
+    "code": {
+      "id": "JOMAF_rhab-aljadedah_um-btaimeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_rhab-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "رحاب الجديدة",
+        "en": "Rhab Aljadedah",
+        "slug": "rhab-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_rhab-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "رحاب الجديدة",
+          "en": "Rhab Aljadedah",
+          "slug": "rhab-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_rhab-aljadedah_um-hysmasa",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام حصماصة",
+      "en": "Um Hysmasa",
+      "slug": "um-hysmasa"
+    },
+    "code": {
+      "id": "JOMAF_rhab-aljadedah_um-hysmasa",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_rhab-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "رحاب الجديدة",
+        "en": "Rhab Aljadedah",
+        "slug": "rhab-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_rhab-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "رحاب الجديدة",
+          "en": "Rhab Aljadedah",
+          "slug": "rhab-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_rhab-aljadedah_um-kheroba",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام خروبة",
+      "en": "Um Kheroba",
+      "slug": "um-kheroba"
+    },
+    "code": {
+      "id": "JOMAF_rhab-aljadedah_um-kheroba",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_rhab-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "رحاب الجديدة",
+        "en": "Rhab Aljadedah",
+        "slug": "rhab-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_rhab-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "رحاب الجديدة",
+          "en": "Rhab Aljadedah",
+          "slug": "rhab-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_rhab-aljadedah_zafaraneh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الزعفرانة",
+      "en": "Zafaraneh",
+      "slug": "zafaraneh"
+    },
+    "code": {
+      "id": "JOMAF_rhab-aljadedah_zafaraneh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_rhab-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "رحاب الجديدة",
+        "en": "Rhab Aljadedah",
+        "slug": "rhab-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_rhab-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "رحاب الجديدة",
+          "en": "Rhab Aljadedah",
+          "slug": "rhab-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

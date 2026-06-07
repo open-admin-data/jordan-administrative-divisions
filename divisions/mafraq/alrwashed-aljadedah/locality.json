@@ -1,0 +1,272 @@
+[
+  {
+    "id": "JOMAF_alrwashed-aljadedah_fhaidhah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الفيضة",
+      "en": "Fhaidhah",
+      "slug": "fhaidhah"
+    },
+    "code": {
+      "id": "JOMAF_alrwashed-aljadedah_fhaidhah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_alrwashed-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "الرويشد الجديدة",
+        "en": "Alrwashed Aljadedah",
+        "slug": "alrwashed-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_alrwashed-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "الرويشد الجديدة",
+          "en": "Alrwashed Aljadedah",
+          "slug": "alrwashed-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_alrwashed-aljadedah_manshiyyet-el-gheiath",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "منشية الغياث",
+      "en": "Manshiyyet El-Gheiath",
+      "slug": "manshiyyet-el-gheiath"
+    },
+    "code": {
+      "id": "JOMAF_alrwashed-aljadedah_manshiyyet-el-gheiath",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_alrwashed-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "الرويشد الجديدة",
+        "en": "Alrwashed Aljadedah",
+        "slug": "alrwashed-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_alrwashed-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "الرويشد الجديدة",
+          "en": "Alrwashed Aljadedah",
+          "slug": "alrwashed-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_alrwashed-aljadedah_rwaished",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الرويشد",
+      "en": "Rwaished",
+      "slug": "rwaished"
+    },
+    "code": {
+      "id": "JOMAF_alrwashed-aljadedah_rwaished",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_alrwashed-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "الرويشد الجديدة",
+        "en": "Alrwashed Aljadedah",
+        "slug": "alrwashed-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_alrwashed-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "الرويشد الجديدة",
+          "en": "Alrwashed Aljadedah",
+          "slug": "alrwashed-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_alrwashed-aljadedah_salheiat-enneim",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "صالحية النعيم",
+      "en": "Salheiat Enneim",
+      "slug": "salheiat-enneim"
+    },
+    "code": {
+      "id": "JOMAF_alrwashed-aljadedah_salheiat-enneim",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_alrwashed-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "الرويشد الجديدة",
+        "en": "Alrwashed Aljadedah",
+        "slug": "alrwashed-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_alrwashed-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "الرويشد الجديدة",
+          "en": "Alrwashed Aljadedah",
+          "slug": "alrwashed-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_alrwashed-aljadedah_talbiyyeh-camp",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الروضة (روضة البندان)",
+      "en": "Talbiyyeh Camp*",
+      "slug": "talbiyyeh-camp"
+    },
+    "code": {
+      "id": "JOMAF_alrwashed-aljadedah_talbiyyeh-camp",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_alrwashed-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "الرويشد الجديدة",
+        "en": "Alrwashed Aljadedah",
+        "slug": "alrwashed-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_alrwashed-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "الرويشد الجديدة",
+          "en": "Alrwashed Aljadedah",
+          "slug": "alrwashed-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

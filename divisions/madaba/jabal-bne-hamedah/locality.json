@@ -1,0 +1,812 @@
+[
+  {
+    "id": "JOMAD_jabal-bne-hamedah_areedh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "العريض",
+      "en": "Areedh",
+      "slug": "areedh"
+    },
+    "code": {
+      "id": "JOMAD_jabal-bne-hamedah_areedh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_jabal-bne-hamedah",
+      "level": 2,
+      "name": {
+        "local": "جبل بني حميدة",
+        "en": "Jabal bne Hamedah",
+        "slug": "jabal-bne-hamedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_jabal-bne-hamedah",
+        "level": 2,
+        "name": {
+          "local": "جبل بني حميدة",
+          "en": "Jabal bne Hamedah",
+          "slug": "jabal-bne-hamedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_jabal-bne-hamedah_atrooz",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "عطروز",
+      "en": "Atrooz",
+      "slug": "atrooz"
+    },
+    "code": {
+      "id": "JOMAD_jabal-bne-hamedah_atrooz",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_jabal-bne-hamedah",
+      "level": 2,
+      "name": {
+        "local": "جبل بني حميدة",
+        "en": "Jabal bne Hamedah",
+        "slug": "jabal-bne-hamedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_jabal-bne-hamedah",
+        "level": 2,
+        "name": {
+          "local": "جبل بني حميدة",
+          "en": "Jabal bne Hamedah",
+          "slug": "jabal-bne-hamedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_jabal-bne-hamedah_azzahra",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الزهراء",
+      "en": "Azzahra'",
+      "slug": "azzahra"
+    },
+    "code": {
+      "id": "JOMAD_jabal-bne-hamedah_azzahra",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_jabal-bne-hamedah",
+      "level": 2,
+      "name": {
+        "local": "جبل بني حميدة",
+        "en": "Jabal bne Hamedah",
+        "slug": "jabal-bne-hamedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_jabal-bne-hamedah",
+        "level": 2,
+        "name": {
+          "local": "جبل بني حميدة",
+          "en": "Jabal bne Hamedah",
+          "slug": "jabal-bne-hamedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_jabal-bne-hamedah_bakea-kubai",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "البقيع (القباعي)",
+      "en": "Bake'a (Kuba'i)",
+      "slug": "bakea-kubai"
+    },
+    "code": {
+      "id": "JOMAD_jabal-bne-hamedah_bakea-kubai",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_jabal-bne-hamedah",
+      "level": 2,
+      "name": {
+        "local": "جبل بني حميدة",
+        "en": "Jabal bne Hamedah",
+        "slug": "jabal-bne-hamedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_jabal-bne-hamedah",
+        "level": 2,
+        "name": {
+          "local": "جبل بني حميدة",
+          "en": "Jabal bne Hamedah",
+          "slug": "jabal-bne-hamedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_jabal-bne-hamedah_balotah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "بلوطه",
+      "en": "Balotah",
+      "slug": "balotah"
+    },
+    "code": {
+      "id": "JOMAD_jabal-bne-hamedah_balotah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_jabal-bne-hamedah",
+      "level": 2,
+      "name": {
+        "local": "جبل بني حميدة",
+        "en": "Jabal bne Hamedah",
+        "slug": "jabal-bne-hamedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_jabal-bne-hamedah",
+        "level": 2,
+        "name": {
+          "local": "جبل بني حميدة",
+          "en": "Jabal bne Hamedah",
+          "slug": "jabal-bne-hamedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_jabal-bne-hamedah_dair",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الدير",
+      "en": "Dair",
+      "slug": "dair"
+    },
+    "code": {
+      "id": "JOMAD_jabal-bne-hamedah_dair",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_jabal-bne-hamedah",
+      "level": 2,
+      "name": {
+        "local": "جبل بني حميدة",
+        "en": "Jabal bne Hamedah",
+        "slug": "jabal-bne-hamedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_jabal-bne-hamedah",
+        "level": 2,
+        "name": {
+          "local": "جبل بني حميدة",
+          "en": "Jabal bne Hamedah",
+          "slug": "jabal-bne-hamedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_jabal-bne-hamedah_hashemiyyeh-um-hsas",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الهاشمية(ام حصاص)",
+      "en": "Hashemiyyeh (Um Hsas)",
+      "slug": "hashemiyyeh-um-hsas"
+    },
+    "code": {
+      "id": "JOMAD_jabal-bne-hamedah_hashemiyyeh-um-hsas",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_jabal-bne-hamedah",
+      "level": 2,
+      "name": {
+        "local": "جبل بني حميدة",
+        "en": "Jabal bne Hamedah",
+        "slug": "jabal-bne-hamedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_jabal-bne-hamedah",
+        "level": 2,
+        "name": {
+          "local": "جبل بني حميدة",
+          "en": "Jabal bne Hamedah",
+          "slug": "jabal-bne-hamedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_jabal-bne-hamedah_jadedah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الجديدة",
+      "en": "Jadedah",
+      "slug": "jadedah"
+    },
+    "code": {
+      "id": "JOMAD_jabal-bne-hamedah_jadedah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_jabal-bne-hamedah",
+      "level": 2,
+      "name": {
+        "local": "جبل بني حميدة",
+        "en": "Jabal bne Hamedah",
+        "slug": "jabal-bne-hamedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_jabal-bne-hamedah",
+        "level": 2,
+        "name": {
+          "local": "جبل بني حميدة",
+          "en": "Jabal bne Hamedah",
+          "slug": "jabal-bne-hamedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_jabal-bne-hamedah_jarwan-amerah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الجروان(العامره)",
+      "en": "Jarwan (Amerah)",
+      "slug": "jarwan-amerah"
+    },
+    "code": {
+      "id": "JOMAD_jabal-bne-hamedah_jarwan-amerah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_jabal-bne-hamedah",
+      "level": 2,
+      "name": {
+        "local": "جبل بني حميدة",
+        "en": "Jabal bne Hamedah",
+        "slug": "jabal-bne-hamedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_jabal-bne-hamedah",
+        "level": 2,
+        "name": {
+          "local": "جبل بني حميدة",
+          "en": "Jabal bne Hamedah",
+          "slug": "jabal-bne-hamedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_jabal-bne-hamedah_makawer",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "مكاور",
+      "en": "Makawer",
+      "slug": "makawer"
+    },
+    "code": {
+      "id": "JOMAD_jabal-bne-hamedah_makawer",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_jabal-bne-hamedah",
+      "level": 2,
+      "name": {
+        "local": "جبل بني حميدة",
+        "en": "Jabal bne Hamedah",
+        "slug": "jabal-bne-hamedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_jabal-bne-hamedah",
+        "level": 2,
+        "name": {
+          "local": "جبل بني حميدة",
+          "en": "Jabal bne Hamedah",
+          "slug": "jabal-bne-hamedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_jabal-bne-hamedah_muhamadeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المحمدية",
+      "en": "Muhamadeh",
+      "slug": "muhamadeh"
+    },
+    "code": {
+      "id": "JOMAD_jabal-bne-hamedah_muhamadeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_jabal-bne-hamedah",
+      "level": 2,
+      "name": {
+        "local": "جبل بني حميدة",
+        "en": "Jabal bne Hamedah",
+        "slug": "jabal-bne-hamedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_jabal-bne-hamedah",
+        "level": 2,
+        "name": {
+          "local": "جبل بني حميدة",
+          "en": "Jabal bne Hamedah",
+          "slug": "jabal-bne-hamedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_jabal-bne-hamedah_namyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "النامية",
+      "en": "Namyeh",
+      "slug": "namyeh"
+    },
+    "code": {
+      "id": "JOMAD_jabal-bne-hamedah_namyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_jabal-bne-hamedah",
+      "level": 2,
+      "name": {
+        "local": "جبل بني حميدة",
+        "en": "Jabal bne Hamedah",
+        "slug": "jabal-bne-hamedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_jabal-bne-hamedah",
+        "level": 2,
+        "name": {
+          "local": "جبل بني حميدة",
+          "en": "Jabal bne Hamedah",
+          "slug": "jabal-bne-hamedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_jabal-bne-hamedah_nasieb",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "النصيب",
+      "en": "Nasieb",
+      "slug": "nasieb"
+    },
+    "code": {
+      "id": "JOMAD_jabal-bne-hamedah_nasieb",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_jabal-bne-hamedah",
+      "level": 2,
+      "name": {
+        "local": "جبل بني حميدة",
+        "en": "Jabal bne Hamedah",
+        "slug": "jabal-bne-hamedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_jabal-bne-hamedah",
+        "level": 2,
+        "name": {
+          "local": "جبل بني حميدة",
+          "en": "Jabal bne Hamedah",
+          "slug": "jabal-bne-hamedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_jabal-bne-hamedah_qrayyat",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "القريات",
+      "en": "Qrayyat",
+      "slug": "qrayyat"
+    },
+    "code": {
+      "id": "JOMAD_jabal-bne-hamedah_qrayyat",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_jabal-bne-hamedah",
+      "level": 2,
+      "name": {
+        "local": "جبل بني حميدة",
+        "en": "Jabal bne Hamedah",
+        "slug": "jabal-bne-hamedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_jabal-bne-hamedah",
+        "level": 2,
+        "name": {
+          "local": "جبل بني حميدة",
+          "en": "Jabal bne Hamedah",
+          "slug": "jabal-bne-hamedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_jabal-bne-hamedah_zayna",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الزينه",
+      "en": "Zayna",
+      "slug": "zayna"
+    },
+    "code": {
+      "id": "JOMAD_jabal-bne-hamedah_zayna",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD_jabal-bne-hamedah",
+      "level": 2,
+      "name": {
+        "local": "جبل بني حميدة",
+        "en": "Jabal bne Hamedah",
+        "slug": "jabal-bne-hamedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      },
+      {
+        "id": "JOMAD_jabal-bne-hamedah",
+        "level": 2,
+        "name": {
+          "local": "جبل بني حميدة",
+          "en": "Jabal bne Hamedah",
+          "slug": "jabal-bne-hamedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

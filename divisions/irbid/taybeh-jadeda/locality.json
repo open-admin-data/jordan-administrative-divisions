@@ -1,0 +1,380 @@
+[
+  {
+    "id": "JOIRB_taybeh-jadeda_abser-abu-ali",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ابسر ابو علي",
+      "en": "Abser Abu Ali",
+      "slug": "abser-abu-ali"
+    },
+    "code": {
+      "id": "JOIRB_taybeh-jadeda_abser-abu-ali",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_taybeh-jadeda",
+      "level": 2,
+      "name": {
+        "local": "الطيبة الجديدة",
+        "en": "Taybeh  Jadeda",
+        "slug": "taybeh-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_taybeh-jadeda",
+        "level": 2,
+        "name": {
+          "local": "الطيبة الجديدة",
+          "en": "Taybeh  Jadeda",
+          "slug": "taybeh-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_taybeh-jadeda_dair-esseneh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "دير السعنة",
+      "en": "Dair Ess'eneh",
+      "slug": "dair-esseneh"
+    },
+    "code": {
+      "id": "JOIRB_taybeh-jadeda_dair-esseneh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_taybeh-jadeda",
+      "level": 2,
+      "name": {
+        "local": "الطيبة الجديدة",
+        "en": "Taybeh  Jadeda",
+        "slug": "taybeh-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_taybeh-jadeda",
+        "level": 2,
+        "name": {
+          "local": "الطيبة الجديدة",
+          "en": "Taybeh  Jadeda",
+          "slug": "taybeh-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_taybeh-jadeda_makhraba",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "مخربا",
+      "en": "Makhraba",
+      "slug": "makhraba"
+    },
+    "code": {
+      "id": "JOIRB_taybeh-jadeda_makhraba",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_taybeh-jadeda",
+      "level": 2,
+      "name": {
+        "local": "الطيبة الجديدة",
+        "en": "Taybeh  Jadeda",
+        "slug": "taybeh-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_taybeh-jadeda",
+        "level": 2,
+        "name": {
+          "local": "الطيبة الجديدة",
+          "en": "Taybeh  Jadeda",
+          "slug": "taybeh-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_taybeh-jadeda_mendah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "مندح",
+      "en": "Mendah",
+      "slug": "mendah"
+    },
+    "code": {
+      "id": "JOIRB_taybeh-jadeda_mendah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_taybeh-jadeda",
+      "level": 2,
+      "name": {
+        "local": "الطيبة الجديدة",
+        "en": "Taybeh  Jadeda",
+        "slug": "taybeh-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_taybeh-jadeda",
+        "level": 2,
+        "name": {
+          "local": "الطيبة الجديدة",
+          "en": "Taybeh  Jadeda",
+          "slug": "taybeh-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_taybeh-jadeda_samma",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "صما",
+      "en": "Samma",
+      "slug": "samma"
+    },
+    "code": {
+      "id": "JOIRB_taybeh-jadeda_samma",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_taybeh-jadeda",
+      "level": 2,
+      "name": {
+        "local": "الطيبة الجديدة",
+        "en": "Taybeh  Jadeda",
+        "slug": "taybeh-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_taybeh-jadeda",
+        "level": 2,
+        "name": {
+          "local": "الطيبة الجديدة",
+          "en": "Taybeh  Jadeda",
+          "slug": "taybeh-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_taybeh-jadeda_taybeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الطيبة",
+      "en": "Taybeh",
+      "slug": "taybeh"
+    },
+    "code": {
+      "id": "JOIRB_taybeh-jadeda_taybeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_taybeh-jadeda",
+      "level": 2,
+      "name": {
+        "local": "الطيبة الجديدة",
+        "en": "Taybeh  Jadeda",
+        "slug": "taybeh-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_taybeh-jadeda",
+        "level": 2,
+        "name": {
+          "local": "الطيبة الجديدة",
+          "en": "Taybeh  Jadeda",
+          "slug": "taybeh-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_taybeh-jadeda_zabdah-el-wastiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "زبدة الوسطية",
+      "en": "Zabdah El-Wastiyyeh",
+      "slug": "zabdah-el-wastiyyeh"
+    },
+    "code": {
+      "id": "JOIRB_taybeh-jadeda_zabdah-el-wastiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_taybeh-jadeda",
+      "level": 2,
+      "name": {
+        "local": "الطيبة الجديدة",
+        "en": "Taybeh  Jadeda",
+        "slug": "taybeh-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_taybeh-jadeda",
+        "level": 2,
+        "name": {
+          "local": "الطيبة الجديدة",
+          "en": "Taybeh  Jadeda",
+          "slug": "taybeh-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

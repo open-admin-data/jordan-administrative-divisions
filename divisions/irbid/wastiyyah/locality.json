@@ -1,0 +1,380 @@
+[
+  {
+    "id": "JOIRB_wastiyyah_hoafa-el-wastiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "حوفا الوسطية",
+      "en": "Hoafa El-Wastiyyeh",
+      "slug": "hoafa-el-wastiyyeh"
+    },
+    "code": {
+      "id": "JOIRB_wastiyyah_hoafa-el-wastiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_wastiyyah",
+      "level": 2,
+      "name": {
+        "local": "الوسطية",
+        "en": "Wastiyyah",
+        "slug": "wastiyyah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_wastiyyah",
+        "level": 2,
+        "name": {
+          "local": "الوسطية",
+          "en": "Wastiyyah",
+          "slug": "wastiyyah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_wastiyyah_kharaj",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الخراج",
+      "en": "Kharaj",
+      "slug": "kharaj"
+    },
+    "code": {
+      "id": "JOIRB_wastiyyah_kharaj",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_wastiyyah",
+      "level": 2,
+      "name": {
+        "local": "الوسطية",
+        "en": "Wastiyyah",
+        "slug": "wastiyyah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_wastiyyah",
+        "level": 2,
+        "name": {
+          "local": "الوسطية",
+          "en": "Wastiyyah",
+          "slug": "wastiyyah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_wastiyyah_kofor-an",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "كفر عان",
+      "en": "Kofor An",
+      "slug": "kofor-an"
+    },
+    "code": {
+      "id": "JOIRB_wastiyyah_kofor-an",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_wastiyyah",
+      "level": 2,
+      "name": {
+        "local": "الوسطية",
+        "en": "Wastiyyah",
+        "slug": "wastiyyah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_wastiyyah",
+        "level": 2,
+        "name": {
+          "local": "الوسطية",
+          "en": "Wastiyyah",
+          "slug": "wastiyyah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_wastiyyah_kofor-asad",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "كفر اسد",
+      "en": "Kofor Asad",
+      "slug": "kofor-asad"
+    },
+    "code": {
+      "id": "JOIRB_wastiyyah_kofor-asad",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_wastiyyah",
+      "level": 2,
+      "name": {
+        "local": "الوسطية",
+        "en": "Wastiyyah",
+        "slug": "wastiyyah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_wastiyyah",
+        "level": 2,
+        "name": {
+          "local": "الوسطية",
+          "en": "Wastiyyah",
+          "slug": "wastiyyah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_wastiyyah_qmaim",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "قميم",
+      "en": "Qmaim",
+      "slug": "qmaim"
+    },
+    "code": {
+      "id": "JOIRB_wastiyyah_qmaim",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_wastiyyah",
+      "level": 2,
+      "name": {
+        "local": "الوسطية",
+        "en": "Wastiyyah",
+        "slug": "wastiyyah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_wastiyyah",
+        "level": 2,
+        "name": {
+          "local": "الوسطية",
+          "en": "Wastiyyah",
+          "slug": "wastiyyah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_wastiyyah_qom",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "قم",
+      "en": "Qom",
+      "slug": "qom"
+    },
+    "code": {
+      "id": "JOIRB_wastiyyah_qom",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_wastiyyah",
+      "level": 2,
+      "name": {
+        "local": "الوسطية",
+        "en": "Wastiyyah",
+        "slug": "wastiyyah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_wastiyyah",
+        "level": 2,
+        "name": {
+          "local": "الوسطية",
+          "en": "Wastiyyah",
+          "slug": "wastiyyah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_wastiyyah_saidoor",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "صيدور",
+      "en": "Saidoor",
+      "slug": "saidoor"
+    },
+    "code": {
+      "id": "JOIRB_wastiyyah_saidoor",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_wastiyyah",
+      "level": 2,
+      "name": {
+        "local": "الوسطية",
+        "en": "Wastiyyah",
+        "slug": "wastiyyah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_wastiyyah",
+        "level": 2,
+        "name": {
+          "local": "الوسطية",
+          "en": "Wastiyyah",
+          "slug": "wastiyyah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

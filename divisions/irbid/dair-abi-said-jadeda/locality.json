@@ -1,0 +1,488 @@
+[
+  {
+    "id": "JOIRB_dair-abi-said-jadeda_abu-el-qain",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ابو القين",
+      "en": "Abu El-Qain",
+      "slug": "abu-el-qain"
+    },
+    "code": {
+      "id": "JOIRB_dair-abi-said-jadeda_abu-el-qain",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_dair-abi-said-jadeda",
+      "level": 2,
+      "name": {
+        "local": "دير أبي سعيد الجديدة",
+        "en": "Dair Abi Sa'id Jadeda",
+        "slug": "dair-abi-said-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_dair-abi-said-jadeda",
+        "level": 2,
+        "name": {
+          "local": "دير أبي سعيد الجديدة",
+          "en": "Dair Abi Sa'id Jadeda",
+          "slug": "dair-abi-said-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_dair-abi-said-jadeda_ashrafiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الاشرفية",
+      "en": "Ashrafiyyeh",
+      "slug": "ashrafiyyeh"
+    },
+    "code": {
+      "id": "JOIRB_dair-abi-said-jadeda_ashrafiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_dair-abi-said-jadeda",
+      "level": 2,
+      "name": {
+        "local": "دير أبي سعيد الجديدة",
+        "en": "Dair Abi Sa'id Jadeda",
+        "slug": "dair-abi-said-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_dair-abi-said-jadeda",
+        "level": 2,
+        "name": {
+          "local": "دير أبي سعيد الجديدة",
+          "en": "Dair Abi Sa'id Jadeda",
+          "slug": "dair-abi-said-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_dair-abi-said-jadeda_dair-abi-said",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "دير ابي سعيد",
+      "en": "Dair Abi Sa'id",
+      "slug": "dair-abi-said"
+    },
+    "code": {
+      "id": "JOIRB_dair-abi-said-jadeda_dair-abi-said",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_dair-abi-said-jadeda",
+      "level": 2,
+      "name": {
+        "local": "دير أبي سعيد الجديدة",
+        "en": "Dair Abi Sa'id Jadeda",
+        "slug": "dair-abi-said-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_dair-abi-said-jadeda",
+        "level": 2,
+        "name": {
+          "local": "دير أبي سعيد الجديدة",
+          "en": "Dair Abi Sa'id Jadeda",
+          "slug": "dair-abi-said-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_dair-abi-said-jadeda_iskayeen",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "اسكايين",
+      "en": "Iskayeen",
+      "slug": "iskayeen"
+    },
+    "code": {
+      "id": "JOIRB_dair-abi-said-jadeda_iskayeen",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_dair-abi-said-jadeda",
+      "level": 2,
+      "name": {
+        "local": "دير أبي سعيد الجديدة",
+        "en": "Dair Abi Sa'id Jadeda",
+        "slug": "dair-abi-said-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_dair-abi-said-jadeda",
+        "level": 2,
+        "name": {
+          "local": "دير أبي سعيد الجديدة",
+          "en": "Dair Abi Sa'id Jadeda",
+          "slug": "dair-abi-said-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_dair-abi-said-jadeda_jeffien",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "جفين",
+      "en": "Jeffien",
+      "slug": "jeffien"
+    },
+    "code": {
+      "id": "JOIRB_dair-abi-said-jadeda_jeffien",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_dair-abi-said-jadeda",
+      "level": 2,
+      "name": {
+        "local": "دير أبي سعيد الجديدة",
+        "en": "Dair Abi Sa'id Jadeda",
+        "slug": "dair-abi-said-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_dair-abi-said-jadeda",
+        "level": 2,
+        "name": {
+          "local": "دير أبي سعيد الجديدة",
+          "en": "Dair Abi Sa'id Jadeda",
+          "slug": "dair-abi-said-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_dair-abi-said-jadeda_kofor-el-ma",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "كفر الماء",
+      "en": "Kofor El-Ma'",
+      "slug": "kofor-el-ma"
+    },
+    "code": {
+      "id": "JOIRB_dair-abi-said-jadeda_kofor-el-ma",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_dair-abi-said-jadeda",
+      "level": 2,
+      "name": {
+        "local": "دير أبي سعيد الجديدة",
+        "en": "Dair Abi Sa'id Jadeda",
+        "slug": "dair-abi-said-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_dair-abi-said-jadeda",
+        "level": 2,
+        "name": {
+          "local": "دير أبي سعيد الجديدة",
+          "en": "Dair Abi Sa'id Jadeda",
+          "slug": "dair-abi-said-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_dair-abi-said-jadeda_roqqah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الرقه",
+      "en": "Roqqah",
+      "slug": "roqqah"
+    },
+    "code": {
+      "id": "JOIRB_dair-abi-said-jadeda_roqqah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_dair-abi-said-jadeda",
+      "level": 2,
+      "name": {
+        "local": "دير أبي سعيد الجديدة",
+        "en": "Dair Abi Sa'id Jadeda",
+        "slug": "dair-abi-said-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_dair-abi-said-jadeda",
+        "level": 2,
+        "name": {
+          "local": "دير أبي سعيد الجديدة",
+          "en": "Dair Abi Sa'id Jadeda",
+          "slug": "dair-abi-said-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_dair-abi-said-jadeda_sowwan",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الصوان",
+      "en": "Sowwan",
+      "slug": "sowwan"
+    },
+    "code": {
+      "id": "JOIRB_dair-abi-said-jadeda_sowwan",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_dair-abi-said-jadeda",
+      "level": 2,
+      "name": {
+        "local": "دير أبي سعيد الجديدة",
+        "en": "Dair Abi Sa'id Jadeda",
+        "slug": "dair-abi-said-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_dair-abi-said-jadeda",
+        "level": 2,
+        "name": {
+          "local": "دير أبي سعيد الجديدة",
+          "en": "Dair Abi Sa'id Jadeda",
+          "slug": "dair-abi-said-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_dair-abi-said-jadeda_tebneh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "تبنه",
+      "en": "Tebneh",
+      "slug": "tebneh"
+    },
+    "code": {
+      "id": "JOIRB_dair-abi-said-jadeda_tebneh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_dair-abi-said-jadeda",
+      "level": 2,
+      "name": {
+        "local": "دير أبي سعيد الجديدة",
+        "en": "Dair Abi Sa'id Jadeda",
+        "slug": "dair-abi-said-jadeda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_dair-abi-said-jadeda",
+        "level": 2,
+        "name": {
+          "local": "دير أبي سعيد الجديدة",
+          "en": "Dair Abi Sa'id Jadeda",
+          "slug": "dair-abi-said-jadeda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

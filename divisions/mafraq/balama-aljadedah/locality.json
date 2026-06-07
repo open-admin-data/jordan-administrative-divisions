@@ -1,0 +1,920 @@
+[
+  {
+    "id": "JOMAF_balama-aljadedah_balama",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "بلعما",
+      "en": "Bal'ama",
+      "slug": "balama"
+    },
+    "code": {
+      "id": "JOMAF_balama-aljadedah_balama",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_balama-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "بلعما الجديدة",
+        "en": "Bal'ama Aljadedah",
+        "slug": "balama-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_balama-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "بلعما الجديدة",
+          "en": "Bal'ama Aljadedah",
+          "slug": "balama-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_balama-aljadedah_bostan",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "البستان",
+      "en": "Bostan",
+      "slug": "bostan"
+    },
+    "code": {
+      "id": "JOMAF_balama-aljadedah_bostan",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_balama-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "بلعما الجديدة",
+        "en": "Bal'ama Aljadedah",
+        "slug": "balama-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_balama-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "بلعما الجديدة",
+          "en": "Bal'ama Aljadedah",
+          "slug": "balama-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_balama-aljadedah_dahreiah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الظاهرية",
+      "en": "Dahreiah",
+      "slug": "dahreiah"
+    },
+    "code": {
+      "id": "JOMAF_balama-aljadedah_dahreiah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_balama-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "بلعما الجديدة",
+        "en": "Bal'ama Aljadedah",
+        "slug": "balama-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_balama-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "بلعما الجديدة",
+          "en": "Bal'ama Aljadedah",
+          "slug": "balama-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_balama-aljadedah_hamaneh-el-jadiedeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "حمنانة الجديدة",
+      "en": "Hamaneh El-Jadiedeh",
+      "slug": "hamaneh-el-jadiedeh"
+    },
+    "code": {
+      "id": "JOMAF_balama-aljadedah_hamaneh-el-jadiedeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_balama-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "بلعما الجديدة",
+        "en": "Bal'ama Aljadedah",
+        "slug": "balama-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_balama-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "بلعما الجديدة",
+          "en": "Bal'ama Aljadedah",
+          "slug": "balama-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_balama-aljadedah_hamaneh-el-qadiemeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "حمنانة القديمة",
+      "en": "Hamaneh El-Qadiemeh",
+      "slug": "hamaneh-el-qadiemeh"
+    },
+    "code": {
+      "id": "JOMAF_balama-aljadedah_hamaneh-el-qadiemeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_balama-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "بلعما الجديدة",
+        "en": "Bal'ama Aljadedah",
+        "slug": "balama-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_balama-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "بلعما الجديدة",
+          "en": "Bal'ama Aljadedah",
+          "slug": "balama-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_balama-aljadedah_hayyan-rwaibedh-gharbi",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "حيان الرويبض الغربي",
+      "en": "Hayyan Rwaibedh Gharbi",
+      "slug": "hayyan-rwaibedh-gharbi"
+    },
+    "code": {
+      "id": "JOMAF_balama-aljadedah_hayyan-rwaibedh-gharbi",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_balama-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "بلعما الجديدة",
+        "en": "Bal'ama Aljadedah",
+        "slug": "balama-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_balama-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "بلعما الجديدة",
+          "en": "Bal'ama Aljadedah",
+          "slug": "balama-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_balama-aljadedah_hayyan-rwaibedh-sharqi",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "حيان الرويبض الشرقي",
+      "en": "Hayyan Rwaibedh Sharqi",
+      "slug": "hayyan-rwaibedh-sharqi"
+    },
+    "code": {
+      "id": "JOMAF_balama-aljadedah_hayyan-rwaibedh-sharqi",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_balama-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "بلعما الجديدة",
+        "en": "Bal'ama Aljadedah",
+        "slug": "balama-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_balama-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "بلعما الجديدة",
+          "en": "Bal'ama Aljadedah",
+          "slug": "balama-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_balama-aljadedah_kherbeh-samraraudit-al-amir-mohamad",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الخربة السمراء(روضة الامير محمد)",
+      "en": "Kherbeh Samra(Raudit Al-Amir Mohamad)",
+      "slug": "kherbeh-samraraudit-al-amir-mohamad"
+    },
+    "code": {
+      "id": "JOMAF_balama-aljadedah_kherbeh-samraraudit-al-amir-mohamad",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_balama-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "بلعما الجديدة",
+        "en": "Bal'ama Aljadedah",
+        "slug": "balama-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_balama-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "بلعما الجديدة",
+          "en": "Bal'ama Aljadedah",
+          "slug": "balama-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_balama-aljadedah_khraisan",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "خريسان",
+      "en": "Khraisan",
+      "slug": "khraisan"
+    },
+    "code": {
+      "id": "JOMAF_balama-aljadedah_khraisan",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_balama-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "بلعما الجديدة",
+        "en": "Bal'ama Aljadedah",
+        "slug": "balama-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_balama-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "بلعما الجديدة",
+          "en": "Bal'ama Aljadedah",
+          "slug": "balama-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_balama-aljadedah_manshiyyet-alaian-alkhan",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "منشية العليان (الخان)",
+      "en": "Manshiyyet Alaian (Alkhan)",
+      "slug": "manshiyyet-alaian-alkhan"
+    },
+    "code": {
+      "id": "JOMAF_balama-aljadedah_manshiyyet-alaian-alkhan",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_balama-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "بلعما الجديدة",
+        "en": "Bal'ama Aljadedah",
+        "slug": "balama-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_balama-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "بلعما الجديدة",
+          "en": "Bal'ama Aljadedah",
+          "slug": "balama-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_balama-aljadedah_marajem",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المراجم",
+      "en": "Marajem",
+      "slug": "marajem"
+    },
+    "code": {
+      "id": "JOMAF_balama-aljadedah_marajem",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_balama-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "بلعما الجديدة",
+        "en": "Bal'ama Aljadedah",
+        "slug": "balama-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_balama-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "بلعما الجديدة",
+          "en": "Bal'ama Aljadedah",
+          "slug": "balama-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_balama-aljadedah_mazraah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المزرعة",
+      "en": "Mazra'ah",
+      "slug": "mazraah"
+    },
+    "code": {
+      "id": "JOMAF_balama-aljadedah_mazraah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_balama-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "بلعما الجديدة",
+        "en": "Bal'ama Aljadedah",
+        "slug": "balama-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_balama-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "بلعما الجديدة",
+          "en": "Bal'ama Aljadedah",
+          "slug": "balama-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_balama-aljadedah_nemreh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "النمرة",
+      "en": "Nemreh",
+      "slug": "nemreh"
+    },
+    "code": {
+      "id": "JOMAF_balama-aljadedah_nemreh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_balama-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "بلعما الجديدة",
+        "en": "Bal'ama Aljadedah",
+        "slug": "balama-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_balama-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "بلعما الجديدة",
+          "en": "Bal'ama Aljadedah",
+          "slug": "balama-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_balama-aljadedah_nozhah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "النزهة",
+      "en": "Nozhah",
+      "slug": "nozhah"
+    },
+    "code": {
+      "id": "JOMAF_balama-aljadedah_nozhah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_balama-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "بلعما الجديدة",
+        "en": "Bal'ama Aljadedah",
+        "slug": "balama-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_balama-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "بلعما الجديدة",
+          "en": "Bal'ama Aljadedah",
+          "slug": "balama-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_balama-aljadedah_shraifiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الشريفية",
+      "en": "Shraifiyyeh",
+      "slug": "shraifiyyeh"
+    },
+    "code": {
+      "id": "JOMAF_balama-aljadedah_shraifiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_balama-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "بلعما الجديدة",
+        "en": "Bal'ama Aljadedah",
+        "slug": "balama-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_balama-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "بلعما الجديدة",
+          "en": "Bal'ama Aljadedah",
+          "slug": "balama-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_balama-aljadedah_um-swaiweeneh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام صويوينه",
+      "en": "Um Swaiweeneh",
+      "slug": "um-swaiweeneh"
+    },
+    "code": {
+      "id": "JOMAF_balama-aljadedah_um-swaiweeneh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_balama-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "بلعما الجديدة",
+        "en": "Bal'ama Aljadedah",
+        "slug": "balama-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_balama-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "بلعما الجديدة",
+          "en": "Bal'ama Aljadedah",
+          "slug": "balama-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_balama-aljadedah_zaniyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الزنية",
+      "en": "Zaniyyeh",
+      "slug": "zaniyyeh"
+    },
+    "code": {
+      "id": "JOMAF_balama-aljadedah_zaniyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_balama-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "بلعما الجديدة",
+        "en": "Bal'ama Aljadedah",
+        "slug": "balama-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_balama-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "بلعما الجديدة",
+          "en": "Bal'ama Aljadedah",
+          "slug": "balama-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,410 @@
+[
+  {
+    "id": "JOAMM",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "عمّان",
+      "en": "Amman",
+      "slug": "amman"
+    },
+    "code": {
+      "id": "JOAMM",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 11,
+      "locality": 138
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/jo/governorates/amman/",
+      "api": "https://openadmindata.org/api/jo/"
+    }
+  },
+  {
+    "id": "JOBAL",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "البلقاء",
+      "en": "Balqa",
+      "slug": "balqa"
+    },
+    "code": {
+      "id": "JOBAL",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 10,
+      "locality": 76
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/jo/governorates/balqa/",
+      "api": "https://openadmindata.org/api/jo/"
+    }
+  },
+  {
+    "id": "JOZAR",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "الزرقاء",
+      "en": "Zarqa",
+      "slug": "zarqa"
+    },
+    "code": {
+      "id": "JOZAR",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 8,
+      "locality": 60
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/jo/governorates/zarqa/",
+      "api": "https://openadmindata.org/api/jo/"
+    }
+  },
+  {
+    "id": "JOMAD",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "مادبا",
+      "en": "Madaba",
+      "slug": "madaba"
+    },
+    "code": {
+      "id": "JOMAD",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 4,
+      "locality": 73
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/jo/governorates/madaba/",
+      "api": "https://openadmindata.org/api/jo/"
+    }
+  },
+  {
+    "id": "JOIRB",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "إربد",
+      "en": "Irbid",
+      "slug": "irbid"
+    },
+    "code": {
+      "id": "JOIRB",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 19,
+      "locality": 136
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/jo/governorates/irbid/",
+      "api": "https://openadmindata.org/api/jo/"
+    }
+  },
+  {
+    "id": "JOMAF",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "المفرق",
+      "en": "Mafraq",
+      "slug": "mafraq"
+    },
+    "code": {
+      "id": "JOMAF",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 19,
+      "locality": 145
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/jo/governorates/mafraq/",
+      "api": "https://openadmindata.org/api/jo/"
+    }
+  },
+  {
+    "id": "JOJER",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "جرش",
+      "en": "Jarash",
+      "slug": "jarash"
+    },
+    "code": {
+      "id": "JOJER",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 6,
+      "locality": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.242",
+      "lon": "35.834"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/jo/governorates/jarash/",
+      "api": "https://openadmindata.org/api/jo/"
+    }
+  },
+  {
+    "id": "JOAJL",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "عجلون",
+      "en": "Ajlun",
+      "slug": "ajlun"
+    },
+    "code": {
+      "id": "JOAJL",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 5,
+      "locality": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.294",
+      "lon": "35.744"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/jo/governorates/ajlun/",
+      "api": "https://openadmindata.org/api/jo/"
+    }
+  },
+  {
+    "id": "JOKAR",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "الكرك",
+      "en": "Karak",
+      "slug": "karak"
+    },
+    "code": {
+      "id": "JOKAR",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 10,
+      "locality": 87
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/jo/governorates/karak/",
+      "api": "https://openadmindata.org/api/jo/"
+    }
+  },
+  {
+    "id": "JOTAF",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "الطفيلة",
+      "en": "Tafela",
+      "slug": "tafela"
+    },
+    "code": {
+      "id": "JOTAF",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 4,
+      "locality": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.803",
+      "lon": "35.656"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/jo/governorates/tafela/",
+      "api": "https://openadmindata.org/api/jo/"
+    }
+  },
+  {
+    "id": "JOMAA",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "معان",
+      "en": "Ma\"an",
+      "slug": "maan"
+    },
+    "code": {
+      "id": "JOMAA",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 8,
+      "locality": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "30.229",
+      "lon": "36.653"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/jo/governorates/maan/",
+      "api": "https://openadmindata.org/api/jo/"
+    }
+  },
+  {
+    "id": "JOAQA",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "العقبة",
+      "en": "Aqaba",
+      "slug": "aqaba"
+    },
+    "code": {
+      "id": "JOAQA",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 6,
+      "locality": 26
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "29.976",
+      "lon": "35.347"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/jo/governorates/aqaba/",
+      "api": "https://openadmindata.org/api/jo/"
+    }
+  }
+]

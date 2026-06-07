@@ -1,0 +1,7 @@
+id,name.local,name.en,name.slug,code.id,children_count.locality,geo.lat,geo.lon
+JOJER_almarad,المعراض,Alm'arad,almarad,JOJER_almarad,0,32.242,35.834
+JOJER_alnasim,النسيم,alnasim,alnasim,JOJER_alnasim,0,32.242,35.834
+JOJER_bab-amman,باب عمان,Bab Amman,bab-amman,JOJER_bab-amman,0,32.242,35.834
+JOJER_borma,برما,Borma,borma,JOJER_borma,0,32.242,35.834
+JOJER_jarash-alkubrah,جرش الكبرى,Jarash Alkubrah,jarash-alkubrah,JOJER_jarash-alkubrah,0,32.242,35.834
+JOJER_soof-campgaza-camp,مخيم سوف، مخيم غزه*,"Soof Camp,Gaza Camp*",soof-campgaza-camp,JOJER_soof-campgaza-camp,0,32.242,35.834

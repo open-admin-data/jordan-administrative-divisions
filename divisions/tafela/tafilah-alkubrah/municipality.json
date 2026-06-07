@@ -1,0 +1,47 @@
+{
+  "id": "JOTAF_tafilah-alkubrah",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "الطفيلة الكبرى",
+    "en": "Tafilah Alkubrah",
+    "slug": "tafilah-alkubrah"
+  },
+  "code": {
+    "id": "JOTAF_tafilah-alkubrah",
+    "iso": null
+  },
+  "parent": {
+    "id": "JOTAF",
+    "level": 1,
+    "name": {
+      "local": "الطفيلة",
+      "en": "Tafela",
+      "slug": "tafela"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "JOTAF",
+      "level": 1,
+      "name": {
+        "local": "الطفيلة",
+        "en": "Tafela",
+        "slug": "tafela"
+      }
+    }
+  ],
+  "children_count": {
+    "locality": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.803",
+    "lon": "35.656"
+  },
+  "metadata": {},
+  "source": {}
+}

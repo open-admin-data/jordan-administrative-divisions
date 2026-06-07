@@ -1,0 +1,812 @@
+[
+  {
+    "id": "JOAMM_naoor_abu-naqlah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ابو نقلة",
+      "en": "Abu Naqlah",
+      "slug": "abu-naqlah"
+    },
+    "code": {
+      "id": "JOAMM_naoor_abu-naqlah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_naoor",
+      "level": 2,
+      "name": {
+        "local": "ناعور",
+        "en": "Na'oor",
+        "slug": "naoor"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_naoor",
+        "level": 2,
+        "name": {
+          "local": "ناعور",
+          "en": "Na'oor",
+          "slug": "naoor"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_naoor_adasiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "العدسية",
+      "en": "Adasiyyeh",
+      "slug": "adasiyyeh"
+    },
+    "code": {
+      "id": "JOAMM_naoor_adasiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_naoor",
+      "level": 2,
+      "name": {
+        "local": "ناعور",
+        "en": "Na'oor",
+        "slug": "naoor"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_naoor",
+        "level": 2,
+        "name": {
+          "local": "ناعور",
+          "en": "Na'oor",
+          "slug": "naoor"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_naoor_adbayan",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ادبيان",
+      "en": "Adbayan",
+      "slug": "adbayan"
+    },
+    "code": {
+      "id": "JOAMM_naoor_adbayan",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_naoor",
+      "level": 2,
+      "name": {
+        "local": "ناعور",
+        "en": "Na'oor",
+        "slug": "naoor"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_naoor",
+        "level": 2,
+        "name": {
+          "local": "ناعور",
+          "en": "Na'oor",
+          "slug": "naoor"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_naoor_ajajreh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "العجاجرة",
+      "en": "Ajajreh",
+      "slug": "ajajreh"
+    },
+    "code": {
+      "id": "JOAMM_naoor_ajajreh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_naoor",
+      "level": 2,
+      "name": {
+        "local": "ناعور",
+        "en": "Na'oor",
+        "slug": "naoor"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_naoor",
+        "level": 2,
+        "name": {
+          "local": "ناعور",
+          "en": "Na'oor",
+          "slug": "naoor"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_naoor_amireah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "العامرية",
+      "en": "Amireah",
+      "slug": "amireah"
+    },
+    "code": {
+      "id": "JOAMM_naoor_amireah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_naoor",
+      "level": 2,
+      "name": {
+        "local": "ناعور",
+        "en": "Na'oor",
+        "slug": "naoor"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_naoor",
+        "level": 2,
+        "name": {
+          "local": "ناعور",
+          "en": "Na'oor",
+          "slug": "naoor"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_naoor_balas",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "بلعاس",
+      "en": "Bal'as",
+      "slug": "balas"
+    },
+    "code": {
+      "id": "JOAMM_naoor_balas",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_naoor",
+      "level": 2,
+      "name": {
+        "local": "ناعور",
+        "en": "Na'oor",
+        "slug": "naoor"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_naoor",
+        "level": 2,
+        "name": {
+          "local": "ناعور",
+          "en": "Na'oor",
+          "slug": "naoor"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_naoor_basset-naoor",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "بصة ناعور",
+      "en": "Basset Na'oor",
+      "slug": "basset-naoor"
+    },
+    "code": {
+      "id": "JOAMM_naoor_basset-naoor",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_naoor",
+      "level": 2,
+      "name": {
+        "local": "ناعور",
+        "en": "Na'oor",
+        "slug": "naoor"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_naoor",
+        "level": 2,
+        "name": {
+          "local": "ناعور",
+          "en": "Na'oor",
+          "slug": "naoor"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_naoor_ewailiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "العويلية",
+      "en": "Ewailiyyeh",
+      "slug": "ewailiyyeh"
+    },
+    "code": {
+      "id": "JOAMM_naoor_ewailiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_naoor",
+      "level": 2,
+      "name": {
+        "local": "ناعور",
+        "en": "Na'oor",
+        "slug": "naoor"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_naoor",
+        "level": 2,
+        "name": {
+          "local": "ناعور",
+          "en": "Na'oor",
+          "slug": "naoor"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_naoor_manshiyyehum-el-qottain",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المنشية وام القطين",
+      "en": "Manshiyyeh,Um El-Qottain",
+      "slug": "manshiyyehum-el-qottain"
+    },
+    "code": {
+      "id": "JOAMM_naoor_manshiyyehum-el-qottain",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_naoor",
+      "level": 2,
+      "name": {
+        "local": "ناعور",
+        "en": "Na'oor",
+        "slug": "naoor"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_naoor",
+        "level": 2,
+        "name": {
+          "local": "ناعور",
+          "en": "Na'oor",
+          "slug": "naoor"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_naoor_mansoorah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المنصورة",
+      "en": "Mansoorah",
+      "slug": "mansoorah"
+    },
+    "code": {
+      "id": "JOAMM_naoor_mansoorah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_naoor",
+      "level": 2,
+      "name": {
+        "local": "ناعور",
+        "en": "Na'oor",
+        "slug": "naoor"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_naoor",
+        "level": 2,
+        "name": {
+          "local": "ناعور",
+          "en": "Na'oor",
+          "slug": "naoor"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_naoor_naoor",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ناعور",
+      "en": "Na'oor",
+      "slug": "naoor"
+    },
+    "code": {
+      "id": "JOAMM_naoor_naoor",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_naoor",
+      "level": 2,
+      "name": {
+        "local": "ناعور",
+        "en": "Na'oor",
+        "slug": "naoor"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_naoor",
+        "level": 2,
+        "name": {
+          "local": "ناعور",
+          "en": "Na'oor",
+          "slug": "naoor"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_naoor_rawdhah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الروضة",
+      "en": "Rawdhah",
+      "slug": "rawdhah"
+    },
+    "code": {
+      "id": "JOAMM_naoor_rawdhah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_naoor",
+      "level": 2,
+      "name": {
+        "local": "ناعور",
+        "en": "Na'oor",
+        "slug": "naoor"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_naoor",
+        "level": 2,
+        "name": {
+          "local": "ناعور",
+          "en": "Na'oor",
+          "slug": "naoor"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_naoor_sail-hesban",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "سيل حسبان",
+      "en": "Sail Hesban",
+      "slug": "sail-hesban"
+    },
+    "code": {
+      "id": "JOAMM_naoor_sail-hesban",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_naoor",
+      "level": 2,
+      "name": {
+        "local": "ناعور",
+        "en": "Na'oor",
+        "slug": "naoor"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_naoor",
+        "level": 2,
+        "name": {
+          "local": "ناعور",
+          "en": "Na'oor",
+          "slug": "naoor"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_naoor_torky",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "تركي",
+      "en": "Torky",
+      "slug": "torky"
+    },
+    "code": {
+      "id": "JOAMM_naoor_torky",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_naoor",
+      "level": 2,
+      "name": {
+        "local": "ناعور",
+        "en": "Na'oor",
+        "slug": "naoor"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_naoor",
+        "level": 2,
+        "name": {
+          "local": "ناعور",
+          "en": "Na'oor",
+          "slug": "naoor"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOAMM_naoor_zbood",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "زبود",
+      "en": "Zbood",
+      "slug": "zbood"
+    },
+    "code": {
+      "id": "JOAMM_naoor_zbood",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOAMM_naoor",
+      "level": 2,
+      "name": {
+        "local": "ناعور",
+        "en": "Na'oor",
+        "slug": "naoor"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOAMM",
+        "level": 1,
+        "name": {
+          "local": "عمّان",
+          "en": "Amman",
+          "slug": "amman"
+        }
+      },
+      {
+        "id": "JOAMM_naoor",
+        "level": 2,
+        "name": {
+          "local": "ناعور",
+          "en": "Na'oor",
+          "slug": "naoor"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.671",
+      "lon": "36.447"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

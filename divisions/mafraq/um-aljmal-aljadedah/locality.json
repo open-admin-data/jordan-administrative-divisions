@@ -1,0 +1,488 @@
+[
+  {
+    "id": "JOMAF_um-aljmal-aljadedah_amra-amiereh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "عمرة وعميرة",
+      "en": "Amra & Amiereh",
+      "slug": "amra-amiereh"
+    },
+    "code": {
+      "id": "JOMAF_um-aljmal-aljadedah_amra-amiereh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_um-aljmal-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "أم الجمال الجديدة",
+        "en": "Um aljmal Aljadedah",
+        "slug": "um-aljmal-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_um-aljmal-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "أم الجمال الجديدة",
+          "en": "Um aljmal Aljadedah",
+          "slug": "um-aljmal-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_um-aljmal-aljadedah_aqeb",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "العاقب",
+      "en": "Aqeb",
+      "slug": "aqeb"
+    },
+    "code": {
+      "id": "JOMAF_um-aljmal-aljadedah_aqeb",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_um-aljmal-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "أم الجمال الجديدة",
+        "en": "Um aljmal Aljadedah",
+        "slug": "um-aljmal-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_um-aljmal-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "أم الجمال الجديدة",
+          "en": "Um aljmal Aljadedah",
+          "slug": "um-aljmal-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_um-aljmal-aljadedah_koam-el-ahmar",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الكوم الاحمر",
+      "en": "Koam El-Ahmar",
+      "slug": "koam-el-ahmar"
+    },
+    "code": {
+      "id": "JOMAF_um-aljmal-aljadedah_koam-el-ahmar",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_um-aljmal-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "أم الجمال الجديدة",
+        "en": "Um aljmal Aljadedah",
+        "slug": "um-aljmal-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_um-aljmal-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "أم الجمال الجديدة",
+          "en": "Um aljmal Aljadedah",
+          "slug": "um-aljmal-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_um-aljmal-aljadedah_rahmat",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الرحمات",
+      "en": "Rahmat",
+      "slug": "rahmat"
+    },
+    "code": {
+      "id": "JOMAF_um-aljmal-aljadedah_rahmat",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_um-aljmal-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "أم الجمال الجديدة",
+        "en": "Um aljmal Aljadedah",
+        "slug": "um-aljmal-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_um-aljmal-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "أم الجمال الجديدة",
+          "en": "Um aljmal Aljadedah",
+          "slug": "um-aljmal-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_um-aljmal-aljadedah_rasm-el-hesan",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "رسم الحصان",
+      "en": "Rasm El-Hesan",
+      "slug": "rasm-el-hesan"
+    },
+    "code": {
+      "id": "JOMAF_um-aljmal-aljadedah_rasm-el-hesan",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_um-aljmal-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "أم الجمال الجديدة",
+        "en": "Um aljmal Aljadedah",
+        "slug": "um-aljmal-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_um-aljmal-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "أم الجمال الجديدة",
+          "en": "Um aljmal Aljadedah",
+          "slug": "um-aljmal-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_um-aljmal-aljadedah_roadhet-basmah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "روضة بسمة",
+      "en": "Roadhet Basmah",
+      "slug": "roadhet-basmah"
+    },
+    "code": {
+      "id": "JOMAF_um-aljmal-aljadedah_roadhet-basmah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_um-aljmal-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "أم الجمال الجديدة",
+        "en": "Um aljmal Aljadedah",
+        "slug": "um-aljmal-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_um-aljmal-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "أم الجمال الجديدة",
+          "en": "Um aljmal Aljadedah",
+          "slug": "um-aljmal-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_um-aljmal-aljadedah_saiediyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "السعيدية",
+      "en": "Sa'iediyyeh",
+      "slug": "saiediyyeh"
+    },
+    "code": {
+      "id": "JOMAF_um-aljmal-aljadedah_saiediyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_um-aljmal-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "أم الجمال الجديدة",
+        "en": "Um aljmal Aljadedah",
+        "slug": "um-aljmal-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_um-aljmal-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "أم الجمال الجديدة",
+          "en": "Um aljmal Aljadedah",
+          "slug": "um-aljmal-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_um-aljmal-aljadedah_um-al-jemal",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام الجمال",
+      "en": "Um Al-Jemal",
+      "slug": "um-al-jemal"
+    },
+    "code": {
+      "id": "JOMAF_um-aljmal-aljadedah_um-al-jemal",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_um-aljmal-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "أم الجمال الجديدة",
+        "en": "Um aljmal Aljadedah",
+        "slug": "um-aljmal-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_um-aljmal-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "أم الجمال الجديدة",
+          "en": "Um aljmal Aljadedah",
+          "slug": "um-aljmal-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_um-aljmal-aljadedah_zuhoor",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الزهور",
+      "en": "Zuhoor",
+      "slug": "zuhoor"
+    },
+    "code": {
+      "id": "JOMAF_um-aljmal-aljadedah_zuhoor",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_um-aljmal-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "أم الجمال الجديدة",
+        "en": "Um aljmal Aljadedah",
+        "slug": "um-aljmal-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_um-aljmal-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "أم الجمال الجديدة",
+          "en": "Um aljmal Aljadedah",
+          "slug": "um-aljmal-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

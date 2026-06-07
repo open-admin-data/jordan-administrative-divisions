@@ -1,0 +1,272 @@
+[
+  {
+    "id": "JOIRB_khaled-abn-alwaleed_hemah-aurdinyah-mkhaibeh-el-foaqa",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الحمة الاردنية (المخيبة الفوقا)",
+      "en": "Hemah Aurdinyah (Mkhaibeh El-Foaqa)",
+      "slug": "hemah-aurdinyah-mkhaibeh-el-foaqa"
+    },
+    "code": {
+      "id": "JOIRB_khaled-abn-alwaleed_hemah-aurdinyah-mkhaibeh-el-foaqa",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_khaled-abn-alwaleed",
+      "level": 2,
+      "name": {
+        "local": "خالد بن الوليد",
+        "en": "Khaled Abn Alwaleed",
+        "slug": "khaled-abn-alwaleed"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_khaled-abn-alwaleed",
+        "level": 2,
+        "name": {
+          "local": "خالد بن الوليد",
+          "en": "Khaled Abn Alwaleed",
+          "slug": "khaled-abn-alwaleed"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_khaled-abn-alwaleed_malka",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ملكا",
+      "en": "Malka",
+      "slug": "malka"
+    },
+    "code": {
+      "id": "JOIRB_khaled-abn-alwaleed_malka",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_khaled-abn-alwaleed",
+      "level": 2,
+      "name": {
+        "local": "خالد بن الوليد",
+        "en": "Khaled Abn Alwaleed",
+        "slug": "khaled-abn-alwaleed"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_khaled-abn-alwaleed",
+        "level": 2,
+        "name": {
+          "local": "خالد بن الوليد",
+          "en": "Khaled Abn Alwaleed",
+          "slug": "khaled-abn-alwaleed"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_khaled-abn-alwaleed_mansoorah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المنصورة",
+      "en": "Mansoorah",
+      "slug": "mansoorah"
+    },
+    "code": {
+      "id": "JOIRB_khaled-abn-alwaleed_mansoorah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_khaled-abn-alwaleed",
+      "level": 2,
+      "name": {
+        "local": "خالد بن الوليد",
+        "en": "Khaled Abn Alwaleed",
+        "slug": "khaled-abn-alwaleed"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_khaled-abn-alwaleed",
+        "level": 2,
+        "name": {
+          "local": "خالد بن الوليد",
+          "en": "Khaled Abn Alwaleed",
+          "slug": "khaled-abn-alwaleed"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_khaled-abn-alwaleed_mkhaibeh-el-tehta",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المخيبة التحتا",
+      "en": "Mkhaibeh El-Tehta",
+      "slug": "mkhaibeh-el-tehta"
+    },
+    "code": {
+      "id": "JOIRB_khaled-abn-alwaleed_mkhaibeh-el-tehta",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_khaled-abn-alwaleed",
+      "level": 2,
+      "name": {
+        "local": "خالد بن الوليد",
+        "en": "Khaled Abn Alwaleed",
+        "slug": "khaled-abn-alwaleed"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_khaled-abn-alwaleed",
+        "level": 2,
+        "name": {
+          "local": "خالد بن الوليد",
+          "en": "Khaled Abn Alwaleed",
+          "slug": "khaled-abn-alwaleed"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOIRB_khaled-abn-alwaleed_um-qais",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام قيس",
+      "en": "Um Qais",
+      "slug": "um-qais"
+    },
+    "code": {
+      "id": "JOIRB_khaled-abn-alwaleed_um-qais",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOIRB_khaled-abn-alwaleed",
+      "level": 2,
+      "name": {
+        "local": "خالد بن الوليد",
+        "en": "Khaled Abn Alwaleed",
+        "slug": "khaled-abn-alwaleed"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOIRB",
+        "level": 1,
+        "name": {
+          "local": "إربد",
+          "en": "Irbid",
+          "slug": "irbid"
+        }
+      },
+      {
+        "id": "JOIRB_khaled-abn-alwaleed",
+        "level": 2,
+        "name": {
+          "local": "خالد بن الوليد",
+          "en": "Khaled Abn Alwaleed",
+          "slug": "khaled-abn-alwaleed"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "35.814"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

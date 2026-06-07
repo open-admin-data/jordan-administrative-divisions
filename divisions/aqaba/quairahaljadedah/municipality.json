@@ -1,0 +1,47 @@
+{
+  "id": "JOAQA_quairahaljadedah",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "القويرة الجديدة",
+    "en": "QuairahAljadedah",
+    "slug": "quairahaljadedah"
+  },
+  "code": {
+    "id": "JOAQA_quairahaljadedah",
+    "iso": null
+  },
+  "parent": {
+    "id": "JOAQA",
+    "level": 1,
+    "name": {
+      "local": "العقبة",
+      "en": "Aqaba",
+      "slug": "aqaba"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "JOAQA",
+      "level": 1,
+      "name": {
+        "local": "العقبة",
+        "en": "Aqaba",
+        "slug": "aqaba"
+      }
+    }
+  ],
+  "children_count": {
+    "locality": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.976",
+    "lon": "35.347"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "JOMAF_alzatary-almansheah_manshiyyet-essoltah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "منشية السلطة",
+      "en": "Manshiyyet Essoltah",
+      "slug": "manshiyyet-essoltah"
+    },
+    "code": {
+      "id": "JOMAF_alzatary-almansheah_manshiyyet-essoltah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_alzatary-almansheah",
+      "level": 2,
+      "name": {
+        "local": "الزعتري والمنشية",
+        "en": "Alza'tary & Almansheah",
+        "slug": "alzatary-almansheah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_alzatary-almansheah",
+        "level": 2,
+        "name": {
+          "local": "الزعتري والمنشية",
+          "en": "Alza'tary & Almansheah",
+          "slug": "alzatary-almansheah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_alzatary-almansheah_rodhet-abu-heyal",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "روضة ابو الهيال",
+      "en": "Rodhet Abu Heyal",
+      "slug": "rodhet-abu-heyal"
+    },
+    "code": {
+      "id": "JOMAF_alzatary-almansheah_rodhet-abu-heyal",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_alzatary-almansheah",
+      "level": 2,
+      "name": {
+        "local": "الزعتري والمنشية",
+        "en": "Alza'tary & Almansheah",
+        "slug": "alzatary-almansheah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_alzatary-almansheah",
+        "level": 2,
+        "name": {
+          "local": "الزعتري والمنشية",
+          "en": "Alza'tary & Almansheah",
+          "slug": "alzatary-almansheah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_alzatary-almansheah_zatary",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الزعتري",
+      "en": "Za'tary",
+      "slug": "zatary"
+    },
+    "code": {
+      "id": "JOMAF_alzatary-almansheah_zatary",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_alzatary-almansheah",
+      "level": 2,
+      "name": {
+        "local": "الزعتري والمنشية",
+        "en": "Alza'tary & Almansheah",
+        "slug": "alzatary-almansheah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_alzatary-almansheah",
+        "level": 2,
+        "name": {
+          "local": "الزعتري والمنشية",
+          "en": "Alza'tary & Almansheah",
+          "slug": "alzatary-almansheah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

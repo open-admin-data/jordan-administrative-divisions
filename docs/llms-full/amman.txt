@@ -1,0 +1,616 @@
+# Amman — Jordan Administrative Divisions
+
+> 11 municipalitys, 138 localitys
+> Code: JOAMM
+> Coordinates: 31.671, 36.447
+> Last updated: 2026-06-07. License: CC-BY-4.0.
+
+## Municipalitys
+
+### أمانة عمان الكبرى (Amanet Amman Alkubrah)
+
+Code: JOAMM_amanet-amman-alkubrah, Coordinates: 31.671, 36.447
+Localitys: 33
+
+#### العبدليه (Abdaliyyeh)
+
+Code: JOAMM_amanet-amman-alkubrah_abdaliyyeh, Coordinates: 31.671, 36.447
+
+#### ابو صياح (Abu Saiah)
+
+Code: JOAMM_amanet-amman-alkubrah_abu-saiah, Coordinates: 31.671, 36.447
+
+#### العبدلي (Alabdaly)
+
+Code: JOAMM_amanet-amman-alkubrah_alabdaly, Coordinates: 31.671, 36.447
+
+#### المدينه (Almadina)
+
+Code: JOAMM_amanet-amman-alkubrah_almadina, Coordinates: 31.671, 36.447
+
+#### النصر (Alnaser)
+
+Code: JOAMM_amanet-amman-alkubrah_alnaser, Coordinates: 31.671, 36.447
+
+#### القويسمة والجويدة وابو علندا والرجيب (Alquaismeh,Aljwaydeh,Abu Alanda,Alrajeeb)
+
+Code: JOAMM_amanet-amman-alkubrah_alquaismehaljwaydehabu-alandaalrajeeb, Coordinates: 31.671, 36.447
+
+#### اليرموك (Alyarmok)
+
+Code: JOAMM_amanet-amman-alkubrah_alyarmok, Coordinates: 31.671, 36.447
+
+#### بدر (Bader)
+
+Code: JOAMM_amanet-amman-alkubrah_bader, Coordinates: 31.671, 36.447
+
+#### بدر الجديدة (Badr Jadeda)
+
+Code: JOAMM_amanet-amman-alkubrah_badr-jadeda, Coordinates: 31.671, 36.447
+
+#### البيضاء (Baidha)
+
+Code: JOAMM_amanet-amman-alkubrah_baidha, Coordinates: 31.671, 36.447
+
+#### بسمان (Basman)
+
+Code: JOAMM_amanet-amman-alkubrah_basman, Coordinates: 31.671, 36.447
+
+#### الدير (Dair)
+
+Code: JOAMM_amanet-amman-alkubrah_dair, Coordinates: 31.671, 36.447
+
+#### اسكان ابو نصير (Eskan Abu Nsair)
+
+Code: JOAMM_amanet-amman-alkubrah_eskan-abu-nsair, Coordinates: 31.671, 36.447
+
+#### الفحص (Fahs)
+
+Code: JOAMM_amanet-amman-alkubrah_fahs, Coordinates: 31.671, 36.447
+
+#### الجبيهة (Jbaiha)
+
+Code: JOAMM_amanet-amman-alkubrah_jbaiha, Coordinates: 31.671, 36.447
+
+#### قعفور (Ka&#39;afour)
+
+Code: JOAMM_amanet-amman-alkubrah_kaafour, Coordinates: 31.671, 36.447
+
+#### الخشافية الجنوبية (Khashafiyyet Janubyyeh)
+
+Code: JOAMM_amanet-amman-alkubrah_khashafiyyet-janubyyeh, Coordinates: 31.671, 36.447
+
+#### الخشافية الشمالية (Khashafiyyet Shamalyyeh)
+
+Code: JOAMM_amanet-amman-alkubrah_khashafiyyet-shamalyyeh, Coordinates: 31.671, 36.447
+
+#### خريبة السوق وجاوا واليادودة (Khraibet Essooq,Jawa,Yadoodeh)
+
+Code: JOAMM_amanet-amman-alkubrah_khraibet-essooqjawayadoodeh, Coordinates: 31.671, 36.447
+
+#### الماضونة (Madhouna)
+
+Code: JOAMM_amanet-amman-alkubrah_madhouna, Coordinates: 31.671, 36.447
+
+#### المناخر (Manakher)
+
+Code: JOAMM_amanet-amman-alkubrah_manakher, Coordinates: 31.671, 36.447
+
+#### ماركا (Marka)
+
+Code: JOAMM_amanet-amman-alkubrah_marka, Coordinates: 31.671, 36.447
+
+#### النعير (N&#39;air)
+
+Code: JOAMM_amanet-amman-alkubrah_nair, Coordinates: 31.671, 36.447
+
+#### راس العين (Ras Alain)
+
+Code: JOAMM_amanet-amman-alkubrah_ras-alain, Coordinates: 31.671, 36.447
+
+#### رميدان (Rmedan)
+
+Code: JOAMM_amanet-amman-alkubrah_rmedan, Coordinates: 31.671, 36.447
+
+#### شفا بدران (Shafa Badran)
+
+Code: JOAMM_amanet-amman-alkubrah_shafa-badran, Coordinates: 31.671, 36.447
+
+#### صويلح (Swaileh)
+
+Code: JOAMM_amanet-amman-alkubrah_swaileh, Coordinates: 31.671, 36.447
+
+#### طارق (Tareq)
+
+Code: JOAMM_amanet-amman-alkubrah_tareq, Coordinates: 31.671, 36.447
+
+#### تلاع العلي وخلدا وام السماق (Tla&#39;a Alali,Khelda,Um Essommaq)
+
+Code: JOAMM_amanet-amman-alkubrah_tlaa-alalikheldaum-essommaq, Coordinates: 31.671, 36.447
+
+#### ام قصير والمقابلين و البنيات (Um Qsair,Moqabaleen,Binayat)
+
+Code: JOAMM_amanet-amman-alkubrah_um-qsairmoqabaleenbinayat, Coordinates: 31.671, 36.447
+
+#### وادي السير (Wadi Essier)
+
+Code: JOAMM_amanet-amman-alkubrah_wadi-essier, Coordinates: 31.671, 36.447
+
+#### زهران (Zahran)
+
+Code: JOAMM_amanet-amman-alkubrah_zahran, Coordinates: 31.671, 36.447
+
+#### زملة العليا (Zamlet Olia)
+
+Code: JOAMM_amanet-amman-alkubrah_zamlet-olia, Coordinates: 31.671, 36.447
+
+### العامرية (Amireah)
+
+Code: JOAMM_amireah, Coordinates: 31.671, 36.447
+Localitys: 8
+
+#### ضبعة (Dab&#39;ah)
+
+Code: JOAMM_amireah_dabah, Coordinates: 31.671, 36.447
+
+#### حمام الشموط (Hammam El-Shmoot)
+
+Code: JOAMM_amireah_hammam-el-shmoot, Coordinates: 31.671, 36.447
+
+#### حمام الطلاق (Hammam El-Tallaq)
+
+Code: JOAMM_amireah_hammam-el-tallaq, Coordinates: 31.671, 36.447
+
+#### الخالدية (Kaldeh)
+
+Code: JOAMM_amireah_kaldeh, Coordinates: 31.671, 36.447
+
+#### خان الزبيب (Kan El-Zabib)
+
+Code: JOAMM_amireah_kan-el-zabib, Coordinates: 31.671, 36.447
+
+#### الخريم (Khrayyem)
+
+Code: JOAMM_amireah_khrayyem, Coordinates: 31.671, 36.447
+
+#### الذرة (Tharah)
+
+Code: JOAMM_amireah_tharah, Coordinates: 31.671, 36.447
+
+#### الزميلة (Zmaileh)
+
+Code: JOAMM_amireah_zmaileh, Coordinates: 31.671, 36.447
+
+### حسبان (Hosba&#39;n)
+
+Code: JOAMM_hosban, Coordinates: 31.671, 36.447
+Localitys: 5
+
+#### العال (El-A&#39;al)
+
+Code: JOAMM_hosban_el-aal, Coordinates: 31.671, 36.447
+
+#### حسبان (Hesban)
+
+Code: JOAMM_hosban_hesban, Coordinates: 31.671, 36.447
+
+#### كرمة حسبان (Karmet Hesban)
+
+Code: JOAMM_hosban_karmet-hesban, Coordinates: 31.671, 36.447
+
+#### منشية حسبان (Manshiyyet Hesban)
+
+Code: JOAMM_hosban_manshiyyet-hesban, Coordinates: 31.671, 36.447
+
+#### المشقر (Mshkar)
+
+Code: JOAMM_hosban_mshkar, Coordinates: 31.671, 36.447
+
+### الجيزة (Jizah)
+
+Code: JOAMM_jizah, Coordinates: 31.671, 36.447
+Localitys: 33
+
+#### ارينبه الغربية (Arainbeh Gharbiyyeh)
+
+Code: JOAMM_jizah_arainbeh-gharbiyyeh, Coordinates: 31.671, 36.447
+
+#### ارينبة الشرقية (Arainbeh Sharqiyyeh)
+
+Code: JOAMM_jizah_arainbeh-sharqiyyeh, Coordinates: 31.671, 36.447
+
+#### الباسلية (Baseleih)
+
+Code: JOAMM_jizah_baseleih, Coordinates: 31.671, 36.447
+
+#### بدو الوسط (Bdo Alwasat)
+
+Code: JOAMM_jizah_bdo-alwasat, Coordinates: 31.671, 36.447
+
+#### الدليله(دليلة المطيرات) (Edlayla (Dalielet Mtairat))
+
+Code: JOAMM_jizah_edlayla-dalielet-mtairat, Coordinates: 31.671, 36.447
+
+#### الغبية (Gbeih)
+
+Code: JOAMM_jizah_gbeih, Coordinates: 31.671, 36.447
+
+#### حواره (Howwarah)
+
+Code: JOAMM_jizah_howwarah, Coordinates: 31.671, 36.447
+
+#### الجيزة (Jizeh)
+
+Code: JOAMM_jizah_jizeh, Coordinates: 31.671, 36.447
+
+#### جلول (Jlool)
+
+Code: JOAMM_jizah_jlool, Coordinates: 31.671, 36.447
+
+#### الخضراء (Khadra)
+
+Code: JOAMM_jizah_khadra, Coordinates: 31.671, 36.447
+
+#### اللبن (Libban)
+
+Code: JOAMM_jizah_libban, Coordinates: 31.671, 36.447
+
+#### المناره (Manarah)
+
+Code: JOAMM_jizah_manarah, Coordinates: 31.671, 36.447
+
+#### منجا (Manja)
+
+Code: JOAMM_jizah_manja, Coordinates: 31.671, 36.447
+
+#### المشتى (Mshatta)
+
+Code: JOAMM_jizah_mshatta, Coordinates: 31.671, 36.447
+
+#### الناصرية (Naseriyyeh)
+
+Code: JOAMM_jizah_naseriyyeh, Coordinates: 31.671, 36.447
+
+#### نتل (Netel)
+
+Code: JOAMM_jizah_netel, Coordinates: 31.671, 36.447
+
+#### القناطر (Qanater)
+
+Code: JOAMM_jizah_qanater, Coordinates: 31.671, 36.447
+
+#### القسطل (Qastal)
+
+Code: JOAMM_jizah_qastal, Coordinates: 31.671, 36.447
+
+#### القنيطره (Qnaitreh)
+
+Code: JOAMM_jizah_qnaitreh, Coordinates: 31.671, 36.447
+
+#### السيفية(زباير كنيعان) (Saifeih (Zabayer Knayan))
+
+Code: JOAMM_jizah_saifeih-zabayer-knayan, Coordinates: 31.671, 36.447
+
+#### الصلاحيه(زباير الطوال) (Salahia (Zabayer Twal))
+
+Code: JOAMM_jizah_salahia-zabayer-twal, Coordinates: 31.671, 36.447
+
+#### الشهباء(زباير الوتيري) (Sh&#39;hba (Zabayer Wtairi))
+
+Code: JOAMM_jizah_shhba-zabayer-wtairi, Coordinates: 31.671, 36.447
+
+#### صوفه (Soofa)
+
+Code: JOAMM_jizah_soofa, Coordinates: 31.671, 36.447
+
+#### الثمد (Thamad)
+
+Code: JOAMM_jizah_thamad, Coordinates: 31.671, 36.447
+
+#### الطنيب (Tnaib)
+
+Code: JOAMM_jizah_tnaib, Coordinates: 31.671, 36.447
+
+#### ام العمد (Um Elamad)
+
+Code: JOAMM_jizah_um-elamad, Coordinates: 31.671, 36.447
+
+#### ام الوليد (Um Elwalied)
+
+Code: JOAMM_jizah_um-elwalied, Coordinates: 31.671, 36.447
+
+#### ام قصير (Um Qsair)
+
+Code: JOAMM_jizah_um-qsair, Coordinates: 31.671, 36.447
+
+#### ام رمانه (Um Rommaneh)
+
+Code: JOAMM_jizah_um-rommaneh, Coordinates: 31.671, 36.447
+
+#### الزعفران (Za&#39;faran)
+
+Code: JOAMM_jizah_zafaran, Coordinates: 31.671, 36.447
+
+#### زينب (Zainab)
+
+Code: JOAMM_jizah_zainab, Coordinates: 31.671, 36.447
+
+#### الزيتونة (Zaitooneh)
+
+Code: JOAMM_jizah_zaitooneh, Coordinates: 31.671, 36.447
+
+#### زويزيا (Zwezia)
+
+Code: JOAMM_jizah_zwezia, Coordinates: 31.671, 36.447
+
+### مرج الحمام (Marj Al-hamam)
+
+Code: JOAMM_marj-al-hamam, Coordinates: 31.671, 36.447
+Localitys: 14
+
+#### ابو السوس (Abu Essoos)
+
+Code: JOAMM_marj-al-hamam_abu-essoos, Coordinates: 31.671, 36.447
+
+#### الالمانية والقصبات (Almaniyyeh,Qhasabat)
+
+Code: JOAMM_marj-al-hamam_almaniyyehqhasabat, Coordinates: 31.671, 36.447
+
+#### البحاث (Bahath)
+
+Code: JOAMM_marj-al-hamam_bahath, Coordinates: 31.671, 36.447
+
+#### البصة (Bassa)
+
+Code: JOAMM_marj-al-hamam_bassa, Coordinates: 31.671, 36.447
+
+#### الدبة (Dabbeh)
+
+Code: JOAMM_marj-al-hamam_dabbeh, Coordinates: 31.671, 36.447
+
+#### عراق الامير (Eraq Elamir)
+
+Code: JOAMM_marj-al-hamam_eraq-elamir, Coordinates: 31.671, 36.447
+
+#### الحامدية (Hamdeih)
+
+Code: JOAMM_marj-al-hamam_hamdeih, Coordinates: 31.671, 36.447
+
+#### مرج الحمام (Marj Elhamam)
+
+Code: JOAMM_marj-al-hamam_marj-elhamam, Coordinates: 31.671, 36.447
+
+#### الرجاحة (Rajaha)
+
+Code: JOAMM_marj-al-hamam_rajaha, Coordinates: 31.671, 36.447
+
+#### الطبقة (Tabaqa)
+
+Code: JOAMM_marj-al-hamam_tabaqa, Coordinates: 31.671, 36.447
+
+#### الثغرة (Thograh)
+
+Code: JOAMM_marj-al-hamam_thograh, Coordinates: 31.671, 36.447
+
+#### ام السماق (Um El-Sumaq)
+
+Code: JOAMM_marj-al-hamam_um-el-sumaq, Coordinates: 31.671, 36.447
+
+#### ام نجاصة (Um Njasa)
+
+Code: JOAMM_marj-al-hamam_um-njasa, Coordinates: 31.671, 36.447
+
+#### وادي الشتاء (Wadi Eshta)
+
+Code: JOAMM_marj-al-hamam_wadi-eshta, Coordinates: 31.671, 36.447
+
+### الموقر (Muaqqar)
+
+Code: JOAMM_muaqqar, Coordinates: 31.671, 36.447
+Localitys: 23
+
+#### الذهيبة الغربية (Dhaibeh Gharbiyyeh)
+
+Code: JOAMM_muaqqar_dhaibeh-gharbiyyeh, Coordinates: 31.671, 36.447
+
+#### الذهيبة الشرقية (Dhaibeh Sharqiyyeh)
+
+Code: JOAMM_muaqqar_dhaibeh-sharqiyyeh, Coordinates: 31.671, 36.447
+
+#### الفالج(الرابية) (Falej (Rabyyeh))
+
+Code: JOAMM_muaqqar_falej-rabyyeh, Coordinates: 31.671, 36.447
+
+#### الفيصلية (Feisaliyyeh)
+
+Code: JOAMM_muaqqar_feisaliyyeh, Coordinates: 31.671, 36.447
+
+#### غزالة (Ghazaleh)
+
+Code: JOAMM_muaqqar_ghazaleh, Coordinates: 31.671, 36.447
+
+#### الهاشمية (Hashimeyyah)
+
+Code: JOAMM_muaqqar_hashimeyyah, Coordinates: 31.671, 36.447
+
+#### الحاتمية (Hatmeia)
+
+Code: JOAMM_muaqqar_hatmeia, Coordinates: 31.671, 36.447
+
+#### الحنيفية (Hunaifiyyeh)
+
+Code: JOAMM_muaqqar_hunaifiyyeh, Coordinates: 31.671, 36.447
+
+#### الجناب (Jnab)
+
+Code: JOAMM_muaqqar_jnab, Coordinates: 31.671, 36.447
+
+#### الكتيفه (Ktafeh)
+
+Code: JOAMM_muaqqar_ktafeh, Coordinates: 31.671, 36.447
+
+#### اللسين (Laseen)
+
+Code: JOAMM_muaqqar_laseen, Coordinates: 31.671, 36.447
+
+#### مغاير مهنا (Maghayer Mhanna)
+
+Code: JOAMM_muaqqar_maghayer-mhanna, Coordinates: 31.671, 36.447
+
+#### الماجدية (زباره) (Majedeah (Zabarah))
+
+Code: JOAMM_muaqqar_majedeah-zabarah, Coordinates: 31.671, 36.447
+
+#### المنشية (Manshiyyeh)
+
+Code: JOAMM_muaqqar_manshiyyeh, Coordinates: 31.671, 36.447
+
+#### المطبة (المصطبه) (Matabah (Mastabah))
+
+Code: JOAMM_muaqqar_matabah-mastabah, Coordinates: 31.671, 36.447
+
+#### الموقر (Mowaqqar)
+
+Code: JOAMM_muaqqar_mowaqqar, Coordinates: 31.671, 36.447
+
+#### النقيرة (Naqera)
+
+Code: JOAMM_muaqqar_naqera, Coordinates: 31.671, 36.447
+
+#### روضة الحسين النموذجية (Raudet Hussen Namuthajeh)
+
+Code: JOAMM_muaqqar_raudet-hussen-namuthajeh, Coordinates: 31.671, 36.447
+
+#### رجم الشامي الغربي (Rojom Shami Gharbi)
+
+Code: JOAMM_muaqqar_rojom-shami-gharbi, Coordinates: 31.671, 36.447
+
+#### رجم الشامي الشرقي (Rojom Shami Sharqi)
+
+Code: JOAMM_muaqqar_rojom-shami-sharqi, Coordinates: 31.671, 36.447
+
+#### سالم (Salem)
+
+Code: JOAMM_muaqqar_salem, Coordinates: 31.671, 36.447
+
+#### ام بطمة (Um Botmah)
+
+Code: JOAMM_muaqqar_um-botmah, Coordinates: 31.671, 36.447
+
+#### الزميلات (Zmailat)
+
+Code: JOAMM_muaqqar_zmailat, Coordinates: 31.671, 36.447
+
+### ناعور (Na&#39;oor)
+
+Code: JOAMM_naoor, Coordinates: 31.671, 36.447
+Localitys: 15
+
+#### ابو نقلة (Abu Naqlah)
+
+Code: JOAMM_naoor_abu-naqlah, Coordinates: 31.671, 36.447
+
+#### العدسية (Adasiyyeh)
+
+Code: JOAMM_naoor_adasiyyeh, Coordinates: 31.671, 36.447
+
+#### ادبيان (Adbayan)
+
+Code: JOAMM_naoor_adbayan, Coordinates: 31.671, 36.447
+
+#### العجاجرة (Ajajreh)
+
+Code: JOAMM_naoor_ajajreh, Coordinates: 31.671, 36.447
+
+#### العامرية (Amireah)
+
+Code: JOAMM_naoor_amireah, Coordinates: 31.671, 36.447
+
+#### بلعاس (Bal&#39;as)
+
+Code: JOAMM_naoor_balas, Coordinates: 31.671, 36.447
+
+#### بصة ناعور (Basset Na&#39;oor)
+
+Code: JOAMM_naoor_basset-naoor, Coordinates: 31.671, 36.447
+
+#### العويلية (Ewailiyyeh)
+
+Code: JOAMM_naoor_ewailiyyeh, Coordinates: 31.671, 36.447
+
+#### المنشية وام القطين (Manshiyyeh,Um El-Qottain)
+
+Code: JOAMM_naoor_manshiyyehum-el-qottain, Coordinates: 31.671, 36.447
+
+#### المنصورة (Mansoorah)
+
+Code: JOAMM_naoor_mansoorah, Coordinates: 31.671, 36.447
+
+#### ناعور (Na&#39;oor)
+
+Code: JOAMM_naoor_naoor, Coordinates: 31.671, 36.447
+
+#### الروضة (Rawdhah)
+
+Code: JOAMM_naoor_rawdhah, Coordinates: 31.671, 36.447
+
+#### سيل حسبان (Sail Hesban)
+
+Code: JOAMM_naoor_sail-hesban, Coordinates: 31.671, 36.447
+
+#### تركي (Torky)
+
+Code: JOAMM_naoor_torky, Coordinates: 31.671, 36.447
+
+#### زبود (Zbood)
+
+Code: JOAMM_naoor_zbood, Coordinates: 31.671, 36.447
+
+### سحاب (Sahab)
+
+Code: JOAMM_sahab, Coordinates: 31.671, 36.447
+Localitys: 1
+
+#### سحاب (Sahab)
+
+Code: JOAMM_sahab_sahab, Coordinates: 31.671, 36.447
+
+### مخيم الطالبية* (Talbiyyeh Camp*)
+
+Code: JOAMM_talbiyyeh-camp, Coordinates: 31.671, 36.447
+Localitys: 0
+
+### أم الرصاص (Um Al-Rasas)
+
+Code: JOAMM_um-al-rasas, Coordinates: 31.671, 36.447
+Localitys: 0
+
+### أم البساتين (Um Elbasatien)
+
+Code: JOAMM_um-elbasatien, Coordinates: 31.671, 36.447
+Localitys: 6
+
+#### ماسوح (Masooh)
+
+Code: JOAMM_um-elbasatien_masooh, Coordinates: 31.671, 36.447
+
+#### السامك (Samek)
+
+Code: JOAMM_um-elbasatien_samek, Coordinates: 31.671, 36.447
+
+#### ام العساكر (Um El-Asaker)
+
+Code: JOAMM_um-elbasatien_um-el-asaker, Coordinates: 31.671, 36.447
+
+#### ام البساتين (Um El-Basatien)
+
+Code: JOAMM_um-elbasatien_um-el-basatien, Coordinates: 31.671, 36.447
+
+#### ام الكندم (Um- El-Kindam)
+
+Code: JOAMM_um-elbasatien_um--el-kindam, Coordinates: 31.671, 36.447
+
+#### ام البرك (Um-El-Berak)
+
+Code: JOAMM_um-elbasatien_um-el-berak, Coordinates: 31.671, 36.447
+

@@ -1,0 +1,47 @@
+{
+  "id": "JOMAF_alamer-alhusain-ben-abdollah",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "الامير الحسين بن عبدالله",
+    "en": "Alamer Alhusain Ben Abdollah",
+    "slug": "alamer-alhusain-ben-abdollah"
+  },
+  "code": {
+    "id": "JOMAF_alamer-alhusain-ben-abdollah",
+    "iso": null
+  },
+  "parent": {
+    "id": "JOMAF",
+    "level": 1,
+    "name": {
+      "local": "المفرق",
+      "en": "Mafraq",
+      "slug": "mafraq"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "JOMAF",
+      "level": 1,
+      "name": {
+        "local": "المفرق",
+        "en": "Mafraq",
+        "slug": "mafraq"
+      }
+    }
+  ],
+  "children_count": {
+    "locality": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.54",
+    "lon": "37.616"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,190 @@
+[
+  {
+    "id": "JOMAD_dieban-jadeda",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "ذيبان الجديدة",
+      "en": "Dieban Jadeda",
+      "slug": "dieban-jadeda"
+    },
+    "code": {
+      "id": "JOMAD_dieban-jadeda",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD",
+      "level": 1,
+      "name": {
+        "local": "مادبا",
+        "en": "Madaba",
+        "slug": "madaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_jabal-bne-hamedah",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "جبل بني حميدة",
+      "en": "Jabal bne Hamedah",
+      "slug": "jabal-bne-hamedah"
+    },
+    "code": {
+      "id": "JOMAD_jabal-bne-hamedah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD",
+      "level": 1,
+      "name": {
+        "local": "مادبا",
+        "en": "Madaba",
+        "slug": "madaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_leb-mlaih",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "لب ومليح",
+      "en": "Leb & Mlaih",
+      "slug": "leb-mlaih"
+    },
+    "code": {
+      "id": "JOMAD_leb-mlaih",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD",
+      "level": 1,
+      "name": {
+        "local": "مادبا",
+        "en": "Madaba",
+        "slug": "madaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAD_madaba-alkubrah",
+    "level": 2,
+    "level_name": {
+      "local": "بلدية",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "مادبا الكبرى",
+      "en": "Madaba Alkubrah",
+      "slug": "madaba-alkubrah"
+    },
+    "code": {
+      "id": "JOMAD_madaba-alkubrah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAD",
+      "level": 1,
+      "name": {
+        "local": "مادبا",
+        "en": "Madaba",
+        "slug": "madaba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAD",
+        "level": 1,
+        "name": {
+          "local": "مادبا",
+          "en": "Madaba",
+          "slug": "madaba"
+        }
+      }
+    ],
+    "children_count": {
+      "locality": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.624",
+      "lon": "35.671"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

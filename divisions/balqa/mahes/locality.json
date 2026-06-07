@@ -1,0 +1,56 @@
+[
+  {
+    "id": "JOBAL_mahes_mahes",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ماحص",
+      "en": "Mahes",
+      "slug": "mahes"
+    },
+    "code": {
+      "id": "JOBAL_mahes_mahes",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_mahes",
+      "level": 2,
+      "name": {
+        "local": "ماحص",
+        "en": "Mahes",
+        "slug": "mahes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_mahes",
+        "level": 2,
+        "name": {
+          "local": "ماحص",
+          "en": "Mahes",
+          "slug": "mahes"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

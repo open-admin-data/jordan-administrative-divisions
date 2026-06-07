@@ -1,0 +1,407 @@
+# Karak — Jordan Administrative Divisions
+
+> 10 municipalitys, 87 localitys
+> Code: JOKAR
+> Coordinates: 31.119, 35.795
+> Last updated: 2026-06-07. License: CC-BY-4.0.
+
+## Municipalitys
+
+### عبد الله بن رواحه (Abdulah Bin Ruaha)
+
+Code: JOKAR_abdulah-bin-ruaha, Coordinates: 31.119, 35.795
+Localitys: 6
+
+#### امرع (Emra&#39;)
+
+Code: JOKAR_abdulah-bin-ruaha_emra, Coordinates: 31.119, 35.795
+
+#### فقوع (Faqo&#39;e)
+
+Code: JOKAR_abdulah-bin-ruaha_faqoe, Coordinates: 31.119, 35.795
+
+#### مجدولين (Majdoleen)
+
+Code: JOKAR_abdulah-bin-ruaha_majdoleen, Coordinates: 31.119, 35.795
+
+#### صرفا (Serfa)
+
+Code: JOKAR_abdulah-bin-ruaha_serfa, Coordinates: 31.119, 35.795
+
+#### شحتور (Shahtoor)
+
+Code: JOKAR_abdulah-bin-ruaha_shahtoor, Coordinates: 31.119, 35.795
+
+#### الزهراء (Zahra&#39;)
+
+Code: JOKAR_abdulah-bin-ruaha_zahra, Coordinates: 31.119, 35.795
+
+### الاغوار الجنوبية (Aghwar Janoobiyah)
+
+Code: JOKAR_aghwar-janoobiyah, Coordinates: 31.119, 35.795
+Localitys: 11
+
+#### بليدة المزرعة (Blaidet Almazra&#39;a)
+
+Code: JOKAR_aghwar-janoobiyah_blaidet-almazraa, Coordinates: 31.119, 35.795
+
+#### بليدة الحديثة (Blaidet Hadiethah)
+
+Code: JOKAR_aghwar-janoobiyah_blaidet-hadiethah, Coordinates: 31.119, 35.795
+
+#### غور المزرعة (Ghawr Almazra&#39;a)
+
+Code: JOKAR_aghwar-janoobiyah_ghawr-almazraa, Coordinates: 31.119, 35.795
+
+#### غور عسال (Ghawr Assal)
+
+Code: JOKAR_aghwar-janoobiyah_ghawr-assal, Coordinates: 31.119, 35.795
+
+#### غور الذراع (Ghawr Dra&#39;)
+
+Code: JOKAR_aghwar-janoobiyah_ghawr-dra, Coordinates: 31.119, 35.795
+
+#### غور فيفا (Ghawr Faifa)
+
+Code: JOKAR_aghwar-janoobiyah_ghawr-faifa, Coordinates: 31.119, 35.795
+
+#### غور الحديثة (Ghawr Hadiethah)
+
+Code: JOKAR_aghwar-janoobiyah_ghawr-hadiethah, Coordinates: 31.119, 35.795
+
+#### غور الصافي (Ghawr Safi)
+
+Code: JOKAR_aghwar-janoobiyah_ghawr-safi, Coordinates: 31.119, 35.795
+
+#### الغويبة (Gwiebeh)
+
+Code: JOKAR_aghwar-janoobiyah_gwiebeh, Coordinates: 31.119, 35.795
+
+#### المعمورة (Mamorah)
+
+Code: JOKAR_aghwar-janoobiyah_mamorah, Coordinates: 31.119, 35.795
+
+#### السلماني (Salmani)
+
+Code: JOKAR_aghwar-janoobiyah_salmani, Coordinates: 31.119, 35.795
+
+### عي (Ayy)
+
+Code: JOKAR_ayy, Coordinates: 31.119, 35.795
+Localitys: 3
+
+#### عي (Ayy)
+
+Code: JOKAR_ayy_ayy, Coordinates: 31.119, 35.795
+
+#### جوزا (Joza)
+
+Code: JOKAR_ayy_joza, Coordinates: 31.119, 35.795
+
+#### كثريا (Kathrabba)
+
+Code: JOKAR_ayy_kathrabba, Coordinates: 31.119, 35.795
+
+### الكرك الكبرى (Karak Alkubrah)
+
+Code: JOKAR_karak-alkubrah, Coordinates: 31.119, 35.795
+Localitys: 36
+
+#### العبدليه (Abdaliyyeh)
+
+Code: JOKAR_karak-alkubrah_abdaliyyeh, Coordinates: 31.119, 35.795
+
+#### ادر (Ader)
+
+Code: JOKAR_karak-alkubrah_ader, Coordinates: 31.119, 35.795
+
+#### العدنانيه (Adnaniyyeh)
+
+Code: JOKAR_karak-alkubrah_adnaniyyeh, Coordinates: 31.119, 35.795
+
+#### عينون (Ainoon)
+
+Code: JOKAR_karak-alkubrah_ainoon, Coordinates: 31.119, 35.795
+
+#### العزيزيه (Azezieh)
+
+Code: JOKAR_karak-alkubrah_azezieh, Coordinates: 31.119, 35.795
+
+#### البقيع (Baqea&#39;)
+
+Code: JOKAR_karak-alkubrah_baqea, Coordinates: 31.119, 35.795
+
+#### بردى (Barada)
+
+Code: JOKAR_karak-alkubrah_barada, Coordinates: 31.119, 35.795
+
+#### بذان (Bathan)
+
+Code: JOKAR_karak-alkubrah_bathan, Coordinates: 31.119, 35.795
+
+#### بتير (Battier)
+
+Code: JOKAR_karak-alkubrah_battier, Coordinates: 31.119, 35.795
+
+#### الغوير (Ghwair)
+
+Code: JOKAR_karak-alkubrah_ghwair, Coordinates: 31.119, 35.795
+
+#### الحويه (Houyeh)
+
+Code: JOKAR_karak-alkubrah_houyeh, Coordinates: 31.119, 35.795
+
+#### الجديده (Jadiedh)
+
+Code: JOKAR_karak-alkubrah_jadiedh, Coordinates: 31.119, 35.795
+
+#### كمنه (Kamnah)
+
+Code: JOKAR_karak-alkubrah_kamnah, Coordinates: 31.119, 35.795
+
+#### الكرك (Karak)
+
+Code: JOKAR_karak-alkubrah_karak, Coordinates: 31.119, 35.795
+
+#### اللجون (Lajoon)
+
+Code: JOKAR_karak-alkubrah_lajoon, Coordinates: 31.119, 35.795
+
+#### المأمونيه (Ma&#39;mooniyyeh)
+
+Code: JOKAR_karak-alkubrah_mamooniyyeh, Coordinates: 31.119, 35.795
+
+#### المحموديه (Mahmodeyeh)
+
+Code: JOKAR_karak-alkubrah_mahmodeyeh, Coordinates: 31.119, 35.795
+
+#### منشية ابو حمور (Manshiyyet Abu Hammoor)
+
+Code: JOKAR_karak-alkubrah_manshiyyet-abu-hammoor, Coordinates: 31.119, 35.795
+
+#### مدين (Median)
+
+Code: JOKAR_karak-alkubrah_median, Coordinates: 31.119, 35.795
+
+#### مرود (Merwed)
+
+Code: JOKAR_karak-alkubrah_merwed, Coordinates: 31.119, 35.795
+
+#### موميا (Moomia)
+
+Code: JOKAR_karak-alkubrah_moomia, Coordinates: 31.119, 35.795
+
+#### المريغه (Mraighah)
+
+Code: JOKAR_karak-alkubrah_mraighah, Coordinates: 31.119, 35.795
+
+#### المشيرفه (Mshairfeh)
+
+Code: JOKAR_karak-alkubrah_mshairfeh, Coordinates: 31.119, 35.795
+
+#### قريفله (Qraifleh)
+
+Code: JOKAR_karak-alkubrah_qraifleh, Coordinates: 31.119, 35.795
+
+#### راكين (Rakeen)
+
+Code: JOKAR_karak-alkubrah_rakeen, Coordinates: 31.119, 35.795
+
+#### الراشديه (Rashdiyyeh)
+
+Code: JOKAR_karak-alkubrah_rashdiyyeh, Coordinates: 31.119, 35.795
+
+#### سكا (Sakka)
+
+Code: JOKAR_karak-alkubrah_sakka, Coordinates: 31.119, 35.795
+
+#### الصالحيه (Salhiyyeh)
+
+Code: JOKAR_karak-alkubrah_salhiyyeh, Coordinates: 31.119, 35.795
+
+#### سمرا (Samra)
+
+Code: JOKAR_karak-alkubrah_samra, Coordinates: 31.119, 35.795
+
+#### الشهابيه (Shehabiyyeh)
+
+Code: JOKAR_karak-alkubrah_shehabiyyeh, Coordinates: 31.119, 35.795
+
+#### الثنيه (Thaniyyeh)
+
+Code: JOKAR_karak-alkubrah_thaniyyeh, Coordinates: 31.119, 35.795
+
+#### ام رمانه (Um Rommaneh)
+
+Code: JOKAR_karak-alkubrah_um-rommaneh, Coordinates: 31.119, 35.795
+
+#### وادي ابن حماد (Wadi Ibin Hamad)
+
+Code: JOKAR_karak-alkubrah_wadi-ibin-hamad, Coordinates: 31.119, 35.795
+
+#### الوسيه (Waseiyeh)
+
+Code: JOKAR_karak-alkubrah_waseiyeh, Coordinates: 31.119, 35.795
+
+#### الزغريه (Zaghairiyyeh)
+
+Code: JOKAR_karak-alkubrah_zaghairiyyeh, Coordinates: 31.119, 35.795
+
+#### زحوم (Zahoom)
+
+Code: JOKAR_karak-alkubrah_zahoom, Coordinates: 31.119, 35.795
+
+### مؤاب الجديدة (Mu&#39;ab Aljadedah)
+
+Code: JOKAR_muab-aljadedah, Coordinates: 31.119, 35.795
+Localitys: 12
+
+#### العينا (Aina)
+
+Code: JOKAR_muab-aljadedah_aina, Coordinates: 31.119, 35.795
+
+#### الفيصليه (Faisaliyyeh)
+
+Code: JOKAR_muab-aljadedah_faisaliyyeh, Coordinates: 31.119, 35.795
+
+#### الهاشميه الجنوبيه (Hashemiyyeh Janoobiyyeh)
+
+Code: JOKAR_muab-aljadedah_hashemiyyeh-janoobiyyeh, Coordinates: 31.119, 35.795
+
+#### الحسينيه (Husseiniyyeh)
+
+Code: JOKAR_muab-aljadedah_husseiniyyeh, Coordinates: 31.119, 35.795
+
+#### القادرية (Kaderiyyeh)
+
+Code: JOKAR_muab-aljadedah_kaderiyyeh, Coordinates: 31.119, 35.795
+
+#### الخالديه (Khaldiyyeh)
+
+Code: JOKAR_muab-aljadedah_khaldiyyeh, Coordinates: 31.119, 35.795
+
+#### محي (Mhiyy)
+
+Code: JOKAR_muab-aljadedah_mhiyy, Coordinates: 31.119, 35.795
+
+#### العمريه (Omariyyeh)
+
+Code: JOKAR_muab-aljadedah_omariyyeh, Coordinates: 31.119, 35.795
+
+#### شقيرا الغربيه (Shqaira El-Gharbiyyeh)
+
+Code: JOKAR_muab-aljadedah_shqaira-el-gharbiyyeh, Coordinates: 31.119, 35.795
+
+#### شقيرا الشرقيه (Shqaira El-Sharqiyyeh)
+
+Code: JOKAR_muab-aljadedah_shqaira-el-sharqiyyeh, Coordinates: 31.119, 35.795
+
+#### ذات راس (That Ras)
+
+Code: JOKAR_muab-aljadedah_that-ras, Coordinates: 31.119, 35.795
+
+#### ام حماط (Um Hamat)
+
+Code: JOKAR_muab-aljadedah_um-hamat, Coordinates: 31.119, 35.795
+
+### مؤتة  والمزار (Mu&#39;ata &amp; Almazar)
+
+Code: JOKAR_muata-almazar, Coordinates: 31.119, 35.795
+Localitys: 0
+
+### القطرانة (Qatraneh)
+
+Code: JOKAR_qatraneh, Coordinates: 31.119, 35.795
+Localitys: 1
+
+#### القطرانة (Qatraneh)
+
+Code: JOKAR_qatraneh_qatraneh, Coordinates: 31.119, 35.795
+
+### شيحان (Shehan)
+
+Code: JOKAR_shehan, Coordinates: 31.119, 35.795
+Localitys: 9
+
+#### دمنه (Demnah)
+
+Code: JOKAR_shehan_demnah, Coordinates: 31.119, 35.795
+
+#### حمود (Hmood)
+
+Code: JOKAR_shehan_hmood, Coordinates: 31.119, 35.795
+
+#### القصر (Qasr)
+
+Code: JOKAR_shehan_qasr, Coordinates: 31.119, 35.795
+
+#### الربه (Rabbah)
+
+Code: JOKAR_shehan_rabbah, Coordinates: 31.119, 35.795
+
+#### الرشايده (Rashadeih)
+
+Code: JOKAR_shehan_rashadeih, Coordinates: 31.119, 35.795
+
+#### الروضه (Rawdah)
+
+Code: JOKAR_shehan_rawdah, Coordinates: 31.119, 35.795
+
+#### شيحان (Sheehan)
+
+Code: JOKAR_shehan_sheehan, Coordinates: 31.119, 35.795
+
+#### السماكيه (Smakiyyeh)
+
+Code: JOKAR_shehan_smakiyyeh, Coordinates: 31.119, 35.795
+
+#### الياروت (Yaroot)
+
+Code: JOKAR_shehan_yaroot, Coordinates: 31.119, 35.795
+
+### السلطاني (Sultani)
+
+Code: JOKAR_sultani, Coordinates: 31.119, 35.795
+Localitys: 2
+
+#### سد السلطاني (Sad El-Soltani)
+
+Code: JOKAR_sultani_sad-el-soltani, Coordinates: 31.119, 35.795
+
+#### الوادي الابيض (Wadi Abyadh)
+
+Code: JOKAR_sultani_wadi-abyadh, Coordinates: 31.119, 35.795
+
+### طلال الجديدة (Talal Aljadedah)
+
+Code: JOKAR_talal-aljadedah, Coordinates: 31.119, 35.795
+Localitys: 7
+
+#### ابو ترابه (Abu Trabah)
+
+Code: JOKAR_talal-aljadedah_abu-trabah, Coordinates: 31.119, 35.795
+
+#### العاليه (Alyeh)
+
+Code: JOKAR_talal-aljadedah_alyeh, Coordinates: 31.119, 35.795
+
+#### الجدعا (Jada&#39;)
+
+Code: JOKAR_talal-aljadedah_jada, Coordinates: 31.119, 35.795
+
+#### مسعر (Mes&#39;ar)
+
+Code: JOKAR_talal-aljadedah_mesar, Coordinates: 31.119, 35.795
+
+#### مغير (Mghayyer)
+
+Code: JOKAR_talal-aljadedah_mghayyer, Coordinates: 31.119, 35.795
+
+#### الموجب (Mowjeb)
+
+Code: JOKAR_talal-aljadedah_mowjeb, Coordinates: 31.119, 35.795
+
+#### ريحا (Riha)
+
+Code: JOKAR_talal-aljadedah_riha, Coordinates: 31.119, 35.795
+

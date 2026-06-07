@@ -1,0 +1,56 @@
+[
+  {
+    "id": "JOZAR_dhlail_dhlail",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الضليل",
+      "en": "Dhlail",
+      "slug": "dhlail"
+    },
+    "code": {
+      "id": "JOZAR_dhlail_dhlail",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_dhlail",
+      "level": 2,
+      "name": {
+        "local": "الضليل",
+        "en": "Dhlail",
+        "slug": "dhlail"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_dhlail",
+        "level": 2,
+        "name": {
+          "local": "الضليل",
+          "en": "Dhlail",
+          "slug": "dhlail"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "JOBAL_salt-kubrah_aldiereh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الديرة",
+      "en": "AlDiereh",
+      "slug": "aldiereh"
+    },
+    "code": {
+      "id": "JOBAL_salt-kubrah_aldiereh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_salt-kubrah",
+      "level": 2,
+      "name": {
+        "local": "السلط الكبرى",
+        "en": "Salt Kubrah",
+        "slug": "salt-kubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_salt-kubrah",
+        "level": 2,
+        "name": {
+          "local": "السلط الكبرى",
+          "en": "Salt Kubrah",
+          "slug": "salt-kubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_salt-kubrah_allan",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "علان",
+      "en": "Allan",
+      "slug": "allan"
+    },
+    "code": {
+      "id": "JOBAL_salt-kubrah_allan",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_salt-kubrah",
+      "level": 2,
+      "name": {
+        "local": "السلط الكبرى",
+        "en": "Salt Kubrah",
+        "slug": "salt-kubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_salt-kubrah",
+        "level": 2,
+        "name": {
+          "local": "السلط الكبرى",
+          "en": "Salt Kubrah",
+          "slug": "salt-kubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_salt-kubrah_daam",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "دعم",
+      "en": "Da'am",
+      "slug": "daam"
+    },
+    "code": {
+      "id": "JOBAL_salt-kubrah_daam",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_salt-kubrah",
+      "level": 2,
+      "name": {
+        "local": "السلط الكبرى",
+        "en": "Salt Kubrah",
+        "slug": "salt-kubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_salt-kubrah",
+        "level": 2,
+        "name": {
+          "local": "السلط الكبرى",
+          "en": "Salt Kubrah",
+          "slug": "salt-kubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_salt-kubrah_ira",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "عيرا",
+      "en": "Ira",
+      "slug": "ira"
+    },
+    "code": {
+      "id": "JOBAL_salt-kubrah_ira",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_salt-kubrah",
+      "level": 2,
+      "name": {
+        "local": "السلط الكبرى",
+        "en": "Salt Kubrah",
+        "slug": "salt-kubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_salt-kubrah",
+        "level": 2,
+        "name": {
+          "local": "السلط الكبرى",
+          "en": "Salt Kubrah",
+          "slug": "salt-kubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_salt-kubrah_jalad",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "جلعد",
+      "en": "Jal'ad",
+      "slug": "jalad"
+    },
+    "code": {
+      "id": "JOBAL_salt-kubrah_jalad",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_salt-kubrah",
+      "level": 2,
+      "name": {
+        "local": "السلط الكبرى",
+        "en": "Salt Kubrah",
+        "slug": "salt-kubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_salt-kubrah",
+        "level": 2,
+        "name": {
+          "local": "السلط الكبرى",
+          "en": "Salt Kubrah",
+          "slug": "salt-kubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_salt-kubrah_msherfah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المشيرفة",
+      "en": "Msherfah",
+      "slug": "msherfah"
+    },
+    "code": {
+      "id": "JOBAL_salt-kubrah_msherfah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_salt-kubrah",
+      "level": 2,
+      "name": {
+        "local": "السلط الكبرى",
+        "en": "Salt Kubrah",
+        "slug": "salt-kubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_salt-kubrah",
+        "level": 2,
+        "name": {
+          "local": "السلط الكبرى",
+          "en": "Salt Kubrah",
+          "slug": "salt-kubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_salt-kubrah_rmemen",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الرميمين",
+      "en": "Rmemen",
+      "slug": "rmemen"
+    },
+    "code": {
+      "id": "JOBAL_salt-kubrah_rmemen",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_salt-kubrah",
+      "level": 2,
+      "name": {
+        "local": "السلط الكبرى",
+        "en": "Salt Kubrah",
+        "slug": "salt-kubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_salt-kubrah",
+        "level": 2,
+        "name": {
+          "local": "السلط الكبرى",
+          "en": "Salt Kubrah",
+          "slug": "salt-kubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_salt-kubrah_salaof",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "سلعوف",
+      "en": "Sala'of",
+      "slug": "salaof"
+    },
+    "code": {
+      "id": "JOBAL_salt-kubrah_salaof",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_salt-kubrah",
+      "level": 2,
+      "name": {
+        "local": "السلط الكبرى",
+        "en": "Salt Kubrah",
+        "slug": "salt-kubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_salt-kubrah",
+        "level": 2,
+        "name": {
+          "local": "السلط الكبرى",
+          "en": "Salt Kubrah",
+          "slug": "salt-kubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_salt-kubrah_salt",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "السلط",
+      "en": "Salt",
+      "slug": "salt"
+    },
+    "code": {
+      "id": "JOBAL_salt-kubrah_salt",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_salt-kubrah",
+      "level": 2,
+      "name": {
+        "local": "السلط الكبرى",
+        "en": "Salt Kubrah",
+        "slug": "salt-kubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_salt-kubrah",
+        "level": 2,
+        "name": {
+          "local": "السلط الكبرى",
+          "en": "Salt Kubrah",
+          "slug": "salt-kubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_salt-kubrah_um-el-amad",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام العمد",
+      "en": "Um El-Amad",
+      "slug": "um-el-amad"
+    },
+    "code": {
+      "id": "JOBAL_salt-kubrah_um-el-amad",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_salt-kubrah",
+      "level": 2,
+      "name": {
+        "local": "السلط الكبرى",
+        "en": "Salt Kubrah",
+        "slug": "salt-kubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_salt-kubrah",
+        "level": 2,
+        "name": {
+          "local": "السلط الكبرى",
+          "en": "Salt Kubrah",
+          "slug": "salt-kubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_salt-kubrah_um-jauzeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام جوزه",
+      "en": "Um Jauzeh",
+      "slug": "um-jauzeh"
+    },
+    "code": {
+      "id": "JOBAL_salt-kubrah_um-jauzeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_salt-kubrah",
+      "level": 2,
+      "name": {
+        "local": "السلط الكبرى",
+        "en": "Salt Kubrah",
+        "slug": "salt-kubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_salt-kubrah",
+        "level": 2,
+        "name": {
+          "local": "السلط الكبرى",
+          "en": "Salt Kubrah",
+          "slug": "salt-kubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_salt-kubrah_um-karubah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام خروبه",
+      "en": "Um Karubah",
+      "slug": "um-karubah"
+    },
+    "code": {
+      "id": "JOBAL_salt-kubrah_um-karubah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_salt-kubrah",
+      "level": 2,
+      "name": {
+        "local": "السلط الكبرى",
+        "en": "Salt Kubrah",
+        "slug": "salt-kubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_salt-kubrah",
+        "level": 2,
+        "name": {
+          "local": "السلط الكبرى",
+          "en": "Salt Kubrah",
+          "slug": "salt-kubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_salt-kubrah_wadi-elhoor",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "وادي الحور",
+      "en": "Wadi Elhoor",
+      "slug": "wadi-elhoor"
+    },
+    "code": {
+      "id": "JOBAL_salt-kubrah_wadi-elhoor",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_salt-kubrah",
+      "level": 2,
+      "name": {
+        "local": "السلط الكبرى",
+        "en": "Salt Kubrah",
+        "slug": "salt-kubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_salt-kubrah",
+        "level": 2,
+        "name": {
+          "local": "السلط الكبرى",
+          "en": "Salt Kubrah",
+          "slug": "salt-kubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_salt-kubrah_wadi-ennaqah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "وادي الناقه",
+      "en": "Wadi Ennaqah",
+      "slug": "wadi-ennaqah"
+    },
+    "code": {
+      "id": "JOBAL_salt-kubrah_wadi-ennaqah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_salt-kubrah",
+      "level": 2,
+      "name": {
+        "local": "السلط الكبرى",
+        "en": "Salt Kubrah",
+        "slug": "salt-kubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_salt-kubrah",
+        "level": 2,
+        "name": {
+          "local": "السلط الكبرى",
+          "en": "Salt Kubrah",
+          "slug": "salt-kubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_salt-kubrah_wadi-essahn",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "وادي الصحن",
+      "en": "Wadi Essahn",
+      "slug": "wadi-essahn"
+    },
+    "code": {
+      "id": "JOBAL_salt-kubrah_wadi-essahn",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_salt-kubrah",
+      "level": 2,
+      "name": {
+        "local": "السلط الكبرى",
+        "en": "Salt Kubrah",
+        "slug": "salt-kubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_salt-kubrah",
+        "level": 2,
+        "name": {
+          "local": "السلط الكبرى",
+          "en": "Salt Kubrah",
+          "slug": "salt-kubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_salt-kubrah_wadi-shoaib",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "وادي شعيب",
+      "en": "Wadi Sho'aib",
+      "slug": "wadi-shoaib"
+    },
+    "code": {
+      "id": "JOBAL_salt-kubrah_wadi-shoaib",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_salt-kubrah",
+      "level": 2,
+      "name": {
+        "local": "السلط الكبرى",
+        "en": "Salt Kubrah",
+        "slug": "salt-kubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_salt-kubrah",
+        "level": 2,
+        "name": {
+          "local": "السلط الكبرى",
+          "en": "Salt Kubrah",
+          "slug": "salt-kubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_salt-kubrah_waseah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الوسية",
+      "en": "Waseah",
+      "slug": "waseah"
+    },
+    "code": {
+      "id": "JOBAL_salt-kubrah_waseah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_salt-kubrah",
+      "level": 2,
+      "name": {
+        "local": "السلط الكبرى",
+        "en": "Salt Kubrah",
+        "slug": "salt-kubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_salt-kubrah",
+        "level": 2,
+        "name": {
+          "local": "السلط الكبرى",
+          "en": "Salt Kubrah",
+          "slug": "salt-kubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_salt-kubrah_yarqha",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "يرقا",
+      "en": "Yarqha",
+      "slug": "yarqha"
+    },
+    "code": {
+      "id": "JOBAL_salt-kubrah_yarqha",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_salt-kubrah",
+      "level": 2,
+      "name": {
+        "local": "السلط الكبرى",
+        "en": "Salt Kubrah",
+        "slug": "salt-kubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_salt-kubrah",
+        "level": 2,
+        "name": {
+          "local": "السلط الكبرى",
+          "en": "Salt Kubrah",
+          "slug": "salt-kubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_salt-kubrah_yazeediyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "اليزيدية",
+      "en": "Yazeediyyeh",
+      "slug": "yazeediyyeh"
+    },
+    "code": {
+      "id": "JOBAL_salt-kubrah_yazeediyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_salt-kubrah",
+      "level": 2,
+      "name": {
+        "local": "السلط الكبرى",
+        "en": "Salt Kubrah",
+        "slug": "salt-kubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_salt-kubrah",
+        "level": 2,
+        "name": {
+          "local": "السلط الكبرى",
+          "en": "Salt Kubrah",
+          "slug": "salt-kubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_salt-kubrah_zayy",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "زي",
+      "en": "Zayy",
+      "slug": "zayy"
+    },
+    "code": {
+      "id": "JOBAL_salt-kubrah_zayy",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_salt-kubrah",
+      "level": 2,
+      "name": {
+        "local": "السلط الكبرى",
+        "en": "Salt Kubrah",
+        "slug": "salt-kubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_salt-kubrah",
+        "level": 2,
+        "name": {
+          "local": "السلط الكبرى",
+          "en": "Salt Kubrah",
+          "slug": "salt-kubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

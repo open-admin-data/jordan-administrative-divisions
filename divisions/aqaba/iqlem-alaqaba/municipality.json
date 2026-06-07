@@ -1,0 +1,47 @@
+{
+  "id": "JOAQA_iqlem-alaqaba",
+  "level": 2,
+  "level_name": {
+    "local": "بلدية",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "إقليم العقبة",
+    "en": "Iqlem Alaqaba",
+    "slug": "iqlem-alaqaba"
+  },
+  "code": {
+    "id": "JOAQA_iqlem-alaqaba",
+    "iso": null
+  },
+  "parent": {
+    "id": "JOAQA",
+    "level": 1,
+    "name": {
+      "local": "العقبة",
+      "en": "Aqaba",
+      "slug": "aqaba"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "JOAQA",
+      "level": 1,
+      "name": {
+        "local": "العقبة",
+        "en": "Aqaba",
+        "slug": "aqaba"
+      }
+    }
+  ],
+  "children_count": {
+    "locality": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "29.976",
+    "lon": "35.347"
+  },
+  "metadata": {},
+  "source": {}
+}

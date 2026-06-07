@@ -1,0 +1,34 @@
+{
+  "id": "JOZAR",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "الزرقاء",
+    "en": "Zarqa",
+    "slug": "zarqa"
+  },
+  "code": {
+    "id": "JOZAR",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 8,
+    "locality": 60
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "31.858",
+    "lon": "36.842"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/jo/governorates/zarqa/",
+    "api": "https://openadmindata.org/api/jo/"
+  }
+}

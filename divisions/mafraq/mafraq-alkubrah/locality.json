@@ -1,0 +1,704 @@
+[
+  {
+    "id": "JOMAF_mafraq-alkubrah_aidoon",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ايدون",
+      "en": "Aidoon",
+      "slug": "aidoon"
+    },
+    "code": {
+      "id": "JOMAF_mafraq-alkubrah_aidoon",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_mafraq-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "المفرق الكبرى",
+        "en": "Mafraq Alkubrah",
+        "slug": "mafraq-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_mafraq-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "المفرق الكبرى",
+          "en": "Mafraq Alkubrah",
+          "slug": "mafraq-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_mafraq-alkubrah_alabrar",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الابرار",
+      "en": "Alabrar",
+      "slug": "alabrar"
+    },
+    "code": {
+      "id": "JOMAF_mafraq-alkubrah_alabrar",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_mafraq-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "المفرق الكبرى",
+        "en": "Mafraq Alkubrah",
+        "slug": "mafraq-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_mafraq-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "المفرق الكبرى",
+          "en": "Mafraq Alkubrah",
+          "slug": "mafraq-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_mafraq-alkubrah_bwaidhet-el-hwamdeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "بويضة الحوامده",
+      "en": "Bwaidhet El-Hwamdeh",
+      "slug": "bwaidhet-el-hwamdeh"
+    },
+    "code": {
+      "id": "JOMAF_mafraq-alkubrah_bwaidhet-el-hwamdeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_mafraq-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "المفرق الكبرى",
+        "en": "Mafraq Alkubrah",
+        "slug": "mafraq-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_mafraq-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "المفرق الكبرى",
+          "en": "Mafraq Alkubrah",
+          "slug": "mafraq-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_mafraq-alkubrah_ghadier-abyadh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الغدير الابيض",
+      "en": "Ghadier Abyadh",
+      "slug": "ghadier-abyadh"
+    },
+    "code": {
+      "id": "JOMAF_mafraq-alkubrah_ghadier-abyadh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_mafraq-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "المفرق الكبرى",
+        "en": "Mafraq Alkubrah",
+        "slug": "mafraq-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_mafraq-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "المفرق الكبرى",
+          "en": "Mafraq Alkubrah",
+          "slug": "mafraq-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_mafraq-alkubrah_hayyan-el-meshref",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "حيان المشرف",
+      "en": "Hayyan El-Meshref",
+      "slug": "hayyan-el-meshref"
+    },
+    "code": {
+      "id": "JOMAF_mafraq-alkubrah_hayyan-el-meshref",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_mafraq-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "المفرق الكبرى",
+        "en": "Mafraq Alkubrah",
+        "slug": "mafraq-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_mafraq-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "المفرق الكبرى",
+          "en": "Mafraq Alkubrah",
+          "slug": "mafraq-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_mafraq-alkubrah_mafraq",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المفرق",
+      "en": "Mafraq",
+      "slug": "mafraq"
+    },
+    "code": {
+      "id": "JOMAF_mafraq-alkubrah_mafraq",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_mafraq-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "المفرق الكبرى",
+        "en": "Mafraq Alkubrah",
+        "slug": "mafraq-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_mafraq-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "المفرق الكبرى",
+          "en": "Mafraq Alkubrah",
+          "slug": "mafraq-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_mafraq-alkubrah_mazzeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المزه",
+      "en": "Mazzeh",
+      "slug": "mazzeh"
+    },
+    "code": {
+      "id": "JOMAF_mafraq-alkubrah_mazzeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_mafraq-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "المفرق الكبرى",
+        "en": "Mafraq Alkubrah",
+        "slug": "mafraq-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_mafraq-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "المفرق الكبرى",
+          "en": "Mafraq Alkubrah",
+          "slug": "mafraq-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_mafraq-alkubrah_meferdat",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المفردات",
+      "en": "Meferdat",
+      "slug": "meferdat"
+    },
+    "code": {
+      "id": "JOMAF_mafraq-alkubrah_meferdat",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_mafraq-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "المفرق الكبرى",
+        "en": "Mafraq Alkubrah",
+        "slug": "mafraq-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_mafraq-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "المفرق الكبرى",
+          "en": "Mafraq Alkubrah",
+          "slug": "mafraq-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_mafraq-alkubrah_rojom-essabie-el-shamali",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "رجم سبع الشمالي",
+      "en": "Rojom Essabi'e El-Shamali",
+      "slug": "rojom-essabie-el-shamali"
+    },
+    "code": {
+      "id": "JOMAF_mafraq-alkubrah_rojom-essabie-el-shamali",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_mafraq-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "المفرق الكبرى",
+        "en": "Mafraq Alkubrah",
+        "slug": "mafraq-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_mafraq-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "المفرق الكبرى",
+          "en": "Mafraq Alkubrah",
+          "slug": "mafraq-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_mafraq-alkubrah_teeb-isem",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "طيب اسم",
+      "en": "Teeb Isem",
+      "slug": "teeb-isem"
+    },
+    "code": {
+      "id": "JOMAF_mafraq-alkubrah_teeb-isem",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_mafraq-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "المفرق الكبرى",
+        "en": "Mafraq Alkubrah",
+        "slug": "mafraq-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_mafraq-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "المفرق الكبرى",
+          "en": "Mafraq Alkubrah",
+          "slug": "mafraq-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_mafraq-alkubrah_thoghret-el-jobb",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ثغرة الجب",
+      "en": "Thoghret El-Jobb",
+      "slug": "thoghret-el-jobb"
+    },
+    "code": {
+      "id": "JOMAF_mafraq-alkubrah_thoghret-el-jobb",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_mafraq-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "المفرق الكبرى",
+        "en": "Mafraq Alkubrah",
+        "slug": "mafraq-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_mafraq-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "المفرق الكبرى",
+          "en": "Mafraq Alkubrah",
+          "slug": "mafraq-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_mafraq-alkubrah_um-ennaam-gharbiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام النعام الغربيه",
+      "en": "Um Enna'am Gharbiyyeh",
+      "slug": "um-ennaam-gharbiyyeh"
+    },
+    "code": {
+      "id": "JOMAF_mafraq-alkubrah_um-ennaam-gharbiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_mafraq-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "المفرق الكبرى",
+        "en": "Mafraq Alkubrah",
+        "slug": "mafraq-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_mafraq-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "المفرق الكبرى",
+          "en": "Mafraq Alkubrah",
+          "slug": "mafraq-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_mafraq-alkubrah_um-ennaam-sharqiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام النعام الشرقيه",
+      "en": "Um Enna'am Sharqiyyeh",
+      "slug": "um-ennaam-sharqiyyeh"
+    },
+    "code": {
+      "id": "JOMAF_mafraq-alkubrah_um-ennaam-sharqiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_mafraq-alkubrah",
+      "level": 2,
+      "name": {
+        "local": "المفرق الكبرى",
+        "en": "Mafraq Alkubrah",
+        "slug": "mafraq-alkubrah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_mafraq-alkubrah",
+        "level": 2,
+        "name": {
+          "local": "المفرق الكبرى",
+          "en": "Mafraq Alkubrah",
+          "slug": "mafraq-alkubrah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

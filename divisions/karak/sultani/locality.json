@@ -1,0 +1,110 @@
+[
+  {
+    "id": "JOKAR_sultani_sad-el-soltani",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "سد السلطاني",
+      "en": "Sad El-Soltani",
+      "slug": "sad-el-soltani"
+    },
+    "code": {
+      "id": "JOKAR_sultani_sad-el-soltani",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_sultani",
+      "level": 2,
+      "name": {
+        "local": "السلطاني",
+        "en": "Sultani",
+        "slug": "sultani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_sultani",
+        "level": 2,
+        "name": {
+          "local": "السلطاني",
+          "en": "Sultani",
+          "slug": "sultani"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOKAR_sultani_wadi-abyadh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الوادي الابيض",
+      "en": "Wadi Abyadh",
+      "slug": "wadi-abyadh"
+    },
+    "code": {
+      "id": "JOKAR_sultani_wadi-abyadh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOKAR_sultani",
+      "level": 2,
+      "name": {
+        "local": "السلطاني",
+        "en": "Sultani",
+        "slug": "sultani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOKAR",
+        "level": 1,
+        "name": {
+          "local": "الكرك",
+          "en": "Karak",
+          "slug": "karak"
+        }
+      },
+      {
+        "id": "JOKAR_sultani",
+        "level": 2,
+        "name": {
+          "local": "السلطاني",
+          "en": "Sultani",
+          "slug": "sultani"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.119",
+      "lon": "35.795"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

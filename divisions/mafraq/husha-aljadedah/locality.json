@@ -1,0 +1,488 @@
+[
+  {
+    "id": "JOMAF_husha-aljadedah_akaidar",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الاكيدر",
+      "en": "Akaidar",
+      "slug": "akaidar"
+    },
+    "code": {
+      "id": "JOMAF_husha-aljadedah_akaidar",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_husha-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "حوشا الجديدة",
+        "en": "Husha Aljadedah",
+        "slug": "husha-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_husha-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "حوشا الجديدة",
+          "en": "Husha Aljadedah",
+          "slug": "husha-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_husha-aljadedah_dandania",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الدندنيه",
+      "en": "Dandania",
+      "slug": "dandania"
+    },
+    "code": {
+      "id": "JOMAF_husha-aljadedah_dandania",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_husha-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "حوشا الجديدة",
+        "en": "Husha Aljadedah",
+        "slug": "husha-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_husha-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "حوشا الجديدة",
+          "en": "Husha Aljadedah",
+          "slug": "husha-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_husha-aljadedah_darzeah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الدرزيه",
+      "en": "Darzeah",
+      "slug": "darzeah"
+    },
+    "code": {
+      "id": "JOMAF_husha-aljadedah_darzeah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_husha-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "حوشا الجديدة",
+        "en": "Husha Aljadedah",
+        "slug": "husha-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_husha-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "حوشا الجديدة",
+          "en": "Husha Aljadedah",
+          "slug": "husha-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_husha-aljadedah_hamra",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الحمراء",
+      "en": "Hamra",
+      "slug": "hamra"
+    },
+    "code": {
+      "id": "JOMAF_husha-aljadedah_hamra",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_husha-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "حوشا الجديدة",
+        "en": "Husha Aljadedah",
+        "slug": "husha-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_husha-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "حوشا الجديدة",
+          "en": "Husha Aljadedah",
+          "slug": "husha-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_husha-aljadedah_hosha",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "حوشا",
+      "en": "Hosha",
+      "slug": "hosha"
+    },
+    "code": {
+      "id": "JOMAF_husha-aljadedah_hosha",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_husha-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "حوشا الجديدة",
+        "en": "Husha Aljadedah",
+        "slug": "husha-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_husha-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "حوشا الجديدة",
+          "en": "Husha Aljadedah",
+          "slug": "husha-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_husha-aljadedah_mansoorah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المنصورة",
+      "en": "Mansoorah",
+      "slug": "mansoorah"
+    },
+    "code": {
+      "id": "JOMAF_husha-aljadedah_mansoorah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_husha-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "حوشا الجديدة",
+        "en": "Husha Aljadedah",
+        "slug": "husha-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_husha-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "حوشا الجديدة",
+          "en": "Husha Aljadedah",
+          "slug": "husha-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_husha-aljadedah_mshairfeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المشيرفه",
+      "en": "Mshairfeh",
+      "slug": "mshairfeh"
+    },
+    "code": {
+      "id": "JOMAF_husha-aljadedah_mshairfeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_husha-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "حوشا الجديدة",
+        "en": "Husha Aljadedah",
+        "slug": "husha-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_husha-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "حوشا الجديدة",
+          "en": "Husha Aljadedah",
+          "slug": "husha-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_husha-aljadedah_sorrah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "صره",
+      "en": "Sorrah",
+      "slug": "sorrah"
+    },
+    "code": {
+      "id": "JOMAF_husha-aljadedah_sorrah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_husha-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "حوشا الجديدة",
+        "en": "Husha Aljadedah",
+        "slug": "husha-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_husha-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "حوشا الجديدة",
+          "en": "Husha Aljadedah",
+          "slug": "husha-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_husha-aljadedah_swailmeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "السويلمه",
+      "en": "Swailmeh",
+      "slug": "swailmeh"
+    },
+    "code": {
+      "id": "JOMAF_husha-aljadedah_swailmeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_husha-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "حوشا الجديدة",
+        "en": "Husha Aljadedah",
+        "slug": "husha-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_husha-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "حوشا الجديدة",
+          "en": "Husha Aljadedah",
+          "slug": "husha-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

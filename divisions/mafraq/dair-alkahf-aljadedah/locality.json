@@ -1,0 +1,920 @@
+[
+  {
+    "id": "JOMAF_dair-alkahf-aljadedah_arainbet-enaimat",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ارينبة النعيمات",
+      "en": "Arainbet Enaimat",
+      "slug": "arainbet-enaimat"
+    },
+    "code": {
+      "id": "JOMAF_dair-alkahf-aljadedah_arainbet-enaimat",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_dair-alkahf-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "دير الكهف الجديدة",
+        "en": "Dair Alkahf Aljadedah",
+        "slug": "dair-alkahf-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_dair-alkahf-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "دير الكهف الجديدة",
+          "en": "Dair Alkahf Aljadedah",
+          "slug": "dair-alkahf-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_dair-alkahf-aljadedah_dair-al-kahf",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "دير الكهف",
+      "en": "Dair Al Kahf",
+      "slug": "dair-al-kahf"
+    },
+    "code": {
+      "id": "JOMAF_dair-alkahf-aljadedah_dair-al-kahf",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_dair-alkahf-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "دير الكهف الجديدة",
+        "en": "Dair Alkahf Aljadedah",
+        "slug": "dair-alkahf-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_dair-alkahf-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "دير الكهف الجديدة",
+          "en": "Dair Alkahf Aljadedah",
+          "slug": "dair-alkahf-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_dair-alkahf-aljadedah_dair-el-qenn",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "دير القن",
+      "en": "Dair El-Qenn",
+      "slug": "dair-el-qenn"
+    },
+    "code": {
+      "id": "JOMAF_dair-alkahf-aljadedah_dair-el-qenn",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_dair-alkahf-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "دير الكهف الجديدة",
+        "en": "Dair Alkahf Aljadedah",
+        "slug": "dair-alkahf-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_dair-alkahf-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "دير الكهف الجديدة",
+          "en": "Dair Alkahf Aljadedah",
+          "slug": "dair-alkahf-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_dair-alkahf-aljadedah_ethlag",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الثلاج",
+      "en": "Ethlag",
+      "slug": "ethlag"
+    },
+    "code": {
+      "id": "JOMAF_dair-alkahf-aljadedah_ethlag",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_dair-alkahf-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "دير الكهف الجديدة",
+        "en": "Dair Alkahf Aljadedah",
+        "slug": "dair-alkahf-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_dair-alkahf-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "دير الكهف الجديدة",
+          "en": "Dair Alkahf Aljadedah",
+          "slug": "dair-alkahf-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_dair-alkahf-aljadedah_jadah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الجدعا",
+      "en": "Jad'ah",
+      "slug": "jadah"
+    },
+    "code": {
+      "id": "JOMAF_dair-alkahf-aljadedah_jadah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_dair-alkahf-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "دير الكهف الجديدة",
+        "en": "Dair Alkahf Aljadedah",
+        "slug": "dair-alkahf-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_dair-alkahf-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "دير الكهف الجديدة",
+          "en": "Dair Alkahf Aljadedah",
+          "slug": "dair-alkahf-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_dair-alkahf-aljadedah_jubbeiah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الجبية",
+      "en": "Jubbeiah",
+      "slug": "jubbeiah"
+    },
+    "code": {
+      "id": "JOMAF_dair-alkahf-aljadedah_jubbeiah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_dair-alkahf-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "دير الكهف الجديدة",
+        "en": "Dair Alkahf Aljadedah",
+        "slug": "dair-alkahf-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_dair-alkahf-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "دير الكهف الجديدة",
+          "en": "Dair Alkahf Aljadedah",
+          "slug": "dair-alkahf-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_dair-alkahf-aljadedah_khsha-el-qenn",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "خشاع القن",
+      "en": "Khsha' El-Qenn",
+      "slug": "khsha-el-qenn"
+    },
+    "code": {
+      "id": "JOMAF_dair-alkahf-aljadedah_khsha-el-qenn",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_dair-alkahf-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "دير الكهف الجديدة",
+        "en": "Dair Alkahf Aljadedah",
+        "slug": "dair-alkahf-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_dair-alkahf-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "دير الكهف الجديدة",
+          "en": "Dair Alkahf Aljadedah",
+          "slug": "dair-alkahf-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_dair-alkahf-aljadedah_mansoorah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المنصورة",
+      "en": "Mansoorah",
+      "slug": "mansoorah"
+    },
+    "code": {
+      "id": "JOMAF_dair-alkahf-aljadedah_mansoorah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_dair-alkahf-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "دير الكهف الجديدة",
+        "en": "Dair Alkahf Aljadedah",
+        "slug": "dair-alkahf-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_dair-alkahf-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "دير الكهف الجديدة",
+          "en": "Dair Alkahf Aljadedah",
+          "slug": "dair-alkahf-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_dair-alkahf-aljadedah_medwer-el-qenn",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "مدور القن",
+      "en": "Medwer El-Qenn",
+      "slug": "medwer-el-qenn"
+    },
+    "code": {
+      "id": "JOMAF_dair-alkahf-aljadedah_medwer-el-qenn",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_dair-alkahf-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "دير الكهف الجديدة",
+        "en": "Dair Alkahf Aljadedah",
+        "slug": "dair-alkahf-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_dair-alkahf-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "دير الكهف الجديدة",
+          "en": "Dair Alkahf Aljadedah",
+          "slug": "dair-alkahf-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_dair-alkahf-aljadedah_menyasah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المنيصة",
+      "en": "Menyasah",
+      "slug": "menyasah"
+    },
+    "code": {
+      "id": "JOMAF_dair-alkahf-aljadedah_menyasah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_dair-alkahf-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "دير الكهف الجديدة",
+        "en": "Dair Alkahf Aljadedah",
+        "slug": "dair-alkahf-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_dair-alkahf-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "دير الكهف الجديدة",
+          "en": "Dair Alkahf Aljadedah",
+          "slug": "dair-alkahf-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_dair-alkahf-aljadedah_methnat-rajel",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "مثناة راجل",
+      "en": "Methnat Rajel",
+      "slug": "methnat-rajel"
+    },
+    "code": {
+      "id": "JOMAF_dair-alkahf-aljadedah_methnat-rajel",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_dair-alkahf-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "دير الكهف الجديدة",
+        "en": "Dair Alkahf Aljadedah",
+        "slug": "dair-alkahf-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_dair-alkahf-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "دير الكهف الجديدة",
+          "en": "Dair Alkahf Aljadedah",
+          "slug": "dair-alkahf-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_dair-alkahf-aljadedah_mrajeeb",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "مريجب",
+      "en": "Mrajeeb",
+      "slug": "mrajeeb"
+    },
+    "code": {
+      "id": "JOMAF_dair-alkahf-aljadedah_mrajeeb",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_dair-alkahf-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "دير الكهف الجديدة",
+        "en": "Dair Alkahf Aljadedah",
+        "slug": "dair-alkahf-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_dair-alkahf-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "دير الكهف الجديدة",
+          "en": "Dair Alkahf Aljadedah",
+          "slug": "dair-alkahf-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_dair-alkahf-aljadedah_qasem",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "قاسم",
+      "en": "Qasem",
+      "slug": "qasem"
+    },
+    "code": {
+      "id": "JOMAF_dair-alkahf-aljadedah_qasem",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_dair-alkahf-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "دير الكهف الجديدة",
+        "en": "Dair Alkahf Aljadedah",
+        "slug": "dair-alkahf-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_dair-alkahf-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "دير الكهف الجديدة",
+          "en": "Dair Alkahf Aljadedah",
+          "slug": "dair-alkahf-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_dair-alkahf-aljadedah_rfaiyyat",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الرفاعيات",
+      "en": "Rfa'iyyat",
+      "slug": "rfaiyyat"
+    },
+    "code": {
+      "id": "JOMAF_dair-alkahf-aljadedah_rfaiyyat",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_dair-alkahf-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "دير الكهف الجديدة",
+        "en": "Dair Alkahf Aljadedah",
+        "slug": "dair-alkahf-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_dair-alkahf-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "دير الكهف الجديدة",
+          "en": "Dair Alkahf Aljadedah",
+          "slug": "dair-alkahf-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_dair-alkahf-aljadedah_roadhet-al-amir-ali-bin-al-hussein-abu-frth",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "روضة الامير علي بن الحسين(ابو الفرث)",
+      "en": "Roadhet Al-Amir Ali Bin Al-Hussein (Abu Frth)",
+      "slug": "roadhet-al-amir-ali-bin-al-hussein-abu-frth"
+    },
+    "code": {
+      "id": "JOMAF_dair-alkahf-aljadedah_roadhet-al-amir-ali-bin-al-hussein-abu-frth",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_dair-alkahf-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "دير الكهف الجديدة",
+        "en": "Dair Alkahf Aljadedah",
+        "slug": "dair-alkahf-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_dair-alkahf-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "دير الكهف الجديدة",
+          "en": "Dair Alkahf Aljadedah",
+          "slug": "dair-alkahf-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_dair-alkahf-aljadedah_tal-ermah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "تل رماح",
+      "en": "Tal Ermah",
+      "slug": "tal-ermah"
+    },
+    "code": {
+      "id": "JOMAF_dair-alkahf-aljadedah_tal-ermah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_dair-alkahf-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "دير الكهف الجديدة",
+        "en": "Dair Alkahf Aljadedah",
+        "slug": "dair-alkahf-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_dair-alkahf-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "دير الكهف الجديدة",
+          "en": "Dair Alkahf Aljadedah",
+          "slug": "dair-alkahf-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOMAF_dair-alkahf-aljadedah_um-hussein",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام حسين",
+      "en": "Um Hussein",
+      "slug": "um-hussein"
+    },
+    "code": {
+      "id": "JOMAF_dair-alkahf-aljadedah_um-hussein",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOMAF_dair-alkahf-aljadedah",
+      "level": 2,
+      "name": {
+        "local": "دير الكهف الجديدة",
+        "en": "Dair Alkahf Aljadedah",
+        "slug": "dair-alkahf-aljadedah"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOMAF",
+        "level": 1,
+        "name": {
+          "local": "المفرق",
+          "en": "Mafraq",
+          "slug": "mafraq"
+        }
+      },
+      {
+        "id": "JOMAF_dair-alkahf-aljadedah",
+        "level": 2,
+        "name": {
+          "local": "دير الكهف الجديدة",
+          "en": "Dair Alkahf Aljadedah",
+          "slug": "dair-alkahf-aljadedah"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.54",
+      "lon": "37.616"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

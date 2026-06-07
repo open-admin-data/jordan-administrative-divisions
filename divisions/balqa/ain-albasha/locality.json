@@ -1,0 +1,812 @@
+[
+  {
+    "id": "JOBAL_ain-albasha_abu-hamed",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ابو حامد",
+      "en": "Abu Hamed",
+      "slug": "abu-hamed"
+    },
+    "code": {
+      "id": "JOBAL_ain-albasha_abu-hamed",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_ain-albasha",
+      "level": 2,
+      "name": {
+        "local": "عين الباشا",
+        "en": "Ain Albasha",
+        "slug": "ain-albasha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_ain-albasha",
+        "level": 2,
+        "name": {
+          "local": "عين الباشا",
+          "en": "Ain Albasha",
+          "slug": "ain-albasha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_ain-albasha_ain-albasha",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "عين الباشا",
+      "en": "Ain Albasha",
+      "slug": "ain-albasha"
+    },
+    "code": {
+      "id": "JOBAL_ain-albasha_ain-albasha",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_ain-albasha",
+      "level": 2,
+      "name": {
+        "local": "عين الباشا",
+        "en": "Ain Albasha",
+        "slug": "ain-albasha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_ain-albasha",
+        "level": 2,
+        "name": {
+          "local": "عين الباشا",
+          "en": "Ain Albasha",
+          "slug": "ain-albasha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_ain-albasha_heno",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الحنو",
+      "en": "Heno",
+      "slug": "heno"
+    },
+    "code": {
+      "id": "JOBAL_ain-albasha_heno",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_ain-albasha",
+      "level": 2,
+      "name": {
+        "local": "عين الباشا",
+        "en": "Ain Albasha",
+        "slug": "ain-albasha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_ain-albasha",
+        "level": 2,
+        "name": {
+          "local": "عين الباشا",
+          "en": "Ain Albasha",
+          "slug": "ain-albasha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_ain-albasha_jaidiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الجعيدية",
+      "en": "Jaidiyyeh",
+      "slug": "jaidiyyeh"
+    },
+    "code": {
+      "id": "JOBAL_ain-albasha_jaidiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_ain-albasha",
+      "level": 2,
+      "name": {
+        "local": "عين الباشا",
+        "en": "Ain Albasha",
+        "slug": "ain-albasha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_ain-albasha",
+        "level": 2,
+        "name": {
+          "local": "عين الباشا",
+          "en": "Ain Albasha",
+          "slug": "ain-albasha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_ain-albasha_karet-abu-nsair",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "قرية ابو نصير",
+      "en": "Karet Abu Nsair",
+      "slug": "karet-abu-nsair"
+    },
+    "code": {
+      "id": "JOBAL_ain-albasha_karet-abu-nsair",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_ain-albasha",
+      "level": 2,
+      "name": {
+        "local": "عين الباشا",
+        "en": "Ain Albasha",
+        "slug": "ain-albasha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_ain-albasha",
+        "level": 2,
+        "name": {
+          "local": "عين الباشا",
+          "en": "Ain Albasha",
+          "slug": "ain-albasha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_ain-albasha_moobes",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "موبص",
+      "en": "Moobes",
+      "slug": "moobes"
+    },
+    "code": {
+      "id": "JOBAL_ain-albasha_moobes",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_ain-albasha",
+      "level": 2,
+      "name": {
+        "local": "عين الباشا",
+        "en": "Ain Albasha",
+        "slug": "ain-albasha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_ain-albasha",
+        "level": 2,
+        "name": {
+          "local": "عين الباشا",
+          "en": "Ain Albasha",
+          "slug": "ain-albasha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_ain-albasha_romman",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الرمان",
+      "en": "Romman",
+      "slug": "romman"
+    },
+    "code": {
+      "id": "JOBAL_ain-albasha_romman",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_ain-albasha",
+      "level": 2,
+      "name": {
+        "local": "عين الباشا",
+        "en": "Ain Albasha",
+        "slug": "ain-albasha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_ain-albasha",
+        "level": 2,
+        "name": {
+          "local": "عين الباشا",
+          "en": "Ain Albasha",
+          "slug": "ain-albasha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_ain-albasha_safoot",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "صافوط",
+      "en": "Safoot",
+      "slug": "safoot"
+    },
+    "code": {
+      "id": "JOBAL_ain-albasha_safoot",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_ain-albasha",
+      "level": 2,
+      "name": {
+        "local": "عين الباشا",
+        "en": "Ain Albasha",
+        "slug": "ain-albasha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_ain-albasha",
+        "level": 2,
+        "name": {
+          "local": "عين الباشا",
+          "en": "Ain Albasha",
+          "slug": "ain-albasha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_ain-albasha_sahlooliyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "السحلولية",
+      "en": "Sahlooliyyeh",
+      "slug": "sahlooliyyeh"
+    },
+    "code": {
+      "id": "JOBAL_ain-albasha_sahlooliyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_ain-albasha",
+      "level": 2,
+      "name": {
+        "local": "عين الباشا",
+        "en": "Ain Albasha",
+        "slug": "ain-albasha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_ain-albasha",
+        "level": 2,
+        "name": {
+          "local": "عين الباشا",
+          "en": "Ain Albasha",
+          "slug": "ain-albasha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_ain-albasha_saleehi",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "السليحي",
+      "en": "Saleehi",
+      "slug": "saleehi"
+    },
+    "code": {
+      "id": "JOBAL_ain-albasha_saleehi",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_ain-albasha",
+      "level": 2,
+      "name": {
+        "local": "عين الباشا",
+        "en": "Ain Albasha",
+        "slug": "ain-albasha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_ain-albasha",
+        "level": 2,
+        "name": {
+          "local": "عين الباشا",
+          "en": "Ain Albasha",
+          "slug": "ain-albasha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_ain-albasha_salhoob",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "سلحوب",
+      "en": "Salhoob",
+      "slug": "salhoob"
+    },
+    "code": {
+      "id": "JOBAL_ain-albasha_salhoob",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_ain-albasha",
+      "level": 2,
+      "name": {
+        "local": "عين الباشا",
+        "en": "Ain Albasha",
+        "slug": "ain-albasha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_ain-albasha",
+        "level": 2,
+        "name": {
+          "local": "عين الباشا",
+          "en": "Ain Albasha",
+          "slug": "ain-albasha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_ain-albasha_shewahi-el-gharbi",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الشويحي الغربي",
+      "en": "Shewahi El-Gharbi",
+      "slug": "shewahi-el-gharbi"
+    },
+    "code": {
+      "id": "JOBAL_ain-albasha_shewahi-el-gharbi",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_ain-albasha",
+      "level": 2,
+      "name": {
+        "local": "عين الباشا",
+        "en": "Ain Albasha",
+        "slug": "ain-albasha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_ain-albasha",
+        "level": 2,
+        "name": {
+          "local": "عين الباشا",
+          "en": "Ain Albasha",
+          "slug": "ain-albasha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_ain-albasha_um-edananier",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام الدنانير",
+      "en": "Um Edananier",
+      "slug": "um-edananier"
+    },
+    "code": {
+      "id": "JOBAL_ain-albasha_um-edananier",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_ain-albasha",
+      "level": 2,
+      "name": {
+        "local": "عين الباشا",
+        "en": "Ain Albasha",
+        "slug": "ain-albasha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_ain-albasha",
+        "level": 2,
+        "name": {
+          "local": "عين الباشا",
+          "en": "Ain Albasha",
+          "slug": "ain-albasha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_ain-albasha_um-njasah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام نجاصة",
+      "en": "Um Njasah",
+      "slug": "um-njasah"
+    },
+    "code": {
+      "id": "JOBAL_ain-albasha_um-njasah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_ain-albasha",
+      "level": 2,
+      "name": {
+        "local": "عين الباشا",
+        "en": "Ain Albasha",
+        "slug": "ain-albasha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_ain-albasha",
+        "level": 2,
+        "name": {
+          "local": "عين الباشا",
+          "en": "Ain Albasha",
+          "slug": "ain-albasha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOBAL_ain-albasha_um-sendyaneh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام سنديانه",
+      "en": "Um Sendyaneh",
+      "slug": "um-sendyaneh"
+    },
+    "code": {
+      "id": "JOBAL_ain-albasha_um-sendyaneh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOBAL_ain-albasha",
+      "level": 2,
+      "name": {
+        "local": "عين الباشا",
+        "en": "Ain Albasha",
+        "slug": "ain-albasha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOBAL",
+        "level": 1,
+        "name": {
+          "local": "البلقاء",
+          "en": "Balqa",
+          "slug": "balqa"
+        }
+      },
+      {
+        "id": "JOBAL_ain-albasha",
+        "level": 2,
+        "name": {
+          "local": "عين الباشا",
+          "en": "Ain Albasha",
+          "slug": "ain-albasha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.954",
+      "lon": "35.704"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

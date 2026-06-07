@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "JOZAR_bierain_ain-el-hawaya",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "عين الحوايا",
+      "en": "Ain El-Hawaya",
+      "slug": "ain-el-hawaya"
+    },
+    "code": {
+      "id": "JOZAR_bierain_ain-el-hawaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_bierain",
+      "level": 2,
+      "name": {
+        "local": "بيرين",
+        "en": "Bierain",
+        "slug": "bierain"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_bierain",
+        "level": 2,
+        "name": {
+          "local": "بيرين",
+          "en": "Bierain",
+          "slug": "bierain"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_bierain_ain-saber",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "عين صابر",
+      "en": "Ain Saber",
+      "slug": "ain-saber"
+    },
+    "code": {
+      "id": "JOZAR_bierain_ain-saber",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_bierain",
+      "level": 2,
+      "name": {
+        "local": "بيرين",
+        "en": "Bierain",
+        "slug": "bierain"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_bierain",
+        "level": 2,
+        "name": {
+          "local": "بيرين",
+          "en": "Bierain",
+          "slug": "bierain"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_bierain_alook",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "العالوك",
+      "en": "Alook",
+      "slug": "alook"
+    },
+    "code": {
+      "id": "JOZAR_bierain_alook",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_bierain",
+      "level": 2,
+      "name": {
+        "local": "بيرين",
+        "en": "Bierain",
+        "slug": "bierain"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_bierain",
+        "level": 2,
+        "name": {
+          "local": "بيرين",
+          "en": "Bierain",
+          "slug": "bierain"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_bierain_bierain",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "بيرين",
+      "en": "Bierain",
+      "slug": "bierain"
+    },
+    "code": {
+      "id": "JOZAR_bierain_bierain",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_bierain",
+      "level": 2,
+      "name": {
+        "local": "بيرين",
+        "en": "Bierain",
+        "slug": "bierain"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_bierain",
+        "level": 2,
+        "name": {
+          "local": "بيرين",
+          "en": "Bierain",
+          "slug": "bierain"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_bierain_biereh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "البيرة",
+      "en": "Biereh",
+      "slug": "biereh"
+    },
+    "code": {
+      "id": "JOZAR_bierain_biereh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_bierain",
+      "level": 2,
+      "name": {
+        "local": "بيرين",
+        "en": "Bierain",
+        "slug": "bierain"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_bierain",
+        "level": 2,
+        "name": {
+          "local": "بيرين",
+          "en": "Bierain",
+          "slug": "bierain"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_bierain_ewailiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "العويلية",
+      "en": "Ewailiyyeh",
+      "slug": "ewailiyyeh"
+    },
+    "code": {
+      "id": "JOZAR_bierain_ewailiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_bierain",
+      "level": 2,
+      "name": {
+        "local": "بيرين",
+        "en": "Bierain",
+        "slug": "bierain"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_bierain",
+        "level": 2,
+        "name": {
+          "local": "بيرين",
+          "en": "Bierain",
+          "slug": "bierain"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_bierain_kamshah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الكمشة",
+      "en": "Kamshah",
+      "slug": "kamshah"
+    },
+    "code": {
+      "id": "JOZAR_bierain_kamshah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_bierain",
+      "level": 2,
+      "name": {
+        "local": "بيرين",
+        "en": "Bierain",
+        "slug": "bierain"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_bierain",
+        "level": 2,
+        "name": {
+          "local": "بيرين",
+          "en": "Bierain",
+          "slug": "bierain"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_bierain_khalleh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الخلة",
+      "en": "Khalleh",
+      "slug": "khalleh"
+    },
+    "code": {
+      "id": "JOZAR_bierain_khalleh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_bierain",
+      "level": 2,
+      "name": {
+        "local": "بيرين",
+        "en": "Bierain",
+        "slug": "bierain"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_bierain",
+        "level": 2,
+        "name": {
+          "local": "بيرين",
+          "en": "Bierain",
+          "slug": "bierain"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_bierain_makethat",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الماخذات",
+      "en": "Makethat",
+      "slug": "makethat"
+    },
+    "code": {
+      "id": "JOZAR_bierain_makethat",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_bierain",
+      "level": 2,
+      "name": {
+        "local": "بيرين",
+        "en": "Bierain",
+        "slug": "bierain"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_bierain",
+        "level": 2,
+        "name": {
+          "local": "بيرين",
+          "en": "Bierain",
+          "slug": "bierain"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_bierain_maqam-isa",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "مقام عيسى",
+      "en": "Maqam Isa",
+      "slug": "maqam-isa"
+    },
+    "code": {
+      "id": "JOZAR_bierain_maqam-isa",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_bierain",
+      "level": 2,
+      "name": {
+        "local": "بيرين",
+        "en": "Bierain",
+        "slug": "bierain"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_bierain",
+        "level": 2,
+        "name": {
+          "local": "بيرين",
+          "en": "Bierain",
+          "slug": "bierain"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_bierain_masarrah-gharbiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المسرة الغربية",
+      "en": "Masarrah Gharbiyyeh",
+      "slug": "masarrah-gharbiyyeh"
+    },
+    "code": {
+      "id": "JOZAR_bierain_masarrah-gharbiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_bierain",
+      "level": 2,
+      "name": {
+        "local": "بيرين",
+        "en": "Bierain",
+        "slug": "bierain"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_bierain",
+        "level": 2,
+        "name": {
+          "local": "بيرين",
+          "en": "Bierain",
+          "slug": "bierain"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_bierain_masarrah-sharqiyyeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المسرة الشرقية",
+      "en": "Masarrah Sharqiyyeh",
+      "slug": "masarrah-sharqiyyeh"
+    },
+    "code": {
+      "id": "JOZAR_bierain_masarrah-sharqiyyeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_bierain",
+      "level": 2,
+      "name": {
+        "local": "بيرين",
+        "en": "Bierain",
+        "slug": "bierain"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_bierain",
+        "level": 2,
+        "name": {
+          "local": "بيرين",
+          "en": "Bierain",
+          "slug": "bierain"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_bierain_mekman",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "المكمان",
+      "en": "Mekman",
+      "slug": "mekman"
+    },
+    "code": {
+      "id": "JOZAR_bierain_mekman",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_bierain",
+      "level": 2,
+      "name": {
+        "local": "بيرين",
+        "en": "Bierain",
+        "slug": "bierain"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_bierain",
+        "level": 2,
+        "name": {
+          "local": "بيرين",
+          "en": "Bierain",
+          "slug": "bierain"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_bierain_merheb",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "مرحب",
+      "en": "Merheb",
+      "slug": "merheb"
+    },
+    "code": {
+      "id": "JOZAR_bierain_merheb",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_bierain",
+      "level": 2,
+      "name": {
+        "local": "بيرين",
+        "en": "Bierain",
+        "slug": "bierain"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_bierain",
+        "level": 2,
+        "name": {
+          "local": "بيرين",
+          "en": "Bierain",
+          "slug": "bierain"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_bierain_naseryah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الناصرية",
+      "en": "Naseryah",
+      "slug": "naseryah"
+    },
+    "code": {
+      "id": "JOZAR_bierain_naseryah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_bierain",
+      "level": 2,
+      "name": {
+        "local": "بيرين",
+        "en": "Bierain",
+        "slug": "bierain"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_bierain",
+        "level": 2,
+        "name": {
+          "local": "بيرين",
+          "en": "Bierain",
+          "slug": "bierain"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_bierain_reyad",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الرياض",
+      "en": "Reyad",
+      "slug": "reyad"
+    },
+    "code": {
+      "id": "JOZAR_bierain_reyad",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_bierain",
+      "level": 2,
+      "name": {
+        "local": "بيرين",
+        "en": "Bierain",
+        "slug": "bierain"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_bierain",
+        "level": 2,
+        "name": {
+          "local": "بيرين",
+          "en": "Bierain",
+          "slug": "bierain"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_bierain_rojom-eshoak",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "رجم الشوك",
+      "en": "Rojom Eshoak",
+      "slug": "rojom-eshoak"
+    },
+    "code": {
+      "id": "JOZAR_bierain_rojom-eshoak",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_bierain",
+      "level": 2,
+      "name": {
+        "local": "بيرين",
+        "en": "Bierain",
+        "slug": "bierain"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_bierain",
+        "level": 2,
+        "name": {
+          "local": "بيرين",
+          "en": "Bierain",
+          "slug": "bierain"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_bierain_saharah",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "السحارة",
+      "en": "Saharah",
+      "slug": "saharah"
+    },
+    "code": {
+      "id": "JOZAR_bierain_saharah",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_bierain",
+      "level": 2,
+      "name": {
+        "local": "بيرين",
+        "en": "Bierain",
+        "slug": "bierain"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_bierain",
+        "level": 2,
+        "name": {
+          "local": "بيرين",
+          "en": "Bierain",
+          "slug": "bierain"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_bierain_sarroot",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "صروت",
+      "en": "Sarroot",
+      "slug": "sarroot"
+    },
+    "code": {
+      "id": "JOZAR_bierain_sarroot",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_bierain",
+      "level": 2,
+      "name": {
+        "local": "بيرين",
+        "en": "Bierain",
+        "slug": "bierain"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_bierain",
+        "level": 2,
+        "name": {
+          "local": "بيرين",
+          "en": "Bierain",
+          "slug": "bierain"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_bierain_tawahien-adwan",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "طواحين العدوان",
+      "en": "Tawahien Adwan",
+      "slug": "tawahien-adwan"
+    },
+    "code": {
+      "id": "JOZAR_bierain_tawahien-adwan",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_bierain",
+      "level": 2,
+      "name": {
+        "local": "بيرين",
+        "en": "Bierain",
+        "slug": "bierain"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_bierain",
+        "level": 2,
+        "name": {
+          "local": "بيرين",
+          "en": "Bierain",
+          "slug": "bierain"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_bierain_um-el-byar",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام البيار",
+      "en": "Um El-Byar",
+      "slug": "um-el-byar"
+    },
+    "code": {
+      "id": "JOZAR_bierain_um-el-byar",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_bierain",
+      "level": 2,
+      "name": {
+        "local": "بيرين",
+        "en": "Bierain",
+        "slug": "bierain"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_bierain",
+        "level": 2,
+        "name": {
+          "local": "بيرين",
+          "en": "Bierain",
+          "slug": "bierain"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_bierain_um-el-fatier",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام الفطاير",
+      "en": "Um El-Fat'ier",
+      "slug": "um-el-fatier"
+    },
+    "code": {
+      "id": "JOZAR_bierain_um-el-fatier",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_bierain",
+      "level": 2,
+      "name": {
+        "local": "بيرين",
+        "en": "Bierain",
+        "slug": "bierain"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_bierain",
+        "level": 2,
+        "name": {
+          "local": "بيرين",
+          "en": "Bierain",
+          "slug": "bierain"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_bierain_um-khashibeh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام خشيبة",
+      "en": "Um Khashibeh",
+      "slug": "um-khashibeh"
+    },
+    "code": {
+      "id": "JOZAR_bierain_um-khashibeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_bierain",
+      "level": 2,
+      "name": {
+        "local": "بيرين",
+        "en": "Bierain",
+        "slug": "bierain"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_bierain",
+        "level": 2,
+        "name": {
+          "local": "بيرين",
+          "en": "Bierain",
+          "slug": "bierain"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_bierain_um-rommaneh",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ام رمانه",
+      "en": "Um Rommaneh",
+      "slug": "um-rommaneh"
+    },
+    "code": {
+      "id": "JOZAR_bierain_um-rommaneh",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_bierain",
+      "level": 2,
+      "name": {
+        "local": "بيرين",
+        "en": "Bierain",
+        "slug": "bierain"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_bierain",
+        "level": 2,
+        "name": {
+          "local": "بيرين",
+          "en": "Bierain",
+          "slug": "bierain"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_bierain_wadi-esswan",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "وادي الصوان",
+      "en": "Wadi Esswan",
+      "slug": "wadi-esswan"
+    },
+    "code": {
+      "id": "JOZAR_bierain_wadi-esswan",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_bierain",
+      "level": 2,
+      "name": {
+        "local": "بيرين",
+        "en": "Bierain",
+        "slug": "bierain"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_bierain",
+        "level": 2,
+        "name": {
+          "local": "بيرين",
+          "en": "Bierain",
+          "slug": "bierain"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

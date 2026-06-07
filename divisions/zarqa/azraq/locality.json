@@ -1,0 +1,380 @@
+[
+  {
+    "id": "JOZAR_azraq_ain-el-baidha",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "عين البيضاء",
+      "en": "Ain El-Baidha",
+      "slug": "ain-el-baidha"
+    },
+    "code": {
+      "id": "JOZAR_azraq_ain-el-baidha",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_azraq",
+      "level": 2,
+      "name": {
+        "local": "الازرق",
+        "en": "Azraq",
+        "slug": "azraq"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_azraq",
+        "level": 2,
+        "name": {
+          "local": "الازرق",
+          "en": "Azraq",
+          "slug": "azraq"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_azraq_al-emirat-mrayjeeb-al-fhoud-camp",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "7659",
+      "en": "AL-Emirat (Mrayjeeb Al-fhoud) Camp*",
+      "slug": "al-emirat-mrayjeeb-al-fhoud-camp"
+    },
+    "code": {
+      "id": "JOZAR_azraq_al-emirat-mrayjeeb-al-fhoud-camp",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_azraq",
+      "level": 2,
+      "name": {
+        "local": "الازرق",
+        "en": "Azraq",
+        "slug": "azraq"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_azraq",
+        "level": 2,
+        "name": {
+          "local": "الازرق",
+          "en": "Azraq",
+          "slug": "azraq"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_azraq_azraq-al-mkhayzen-al-gharbeih-camp",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "مخيم الأزرق (المخيزن الغربية)",
+      "en": "Azraq  (AL-mkhayzen Al-gharbeih) Camp*",
+      "slug": "azraq-al-mkhayzen-al-gharbeih-camp"
+    },
+    "code": {
+      "id": "JOZAR_azraq_azraq-al-mkhayzen-al-gharbeih-camp",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_azraq",
+      "level": 2,
+      "name": {
+        "local": "الازرق",
+        "en": "Azraq",
+        "slug": "azraq"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_azraq",
+        "level": 2,
+        "name": {
+          "local": "الازرق",
+          "en": "Azraq",
+          "slug": "azraq"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_azraq_azraq-janoobi",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الازرق الجنوبي",
+      "en": "Azraq Janoobi",
+      "slug": "azraq-janoobi"
+    },
+    "code": {
+      "id": "JOZAR_azraq_azraq-janoobi",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_azraq",
+      "level": 2,
+      "name": {
+        "local": "الازرق",
+        "en": "Azraq",
+        "slug": "azraq"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_azraq",
+        "level": 2,
+        "name": {
+          "local": "الازرق",
+          "en": "Azraq",
+          "slug": "azraq"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_azraq_azraq-shamali",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "الازرق الشمالي",
+      "en": "Azraq Shamali",
+      "slug": "azraq-shamali"
+    },
+    "code": {
+      "id": "JOZAR_azraq_azraq-shamali",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_azraq",
+      "level": 2,
+      "name": {
+        "local": "الازرق",
+        "en": "Azraq",
+        "slug": "azraq"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_azraq",
+        "level": 2,
+        "name": {
+          "local": "الازرق",
+          "en": "Azraq",
+          "slug": "azraq"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_azraq_omari",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "العمري",
+      "en": "Omari",
+      "slug": "omari"
+    },
+    "code": {
+      "id": "JOZAR_azraq_omari",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_azraq",
+      "level": 2,
+      "name": {
+        "local": "الازرق",
+        "en": "Azraq",
+        "slug": "azraq"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_azraq",
+        "level": 2,
+        "name": {
+          "local": "الازرق",
+          "en": "Azraq",
+          "slug": "azraq"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "JOZAR_azraq_qaaedat-selah-aljawmoafaq-salti",
+    "level": 3,
+    "level_name": {
+      "local": "تجمع",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "قاعدة سلاح الجو (موفق السلطي)",
+      "en": "Qa'aedat Selah Aljaw(Moafaq Salti)",
+      "slug": "qaaedat-selah-aljawmoafaq-salti"
+    },
+    "code": {
+      "id": "JOZAR_azraq_qaaedat-selah-aljawmoafaq-salti",
+      "iso": null
+    },
+    "parent": {
+      "id": "JOZAR_azraq",
+      "level": 2,
+      "name": {
+        "local": "الازرق",
+        "en": "Azraq",
+        "slug": "azraq"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "JOZAR",
+        "level": 1,
+        "name": {
+          "local": "الزرقاء",
+          "en": "Zarqa",
+          "slug": "zarqa"
+        }
+      },
+      {
+        "id": "JOZAR_azraq",
+        "level": 2,
+        "name": {
+          "local": "الازرق",
+          "en": "Azraq",
+          "slug": "azraq"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "31.858",
+      "lon": "36.842"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]
