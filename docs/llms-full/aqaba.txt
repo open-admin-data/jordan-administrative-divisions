@@ -3,7 +3,7 @@
 > 6 municipalitys, 26 localitys
 > Code: JOAQA
 > Coordinates: 29.976, 35.347
-> Last updated: 2026-06-07. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Municipalitys
 

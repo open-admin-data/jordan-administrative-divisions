@@ -3,7 +3,7 @@
 > 11 municipalitys, 138 localitys
 > Code: JOAMM
 > Coordinates: 31.671, 36.447
-> Last updated: 2026-06-07. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Municipalitys
 

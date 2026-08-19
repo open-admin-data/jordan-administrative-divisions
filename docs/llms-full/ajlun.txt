@@ -3,7 +3,7 @@
 > 5 municipalitys, 0 localitys
 > Code: JOAJL
 > Coordinates: 32.294, 35.744
-> Last updated: 2026-06-07. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Municipalitys
 

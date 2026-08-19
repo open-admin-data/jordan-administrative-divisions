@@ -3,7 +3,7 @@
 > 10 municipalitys, 76 localitys
 > Code: JOBAL
 > Coordinates: 31.954, 35.704
-> Last updated: 2026-06-07. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Municipalitys
 
