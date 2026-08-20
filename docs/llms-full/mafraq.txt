@@ -3,7 +3,7 @@
 > 19 municipalitys, 145 localitys
 > Code: JOMAF
 > Coordinates: 32.54, 37.616
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Municipalitys
 

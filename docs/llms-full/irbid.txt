@@ -3,7 +3,7 @@
 > 19 municipalitys, 136 localitys
 > Code: JOIRB
 > Coordinates: 32.475, 35.814
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Municipalitys
 

@@ -12,9 +12,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-08-19 |
+| Last Updated | 2026-08-20 |
 | Website | [openadmindata.org/jo](https://openadmindata.org/jo/) |
 | API | [openadmindata.org/api/jo](https://openadmindata.org/api/jo/) |
+| Flag | [PNG](https://onlygames.me/flags-png/jo/) · [SVG](https://onlygames.me/flags-svg/jo/) · [PDF](https://onlygames.me/flags-pdf/jo/) |
 | National Anthem | [🎵 Listen & Download Jordan National Anthem MP3](https://onlygames.me/national-anthems/jo/) |
 
 ## Browse by Governorate

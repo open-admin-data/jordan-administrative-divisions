@@ -3,7 +3,7 @@
 > 4 municipalitys, 73 localitys
 > Code: JOMAD
 > Coordinates: 31.624, 35.671
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Municipalitys
 
